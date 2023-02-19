@@ -1,0 +1,42 @@
+[
+    {
+        "position": 0,
+	"name": "Mercury",
+	"image": "https://mrlem.org/api/planets/mercury/mercury.png"
+    },
+    {
+        "position": 1,
+	"name": "Venus",
+	"image": "https://mrlem.org/api/planets/venus/venus.png"
+    },
+    {
+        "position": 2,
+	"name": "Earth",
+	"image": "https://mrlem.org/api/planets/earth/earth.png"
+    },
+    {
+        "position": 3,
+	"name": "Mars",
+	"image": "https://mrlem.org/api/planets/mars/mars.png"
+    },
+    {
+        "position": 4,
+	"name": "Jupiter",
+	"image": "https://mrlem.org/api/planets/jupiter/jupiter.png"
+    },
+    {
+        "position": 5,
+	"name": "Saturn",
+	"image": "https://mrlem.org/api/planets/saturn/saturn.png"
+    },
+    {
+        "position": 6,
+	"name": "Uranus",
+	"image": "https://mrlem.org/api/planets/uranus/uranus.png"
+    },
+    {
+        "position": 7,
+	"name": "Neptune",
+	"image": "https://mrlem.org/api/planets/neptune/neptune.png"
+    }
+]

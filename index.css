@@ -1,0 +1,32 @@
+html, body, #columns, .container-fluid, .container-fluid > .row, .container-fluid > .row > * {
+    height: 100%;
+}
+
+header {
+    position: relative;
+}
+
+header > h1 {
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    top: 35%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 400%;
+}
+
+#columns {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+main > .container-fluid {
+    position: relative;
+}
+
+main > .container-fluid > .row > * {
+    padding-left: 64px;
+    padding-right: 64px;
+}

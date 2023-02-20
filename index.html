@@ -13,37 +13,44 @@
 
     <link rel="stylesheet" href="index.css">
   </head>
-  <body style="min-width: 1000px;">
+  <body>
 
     <div id="columns">
-        <div class="container-fluid" style="padding: 0;">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-3" style="background-color: #aaaa9955; min-width: 256px;"></div>
+                <div class="col-3 info"></div>
                 <div class="col-9"></div>
             </div>
         </div>
     </div>
 
     <header>
-        <svg  style="position: absolute; top: 8px; width: 100%; heoght: 320px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#99aa99" fill-opacity="0.2" d="M0,224L60,224C120,224,240,224,360,229.3C480,235,600,245,720,256C840,267,960,277,1080,277.3C1200,277,1320,267,1380,261.3L1440,256L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path></svg>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#99aa99" fill-opacity="1" d="M0,224L60,224C120,224,240,224,360,229.3C480,235,600,245,720,256C840,267,960,277,1080,277.3C1200,277,1320,267,1380,261.3L1440,256L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path></svg>
+        <image src="banner.svg" />
         <h1>mrlem.org</h1>
     </header>
 
     <main>
-        <div class="container-fluid" style="padding: 0;">
+        <div class="container-fluid">
             <div class="row">
-		<div class="col-3" style="text-align: center; min-width: 256px;">
+		<div class="col-3 info">
                     <img src="avatar_1024.png" width="25%" height="25%" />
 		    <p><strong>Sébastien Guillemin</strong></b>
 	            <p><em>Android developer @ Betclic</em></p>
 		    <p style="text-align: justify">Here you'll find pointers to some home-made tools I needed for a reason or another: hope you find anything useful.</p>
 		</div>
-                <div class="col-9">
+                <div class="col-3">
                     <h2>Services</h2>
 		    <ul>
                         <li>Static REST API: <a class="link-primary" href="api/planets/planets.json">planets</a></li>
                     </ul>
+		</div>
+                <div class="col-3">
+                    <h2>Pages</h2>
+		    <ul>
+                        <li>Static web page: <a class="link-primary" href="pages/gcm/index.html">GCM push</a></li>
+                    </ul>
+		</div>
+                <div class="col-3">
 		</div>
             </div>
         </div>

@@ -2,6 +2,10 @@ html, body, #columns, .container-fluid, .container-fluid > .row, .container-flui
     height: 100%;
 }
 
+body {
+    min-width: 1000px;
+}
+
 header {
     position: relative;
 }
@@ -20,6 +24,20 @@ header > h1 {
     position: absolute;
     top: 0;
     width: 100%;
+}
+
+* > .container-fluid {
+    padding: 0;
+}
+
+#columns .info {
+    background-color: #aaaa9955;
+    min-width: 256px;
+}
+
+main .info {
+    text-align: center;
+    min-width: 256px;
 }
 
 main > .container-fluid {

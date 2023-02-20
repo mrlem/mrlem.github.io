@@ -2,6 +2,19 @@ html, body, #columns, .container-fluid, .container-fluid > .row, .container-flui
     height: 100%;
 }
 
+.form-group {
+    padding-bottom: 8px;
+}
+
+.text-muted {
+    opacity: 0.3;
+}
+
+h1 > a {
+    text-decoration: none;
+    color: inherit;
+}
+
 body {
     min-width: 1000px;
 }

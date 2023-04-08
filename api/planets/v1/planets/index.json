@@ -1,0 +1,50 @@
+[
+    {
+        "position": 0,
+	"name": "Mercury",
+	"url": "/api/planets/v1/planets/mercury/",
+	"imageUrl": "/api/planets/v1/planets/mercury/mercury.png"
+    },
+    {
+        "position": 1,
+	"name": "Venus",
+	"url": "/api/planets/v1/planets/venus/",
+	"imageUrl": "/api/planets/v1/planets/venus/venus.png"
+    },
+    {
+        "position": 2,
+	"name": "Earth",
+	"url": "/api/planets/v1/planets/earth/",
+	"imageUrl": "/api/planets/v1/planets/earth/earth.png"
+    },
+    {
+        "position": 3,
+	"name": "Mars",
+	"url": "/api/planets/v1/planets/mars/",
+	"imageUrl": "/api/planets/v1/planets/mars/mars.png"
+    },
+    {
+        "position": 4,
+	"name": "Jupiter",
+	"url": "/api/planets/v1/planets/jupiter/",
+	"imageUrl": "/api/planets/v1/planets/jupiter/jupiter.png"
+    },
+    {
+        "position": 5,
+	"name": "Saturn",
+	"url": "/api/planets/v1/planets/saturn/",
+	"imageUrl": "/api/planets/v1/planets/saturn/saturn.png"
+    },
+    {
+        "position": 6,
+	"name": "Uranus",
+	"urlUrl": "/api/planets/v1/planets/uranus/",
+	"imageUrl": "/api/planets/v1/planets/uranus/uranus.png"
+    },
+    {
+        "position": 7,
+	"name": "Neptune",
+	"url": "/api/planets/v1/planets/neptune/",
+	"imageUrl": "/api/planets/v1/planets/neptune/neptune.png"
+    }
+]

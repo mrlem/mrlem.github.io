@@ -25,8 +25,8 @@ class Generator {
   {
     "position": $index,
 	"name": "${planet.name.capitalize()}",
-	"url": "/api/planets/v1/planets/${planet.name}/",
-	"imageUrl": "/api/planets/v1/planets/${planet.name}/${planet.name}.png"
+	"url": "https://mrlem.org/api/planets/v1/planets/${planet.name}/",
+	"imageUrl": "https://mrlem.org/api/planets/v1/planets/${planet.name}/${planet.name}.png"
   }"""
             }
             .joinToString(
@@ -40,7 +40,7 @@ class Generator {
         """{
   "position": $index,
   "name": "${name.capitalize()}",
-  "imageUrl": "/api/planets/v1/planets/$name/$name.png"
+  "imageUrl": "https://mrlem.org/api/planets/v1/planets/$name/$name.png"
 }"""
             .also { File("$outputDir/$name").mkdirs() }
             .let { text -> File("$outputDir/$name/index.json").writeText(text) }

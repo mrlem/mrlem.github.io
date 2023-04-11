@@ -1,0 +1,47 @@
+
+{
+  "name": "mollusca",
+  "children": [
+
+    {
+      "name": "Mollusca Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "bivalvia",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/"
+    }
+,
+    {
+      "name": "caudofoveata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/caudofoveata/"
+    }
+,
+    {
+      "name": "cephalopoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/cephalopoda/"
+    }
+,
+    {
+      "name": "gastropoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/"
+    }
+,
+    {
+      "name": "polyplacophora",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/polyplacophora/"
+    }
+,
+    {
+      "name": "scaphopoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/scaphopoda/"
+    }
+,
+    {
+      "name": "solenogastres",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/solenogastres/"
+    }
+
+  ]
+}

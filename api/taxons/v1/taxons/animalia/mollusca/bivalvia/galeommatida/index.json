@@ -1,0 +1,32 @@
+
+{
+  "name": "galeommatida",
+  "children": [
+
+    {
+      "name": "Galeommatida Lemer, Bieler & Giribet, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "basterotiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/galeommatida/basterotiidae/"
+    }
+,
+    {
+      "name": "galeommatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/galeommatida/galeommatidae/"
+    }
+,
+    {
+      "name": "Galeommatoidea J. E. Gray, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "lasaeidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/galeommatida/lasaeidae/"
+    }
+
+  ]
+}

@@ -1,0 +1,262 @@
+
+{
+  "name": "naididae",
+  "children": [
+
+    {
+      "name": "Naididae Ehrenberg, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "Tubificidae Vejdovský, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "branchiurinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/clitellata/haplotaxida/naididae/branchiurinae/"
+    }
+,
+    {
+      "name": "chaetogastrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/clitellata/haplotaxida/naididae/chaetogastrinae/"
+    }
+,
+    {
+      "name": "Allonais Sperber, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "Allonais inaequalis (Stephenson, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987144"
+    }
+,
+    {
+      "name": "Nais pectinata var. inaequalis Stephenson, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987145"
+    }
+,
+    {
+      "name": "Allonais paraguayensis (Michaelsen, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987146"
+    }
+,
+    {
+      "name": "Nais paraguayensis Michaelsen, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987147"
+    }
+,
+    {
+      "name": "Aulodrilus Bretscher, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Aulodrilus limnobius Bretscher, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240266"
+    }
+,
+    {
+      "name": "Homochaeta setosa (Moszynski, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240218"
+    }
+,
+    {
+      "name": "Paranais setosa Moszynski, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841103"
+    }
+,
+    {
+      "name": "Aulodrilus pigueti Kowalewski, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/740"
+    }
+,
+    {
+      "name": "Aulodrilus pluriseta (Piguet, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/741"
+    }
+,
+    {
+      "name": "Naidium pluriseta Piguet, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904267"
+    }
+,
+    {
+      "name": "Aulodrilus pluriseta pluriseta (Piguet, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252454"
+    }
+,
+    {
+      "name": "Bothrioneurum Stolc, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Bothrioneurum vejdovskyanum Štolc, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240278"
+    }
+,
+    {
+      "name": "Embolocephalus Randolph, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Embolocephalus velutinus (Grube, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240265"
+    }
+,
+    {
+      "name": "Peloscolex fontinalis Hrabĕ, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407255"
+    }
+,
+    {
+      "name": "Peloscolex velutinus (Grube, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/717015"
+    }
+,
+    {
+      "name": "Saenuris velutinus Grube, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955958"
+    }
+,
+    {
+      "name": "Tubifex sarnensis Pierantoni, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407254"
+    }
+,
+    {
+      "name": "Epirodrilus Hrabĕ, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Epirodrilus pygmaeus (Hrabĕ, 1935)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240276"
+    }
+,
+    {
+      "name": "Moraviodrilus pygmaeus Hrabĕ, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955959"
+    }
+,
+    {
+      "name": "Haber Holmquist, 1978",
+      "url": ""
+    }
+,
+    {
+      "name": "Haber pyrenaicus (Juget & Giani, 1974)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240262"
+    }
+,
+    {
+      "name": "Peloscolex pyrenaicus Juget & Giani, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955960"
+    }
+,
+    {
+      "name": "Haber speciosus (Hrabĕ, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240263"
+    }
+,
+    {
+      "name": "Peloscolex simsi Brinkhurst, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407253"
+    }
+,
+    {
+      "name": "Peloscolex zavreli Hrabĕ, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407252"
+    }
+,
+    {
+      "name": "Tubifex speciosus Hrabĕ, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955961"
+    }
+,
+    {
+      "name": "Haber turquinae (Juget & Lafont, 1979)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240264"
+    }
+,
+    {
+      "name": "Peloscolex turquinae Juget & Lafont, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904485"
+    }
+,
+    {
+      "name": "Krenedrilus Dumnicka, 1983",
+      "url": ""
+    }
+,
+    {
+      "name": "Krenedrilus sergei Giani, Erséus & Martinez-Ansemil, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240261"
+    }
+,
+    {
+      "name": "Peristodrilus Baker & Brinkhurst, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Peristodrilus montanus (Hrabĕ, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240275"
+    }
+,
+    {
+      "name": "Rhizodrilus montanus Hrabĕ, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955962"
+    }
+,
+    {
+      "name": "Quistadrilus Brinkhurst, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Quistadrilus multisetosus (Smith, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240248"
+    }
+,
+    {
+      "name": "Embolocephalus multisetosus Smith, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955963"
+    }
+,
+    {
+      "name": "Peloscolex moszynskii Kasprzak, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407241"
+    }
+,
+    {
+      "name": "limnodriloidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/clitellata/haplotaxida/naididae/limnodriloidinae/"
+    }
+,
+    {
+      "name": "naidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/clitellata/haplotaxida/naididae/naidinae/"
+    }
+,
+    {
+      "name": "phallodrilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/clitellata/haplotaxida/naididae/phallodrilinae/"
+    }
+,
+    {
+      "name": "rhyacodrilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/clitellata/haplotaxida/naididae/rhyacodrilinae/"
+    }
+,
+    {
+      "name": "tubificinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/clitellata/haplotaxida/naididae/tubificinae/"
+    }
+
+  ]
+}

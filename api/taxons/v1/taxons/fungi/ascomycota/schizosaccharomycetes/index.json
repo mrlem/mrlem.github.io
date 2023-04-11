@@ -1,0 +1,37 @@
+
+{
+  "name": "schizosaccharomycetes",
+  "children": [
+
+    {
+      "name": "Schizosaccharomycetes O.E.Erikss. & Winka, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "Schizosaccharomyces Lindner, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Schizosaccharomyces japonicus Yukawa & Maki, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/863006"
+    }
+,
+    {
+      "name": "Schizosaccharomyces malidevorans Rankine & Forn., 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/863007"
+    }
+,
+    {
+      "name": "Schizosaccharomyces pombe Lindner, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/863008"
+    }
+,
+    {
+      "name": "Schizosaccharomyces zambettakesii C.Ramírez, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/863009"
+    }
+
+  ]
+}

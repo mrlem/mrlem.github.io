@@ -1,0 +1,687 @@
+
+{
+  "name": "helopini",
+  "children": [
+
+    {
+      "name": "Helopini Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Cylindrinotina Español, 1956",
+      "url": ""
+    }
+,
+    {
+      "name": "Enoplopodina Reitter, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Helopina Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Accanthopus Dejean, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Enoplopus Solier, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Accanthopus velikensis (Piller & Mitterpacher, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794779"
+    }
+,
+    {
+      "name": "Accanthopus dentipes (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/798299"
+    }
+,
+    {
+      "name": "Enoplopus caraboides (Petagna, 1786)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699573"
+    }
+,
+    {
+      "name": "Enoplopus dentipes (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244639"
+    }
+,
+    {
+      "name": "Helops dentipes Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898953"
+    }
+,
+    {
+      "name": "Tenebrio velikensis Piller & Mitterpacher, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/894851"
+    }
+,
+    {
+      "name": "Catomus Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Catomus consentaneus (Küster, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244640"
+    }
+,
+    {
+      "name": "Helops consentaneus Küster, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802104"
+    }
+,
+    {
+      "name": "Catomus rotundicollis (Guérin-Méneville, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244641"
+    }
+,
+    {
+      "name": "Helops rotundicollis Guérin-Méneville, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802105"
+    }
+,
+    {
+      "name": "Catomus Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Catomidius Seidlitz, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Euboeus Boieldieu, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Probaticus Seidlitz, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Euboeus anthracinus (Germar, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/888206"
+    }
+,
+    {
+      "name": "Probaticus anthracinus (Germar, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244624"
+    }
+,
+    {
+      "name": "Relaps anthracinus Germar, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802111"
+    }
+,
+    {
+      "name": "Euboeus dieckii (Kraatz, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954762"
+    }
+,
+    {
+      "name": "Euboeus ebeninus (A. Villa & J.B. Villa, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911625"
+    }
+,
+    {
+      "name": "Probaticus ebeninus (A. Villa & J.B. Villa, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244625"
+    }
+,
+    {
+      "name": "Relaps ebeninus A. Villa & J.B. Villa, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802112"
+    }
+,
+    {
+      "name": "Euboeus ebeninus cassolai Ardoin, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911627"
+    }
+,
+    {
+      "name": "Probaticus ebeninus cassolai Ardoin, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/253236"
+    }
+,
+    {
+      "name": "Euboeus ebeninus ebeninus (A. Villa & J.B. Villa, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911626"
+    }
+,
+    {
+      "name": "Probaticus ebeninus ebeninus (A. Villa & J.B. Villa, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/339432"
+    }
+,
+    {
+      "name": "Euboeus laticollis (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911624"
+    }
+,
+    {
+      "name": "Probaticus laticollis (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244626"
+    }
+,
+    {
+      "name": "Relaps laticollis Küster, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802113"
+    }
+,
+    {
+      "name": "Euboeus superbus (Mulsant & Godart, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911623"
+    }
+,
+    {
+      "name": "Helops superbus Mulsant",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12035"
+    }
+,
+    {
+      "name": "Probaticus superbus (Mulsant & Godart, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244627"
+    }
+,
+    {
+      "name": "Relaps superbus Mulsant & Godart, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802110"
+    }
+,
+    {
+      "name": "Helopidoxus Reitter, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Pelorinus Vauloger de Beaupré, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Gunarus Gozis, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Gunarus parvulus (Lucas, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/339590"
+    }
+,
+    {
+      "name": "Helops parvulus Lucas, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802106"
+    }
+,
+    {
+      "name": "Helops Fabricius, 1775",
+      "url": ""
+    }
+,
+    {
+      "name": "Anteros Laporte de Castelnau, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Biomorphus Motschulsky, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Coscinoptilix Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypulus Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesohelops Reitter, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenotrichus LeConte, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Helops caeruleus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795241"
+    }
+,
+    {
+      "name": "Helops coeruleus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244638"
+    }
+,
+    {
+      "name": "Tenebrio caeruleus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802107"
+    }
+,
+    {
+      "name": "Helops caeruleus caeruleus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795621"
+    }
+,
+    {
+      "name": "Helops martinensis Marcuzzi, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780990"
+    }
+,
+    {
+      "name": "Helops rossii Germar, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12030"
+    }
+,
+    {
+      "name": "Helops Fabricius, 1775",
+      "url": ""
+    }
+,
+    {
+      "name": "Nalassus Mulsant, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Horistelops Gozis, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Helopondrus Reitter, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Nalassus abeillei (Seidlitz, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244629"
+    }
+,
+    {
+      "name": "Helops abeillei Seidlitz, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802090"
+    }
+,
+    {
+      "name": "Nalassus alpigradus (Fairmaire, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244630"
+    }
+,
+    {
+      "name": "Helops alpigradus Fairmaire, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802091"
+    }
+,
+    {
+      "name": "Nalassus assimilis (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244631"
+    }
+,
+    {
+      "name": "Helops assimilis Küster, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12033"
+    }
+,
+    {
+      "name": "Nalassus convexus (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244632"
+    }
+,
+    {
+      "name": "Helops convexus Comolli, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802092"
+    }
+,
+    {
+      "name": "Nalassus dryadophilus (Mulsant, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244633"
+    }
+,
+    {
+      "name": "Helops dryadophilus Mulsant, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802093"
+    }
+,
+    {
+      "name": "Nalassus ecoffeti (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244634"
+    }
+,
+    {
+      "name": "Helops ecoffeti Küster, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802094"
+    }
+,
+    {
+      "name": "Nalassus ecoffeti ecoffeti (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/253237"
+    }
+,
+    {
+      "name": "Nalassus ecoffeti schaeferi Ardoin, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/253238"
+    }
+,
+    {
+      "name": "Nalassus ecoffeti temperei Ardoin, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/253239"
+    }
+,
+    {
+      "name": "Nalassus genei (Gené, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244635"
+    }
+,
+    {
+      "name": "Helops genei Gené, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802095"
+    }
+,
+    {
+      "name": "Nalassus genei genei (Gené, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/253240"
+    }
+,
+    {
+      "name": "Nalassus harpaloides (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244636"
+    }
+,
+    {
+      "name": "Helops harpaloides Küster, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802096"
+    }
+,
+    {
+      "name": "Nalassus laevioctostriatus (Goeze, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244637"
+    }
+,
+    {
+      "name": "Helops laevioctostriatus Goze",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12025"
+    }
+,
+    {
+      "name": "Helops striatus (Geoffroy in Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951493"
+    }
+,
+    {
+      "name": "Tenebrio laevioctostriatus Goeze, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802097"
+    }
+,
+    {
+      "name": "Tenebrio striata Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951492"
+    }
+,
+    {
+      "name": "Nalassus Mulsant, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Helopocerodes Reitter, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Nephodinus Gebien, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Nephodinus metallescens (Küster, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244628"
+    }
+,
+    {
+      "name": "Relaps metallescens Küster, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802108"
+    }
+,
+    {
+      "name": "Nephodinus Gebien, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Nephodes Blanchard, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Nesotes Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Nesotes nigroaeneus (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699069"
+    }
+,
+    {
+      "name": "Nesotes nigroaenea (Küster, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/339503"
+    }
+,
+    {
+      "name": "Relaps nigroaeneus Küster, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802109"
+    }
+,
+    {
+      "name": "Nesotes Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Diastixus Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Gyrinodes Fauvel, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Odocnemis Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Odocnemis amandus (Reitter, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794778"
+    }
+,
+    {
+      "name": "Cylindronotus amandus Reitter, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802098"
+    }
+,
+    {
+      "name": "Odocnemis Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Homaleis Rye, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "Homalus Rye, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Isopedus Stein, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "Odontocnemis Rye, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Omaleis Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenohelops Reitter, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Helopelius Reitter, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenomaleis Español, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenohelops pyrenaeus (Mulsant, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244623"
+    }
+,
+    {
+      "name": "Helops pyrenoeus Mulsant, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718445"
+    }
+,
+    {
+      "name": "Relaps pyrenaeus Mulsant, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802114"
+    }
+,
+    {
+      "name": "Stenomax Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Pystelops Gozis, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Asyrmatus Canzoneri, 1959",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenomax aeneus (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244620"
+    }
+,
+    {
+      "name": "Stenomax lanipes (Linnaeus, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/8227"
+    }
+,
+    {
+      "name": "Tenebrio aeneus Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802101"
+    }
+,
+    {
+      "name": "Tenebrio lanipes Linnaeus, 1771",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989758"
+    }
+,
+    {
+      "name": "Stenomax aeneus aeneus (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/253235"
+    }
+,
+    {
+      "name": "Stenomax foudrasii (Mulsant, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/8226"
+    }
+,
+    {
+      "name": "Helops foudrasii Mulsant, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802099"
+    }
+,
+    {
+      "name": "Stenomax meridianus (Mulsant, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244621"
+    }
+,
+    {
+      "name": "Helops meridianus Mulsant, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802100"
+    }
+,
+    {
+      "name": "Stenomax piceus (J. Sturm, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244622"
+    }
+,
+    {
+      "name": "Helops piceus J. Sturm, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12029"
+    }
+,
+    {
+      "name": "Stenomax Allard, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Xanthomus Mulsant, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Xanthomus pallidus (Curtis, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244619"
+    }
+,
+    {
+      "name": "Helops pallidus Curtis, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802102"
+    }
+,
+    {
+      "name": "Xanthomus palludis ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/8258"
+    }
+,
+    {
+      "name": "Xanthomus pellucidus Mulsant & Rey, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/8259"
+    }
+,
+    {
+      "name": "Helops pellucidus Mulsant & Rey, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802103"
+    }
+
+  ]
+}

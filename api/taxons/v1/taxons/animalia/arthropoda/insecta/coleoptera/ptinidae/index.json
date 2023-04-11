@@ -1,0 +1,57 @@
+
+{
+  "name": "ptinidae",
+  "children": [
+
+    {
+      "name": "Ptinidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "anobiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/anobiinae/"
+    }
+,
+    {
+      "name": "dorcatominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/dorcatominae/"
+    }
+,
+    {
+      "name": "dryophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/dryophilinae/"
+    }
+,
+    {
+      "name": "ernobiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/ernobiinae/"
+    }
+,
+    {
+      "name": "eucradinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/eucradinae/"
+    }
+,
+    {
+      "name": "mesocoelopodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/mesocoelopodinae/"
+    }
+,
+    {
+      "name": "ptilininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/ptilininae/"
+    }
+,
+    {
+      "name": "ptininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/ptininae/"
+    }
+,
+    {
+      "name": "xyletininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/xyletininae/"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "paussinae",
+  "children": [
+
+    {
+      "name": "Paussinae Latreille, 1806",
+      "url": ""
+    }
+,
+    {
+      "name": "Paussidae Latreille, 1806",
+      "url": ""
+    }
+,
+    {
+      "name": "ozaenini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/carabidae/paussinae/ozaenini/"
+    }
+,
+    {
+      "name": "paussini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/carabidae/paussinae/paussini/"
+    }
+
+  ]
+}

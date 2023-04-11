@@ -1,0 +1,57 @@
+
+{
+  "name": "parachela",
+  "children": [
+
+    {
+      "name": "Parachela Schuster, Nelson, Grigarick & Christenberry, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "calohypsibiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/eutardigrada/parachela/calohypsibiidae/"
+    }
+,
+    {
+      "name": "hypsibiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/eutardigrada/parachela/hypsibiidae/"
+    }
+,
+    {
+      "name": "Hypsibioidea Pilato, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "isohypsibiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/eutardigrada/parachela/isohypsibiidae/"
+    }
+,
+    {
+      "name": "Isohypsibioidea Sands, McInnes, Marley, Goodall-Copestake, Convey & Linse, 2008",
+      "url": ""
+    }
+,
+    {
+      "name": "macrobiotidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/eutardigrada/parachela/macrobiotidae/"
+    }
+,
+    {
+      "name": "Macrobiotoidea Marley, McInnes & Sands, 2011",
+      "url": ""
+    }
+,
+    {
+      "name": "microhypsibiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/eutardigrada/parachela/microhypsibiidae/"
+    }
+,
+    {
+      "name": "murrayidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/eutardigrada/parachela/murrayidae/"
+    }
+
+  ]
+}

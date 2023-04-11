@@ -1,0 +1,242 @@
+
+{
+  "name": "glabratellidae",
+  "children": [
+
+    {
+      "name": "Glabratellidae Loeblich & Tappan, 1964",
+      "url": ""
+    }
+,
+    {
+      "name": "Angulodiscorbis Uchio, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Angulodiscorbis pyramidalis (Heron-Allen & Earland, 1924)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703134"
+    }
+,
+    {
+      "name": "Discorbina pyramidalis Heron-Allen & Earland, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966358"
+    }
+,
+    {
+      "name": "Angulodiscorbis tobagoensis McCulloch, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703136"
+    }
+,
+    {
+      "name": "Conorbella Hofker, 1951",
+      "url": ""
+    }
+,
+    {
+      "name": "Conorbella erecta (Sidebottom, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/382661"
+    }
+,
+    {
+      "name": "Discorbina erecta Sidebottom, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/575961"
+    }
+,
+    {
+      "name": "Glabratella erecta (Sidebottom, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/721204"
+    }
+,
+    {
+      "name": "Conorbella imperatoria (d'Orbigny, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/382662"
+    }
+,
+    {
+      "name": "Discorbina imperatoria (d'Orbigny, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568892"
+    }
+,
+    {
+      "name": "Robulina imperatoria d'Orbigny, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/573168"
+    }
+,
+    {
+      "name": "Schackoinella imperatoria (d'Orbigny, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924585"
+    }
+,
+    {
+      "name": "Conorbella pulvinata (Brady, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/382664"
+    }
+,
+    {
+      "name": "Discorbina pulvinata Brady, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581366"
+    }
+,
+    {
+      "name": "Discorbis pulvinatus (Brady, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689174"
+    }
+,
+    {
+      "name": "Glabratella pulvinata (Brady, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689173"
+    }
+,
+    {
+      "name": "Glabratella Dorreen, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "Glabratella globosa (Sidebottom, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712008"
+    }
+,
+    {
+      "name": "Pulvinulina globosa Sidebottom, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720839"
+    }
+,
+    {
+      "name": "Rosalina globosa (Sidebottom, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720840"
+    }
+,
+    {
+      "name": "Glabratella makinoi (Uchio, 1953)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/721205"
+    }
+,
+    {
+      "name": "Discorbis pulvinatus var. makinoi Uchio, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966360"
+    }
+,
+    {
+      "name": "Glabratella margaritaceus (Earland, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/702285"
+    }
+,
+    {
+      "name": "Discorbis margaritaceus Earland, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703549"
+    }
+,
+    {
+      "name": "Glabratellina Seiglie & Bermúdez, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Glabratellina duclozi Seiglie & Bermúdez, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/721202"
+    }
+,
+    {
+      "name": "Glabratella duclozi (Seiglie & Bermúdez, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/721203"
+    }
+,
+    {
+      "name": "Glabratellina kermadecensis Hayward, Grenfell, Reid & Hayward, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/702681"
+    }
+,
+    {
+      "name": "Glabratellina tabernacularis (Brady, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703281"
+    }
+,
+    {
+      "name": "Discorbina tabernacularis Brady, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703415"
+    }
+,
+    {
+      "name": "Discorbis tabernacularis (Brady, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703414"
+    }
+,
+    {
+      "name": "Glabratella tabernacularis (Brady, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/702977"
+    }
+,
+    {
+      "name": "Pileolina Bermúdez, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Pileolina haigi Parker, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/702558"
+    }
+,
+    {
+      "name": "Pileolina minogasaformis (Ujiié, 1992)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/702524"
+    }
+,
+    {
+      "name": "Discorbinoides minogasaformis Ujiié, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970315"
+    }
+,
+    {
+      "name": "Pileolina patelliformis (Brady, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670366"
+    }
+,
+    {
+      "name": "Conorbella patelliformis (Brady, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/382663"
+    }
+,
+    {
+      "name": "Discorbina patelliformis Brady, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687524"
+    }
+,
+    {
+      "name": "Discorbis patelliformis (Brady, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687522"
+    }
+,
+    {
+      "name": "Glabratella patelliformis (Brady, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687525"
+    }
+,
+    {
+      "name": "Neoconorbina patelliformis (Brady, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687523"
+    }
+,
+    {
+      "name": "Pileolina zealandica Vella, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/702286"
+    }
+,
+    {
+      "name": "Planoglabratella Seiglie & Bermúdez, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Planoglabratella opercularis (d'Orbigny, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/702682"
+    }
+,
+    {
+      "name": "Rosalina opercularis d'Orbigny, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703780"
+    }
+
+  ]
+}

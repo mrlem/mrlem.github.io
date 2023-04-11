@@ -1,0 +1,97 @@
+
+{
+  "name": "blattidae",
+  "children": [
+
+    {
+      "name": "Blattidae Latreille, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "blattinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/blattodea/blattidae/blattinae/"
+    }
+,
+    {
+      "name": "Blatta Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "Blatta concolor Serv., 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65780"
+    }
+,
+    {
+      "name": "Blatta orientalis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65785"
+    }
+,
+    {
+      "name": "Blatta perspicilaris Stephens, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65782"
+    }
+,
+    {
+      "name": "Henicotyle Rehn & Hebard, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Henicotyle antillarum (Brunner von Wattenwyl, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/638496"
+    }
+,
+    {
+      "name": "Stylopyga antillarum Brunner von Wattenwyl, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013659"
+    }
+,
+    {
+      "name": "Melanozosteria Stål, 1874",
+      "url": ""
+    }
+,
+    {
+      "name": "Cutilia Stål, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "Melanozosteria nitida (Brunner von Wattenwyl, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645780"
+    }
+,
+    {
+      "name": "Cutilia nitida (Brunner von Wattenwyl, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645779"
+    }
+,
+    {
+      "name": "Polyzosteria nitida Brunner von Wattenwyl, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013661"
+    }
+,
+    {
+      "name": "Melanozosteria soror (Brunner von Wattenwyl, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645464"
+    }
+,
+    {
+      "name": "Cutilia soror (Brunner von Wattenwyl, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589893"
+    }
+,
+    {
+      "name": "Polyzosteria soror Brunner von Wattenwyl, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970041"
+    }
+,
+    {
+      "name": "polyzosteriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/blattodea/blattidae/polyzosteriinae/"
+    }
+
+  ]
+}

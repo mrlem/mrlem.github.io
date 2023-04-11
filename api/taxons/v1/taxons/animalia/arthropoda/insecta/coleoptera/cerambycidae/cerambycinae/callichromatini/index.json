@@ -1,0 +1,232 @@
+
+{
+  "name": "callichromatini",
+  "children": [
+
+    {
+      "name": "Callichromatini Swainson, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Aromia Audinet-Serville, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Aromia moschata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12346"
+    }
+,
+    {
+      "name": "Cerambyx moschatus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802373"
+    }
+,
+    {
+      "name": "Aromia moschata moschata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251479"
+    }
+,
+    {
+      "name": "Aromia thea Reitter, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396443"
+    }
+,
+    {
+      "name": "Callichroma Latreille, 1816",
+      "url": ""
+    }
+,
+    {
+      "name": "Callichroma auricomum (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/597131"
+    }
+,
+    {
+      "name": "Cerambyx auricomus Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907192"
+    }
+,
+    {
+      "name": "Callichroma gounellei Achard, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/597132"
+    }
+,
+    {
+      "name": "Callichroma gounellei gounellei Achard, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761515"
+    }
+,
+    {
+      "name": "Callichroma velutinum (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/597133"
+    }
+,
+    {
+      "name": "Cerambyx velutinus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907193"
+    }
+,
+    {
+      "name": "Cnemidochroma Schmidt, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Cnemidochroma coeruleum (Achard, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757244"
+    }
+,
+    {
+      "name": "Callichroma coeruleum Achard, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907210"
+    }
+,
+    {
+      "name": "Mionochroma Schmidt, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Mionochroma aureotinctum (Bates, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/597134"
+    }
+,
+    {
+      "name": "Callichroma aureotinctum Bates, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907212"
+    }
+,
+    {
+      "name": "Mionochroma elegans (Olivier, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439066"
+    }
+,
+    {
+      "name": "Cerambyx elegans Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930822"
+    }
+,
+    {
+      "name": "Mionochroma guyanensis Juhel & Dalens, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852664"
+    }
+,
+    {
+      "name": "Mionochroma ocreatum (Bates, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757246"
+    }
+,
+    {
+      "name": "Callichroma ocreatum Bates, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907214"
+    }
+,
+    {
+      "name": "Mionochroma pseudovittatum (Schwarzer, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845601"
+    }
+,
+    {
+      "name": "Callichroma pseudovittatum Schwarzer, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907216"
+    }
+,
+    {
+      "name": "Mionochroma rufescens (Gahan, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439052"
+    }
+,
+    {
+      "name": "Callichroma rufescens Gahan, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933508"
+    }
+,
+    {
+      "name": "Mionochroma tavakiliani Juhel & Dalens, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845607"
+    }
+,
+    {
+      "name": "Mionochroma aurosum auct. non (Schmidt, 1924)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757245"
+    }
+,
+    {
+      "name": "Mionochroma vittatum (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/597135"
+    }
+,
+    {
+      "name": "Cerambyx vittatum Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907218"
+    }
+,
+    {
+      "name": "Philematium Thomson, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Philematium femorale (Olivier, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439067"
+    }
+,
+    {
+      "name": "Cerambyx femoralis Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933509"
+    }
+,
+    {
+      "name": "Philematium virens femorale (Olivier, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/710981"
+    }
+,
+    {
+      "name": "Philematium festum (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439132"
+    }
+,
+    {
+      "name": "Cerambyx festivus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933510"
+    }
+,
+    {
+      "name": "Philematium virens (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/710979"
+    }
+,
+    {
+      "name": "Cerambyx virens Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847453"
+    }
+,
+    {
+      "name": "Xystochroma Schmidt, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Xystochroma bouvieri (Gounelle, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852665"
+    }
+,
+    {
+      "name": "Callichroma bouvieri Gounelle, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907220"
+    }
+,
+    {
+      "name": "Xystochroma incomptum Napp & Martins, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852666"
+    }
+,
+    {
+      "name": "Xystochroma touroulti Juhel & Dalens, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845606"
+    }
+
+  ]
+}

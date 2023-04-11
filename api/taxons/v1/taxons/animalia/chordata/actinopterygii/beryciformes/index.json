@@ -1,0 +1,47 @@
+
+{
+  "name": "beryciformes",
+  "children": [
+
+    {
+      "name": "Beryciformes ",
+      "url": ""
+    }
+,
+    {
+      "name": "anomalopidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/beryciformes/anomalopidae/"
+    }
+,
+    {
+      "name": "anoplogastridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/beryciformes/anoplogastridae/"
+    }
+,
+    {
+      "name": "berycidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/beryciformes/berycidae/"
+    }
+,
+    {
+      "name": "diretmidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/beryciformes/diretmidae/"
+    }
+,
+    {
+      "name": "holocentridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/beryciformes/holocentridae/"
+    }
+,
+    {
+      "name": "monocentridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/beryciformes/monocentridae/"
+    }
+,
+    {
+      "name": "trachichthyidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/beryciformes/trachichthyidae/"
+    }
+
+  ]
+}

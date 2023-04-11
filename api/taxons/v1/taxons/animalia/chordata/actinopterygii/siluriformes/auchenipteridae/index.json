@@ -1,0 +1,22 @@
+
+{
+  "name": "auchenipteridae",
+  "children": [
+
+    {
+      "name": "Auchenipteridae Bleeker, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "auchenipterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/auchenipteridae/auchenipterinae/"
+    }
+,
+    {
+      "name": "centromochlinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/auchenipteridae/centromochlinae/"
+    }
+
+  ]
+}

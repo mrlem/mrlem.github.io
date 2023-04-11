@@ -1,0 +1,77 @@
+
+{
+  "name": "microsporidea",
+  "children": [
+
+    {
+      "name": "Microsporidea Corliss & Levine, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Microsporea Delphy, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Microsporidia Balbani, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Microsporidia Sprague, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "amblyosporida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/amblyosporida/"
+    }
+,
+    {
+      "name": "Duboscqiidae R.Sprague, 1977",
+      "url": ""
+    }
+,
+    {
+      "name": "Duboscqia C.Pérez, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Duboscqia legeri C.Pérez, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951677"
+    }
+,
+    {
+      "name": "Trichoduboscqia L.Léger, 1926",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichoduboscqia epeori L.Léger, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951015"
+    }
+,
+    {
+      "name": "glugeida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/glugeida/"
+    }
+,
+    {
+      "name": "Baculea Loubès & Akbarieh, 1978",
+      "url": ""
+    }
+,
+    {
+      "name": "Baculea daphniae Loubès & Akbarieh, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014934"
+    }
+,
+    {
+      "name": "nosematida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/nosematida/"
+    }
+
+  ]
+}

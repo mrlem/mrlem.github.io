@@ -1,0 +1,447 @@
+
+{
+  "name": "cytheruridae",
+  "children": [
+
+    {
+      "name": "Cytheruridae Müller, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Cytheropteron Sars, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Cytheropteron alatum Sars, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18251"
+    }
+,
+    {
+      "name": "Cytheropteron crassipinnatum Brady & Norman, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18252"
+    }
+,
+    {
+      "name": "Cytheropteron dorsocostatum Whatley & Masson, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361048"
+    }
+,
+    {
+      "name": "Cytheropteron hamatum Sars, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18253"
+    }
+,
+    {
+      "name": "Cytheropteron inornatum Brady & Robertson, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361066"
+    }
+,
+    {
+      "name": "Cytheropteron latissimum (Norman, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18254"
+    }
+,
+    {
+      "name": "Cytheropteron latum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18255"
+    }
+,
+    {
+      "name": "Cytheropteron punctatum Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18257"
+    }
+,
+    {
+      "name": "Cytheropteron rarum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18258"
+    }
+,
+    {
+      "name": "Cytheropteron rotundatum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18259"
+    }
+,
+    {
+      "name": "Cytheropteron subcircinatum Sars, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18260"
+    }
+,
+    {
+      "name": "Cytheropteron testudo Sars, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361062"
+    }
+,
+    {
+      "name": "Cytheropteron testuto ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18261"
+    }
+,
+    {
+      "name": "Cytherura Sars, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Cytherura gibba (Mueller, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/320988"
+    }
+,
+    {
+      "name": "Cytherura (Semicytherura) affinis Sars, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837282"
+    }
+,
+    {
+      "name": "Semicytherura affinis (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363679"
+    }
+,
+    {
+      "name": "Semicytherura Wagner, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "Eucytherura Mueller, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Eucytherura alata Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361493"
+    }
+,
+    {
+      "name": "Cytherura alata Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580541"
+    }
+,
+    {
+      "name": "Eucytherura binocula Allison & Holden, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891844"
+    }
+,
+    {
+      "name": "Eucytherura complexa (Brady, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17965"
+    }
+,
+    {
+      "name": "Hemicytherura Elofson, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemicytherura cellulosa (Norman, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18233"
+    }
+,
+    {
+      "name": "Cytherura cellulosa (Norman, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647551"
+    }
+,
+    {
+      "name": "Hemicytherura clathrata (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18234"
+    }
+,
+    {
+      "name": "Hemicytherura hoskini Horne, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361990"
+    }
+,
+    {
+      "name": "Hemicytherura videns (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18235"
+    }
+,
+    {
+      "name": "Microcytherura Mueller, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Microcytherura affinis Klie, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17985"
+    }
+,
+    {
+      "name": "Microcytherura angulosa (Seguenza, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362618"
+    }
+,
+    {
+      "name": "Microcytherura boulangei Rome, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647640"
+    }
+,
+    {
+      "name": "Microcytherura fulva (Brady & Robertson, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17986"
+    }
+,
+    {
+      "name": "Cytherura fulva Brady & Robertson, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18223"
+    }
+,
+    {
+      "name": "Microcytherura nigrescens Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17987"
+    }
+,
+    {
+      "name": "Oculocytheropteron Bate, 1972",
+      "url": ""
+    }
+,
+    {
+      "name": "Oculocytheropteron nodosum (Brady, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827246"
+    }
+,
+    {
+      "name": "Cytheropteron nodosum Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18256"
+    }
+,
+    {
+      "name": "Semicytherura Wagner, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "Semicytherura acuticostata (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18237"
+    }
+,
+    {
+      "name": "Semicytherura angulata (Brady, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18238"
+    }
+,
+    {
+      "name": "Semicytherura arcachonensis Yassini, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18239"
+    }
+,
+    {
+      "name": "Semicytherura areolata (Reys, 1961)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837271"
+    }
+,
+    {
+      "name": "Cytherura areolata Reys, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18219"
+    }
+,
+    {
+      "name": "Semicytherura cornuta Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363687"
+    }
+,
+    {
+      "name": "Semicytherura costata (Müller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363688"
+    }
+,
+    {
+      "name": "Cytherura costata Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18220"
+    }
+,
+    {
+      "name": "Semicytherura cribiformis (Müller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363695"
+    }
+,
+    {
+      "name": "Cytherura cribriformis Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18221"
+    }
+,
+    {
+      "name": "Semicytherura dispar (Müller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363683"
+    }
+,
+    {
+      "name": "Cytherura dispar Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18222"
+    }
+,
+    {
+      "name": "Semicytherura incongruens (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363686"
+    }
+,
+    {
+      "name": "Cytherura incongruens Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580543"
+    }
+,
+    {
+      "name": "Semicytherura neglecta (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781328"
+    }
+,
+    {
+      "name": "Cytherura neglecta Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18224"
+    }
+,
+    {
+      "name": "Semicytherura nigrescens (Baird, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18242"
+    }
+,
+    {
+      "name": "Semicytherura paradoxa (Müller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363684"
+    }
+,
+    {
+      "name": "Cytherura paradoxa Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580544"
+    }
+,
+    {
+      "name": "Semicytherura punctata (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18243"
+    }
+,
+    {
+      "name": "Cytherura punctata ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18226"
+    }
+,
+    {
+      "name": "Semicytherura quadraplana Allison & Holden, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891845"
+    }
+,
+    {
+      "name": "Semicytherura quadratovolatilis (Hartmann, 1953)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363702"
+    }
+,
+    {
+      "name": "Semicytherura quadridentata (Hartmann, 1953)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363703"
+    }
+,
+    {
+      "name": "Cytherura quadridentata Hartmann, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18227"
+    }
+,
+    {
+      "name": "Semicytherura rara (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363704"
+    }
+,
+    {
+      "name": "Cytherura rara Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18228"
+    }
+,
+    {
+      "name": "Semicytherura reticulata (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363705"
+    }
+,
+    {
+      "name": "Cytherura reticulata ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18229"
+    }
+,
+    {
+      "name": "Semicytherura sella (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18244"
+    }
+,
+    {
+      "name": "Cytherura sella ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18245"
+    }
+,
+    {
+      "name": "Semicytherura similis (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363691"
+    }
+,
+    {
+      "name": "Semicytherura simplex (Brady & Norman, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18248"
+    }
+,
+    {
+      "name": "Cytherura simplex Brady & Norman, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18249"
+    }
+,
+    {
+      "name": "Semicytherura striata (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18246"
+    }
+,
+    {
+      "name": "Semicytherura sulcata (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363709"
+    }
+,
+    {
+      "name": "Cytherura sulcata ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18230"
+    }
+,
+    {
+      "name": "Semicytherura tela Horne & Whittaker, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363710"
+    }
+,
+    {
+      "name": "Semicytherura undata (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18247"
+    }
+,
+    {
+      "name": "Semicytherura ventricosa (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363713"
+    }
+,
+    {
+      "name": "Cytherura ventricosa Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18231"
+    }
+,
+    {
+      "name": "Semicytherura acuticostata ventricosa (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/359592"
+    }
+,
+    {
+      "name": "Tetracytherura Ruggieri, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Tetracytherura angulosa (Seguenza, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18005"
+    }
+,
+    {
+      "name": "Cytheridea angulosa Seguenza, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579910"
+    }
+,
+    {
+      "name": "Loxocythere angulosa Seguenza, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579909"
+    }
+
+  ]
+}

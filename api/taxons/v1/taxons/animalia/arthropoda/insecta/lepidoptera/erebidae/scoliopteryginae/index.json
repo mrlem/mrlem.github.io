@@ -1,0 +1,22 @@
+
+{
+  "name": "scoliopteryginae",
+  "children": [
+
+    {
+      "name": "Scoliopteryginae Herrich-Schäffer, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "anomini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/erebidae/scoliopteryginae/anomini/"
+    }
+,
+    {
+      "name": "scoliopterygini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/erebidae/scoliopteryginae/scoliopterygini/"
+    }
+
+  ]
+}

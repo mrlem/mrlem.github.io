@@ -1,0 +1,32 @@
+
+{
+  "name": "stygnidae",
+  "children": [
+
+    {
+      "name": "Stygnidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "heterostygninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/opiliones/stygnidae/heterostygninae/"
+    }
+,
+    {
+      "name": "Stygnoplus ",
+      "url": ""
+    }
+,
+    {
+      "name": "Stygnoplus flavitarsis (Simon, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/638207"
+    }
+,
+    {
+      "name": "stygninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/opiliones/stygnidae/stygninae/"
+    }
+
+  ]
+}

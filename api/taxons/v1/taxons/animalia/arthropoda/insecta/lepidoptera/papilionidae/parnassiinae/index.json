@@ -1,0 +1,22 @@
+
+{
+  "name": "parnassiinae",
+  "children": [
+
+    {
+      "name": "Parnassiinae Duponchel, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "parnassiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/papilionidae/parnassiinae/parnassiini/"
+    }
+,
+    {
+      "name": "zerynthiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/papilionidae/parnassiinae/zerynthiini/"
+    }
+
+  ]
+}

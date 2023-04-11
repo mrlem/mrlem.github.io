@@ -1,0 +1,77 @@
+
+{
+  "name": "canacidae",
+  "children": [
+
+    {
+      "name": "Canacidae Jones, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Tethinidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "apetaeninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/canacidae/apetaeninae/"
+    }
+,
+    {
+      "name": "canacinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/canacidae/canacinae/"
+    }
+,
+    {
+      "name": "Afrotethina Munari, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Afrotethina aurisetulosa (Lamb, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964612"
+    }
+,
+    {
+      "name": "Tethina aurisetulosa Lamb, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964615"
+    }
+,
+    {
+      "name": "Nocticanace Malloch, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Nocticanace mahensis (Lamb, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989449"
+    }
+,
+    {
+      "name": "Canace mahensis Lamb, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989450"
+    }
+,
+    {
+      "name": "Nocticanace peculiaris Malloch, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645686"
+    }
+,
+    {
+      "name": "Nocticanace zimmermani Wirth, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776128"
+    }
+,
+    {
+      "name": "pelomyiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/canacidae/pelomyiinae/"
+    }
+,
+    {
+      "name": "tethininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/canacidae/tethininae/"
+    }
+
+  ]
+}

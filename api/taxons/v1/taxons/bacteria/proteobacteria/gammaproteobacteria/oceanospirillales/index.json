@@ -1,0 +1,62 @@
+
+{
+  "name": "oceanospirillales",
+  "children": [
+
+    {
+      "name": "Oceanospirillales Garrity, Bell & Lilburn, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "alcanivoracaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/alcanivoracaceae/"
+    }
+,
+    {
+      "name": "balneatrichaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/balneatrichaceae/"
+    }
+,
+    {
+      "name": "endozoicomonadaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/endozoicomonadaceae/"
+    }
+,
+    {
+      "name": "hahellaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/hahellaceae/"
+    }
+,
+    {
+      "name": "halomonadaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/halomonadaceae/"
+    }
+,
+    {
+      "name": "kangiellaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/kangiellaceae/"
+    }
+,
+    {
+      "name": "litoricolaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/litoricolaceae/"
+    }
+,
+    {
+      "name": "oceanospirillaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/oceanospirillaceae/"
+    }
+,
+    {
+      "name": "oleiphilaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/oleiphilaceae/"
+    }
+,
+    {
+      "name": "saccharospirillaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/gammaproteobacteria/oceanospirillales/saccharospirillaceae/"
+    }
+
+  ]
+}

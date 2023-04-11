@@ -1,0 +1,32 @@
+
+{
+  "name": "cryptocephalinae",
+  "children": [
+
+    {
+      "name": "Cryptocephalinae Gyllenhal, 1813",
+      "url": ""
+    }
+,
+    {
+      "name": "clytrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/cryptocephalinae/clytrini/"
+    }
+,
+    {
+      "name": "cryptocephalini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/cryptocephalinae/cryptocephalini/"
+    }
+,
+    {
+      "name": "fulcidacini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/cryptocephalinae/fulcidacini/"
+    }
+,
+    {
+      "name": "pachybrachini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/cryptocephalinae/pachybrachini/"
+    }
+
+  ]
+}

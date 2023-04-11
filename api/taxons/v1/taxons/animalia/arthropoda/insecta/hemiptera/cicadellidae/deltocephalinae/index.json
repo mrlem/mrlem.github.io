@@ -1,0 +1,27 @@
+
+{
+  "name": "deltocephalinae",
+  "children": [
+
+    {
+      "name": "Deltocephalinae Dallas, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "acinopterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/cicadellidae/deltocephalinae/acinopterini/"
+    }
+,
+    {
+      "name": "deltocephalini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/cicadellidae/deltocephalinae/deltocephalini/"
+    }
+,
+    {
+      "name": "pendarini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/cicadellidae/deltocephalinae/pendarini/"
+    }
+
+  ]
+}

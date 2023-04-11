@@ -1,0 +1,27 @@
+
+{
+  "name": "noterinae",
+  "children": [
+
+    {
+      "name": "Noterinae C.G. Thomson, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "neohydrocoptini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/noteridae/noterinae/neohydrocoptini/"
+    }
+,
+    {
+      "name": "noterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/noteridae/noterinae/noterini/"
+    }
+,
+    {
+      "name": "pronoterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/noteridae/noterinae/pronoterini/"
+    }
+
+  ]
+}

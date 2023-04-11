@@ -1,0 +1,67 @@
+
+{
+  "name": "chytridiomycota",
+  "children": [
+
+    {
+      "name": "Chytridiomycota Doweld, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "chytridiomycetes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/chytridiomycota/chytridiomycetes/"
+    }
+,
+    {
+      "name": "Chytridiomycotina Tedersoo, Sánchez-Ramírez, Kõljalg, Bahram, Döring, Schigel, T.May, M.Ryberg & Abarenkov, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Myrmicinosporidium Hölldobler, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Myrmicinosporidium durum Hölldobler, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963636"
+    }
+,
+    {
+      "name": "lobulomycetes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/chytridiomycota/lobulomycetes/"
+    }
+,
+    {
+      "name": "mesochytriomycetes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/chytridiomycota/mesochytriomycetes/"
+    }
+,
+    {
+      "name": "Nephridiophagales Doweld, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Nephridiophagaceae R.Radek, Letcher, Wijayaw., P.M.Kirk & K.D.Hyde, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Nephridiophaga Ivanić, 1937",
+      "url": ""
+    }
+,
+    {
+      "name": "Nephridiophaga blattellae (H.Crawley) P.Woolever, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017789"
+    }
+,
+    {
+      "name": "Coelosporidium blattellae H.Crawley, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017790"
+    }
+
+  ]
+}

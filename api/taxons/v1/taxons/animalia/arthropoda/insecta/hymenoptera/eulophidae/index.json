@@ -1,0 +1,82 @@
+
+{
+  "name": "eulophidae",
+  "children": [
+
+    {
+      "name": "Eulophidae Westwood, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "entedoninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eulophidae/entedoninae/"
+    }
+,
+    {
+      "name": "entiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eulophidae/entiinae/"
+    }
+,
+    {
+      "name": "eulophinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eulophidae/eulophinae/"
+    }
+,
+    {
+      "name": "Leptocybe Fisher & La Salle, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptocybe invasa Fisher & La Salle, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838900"
+    }
+,
+    {
+      "name": "Trisecodes Delvare & LaSalle, 2000",
+      "url": ""
+    }
+,
+    {
+      "name": "Trisecodes agromyzae Delvare & LaSalle, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649548"
+    }
+,
+    {
+      "name": "Zagrammosoma Ashmead, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Zagrammosoma crowei (Kerrich, 1969)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963957"
+    }
+,
+    {
+      "name": "Cirrospilus crowei Kerrich, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714502"
+    }
+,
+    {
+      "name": "Zagrammosoma talitzkii (Bouček, 1961)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976368"
+    }
+,
+    {
+      "name": "Cirrospilus talitzkii Bouček, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976369"
+    }
+,
+    {
+      "name": "opheliminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eulophidae/opheliminae/"
+    }
+,
+    {
+      "name": "tetrastichinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eulophidae/tetrastichinae/"
+    }
+
+  ]
+}

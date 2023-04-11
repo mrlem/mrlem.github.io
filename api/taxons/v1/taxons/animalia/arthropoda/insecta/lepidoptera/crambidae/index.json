@@ -1,0 +1,77 @@
+
+{
+  "name": "crambidae",
+  "children": [
+
+    {
+      "name": "Crambidae Latreille, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "acentropinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/acentropinae/"
+    }
+,
+    {
+      "name": "crambinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/crambinae/"
+    }
+,
+    {
+      "name": "cybalomiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/cybalomiinae/"
+    }
+,
+    {
+      "name": "glaphyriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/glaphyriinae/"
+    }
+,
+    {
+      "name": "heliothelinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/heliothelinae/"
+    }
+,
+    {
+      "name": "lathrotelinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/lathrotelinae/"
+    }
+,
+    {
+      "name": "midilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/midilinae/"
+    }
+,
+    {
+      "name": "musotiminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/musotiminae/"
+    }
+,
+    {
+      "name": "odontiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/odontiinae/"
+    }
+,
+    {
+      "name": "pyraustinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/pyraustinae/"
+    }
+,
+    {
+      "name": "schoenobiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/schoenobiinae/"
+    }
+,
+    {
+      "name": "scopariinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/scopariinae/"
+    }
+,
+    {
+      "name": "spilomelinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/crambidae/spilomelinae/"
+    }
+
+  ]
+}

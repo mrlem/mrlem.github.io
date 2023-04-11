@@ -1,0 +1,27 @@
+
+{
+  "name": "cyclophoridae",
+  "children": [
+
+    {
+      "name": "Cyclophoridae Gray, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "cyclophorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/architaenioglossa/cyclophoridae/cyclophorinae/"
+    }
+,
+    {
+      "name": "Madgeaconcha Griffiths & Florens, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Madgeaconcha gerlachi Griffiths & Florens, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/433214"
+    }
+
+  ]
+}

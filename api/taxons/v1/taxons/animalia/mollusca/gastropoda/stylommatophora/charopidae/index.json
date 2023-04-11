@@ -1,0 +1,22 @@
+
+{
+  "name": "charopidae",
+  "children": [
+
+    {
+      "name": "Charopidae Hutton, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "charopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/charopidae/charopinae/"
+    }
+,
+    {
+      "name": "trachycystinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/charopidae/trachycystinae/"
+    }
+
+  ]
+}

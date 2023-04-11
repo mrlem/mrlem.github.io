@@ -1,0 +1,22 @@
+
+{
+  "name": "tropidoderinae",
+  "children": [
+
+    {
+      "name": "Tropidoderinae Brunner von Wattenwyl, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "gigantophasmatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/phasmida/phasmatidae/tropidoderinae/gigantophasmatini/"
+    }
+,
+    {
+      "name": "monandropterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/phasmida/phasmatidae/tropidoderinae/monandropterini/"
+    }
+
+  ]
+}

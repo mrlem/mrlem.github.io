@@ -1,0 +1,502 @@
+
+{
+  "name": "rhyparochromini",
+  "children": [
+
+    {
+      "name": "Rhyparochromini Amyot & Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Aellopus Wolff, 1811",
+      "url": ""
+    }
+,
+    {
+      "name": "Aellopus atratus (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238177"
+    }
+,
+    {
+      "name": "Aphanus echii (Panzer, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006382"
+    }
+,
+    {
+      "name": "Cimex atratus Goeze, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006377"
+    }
+,
+    {
+      "name": "Lygaeus echii Panzer, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006380"
+    }
+,
+    {
+      "name": "Microtoma atrata (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974987"
+    }
+,
+    {
+      "name": "Beosus Amyot & Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Beosus flexuosus Montrouzier, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922060"
+    }
+,
+    {
+      "name": "Beosus laevicollis Montrouzier, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922059"
+    }
+,
+    {
+      "name": "Beosus maritimus (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/51716"
+    }
+,
+    {
+      "name": "Beosus luscus var. sphragmidium (Fieber, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899221"
+    }
+,
+    {
+      "name": "Beosus luscus (Fabricius, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895682"
+    }
+,
+    {
+      "name": "Beosus maritimus sphragadimium (Fieber, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899219"
+    }
+,
+    {
+      "name": "Cimex maritimus Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895684"
+    }
+,
+    {
+      "name": "Ischnotarsus sphragadimium Fieber, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899220"
+    }
+,
+    {
+      "name": "Lygaeus luscus Fabricius, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895683"
+    }
+,
+    {
+      "name": "Beosus quadripunctatus (Müller, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238176"
+    }
+,
+    {
+      "name": "Beosus erythropterus (Brullé, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937334"
+    }
+,
+    {
+      "name": "Dieuches Dohrn, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Dieuches armatipes (Walker, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238175"
+    }
+,
+    {
+      "name": "Dieuches lateralis Signoret, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847792"
+    }
+,
+    {
+      "name": "Dieuches placidus (Stål, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847793"
+    }
+,
+    {
+      "name": "Elasmolomus Stal, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Elasmolomus transversus (Signoret, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906160"
+    }
+,
+    {
+      "name": "Graptopeltus Stål, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Graptopeltus lynceus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238173"
+    }
+,
+    {
+      "name": "Aphanus lynceus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895462"
+    }
+,
+    {
+      "name": "Rhyparochromus lynceus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972873"
+    }
+,
+    {
+      "name": "Graptopeltus validus (Horváth, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238174"
+    }
+,
+    {
+      "name": "Microtomideus ",
+      "url": ""
+    }
+,
+    {
+      "name": "Microtomideus leucodermus (Fieber, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238172"
+    }
+,
+    {
+      "name": "Panaorus Kiritshenko, 1951",
+      "url": ""
+    }
+,
+    {
+      "name": "Panaorus adspersus (Mulsant & Rey, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238171"
+    }
+,
+    {
+      "name": "Aphanus adspersus (Mulsant & Rey, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895448"
+    }
+,
+    {
+      "name": "Pachymerus adspersus Mulsant & Rey, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895449"
+    }
+,
+    {
+      "name": "Peritrechus Fieber, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Peritrechus angusticollis (R.F. Sahlberg, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238167"
+    }
+,
+    {
+      "name": "Peritrechus geniculatus (Hahn, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238168"
+    }
+,
+    {
+      "name": "Lygaeus puncticeps Thomson, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010749"
+    }
+,
+    {
+      "name": "Pachymerus geniculatus Hahn, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010747"
+    }
+,
+    {
+      "name": "Peritrechus puncticeps (Thomson, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010748"
+    }
+,
+    {
+      "name": "Peritrechus gracilicornis Puton, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/51729"
+    }
+,
+    {
+      "name": "Peritrechus lundii (Gmelin, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238169"
+    }
+,
+    {
+      "name": "Cimex lundii Gmelin, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898467"
+    }
+,
+    {
+      "name": "Pachymerus luniger Schilling, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898469"
+    }
+,
+    {
+      "name": "Peritrechus luniger (Schilling, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898468"
+    }
+,
+    {
+      "name": "Peritrechus meridionalis Puton, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/51730"
+    }
+,
+    {
+      "name": "Peritrechus nubilus (Fallén, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238170"
+    }
+,
+    {
+      "name": "Lygaeus nubilus Fallén, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898470"
+    }
+,
+    {
+      "name": "Peritrechus nubilus tibialis Horvath, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898471"
+    }
+,
+    {
+      "name": "Raglius Stål, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Raglius alboacuminatus (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238163"
+    }
+,
+    {
+      "name": "Aphanus alboacuminatus (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895454"
+    }
+,
+    {
+      "name": "Aphanus funereus (Puton, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000756"
+    }
+,
+    {
+      "name": "Aphanus pedestris (Panzer, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895471"
+    }
+,
+    {
+      "name": "Cimex alboacuminatus Goeze, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895455"
+    }
+,
+    {
+      "name": "Pachymerus pedestris var. funerea Puton, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000757"
+    }
+,
+    {
+      "name": "Rhyparochromus alboacuminatus (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975233"
+    }
+,
+    {
+      "name": "Raglius alboacuminatus alboacuminatus (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939452"
+    }
+,
+    {
+      "name": "Raglius confusus (Reuter, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238164"
+    }
+,
+    {
+      "name": "Aphanus pineti var. confusus (Reuter, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895477"
+    }
+,
+    {
+      "name": "Pachymerus confusus Reuter, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895478"
+    }
+,
+    {
+      "name": "Rhyparochromus confusus (Reuter, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716367"
+    }
+,
+    {
+      "name": "Raglius pineti (Herrich-Schäffer, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238165"
+    }
+,
+    {
+      "name": "Aphanus pineti (Herrich-Schäffer, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895475"
+    }
+,
+    {
+      "name": "Pachymerus pineti Herrich-Schäffer, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895476"
+    }
+,
+    {
+      "name": "Rhyparochromus pineti (Herrich-Schäffer, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972925"
+    }
+,
+    {
+      "name": "Raglius tristis (Fieber, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238166"
+    }
+,
+    {
+      "name": "Rhyparochromus tristis Fieber, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845191"
+    }
+,
+    {
+      "name": "Rhyparochromus Hahn, 1826",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhyparochromus phoeniceus (Rossi, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238160"
+    }
+,
+    {
+      "name": "Rhyparochromus phoeniceus phoeniceus (Rossi, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970286"
+    }
+,
+    {
+      "name": "Rhyparochromus pini (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/51720"
+    }
+,
+    {
+      "name": "Aphanus pini (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820870"
+    }
+,
+    {
+      "name": "Cimex pini Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848950"
+    }
+,
+    {
+      "name": "Rhyparochromus sanguineus (Douglas & Scott, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238161"
+    }
+,
+    {
+      "name": "Rhyparochromus vulgaris (Schilling, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238162"
+    }
+,
+    {
+      "name": "Aphanus vulgaris (Schilling, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937347"
+    }
+,
+    {
+      "name": "Pachymerus vulgaris Schilling, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974998"
+    }
+,
+    {
+      "name": "Raglius vulgaris vulgaris (Schilling, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970287"
+    }
+,
+    {
+      "name": "Xanthochilus Stål, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Xanthochilus douglasi (Fieber, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238156"
+    }
+,
+    {
+      "name": "Beosus douglasi Fieber, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964392"
+    }
+,
+    {
+      "name": "Xanthochilus minusculus (Reuter, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238157"
+    }
+,
+    {
+      "name": "Aphanus reuteri (Horváth, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973232"
+    }
+,
+    {
+      "name": "Pachymerus minusculus Reuter, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964395"
+    }
+,
+    {
+      "name": "Rhyparochromus minusculus (Reuter, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716369"
+    }
+,
+    {
+      "name": "Xanthochilus quadratus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238158"
+    }
+,
+    {
+      "name": "Aphanus quadratus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001084"
+    }
+,
+    {
+      "name": "Lygaeus quadratus Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964393"
+    }
+,
+    {
+      "name": "Rhyparochromus brevirostris interruptus Wagner, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946382"
+    }
+,
+    {
+      "name": "Rhyparochromus quadratus quadratus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970284"
+    }
+,
+    {
+      "name": "Rhyparochromus quadratus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716371"
+    }
+,
+    {
+      "name": "Xanthochilus brevirostris (Ribaut, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937346"
+    }
+,
+    {
+      "name": "Xanthochilus saturnius (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238159"
+    }
+,
+    {
+      "name": "Aphanus saturnius (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938575"
+    }
+,
+    {
+      "name": "Cimex saturnius Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898959"
+    }
+,
+    {
+      "name": "Rhyparochromus saturnius (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716372"
+    }
+
+  ]
+}

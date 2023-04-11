@@ -1,0 +1,32 @@
+
+{
+  "name": "eucerinae",
+  "children": [
+
+    {
+      "name": "Eucerinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "emphorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/eucerinae/emphorini/"
+    }
+,
+    {
+      "name": "eucerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/eucerinae/eucerini/"
+    }
+,
+    {
+      "name": "exomalopsini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/eucerinae/exomalopsini/"
+    }
+,
+    {
+      "name": "tapinotaspidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/eucerinae/tapinotaspidini/"
+    }
+
+  ]
+}

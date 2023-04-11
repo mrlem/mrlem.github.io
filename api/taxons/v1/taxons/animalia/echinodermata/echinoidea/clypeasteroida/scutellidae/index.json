@@ -1,0 +1,32 @@
+
+{
+  "name": "scutellidae",
+  "children": [
+
+    {
+      "name": "Scutellidae Gray, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Scaphechinus A. Agassiz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Scaphechinus mirabilis A. Agassiz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/990502"
+    }
+,
+    {
+      "name": "Echinarachnius mirabilis (A. Agassiz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/990503"
+    }
+,
+    {
+      "name": "Scutella mirabilis (A. Agassiz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/990504"
+    }
+
+  ]
+}

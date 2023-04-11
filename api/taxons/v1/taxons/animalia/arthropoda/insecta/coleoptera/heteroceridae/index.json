@@ -1,0 +1,27 @@
+
+{
+  "name": "heteroceridae",
+  "children": [
+
+    {
+      "name": "Heteroceridae MacLeay, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "heterocerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/heteroceridae/heterocerinae/"
+    }
+,
+    {
+      "name": "Tropicus Pacheco, 1964",
+      "url": ""
+    }
+,
+    {
+      "name": "Tropicus arawak Bameul, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641124"
+    }
+
+  ]
+}

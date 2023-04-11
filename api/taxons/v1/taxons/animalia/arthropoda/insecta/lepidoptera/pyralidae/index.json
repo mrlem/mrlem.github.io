@@ -1,0 +1,47 @@
+
+{
+  "name": "pyralidae",
+  "children": [
+
+    {
+      "name": "Pyralidae Latreille, 1809",
+      "url": ""
+    }
+,
+    {
+      "name": "chrysauginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/chrysauginae/"
+    }
+,
+    {
+      "name": "epipaschiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/epipaschiinae/"
+    }
+,
+    {
+      "name": "galleriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/galleriinae/"
+    }
+,
+    {
+      "name": "Delcina Clarke, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Delcina diaspora Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776745"
+    }
+,
+    {
+      "name": "phycitinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/phycitinae/"
+    }
+,
+    {
+      "name": "pyralinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/pyralinae/"
+    }
+
+  ]
+}

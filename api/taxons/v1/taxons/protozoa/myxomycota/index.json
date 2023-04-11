@@ -1,0 +1,22 @@
+
+{
+  "name": "myxomycota",
+  "children": [
+
+    {
+      "name": "Myxomycota Traub, 1962",
+      "url": ""
+    }
+,
+    {
+      "name": "myxomycetes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/"
+    }
+,
+    {
+      "name": "protosteliomycetes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/protosteliomycetes/"
+    }
+
+  ]
+}

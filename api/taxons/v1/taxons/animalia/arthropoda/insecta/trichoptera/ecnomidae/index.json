@@ -1,0 +1,462 @@
+
+{
+  "name": "ecnomidae",
+  "children": [
+
+    {
+      "name": "Ecnomidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Agmina Ward & Schefter, 2000",
+      "url": ""
+    }
+,
+    {
+      "name": "Agmina acula Ward, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961014"
+    }
+,
+    {
+      "name": "Agmina amieuensis Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960990"
+    }
+,
+    {
+      "name": "Agmina amplexa Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960977"
+    }
+,
+    {
+      "name": "Agmina anterohamata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960995"
+    }
+,
+    {
+      "name": "Agmina arator Ward, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961021"
+    }
+,
+    {
+      "name": "Agmina artarima Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715260"
+    }
+,
+    {
+      "name": "Agmina berada Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715261"
+    }
+,
+    {
+      "name": "Agmina bimaculata Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715262"
+    }
+,
+    {
+      "name": "Agmina bleuensis Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961001"
+    }
+,
+    {
+      "name": "Agmina brevis Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961010"
+    }
+,
+    {
+      "name": "Agmina campanula Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960967"
+    }
+,
+    {
+      "name": "Agmina caraffa Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960978"
+    }
+,
+    {
+      "name": "Agmina cerritula Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960971"
+    }
+,
+    {
+      "name": "Agmina cheirella Ward, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961017"
+    }
+,
+    {
+      "name": "Agmina chela Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960974"
+    }
+,
+    {
+      "name": "Agmina christinae Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961009"
+    }
+,
+    {
+      "name": "Agmina circulata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960962"
+    }
+,
+    {
+      "name": "Agmina comata Ward, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961016"
+    }
+,
+    {
+      "name": "Agmina complexa Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960992"
+    }
+,
+    {
+      "name": "Agmina cornuta Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960960"
+    }
+,
+    {
+      "name": "Agmina cunicula Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960970"
+    }
+,
+    {
+      "name": "Agmina curvatacua Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960996"
+    }
+,
+    {
+      "name": "Agmina dathioensis Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960980"
+    }
+,
+    {
+      "name": "Agmina digitata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960963"
+    }
+,
+    {
+      "name": "Agmina diriwi Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715263"
+    }
+,
+    {
+      "name": "Agmina dognyensis Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960993"
+    }
+,
+    {
+      "name": "Agmina falx Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960986"
+    }
+,
+    {
+      "name": "Agmina guttata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960988"
+    }
+,
+    {
+      "name": "Agmina hamata Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715264"
+    }
+,
+    {
+      "name": "Agmina hastata Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715265"
+    }
+,
+    {
+      "name": "Agmina hexacantha Ward, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961022"
+    }
+,
+    {
+      "name": "Agmina hircina Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715266"
+    }
+,
+    {
+      "name": "Agmina hirta Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715267"
+    }
+,
+    {
+      "name": "Agmina jepiva Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715268"
+    }
+,
+    {
+      "name": "Agmina joycei Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715269"
+    }
+,
+    {
+      "name": "Agmina kapiwa Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715270"
+    }
+,
+    {
+      "name": "Agmina kara Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715271"
+    }
+,
+    {
+      "name": "Agmina kavinia (Ward & Schefter, 2000)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964292"
+    }
+,
+    {
+      "name": "Ecnomina kavinia Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715279"
+    }
+,
+    {
+      "name": "Agmina lata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960985"
+    }
+,
+    {
+      "name": "Agmina longicordata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960966"
+    }
+,
+    {
+      "name": "Agmina longispina Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960964"
+    }
+,
+    {
+      "name": "Agmina magnahamata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960965"
+    }
+,
+    {
+      "name": "Agmina mana Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960994"
+    }
+,
+    {
+      "name": "Agmina mariae Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890178"
+    }
+,
+    {
+      "name": "Agmina monstrosa Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960972"
+    }
+,
+    {
+      "name": "Agmina multidentata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960959"
+    }
+,
+    {
+      "name": "Agmina ninguana Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961011"
+    }
+,
+    {
+      "name": "Agmina nodosa Ward, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961018"
+    }
+,
+    {
+      "name": "Agmina padi Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715272"
+    }
+,
+    {
+      "name": "Agmina panda Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715273"
+    }
+,
+    {
+      "name": "Agmina parallela Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961008"
+    }
+,
+    {
+      "name": "Agmina parie Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715274"
+    }
+,
+    {
+      "name": "Agmina piscaria Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960975"
+    }
+,
+    {
+      "name": "Agmina pugnea Ward, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961024"
+    }
+,
+    {
+      "name": "Agmina rectangulata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960973"
+    }
+,
+    {
+      "name": "Agmina recurvata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960997"
+    }
+,
+    {
+      "name": "Agmina rhara Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715275"
+    }
+,
+    {
+      "name": "Agmina rocheta Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960957"
+    }
+,
+    {
+      "name": "Agmina rostrata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960979"
+    }
+,
+    {
+      "name": "Agmina rougensis Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960982"
+    }
+,
+    {
+      "name": "Agmina sagittata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960961"
+    }
+,
+    {
+      "name": "Agmina scopula Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961013"
+    }
+,
+    {
+      "name": "Agmina semicampanula Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960968"
+    }
+,
+    {
+      "name": "Agmina semiovale Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960956"
+    }
+,
+    {
+      "name": "Agmina spina Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960991"
+    }
+,
+    {
+      "name": "Agmina taoensis Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960998"
+    }
+,
+    {
+      "name": "Agmina tenuisa Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960958"
+    }
+,
+    {
+      "name": "Agmina touhoensis Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961003"
+    }
+,
+    {
+      "name": "Agmina triangulata Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960999"
+    }
+,
+    {
+      "name": "Agmina tridactyla Ward, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961023"
+    }
+,
+    {
+      "name": "Agmina tuberosa Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960955"
+    }
+,
+    {
+      "name": "Agmina urugi Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715276"
+    }
+,
+    {
+      "name": "Agmina viklundi Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960983"
+    }
+,
+    {
+      "name": "Agmina vuegi Ward & Schefter, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715277"
+    }
+,
+    {
+      "name": "Agmina wardi Espeland, Sjöberg & Johanson, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961004"
+    }
+,
+    {
+      "name": "Austrotinodes Schmid, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Austrotinodes madininae Botosaneanu, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/657646"
+    }
+,
+    {
+      "name": "Caledomina Johanson, 2011",
+      "url": ""
+    }
+,
+    {
+      "name": "Caledomina dorsospina Johanson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854112"
+    }
+,
+    {
+      "name": "Caledomina kohensis Johanson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854113"
+    }
+,
+    {
+      "name": "Caledomina noumea Johanson, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854110"
+    }
+,
+    {
+      "name": "Caledomina paniensis Johanson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854111"
+    }
+,
+    {
+      "name": "Ecnomus McLachlan, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Ecnomus deceptor McLachlan, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/232594"
+    }
+,
+    {
+      "name": "Ecnomus tenellus (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78987"
+    }
+,
+    {
+      "name": "Ecnomus falcatus Mosely, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/401904"
+    }
+,
+    {
+      "name": "Ecnomus omiensis Tsuda, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/401905"
+    }
+,
+    {
+      "name": "Philopotamus tenellus Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852058"
+    }
+
+  ]
+}

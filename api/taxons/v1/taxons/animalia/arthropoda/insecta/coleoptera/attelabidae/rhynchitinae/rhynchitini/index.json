@@ -1,0 +1,657 @@
+
+{
+  "name": "rhynchitini",
+  "children": [
+
+    {
+      "name": "Rhynchitini Gistel, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Involvulus Schrank, 1798",
+      "url": ""
+    }
+,
+    {
+      "name": "Involvulus caeruleus (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795248"
+    }
+,
+    {
+      "name": "Attelabus conicus Illiger, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407277"
+    }
+,
+    {
+      "name": "Curculio alliariae Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407276"
+    }
+,
+    {
+      "name": "Curculio caeruleus De Geer, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803000"
+    }
+,
+    {
+      "name": "Haplorhynchites caeruleus (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240312"
+    }
+,
+    {
+      "name": "Rhynchites caeruleus (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966154"
+    }
+,
+    {
+      "name": "Rhynchites coeruleus (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17492"
+    }
+,
+    {
+      "name": "Rhynchites conicus (Illiger, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790144"
+    }
+,
+    {
+      "name": "Rhynchites (Involvulus) coeruleus (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17493"
+    }
+,
+    {
+      "name": "Involvulus caeruleus caeruleus (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795724"
+    }
+,
+    {
+      "name": "Involvulus cupreus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240310"
+    }
+,
+    {
+      "name": "Curculio cupreus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802999"
+    }
+,
+    {
+      "name": "Involvulus metallicus Schrank, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407275"
+    }
+,
+    {
+      "name": "Rhynchites cupreus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17487"
+    }
+,
+    {
+      "name": "Rhynchites (Euvolvulus) cupreus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17488"
+    }
+,
+    {
+      "name": "Involvulus pubescens (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794866"
+    }
+,
+    {
+      "name": "Curculio pubescens Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803001"
+    }
+,
+    {
+      "name": "Haplorhynchites pubescens (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240311"
+    }
+,
+    {
+      "name": "Rhynchites (Involvulus) pubescens ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17500"
+    }
+,
+    {
+      "name": "Rhynchites pubescens Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17499"
+    }
+,
+    {
+      "name": "Involvulus Schrank, 1798",
+      "url": ""
+    }
+,
+    {
+      "name": "Teretriorhynchites Voss, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Lasiorhynchites Jekel, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Coccygorhynchites Prell, 1926",
+      "url": ""
+    }
+,
+    {
+      "name": "Lasiorhynchites caeruleocephalus (Schaller, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240308"
+    }
+,
+    {
+      "name": "Curculio caeruleocephalus Schaller, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803002"
+    }
+,
+    {
+      "name": "Lasiorhynchites coeruleocephalus (Schaller, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966152"
+    }
+,
+    {
+      "name": "Lasiorhynchites coruleocephalus (Schaller, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17547"
+    }
+,
+    {
+      "name": "Rhynchites coeruleocephalus (Schaller, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17548"
+    }
+,
+    {
+      "name": "Rhynchites (Lasiorhynchites) coeruleocephalus (Schaller, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17549"
+    }
+,
+    {
+      "name": "Lasiorhynchites cavifrons (Gyllenhal, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17555"
+    }
+,
+    {
+      "name": "Curculio betulae Gmelin, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951246"
+    }
+,
+    {
+      "name": "Curculio betulae Goeze, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951244"
+    }
+,
+    {
+      "name": "Rhinomacer viridis Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951245"
+    }
+,
+    {
+      "name": "Rhynchites cavifrons Gyllenhal, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17556"
+    }
+,
+    {
+      "name": "Rhynchites (Lasiorhynchites) cavifrons ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17557"
+    }
+,
+    {
+      "name": "Rhynchites pubescens Herbst, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951247"
+    }
+,
+    {
+      "name": "Lasiorhynchites olivaceus (Gyllenhal, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17560"
+    }
+,
+    {
+      "name": "Rhynchites (Lasiorhynchites) olivaceus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17562"
+    }
+,
+    {
+      "name": "Rhynchites olivaceus Gyllenhal, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17561"
+    }
+,
+    {
+      "name": "Lasiorhynchites praeustus (Boheman, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17551"
+    }
+,
+    {
+      "name": "Rhynchites praeustus Boheman, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17553"
+    }
+,
+    {
+      "name": "Lasiorhynchites sericeus (Herbst, 1797)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17567"
+    }
+,
+    {
+      "name": "Rhynchites sericeus Herbst, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17568"
+    }
+,
+    {
+      "name": "Lasiorhynchites Jekel, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Nelasiorhynchites Legalov, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenorhynchites Voss, 1932",
+      "url": ""
+    }
+,
+    {
+      "name": "Mecorhis Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "Mecorhis aethiops (Bach, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794853"
+    }
+,
+    {
+      "name": "Involvulus aethiops (Bach, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240309"
+    }
+,
+    {
+      "name": "Rhynchites aethiops Bach, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17503"
+    }
+,
+    {
+      "name": "Rhynchites (Merhynchites) aethiops ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17504"
+    }
+,
+    {
+      "name": "Pseudomechoris Legalov, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Neocoenorrhinus Voss, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Neocoenorhinidius Legalov, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Neocoenorrhinus abeillei (Desbrochers des Loges, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240302"
+    }
+,
+    {
+      "name": "Coenorhinus abeillei (Desbrochers des Loges, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17527"
+    }
+,
+    {
+      "name": "Rhynchites abeillei Desbrochers des Loges, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17528"
+    }
+,
+    {
+      "name": "Neocoenorrhinus germanicus (Herbst, 1797)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240305"
+    }
+,
+    {
+      "name": "Coenorhinus germanicus (Herbst, 1797)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17508"
+    }
+,
+    {
+      "name": "Rhynchites germanicus Herbst, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17509"
+    }
+,
+    {
+      "name": "Rhynchites (Coenorrhinus) germanicus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17510"
+    }
+,
+    {
+      "name": "Neocoenorrhinus interpunctatus (Stephens, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240306"
+    }
+,
+    {
+      "name": "Coenorhinus interpunctatus Stephens, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17517"
+    }
+,
+    {
+      "name": "Rhynchites (Coenorrhinus) interpunctatus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17519"
+    }
+,
+    {
+      "name": "Rhynchites interpunctatus Stephens, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17518"
+    }
+,
+    {
+      "name": "Neocoenorrhinus italicus (Voss, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794854"
+    }
+,
+    {
+      "name": "Caenorhinus italicus Voss, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803003"
+    }
+,
+    {
+      "name": "Neocoenorrhinus cribrum italicus (Voss, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/319036"
+    }
+,
+    {
+      "name": "Neocoenorrhinus minutus (Herbst, 1797)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794855"
+    }
+,
+    {
+      "name": "Coenorhinus aeneovirens (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17511"
+    }
+,
+    {
+      "name": "Curculio aeneovirens Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803005"
+    }
+,
+    {
+      "name": "Neocoenorrhinus aeneovirens (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240303"
+    }
+,
+    {
+      "name": "Rhynchites aeneovirens Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17512"
+    }
+,
+    {
+      "name": "Rhynchites (Coenorrhinus) aeneovirens ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17513"
+    }
+,
+    {
+      "name": "Rhynchites minutus Herbst, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803004"
+    }
+,
+    {
+      "name": "Neocoenorrhinus pauxillus (Germar, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240307"
+    }
+,
+    {
+      "name": "Coenorhinus pauxillus (Germar, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17530"
+    }
+,
+    {
+      "name": "Curculio alliariae Goeze, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951263"
+    }
+,
+    {
+      "name": "Curculio violaceus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951261"
+    }
+,
+    {
+      "name": "Rhinomacer caeruleus Geoffroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951265"
+    }
+,
+    {
+      "name": "Rhynchites (Coenorrhinus) pauxillus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17532"
+    }
+,
+    {
+      "name": "Rhynchites pauxillus Germar, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17531"
+    }
+,
+    {
+      "name": "Neocoenorrhinus Voss, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Schoenitemnus Legalov, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Reunionorhynchites Legalov, 2007",
+      "url": ""
+    }
+,
+    {
+      "name": "Reunionorhynchites viridissimus (Hustache, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848850"
+    }
+,
+    {
+      "name": "Rhynchites viridissimus Hustache, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711931"
+    }
+,
+    {
+      "name": "Rhodocyrtus Alonso-Zarazaga & Lyal, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhodocyrtus cribripennis (Desbrochers des Loges, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240301"
+    }
+,
+    {
+      "name": "Coenorhinus cribripennis (Desbrochers, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17543"
+    }
+,
+    {
+      "name": "Rhynchites cribripennis Desbrochers des Loges, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17544"
+    }
+,
+    {
+      "name": "Rhynchites ruber Schilsky, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407274"
+    }
+,
+    {
+      "name": "Rhynchites D.H. Schneider, 1791",
+      "url": ""
+    }
+,
+    {
+      "name": "Epirhynchites Voss, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhynchites auratus (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17481"
+    }
+,
+    {
+      "name": "Curculio auratus Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803006"
+    }
+,
+    {
+      "name": "Rhynchites (Rhynchites) auratus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17482"
+    }
+,
+    {
+      "name": "Rhynchites (Rhynchites) giganteus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17467"
+    }
+,
+    {
+      "name": "Rhynchites bacchus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17474"
+    }
+,
+    {
+      "name": "Curculio bacchus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803007"
+    }
+,
+    {
+      "name": "Rhynchites (Rhynchites) bacchus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17475"
+    }
+,
+    {
+      "name": "Rhynchites giganteus Krynicki, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17466"
+    }
+,
+    {
+      "name": "Rhynchites D.H. Schneider, 1791",
+      "url": ""
+    }
+,
+    {
+      "name": "Tatianaerhynchites Legalov, 2002",
+      "url": ""
+    }
+,
+    {
+      "name": "Tatianaerhynchites aequatus (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240300"
+    }
+,
+    {
+      "name": "Coenorhinus aequatus (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17536"
+    }
+,
+    {
+      "name": "Rhynchites aequatus Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17537"
+    }
+,
+    {
+      "name": "Rhynchites (Coenorrhinus) aequatus Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17538"
+    }
+,
+    {
+      "name": "Rhynchites ruber Fairmaire, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407273"
+    }
+,
+    {
+      "name": "Temnocerus Thunberg, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Temnocerus coeruleus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794867"
+    }
+,
+    {
+      "name": "Attelabus coeruleus Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803008"
+    }
+,
+    {
+      "name": "Pselaphorhynchites tomentosus (Gyllenhal, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17575"
+    }
+,
+    {
+      "name": "Rhynchites (Pselaporhynchites) tomentosus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17577"
+    }
+,
+    {
+      "name": "Rhynchites tomentosus Gyllenhal, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17576"
+    }
+,
+    {
+      "name": "Temnocerus tomentosus (Gyllenhal, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240299"
+    }
+,
+    {
+      "name": "Temnocerus longiceps (C.G. Thomson, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240297"
+    }
+,
+    {
+      "name": "Pselaphorhynchites longiceps (Thomson)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17583"
+    }
+,
+    {
+      "name": "Rhynchites (Pselaphorhynchites) longiceps ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17585"
+    }
+,
+    {
+      "name": "Rhynchites longiceps C.G. Thomson, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17584"
+    }
+,
+    {
+      "name": "Temnocerus nanus (Paykull, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240298"
+    }
+,
+    {
+      "name": "Attelabus planirostris Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407272"
+    }
+,
+    {
+      "name": "Curculio nanus Paykull, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803009"
+    }
+,
+    {
+      "name": "Pselaphorhynchites nanus (Paykull, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17587"
+    }
+,
+    {
+      "name": "Pselaphorynchites nanus (Paykull, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/887595"
+    }
+,
+    {
+      "name": "Rhynchites (Pselaphorhynchites) nanus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17589"
+    }
+,
+    {
+      "name": "Rhynchites nanus Paykull, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17588"
+    }
+
+  ]
+}

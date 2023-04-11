@@ -1,0 +1,37 @@
+
+{
+  "name": "syntrophaceae",
+  "children": [
+
+    {
+      "name": "Syntrophaceae Kuever, Rainey & Widdel, 2006",
+      "url": ""
+    }
+,
+    {
+      "name": "Desulfobacca Oude Elferink, Akkermans-van Vliet, Bogte & Stams, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Desulfobacca acetoxidans Oude Elferink, Akkermans-van Vliet, Bogte & Stams, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952810"
+    }
+,
+    {
+      "name": "Desulfomonile DeWeerd, Mandelco, Tanner, Woese & Suflita, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Desulfomonile limimaris Sun, Cole & Tiedje, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952816"
+    }
+,
+    {
+      "name": "Desulfomonile tiedjei DeWeerd, Mandelco, Tanner, Woese & Suflita, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952817"
+    }
+
+  ]
+}

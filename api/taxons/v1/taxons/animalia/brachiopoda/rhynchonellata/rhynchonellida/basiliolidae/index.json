@@ -1,0 +1,27 @@
+
+{
+  "name": "basiliolidae",
+  "children": [
+
+    {
+      "name": "Basiliolidae Cooper, 1959",
+      "url": ""
+    }
+,
+    {
+      "name": "basiliolinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/brachiopoda/rhynchonellata/rhynchonellida/basiliolidae/basiliolinae/"
+    }
+,
+    {
+      "name": "Striarina Cooper, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Striarina valdiviae (Helmcke, 1940)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838050"
+    }
+
+  ]
+}

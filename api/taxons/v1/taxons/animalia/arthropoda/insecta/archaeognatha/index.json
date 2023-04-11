@@ -1,0 +1,27 @@
+
+{
+  "name": "archaeognatha",
+  "children": [
+
+    {
+      "name": "Archaeognatha Börner, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Microcoryphia ",
+      "url": ""
+    }
+,
+    {
+      "name": "machilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/archaeognatha/machilidae/"
+    }
+,
+    {
+      "name": "meinertellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/archaeognatha/meinertellidae/"
+    }
+
+  ]
+}

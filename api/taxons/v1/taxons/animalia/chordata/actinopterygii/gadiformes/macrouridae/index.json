@@ -1,0 +1,32 @@
+
+{
+  "name": "macrouridae",
+  "children": [
+
+    {
+      "name": "Macrouridae Bonaparte, 1831",
+      "url": ""
+    }
+,
+    {
+      "name": "bathygadinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/gadiformes/macrouridae/bathygadinae/"
+    }
+,
+    {
+      "name": "macrourinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/gadiformes/macrouridae/macrourinae/"
+    }
+,
+    {
+      "name": "macrouroidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/gadiformes/macrouridae/macrouroidinae/"
+    }
+,
+    {
+      "name": "trachyrincinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/gadiformes/macrouridae/trachyrincinae/"
+    }
+
+  ]
+}

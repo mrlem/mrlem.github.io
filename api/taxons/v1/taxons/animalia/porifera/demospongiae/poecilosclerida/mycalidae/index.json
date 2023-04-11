@@ -1,0 +1,937 @@
+
+{
+  "name": "mycalidae",
+  "children": [
+
+    {
+      "name": "Mycalidae Lundbeck, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycale Gray, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Aegogropila Gray, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Esperella Vosmaer, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Esperia Nardo, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Anomomycale Topsent, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycale acerata Kirkpatrick, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961103"
+    }
+,
+    {
+      "name": "Mycale acerata minor Hentschel, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961102"
+    }
+,
+    {
+      "name": "Mycale (Oxymycale) acerata Kirkpatrick, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815730"
+    }
+,
+    {
+      "name": "Oxymycale acerata (Kirkpatrick, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816055"
+    }
+,
+    {
+      "name": "Mycale fibrosa Boury-Esnault & van Beveren, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812164"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) americana van Soest, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783414"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) arndti van Soest, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653460"
+    }
+,
+    {
+      "name": "Mycale arndti van Soest, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688887"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) carmigropila Hajdu & Rützler, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783412"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) citrina Hajdu & Rützler, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845874"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) contarenii (Lieberkühn, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544042"
+    }
+,
+    {
+      "name": "Aegogropila varians Gray, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549771"
+    }
+,
+    {
+      "name": "Desmacidon copiosa Bowerbank, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548151"
+    }
+,
+    {
+      "name": "Esperella aegagropila (Johnston, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552709"
+    }
+,
+    {
+      "name": "Esperella bacillaria (Schmidt, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547737"
+    }
+,
+    {
+      "name": "Esperia aegagropila (Johnston, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552706"
+    }
+,
+    {
+      "name": "Esperia bacillaria Schmidt, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/573732"
+    }
+,
+    {
+      "name": "Esperia bauriana Schmidt, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547739"
+    }
+,
+    {
+      "name": "Esperia contareni var. flava Czerniavsky, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550178"
+    }
+,
+    {
+      "name": "Esperia contareni var. pontica Czerniavsky, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550179"
+    }
+,
+    {
+      "name": "Esperia contarenii (Lieberkühn, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549962"
+    }
+,
+    {
+      "name": "Esperia foraminosa var. dura Czerniavsky, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388237"
+    }
+,
+    {
+      "name": "Esperia foraminosa var. pontica Czerniavsky, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388238"
+    }
+,
+    {
+      "name": "Esperia foraminosa Schmidt, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388000"
+    }
+,
+    {
+      "name": "Esperia irregularis Czerniavsky, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388004"
+    }
+,
+    {
+      "name": "Esperia modesta Schmidt, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547741"
+    }
+,
+    {
+      "name": "Esperia typus Nardo, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547745"
+    }
+,
+    {
+      "name": "Halichondria aegagropila Johnston, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547913"
+    }
+,
+    {
+      "name": "Halichondria contarenii Lieberkühn, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681211"
+    }
+,
+    {
+      "name": "Mycale aegagropila (Johnston, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549986"
+    }
+,
+    {
+      "name": "Mycale contareni var. flava (Czerniavsky, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/384033"
+    }
+,
+    {
+      "name": "Mycale contareni var. pontica (Czerniavsky, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/384034"
+    }
+,
+    {
+      "name": "Mycale contareni (Lieberkühn, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362743"
+    }
+,
+    {
+      "name": "Mycale contarenii (Lieberkühn, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71278"
+    }
+,
+    {
+      "name": "Mycale foraminosa var. dura (Czerniavsky, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/384031"
+    }
+,
+    {
+      "name": "Mycale foraminosa var. pontica (Czerniavsky, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/384032"
+    }
+,
+    {
+      "name": "Mycale foraminosa (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362736"
+    }
+,
+    {
+      "name": "Mycale irregularis (Czerniavsky, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362744"
+    }
+,
+    {
+      "name": "Mycale microchaela Ferrer-Hernandez, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548017"
+    }
+,
+    {
+      "name": "Mycale modesta (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/575647"
+    }
+,
+    {
+      "name": "Spongia contarenii Martens, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550020"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) rotalis (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544045"
+    }
+,
+    {
+      "name": "Desmacidon rotalis Bowerbank, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71289"
+    }
+,
+    {
+      "name": "Mycale rotalis (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71288"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) syrinx (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544046"
+    }
+,
+    {
+      "name": "Esperia lorenzii Schmidt, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388006"
+    }
+,
+    {
+      "name": "Esperia syrinx Schmidt, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388012"
+    }
+,
+    {
+      "name": "Mycale syrinx (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71285"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) tunicata (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544047"
+    }
+,
+    {
+      "name": "Esperia bowerbankii Schmidt, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/387996"
+    }
+,
+    {
+      "name": "Esperia nodosa Schmidt, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547742"
+    }
+,
+    {
+      "name": "Esperia tuberosa Schmidt, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388013"
+    }
+,
+    {
+      "name": "Esperia tunicata Schmidt, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388014"
+    }
+,
+    {
+      "name": "Mycale bowerbanki (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362733"
+    }
+,
+    {
+      "name": "Mycale tuberosa (Schmidt, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362754"
+    }
+,
+    {
+      "name": "Mycale tunicata (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71283"
+    }
+,
+    {
+      "name": "Mycale (Anomomycale) titubans (Schmidt, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544048"
+    }
+,
+    {
+      "name": "Desmacidon titubans Schmidt, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361118"
+    }
+,
+    {
+      "name": "Mycale titubans (Schmidt, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362759"
+    }
+,
+    {
+      "name": "Mycale (Arenochalina) laxissima (Duchassaing & Michelotti, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653507"
+    }
+,
+    {
+      "name": "Acamas laxissima Duchassaing & Michelotti, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687299"
+    }
+,
+    {
+      "name": "Acamasina laxissima Duchassaing & Michelotti, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687293"
+    }
+,
+    {
+      "name": "Esperella nuda Ridley & Dendy, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687300"
+    }
+,
+    {
+      "name": "Hircinia cartilaginea var. horrida Hyatt, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687294"
+    }
+,
+    {
+      "name": "Hircinia horrida Hyatt, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687301"
+    }
+,
+    {
+      "name": "Hircinia purpurea Whitfield, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687302"
+    }
+,
+    {
+      "name": "Mycale angulosa sensu De Laubenfels, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687297"
+    }
+,
+    {
+      "name": "Mycale hyatti Pulitzer-Finali, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687303"
+    }
+,
+    {
+      "name": "Mycale jamaicaensis Pulitzer-Finali, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687304"
+    }
+,
+    {
+      "name": "Mycale laxissima (Duchassaing & Michelotti, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687296"
+    }
+,
+    {
+      "name": "Mycale mucifluens Pulitzer-Finali, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687305"
+    }
+,
+    {
+      "name": "Mycale whitfieldi Pulitzer-Finali, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687306"
+    }
+,
+    {
+      "name": "Strongylacidon horridum (Hyatt, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687298"
+    }
+,
+    {
+      "name": "Thorecta horrida (Hyatt, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687295"
+    }
+,
+    {
+      "name": "Mycale (Arenochalina) Lendenfeld, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycale (Carmia) macilenta (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544052"
+    }
+,
+    {
+      "name": "Esperella floreum (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552742"
+    }
+,
+    {
+      "name": "Esperella hamata Topsent, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/381680"
+    }
+,
+    {
+      "name": "Esperella macilenta (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552743"
+    }
+,
+    {
+      "name": "Esperia macilenta (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/585377"
+    }
+,
+    {
+      "name": "Hymeniacidon floreum Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/387804"
+    }
+,
+    {
+      "name": "Hymeniacidon macilenta Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71287"
+    }
+,
+    {
+      "name": "Mycale hamata (Topsent, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362737"
+    }
+,
+    {
+      "name": "Mycale macilenta (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71286"
+    }
+,
+    {
+      "name": "Raphiodesma fallaciosum Bowerbank, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549822"
+    }
+,
+    {
+      "name": "Rhaphiodesma floreum (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552741"
+    }
+,
+    {
+      "name": "Mycale (Carmia) magnirhaphidifera van Soest, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783410"
+    }
+,
+    {
+      "name": "Mycale (Carmia) micracanthoxea Buizer & van Soest, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544053"
+    }
+,
+    {
+      "name": "Mycale micracanthoxea Buizer & van Soest, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362745"
+    }
+,
+    {
+      "name": "Mycale (Carmia) microsigmatosa Arndt, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653462"
+    }
+,
+    {
+      "name": "Mycale fistulata var. microsigmatosa Arndt, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688888"
+    }
+,
+    {
+      "name": "Mycale microsigmatosa Arndt, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688889"
+    }
+,
+    {
+      "name": "Mycale (Carmia) minima (Waller, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544054"
+    }
+,
+    {
+      "name": "Esperella littoralis Topsent, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547738"
+    }
+,
+    {
+      "name": "Mycale littoralis (Topsent, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552744"
+    }
+,
+    {
+      "name": "Mycale minima (Waller, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71296"
+    }
+,
+    {
+      "name": "Raphiodesma minima Waller, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372184"
+    }
+,
+    {
+      "name": "Rhaphiodesma minima Waller, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549862"
+    }
+,
+    {
+      "name": "Mycale (Carmia) monomicrosclera Van Soest, Aryasari & De Voogd, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998945"
+    }
+,
+    {
+      "name": "Mycale (Carmia) sanguinea Tsurnamal, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544056"
+    }
+,
+    {
+      "name": "Mycale sanguinea Tsurnamal, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71301"
+    }
+,
+    {
+      "name": "Mycale (Carmia) subclavata (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544057"
+    }
+,
+    {
+      "name": "Esperella albicans Topsent, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/381679"
+    }
+,
+    {
+      "name": "Esperella mollis Topsent, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/381678"
+    }
+,
+    {
+      "name": "Esperella sordida (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552745"
+    }
+,
+    {
+      "name": "Hymeniacidon subclavata Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548161"
+    }
+,
+    {
+      "name": "Mycale albicans (Topsent, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362731"
+    }
+,
+    {
+      "name": "Mycale mollis (Topsent, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362749"
+    }
+,
+    {
+      "name": "Mycale similaris (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71290"
+    }
+,
+    {
+      "name": "Mycale subclavata (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552746"
+    }
+,
+    {
+      "name": "Raphiodesma similaris (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372183"
+    }
+,
+    {
+      "name": "Raphiodesma sordida Bowerbank, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71291"
+    }
+,
+    {
+      "name": "Rhaphiodesma similaris (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549863"
+    }
+,
+    {
+      "name": "Rhaphiodesma sordida Bowerbank, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549864"
+    }
+,
+    {
+      "name": "Mycale (Carmia) Gray, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycale (Kerasemna) Pulitzer-Finali, 1982",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycale (Mycale) bouryesnaultae Van Soest, Aryasari & De Voogd, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998948"
+    }
+,
+    {
+      "name": "Mycale (Mycale) grandis Gray, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726936"
+    }
+,
+    {
+      "name": "Mycale (Mycale) laevis (Carter, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653463"
+    }
+,
+    {
+      "name": "Esperia laevis Carter, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688891"
+    }
+,
+    {
+      "name": "Mycale laevis (Carter, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688890"
+    }
+,
+    {
+      "name": "Oxymycale strongylata Pulitzer-Finali, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688892"
+    }
+,
+    {
+      "name": "Mycale (Mycale) lingua (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544059"
+    }
+,
+    {
+      "name": "Desmacidon constrictus Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548150"
+    }
+,
+    {
+      "name": "Esperella lingua (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552748"
+    }
+,
+    {
+      "name": "Esperella vosmaeri Levinsen, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/381677"
+    }
+,
+    {
+      "name": "Esperia constricta (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/573745"
+    }
+,
+    {
+      "name": "Esperia lingua (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552747"
+    }
+,
+    {
+      "name": "Esperia lucifera Schmidt, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547740"
+    }
+,
+    {
+      "name": "Esperia placoides Carter, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547743"
+    }
+,
+    {
+      "name": "Hymeniacidon lingua Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548160"
+    }
+,
+    {
+      "name": "Mycale lingua (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71282"
+    }
+,
+    {
+      "name": "Mycale placoides (Carter, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546981"
+    }
+,
+    {
+      "name": "Mycale vosmaeri (Levinsen, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362760"
+    }
+,
+    {
+      "name": "Raphioderma coacervata Bowerbank in Norman, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549821"
+    }
+,
+    {
+      "name": "Raphiodesma lingua (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372185"
+    }
+,
+    {
+      "name": "Mycale (Mycale) myriasclera Lévi & Lévi, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644408"
+    }
+,
+    {
+      "name": "Mycale myriasclera Lévi & Lévi, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683887"
+    }
+,
+    {
+      "name": "Mycale (Paresperella) dentata Sarà, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544065"
+    }
+,
+    {
+      "name": "Mycale dentata Sarà, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71300"
+    }
+,
+    {
+      "name": "Mycale (Paresperella) serrulata Sarà & Siribelli, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544066"
+    }
+,
+    {
+      "name": "Mycale serrulata Sarà & Siribelli, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71299"
+    }
+,
+    {
+      "name": "Mycale (Zygomycale) angulosa (Duchassaing & Michelotti, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783411"
+    }
+,
+    {
+      "name": "Mycale (Zygomycale) Topsent, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycale incurvata Lévi, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644407"
+    }
+,
+    {
+      "name": "Mycale magellanica (Ridley, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816009"
+    }
+,
+    {
+      "name": "Esperia magellanica Ridley, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816010"
+    }
+,
+    {
+      "name": "Oxymycale magellanica (Ridley, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843023"
+    }
+,
+    {
+      "name": "Mycale mammiformis (Ridley & Dendy, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/991618"
+    }
+,
+    {
+      "name": "Esperella mammiformis Ridley & Dendy, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/991620"
+    }
+,
+    {
+      "name": "Mycale massa (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71284"
+    }
+,
+    {
+      "name": "Esperella massa (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/585862"
+    }
+,
+    {
+      "name": "Esperia borassus Carter, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/387995"
+    }
+,
+    {
+      "name": "Esperia massa Schmidt, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388008"
+    }
+,
+    {
+      "name": "Mycale borassus (Carter, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362734"
+    }
+,
+    {
+      "name": "Mycale (Mycale) massa (Schmidt, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544062"
+    }
+,
+    {
+      "name": "Mycale monomicrosclera Van Soest, Aryasari & De Voogd, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/991619"
+    }
+,
+    {
+      "name": "Mycale parishii (Bowerbank, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644689"
+    }
+,
+    {
+      "name": "Esperella ridleyi var. intermedia Lendenfeld, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683742"
+    }
+,
+    {
+      "name": "Esperella ridleyi var. robusta Lendenfeld, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683743"
+    }
+,
+    {
+      "name": "Esperella ridleyi Lendenfeld, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683744"
+    }
+,
+    {
+      "name": "Esperia plumosa Carter, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683745"
+    }
+,
+    {
+      "name": "Mycale isochela Hentschel, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683747"
+    }
+,
+    {
+      "name": "Raphiodesma parishi Bowerbank, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683746"
+    }
+,
+    {
+      "name": "Rhaphiodesma parishii Bowerbank, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683740"
+    }
+,
+    {
+      "name": "Zygomycale parishii (Bowerbank, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683739"
+    }
+,
+    {
+      "name": "Zygomycale plumosa (Carter, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683741"
+    }
+,
+    {
+      "name": "Mycale retifera Topsent, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71298"
+    }
+,
+    {
+      "name": "Mycale (Aegogropila) retifera Topsent, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544044"
+    }
+,
+    {
+      "name": "Mycale tenuityla (Pulitzer-Finali, 1982)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/991623"
+    }
+,
+    {
+      "name": "Kerasemna tenuityla Pulitzer-Finali, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/991624"
+    }
+,
+    {
+      "name": "Mycale (Arenochalina) tenuityla (Pulitzer-Finali, 1982)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/991625"
+    }
+,
+    {
+      "name": "Mycale Gray, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Protoesperia Czerniavsky, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Raphiodesma Bowerbank, 1874",
+      "url": ""
+    }
+,
+    {
+      "name": "Paresperella Dendy, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Phlyctaenopora Topsent, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Phlyctaenopora (Barbozia) bocagei Lévi & Lévi, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644690"
+    }
+,
+    {
+      "name": "Phlyctaenopora bocagei Lévi & Lévi, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683748"
+    }
+,
+    {
+      "name": "Phlyctaenopora (Barbozia) Dendy, 1922",
+      "url": ""
+    }
+
+  ]
+}

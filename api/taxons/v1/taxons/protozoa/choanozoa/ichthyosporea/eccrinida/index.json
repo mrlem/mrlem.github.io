@@ -1,0 +1,27 @@
+
+{
+  "name": "eccrinida",
+  "children": [
+
+    {
+      "name": "Eccrinida Léger & Duboscq, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "amoebidiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/choanozoa/ichthyosporea/eccrinida/amoebidiidae/"
+    }
+,
+    {
+      "name": "eccriniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/choanozoa/ichthyosporea/eccrinida/eccriniidae/"
+    }
+,
+    {
+      "name": "Trichomycina Cavalier-Smith, 2012",
+      "url": ""
+    }
+
+  ]
+}

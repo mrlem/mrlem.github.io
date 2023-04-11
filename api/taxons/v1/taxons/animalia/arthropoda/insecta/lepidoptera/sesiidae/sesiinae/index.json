@@ -1,0 +1,32 @@
+
+{
+  "name": "sesiinae",
+  "children": [
+
+    {
+      "name": "Sesiinae Boisduval, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "melittiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sesiidae/sesiinae/melittiini/"
+    }
+,
+    {
+      "name": "paranthrenini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sesiidae/sesiinae/paranthrenini/"
+    }
+,
+    {
+      "name": "sesiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sesiidae/sesiinae/sesiini/"
+    }
+,
+    {
+      "name": "synanthedonini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sesiidae/sesiinae/synanthedonini/"
+    }
+
+  ]
+}

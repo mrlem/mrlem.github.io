@@ -1,0 +1,427 @@
+
+{
+  "name": "elateridae",
+  "children": [
+
+    {
+      "name": "Elateridae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "agrypninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/agrypninae/"
+    }
+,
+    {
+      "name": "cardiophorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/cardiophorinae/"
+    }
+,
+    {
+      "name": "cebrioninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/cebrioninae/"
+    }
+,
+    {
+      "name": "dendrometrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/dendrometrinae/"
+    }
+,
+    {
+      "name": "elaterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/elaterinae/"
+    }
+,
+    {
+      "name": "hypnoidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/hypnoidinae/"
+    }
+,
+    {
+      "name": "Adelocera Latreille in Cuvier, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Adelocera lata (Candèze, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933795"
+    }
+,
+    {
+      "name": "Lacon latus Candèze, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933796"
+    }
+,
+    {
+      "name": "Aeoloides Schwarz, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Aeoloides senex (Candèze, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853643"
+    }
+,
+    {
+      "name": "Heteroderes senex Candèze, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853645"
+    }
+,
+    {
+      "name": "Aphanopenthes Fleutiaux, 1932",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphanopenthes acutipennis (Germar, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705102"
+    }
+,
+    {
+      "name": "Aphanobius acutipennis Germar, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933725"
+    }
+,
+    {
+      "name": "Aphanopenthes vanus (Germar, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705103"
+    }
+,
+    {
+      "name": "Aphanobius vanus Germar, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933726"
+    }
+,
+    {
+      "name": "Cardiotarsus Eschscholtz, 1836",
+      "url": ""
+    }
+,
+    {
+      "name": "Cardiotarsus brunneicollis (Erichson, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705095"
+    }
+,
+    {
+      "name": "Cardiophorus brunneicollis Erichson, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933727"
+    }
+,
+    {
+      "name": "Cardiotarsus luridipes Fairmaire, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814047"
+    }
+,
+    {
+      "name": "Hypolithus ",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypolithus bicolor Eschscholtz, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780709"
+    }
+,
+    {
+      "name": "Lanelater Arnett, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Lanelater fuscipes (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705086"
+    }
+,
+    {
+      "name": "Agrypnus fuscipes (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933792"
+    }
+,
+    {
+      "name": "Elater fuscipes Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933728"
+    }
+,
+    {
+      "name": "Melanoxanthus Eschscholtz, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Pacificola Van Zwaluwenburg, 1932",
+      "url": ""
+    }
+,
+    {
+      "name": "Melanoxanthus adamsoni (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775761"
+    }
+,
+    {
+      "name": "Pacificola adamsoni Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645229"
+    }
+,
+    {
+      "name": "Melanoxanthus bellus (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775762"
+    }
+,
+    {
+      "name": "Pacificola bella Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645225"
+    }
+,
+    {
+      "name": "Melanoxanthus caledonicus (Fleutiaux, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849951"
+    }
+,
+    {
+      "name": "Megapenthes caledonicus Fleutiaux, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849952"
+    }
+,
+    {
+      "name": "Melanoxanthus contractus (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775763"
+    }
+,
+    {
+      "name": "Pacificola contracta Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645221"
+    }
+,
+    {
+      "name": "Melanoxanthus convexus (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775764"
+    }
+,
+    {
+      "name": "Pacificola convexa Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645224"
+    }
+,
+    {
+      "name": "Melanoxanthus fasciatus (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775765"
+    }
+,
+    {
+      "name": "Pacificola fasciata Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645230"
+    }
+,
+    {
+      "name": "Melanoxanthus gourvesi Chassain, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776445"
+    }
+,
+    {
+      "name": "Melanoxanthus gourvesi gourvesi Chassain, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778172"
+    }
+,
+    {
+      "name": "Melanoxanthus gourvesi mahinensis Chassain, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778173"
+    }
+,
+    {
+      "name": "Melanoxanthus grandis (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775766"
+    }
+,
+    {
+      "name": "Pacificola grandis Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645227"
+    }
+,
+    {
+      "name": "Melanoxanthus hermosus (Van Zwaluwenburg, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775767"
+    }
+,
+    {
+      "name": "Pacificola hermosa Van Zwaluwenburg, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933730"
+    }
+,
+    {
+      "name": "Melanoxanthus instabilis (Fairmaire, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775768"
+    }
+,
+    {
+      "name": "Oophorus instabilis Fairmaire, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933731"
+    }
+,
+    {
+      "name": "Melanoxanthus insularis (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775769"
+    }
+,
+    {
+      "name": "Pacificola insularis Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645219"
+    }
+,
+    {
+      "name": "Melanoxanthus melanocephalus (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705097"
+    }
+,
+    {
+      "name": "Elater melanocephalus Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911204"
+    }
+,
+    {
+      "name": "Melanoxanthus montanus (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775770"
+    }
+,
+    {
+      "name": "Pacificola montana Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645228"
+    }
+,
+    {
+      "name": "Melanoxanthus mumfordi (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775771"
+    }
+,
+    {
+      "name": "Pacificola mumfordi Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645223"
+    }
+,
+    {
+      "name": "Melanoxanthus nanus (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775772"
+    }
+,
+    {
+      "name": "Pacificola nana Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645226"
+    }
+,
+    {
+      "name": "Melanoxanthus obscurus (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775773"
+    }
+,
+    {
+      "name": "Pacificola obscura Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645220"
+    }
+,
+    {
+      "name": "Melanoxanthus paeninsularis Chassain, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775774"
+    }
+,
+    {
+      "name": "Melanoxanthus remotus (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775775"
+    }
+,
+    {
+      "name": "Pacificola remota Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645231"
+    }
+,
+    {
+      "name": "Melanoxanthus rotundicollis (Fleutiaux, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849958"
+    }
+,
+    {
+      "name": "Megapenthes rotundicollis (Fleutiaux, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964791"
+    }
+,
+    {
+      "name": "Pyrophorus rotundicollis Fleutiaux, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849959"
+    }
+,
+    {
+      "name": "Melanoxanthus silvestris (Van Zwaluwenburg, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775776"
+    }
+,
+    {
+      "name": "Pacificola silvestris Van Zwaluwenburg, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645222"
+    }
+,
+    {
+      "name": "Propsephus Hyslop, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Propsephus aenescens (Blair, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775777"
+    }
+,
+    {
+      "name": "Psephus aenescens Blair, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933736"
+    }
+,
+    {
+      "name": "Propsephus bucculatus (Candèze, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814045"
+    }
+,
+    {
+      "name": "Psephus bucculatus Candèze, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814046"
+    }
+,
+    {
+      "name": "Psellis Candèze, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Psellis promiscua (Erichson, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705122"
+    }
+,
+    {
+      "name": "Cratonychus promiscuus Erichson, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933809"
+    }
+,
+    {
+      "name": "lissominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/lissominae/"
+    }
+,
+    {
+      "name": "negastriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/negastriinae/"
+    }
+,
+    {
+      "name": "semiotinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/semiotinae/"
+    }
+,
+    {
+      "name": "subprotelaterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/subprotelaterinae/"
+    }
+,
+    {
+      "name": "thylacosterninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/thylacosterninae/"
+    }
+
+  ]
+}

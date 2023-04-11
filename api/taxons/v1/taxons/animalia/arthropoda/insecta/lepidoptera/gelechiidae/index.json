@@ -1,0 +1,42 @@
+
+{
+  "name": "gelechiidae",
+  "children": [
+
+    {
+      "name": "Gelechiidae Stainton, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "anacampsinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/gelechiidae/anacampsinae/"
+    }
+,
+    {
+      "name": "anomologinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/gelechiidae/anomologinae/"
+    }
+,
+    {
+      "name": "apatetrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/gelechiidae/apatetrinae/"
+    }
+,
+    {
+      "name": "dichomeridinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/gelechiidae/dichomeridinae/"
+    }
+,
+    {
+      "name": "gelechiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/gelechiidae/gelechiinae/"
+    }
+,
+    {
+      "name": "thiotrichinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/gelechiidae/thiotrichinae/"
+    }
+
+  ]
+}

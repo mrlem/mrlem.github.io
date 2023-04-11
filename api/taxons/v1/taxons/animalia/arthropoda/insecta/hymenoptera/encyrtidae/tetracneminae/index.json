@@ -1,0 +1,637 @@
+
+{
+  "name": "tetracneminae",
+  "children": [
+
+    {
+      "name": "Tetracneminae Howard, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Aenasius Walker, 1846",
+      "url": ""
+    }
+,
+    {
+      "name": "Aenasius advena Compere, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964925"
+    }
+,
+    {
+      "name": "Aenasius flandersi Kerrich, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259921"
+    }
+,
+    {
+      "name": "Aenasius phenacocci (Ashmead, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989618"
+    }
+,
+    {
+      "name": "Aenasius vexans Kerrich, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440089"
+    }
+,
+    {
+      "name": "Anagyrus Howard, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Anagyrus adamsoni Timberlake, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440095"
+    }
+,
+    {
+      "name": "Anagyrus amnestos Rameshkumar, Noyes & Poorani, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013347"
+    }
+,
+    {
+      "name": "Anagyrus belibus (Walker, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218132"
+    }
+,
+    {
+      "name": "Anagyrus arene (Walker, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390096"
+    }
+,
+    {
+      "name": "Anagyrus barca Walker, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390097"
+    }
+,
+    {
+      "name": "Anagyrus dores Walker, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390098"
+    }
+,
+    {
+      "name": "Anagyrus elpis Walker, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390099"
+    }
+,
+    {
+      "name": "Anagyrus integralis Mercet, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390100"
+    }
+,
+    {
+      "name": "Anagyrus mamertus Walker, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390101"
+    }
+,
+    {
+      "name": "Anagyrus pseudococci Alam, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390102"
+    }
+,
+    {
+      "name": "Anagyrus scyles Walker, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390103"
+    }
+,
+    {
+      "name": "Anagyrus varleyellus Ghesquière, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390104"
+    }
+,
+    {
+      "name": "Encyrtus arene Walker, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989722"
+    }
+,
+    {
+      "name": "Anagyrus bohemanni (Westwood, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218133"
+    }
+,
+    {
+      "name": "Anagyrus mayri Ruschka, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390105"
+    }
+,
+    {
+      "name": "Anagyrus quercicola Mercet, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390106"
+    }
+,
+    {
+      "name": "Anagyrus singularis Hoffer, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390107"
+    }
+,
+    {
+      "name": "Anagyrus dactylopii (Howard, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013370"
+    }
+,
+    {
+      "name": "Aphycus dactylopii Howard, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013363"
+    }
+,
+    {
+      "name": "Anagyrus diversicornis (Howard, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649533"
+    }
+,
+    {
+      "name": "Apoanagyrus diversicornis (Howard, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989619"
+    }
+,
+    {
+      "name": "Copidosoma diversicornis Howard, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918113"
+    }
+,
+    {
+      "name": "Anagyrus flaviceps Timberlake, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440096"
+    }
+,
+    {
+      "name": "Anagyrus fusciventris (Girault, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259904"
+    }
+,
+    {
+      "name": "Anagyrus kamali Moursi, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641567"
+    }
+,
+    {
+      "name": "Anagyrus marquesanus Timberlake, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440097"
+    }
+,
+    {
+      "name": "Anagyrus mumfordi Timberlake, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440098"
+    }
+,
+    {
+      "name": "Anagyrus orbitalis (Ruschka, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259912"
+    }
+,
+    {
+      "name": "Anagyrus pseudococci (Girault, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218134"
+    }
+,
+    {
+      "name": "Anagyrus punctifrons Timberlake, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440099"
+    }
+,
+    {
+      "name": "Anagyrus punctulatus Agarwal & Alam, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218135"
+    }
+,
+    {
+      "name": "Anagyrus aligarhensis Agarwal & Alam, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390109"
+    }
+,
+    {
+      "name": "Anagyrus aligarhensis Agarwal, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390108"
+    }
+,
+    {
+      "name": "Anagyrus diversicornis Mercet, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390110"
+    }
+,
+    {
+      "name": "Anagyrus micans Noyes, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390111"
+    }
+,
+    {
+      "name": "Anagyrus opacum Mercet, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390112"
+    }
+,
+    {
+      "name": "Anagyrus rufoscutatus (Ishii, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013359"
+    }
+,
+    {
+      "name": "Anagyrus saccharicola Timberlake, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440094"
+    }
+,
+    {
+      "name": "Anagyrus schoenherri (Westwood, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218136"
+    }
+,
+    {
+      "name": "Anagyrus alboclavatus Ishii, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390114"
+    }
+,
+    {
+      "name": "Anagyrus flavus Ishii, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390115"
+    }
+,
+    {
+      "name": "Anagyrus sergueii Trjapitzin, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899594"
+    }
+,
+    {
+      "name": "Anagyrus orbitalis Timberlake, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776424"
+    }
+,
+    {
+      "name": "Anagyrus vladimiri Triapitsyn, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013331"
+    }
+,
+    {
+      "name": "Asitus Erdös, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Asitus phragmitis (Ferrière, 1955)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218131"
+    }
+,
+    {
+      "name": "Asitus ciliatus Erdös, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390095"
+    }
+,
+    {
+      "name": "Blepyrus Howard, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Blepyrus insularis (Cameron, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998715"
+    }
+,
+    {
+      "name": "Blepyrus annulobliqus Kaul & Agarwal, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998716"
+    }
+,
+    {
+      "name": "Blepyrus longiscapus Kaul & Agarwal, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998717"
+    }
+,
+    {
+      "name": "Blepyrus marsdeni Howard, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998718"
+    }
+,
+    {
+      "name": "Blepyrus mexicanus Howard, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998719"
+    }
+,
+    {
+      "name": "Blepyrus texanus Howard, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998720"
+    }
+,
+    {
+      "name": "Clausenia saissetiae Yasumatsu & Yoshimura, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998721"
+    }
+,
+    {
+      "name": "Coccophoctonus dactylopii Ashmead, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998722"
+    }
+,
+    {
+      "name": "Encyrtus insularis Cameron, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998713"
+    }
+,
+    {
+      "name": "Charitopus Förster, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Charitopus fulviventris Förster, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259890"
+    }
+,
+    {
+      "name": "Clausenia Ishii, 1923",
+      "url": ""
+    }
+,
+    {
+      "name": "Clausenia purpurea Ishii, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013332"
+    }
+,
+    {
+      "name": "Coccidoxenoides Girault, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Coccidoxenoides perminutus Girault, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259887"
+    }
+,
+    {
+      "name": "Cryptanusia Girault, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptanusia comperei (Timberlake, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014222"
+    }
+,
+    {
+      "name": "Dicarnosis Mercet, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Dicarnosis helena Hoffer, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218129"
+    }
+,
+    {
+      "name": "Dicarnosis superba Mercet, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218130"
+    }
+,
+    {
+      "name": "Dinocarsiella Mercet, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Dinocarsiella alpina (Girault, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218128"
+    }
+,
+    {
+      "name": "Dinocarsiella lusitanica Mercet, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390092"
+    }
+,
+    {
+      "name": "Dinocarsiella minuta Szelényi, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390093"
+    }
+,
+    {
+      "name": "Dinocarsiella zebrata Mercet, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390094"
+    }
+,
+    {
+      "name": "Dinocarsis Förster, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Dinocarsis hemiptera (Dalman, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218127"
+    }
+,
+    {
+      "name": "Dinocarsis submontana Hoffer, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390091"
+    }
+,
+    {
+      "name": "Encyrtus hemipterus Dalman, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008331"
+    }
+,
+    {
+      "name": "Dinocarsis hofferi Graham, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259883"
+    }
+,
+    {
+      "name": "Ericydnus Haliday, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "Ericydnus baleus (Walker, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989719"
+    }
+,
+    {
+      "name": "Encyrtus baleus Walker, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989720"
+    }
+,
+    {
+      "name": "Ericydnus pilosulus Graham, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218125"
+    }
+,
+    {
+      "name": "Ericydnus robustior Mercet, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218126"
+    }
+,
+    {
+      "name": "Ericydnus ventralis (Dalman, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259879"
+    }
+,
+    {
+      "name": "Encyrtus longicornis ventralis Dalman, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008345"
+    }
+,
+    {
+      "name": "Euzkadiella Mercet, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Euzkadiella errata Boucek, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218124"
+    }
+,
+    {
+      "name": "Hambletonia Compere , 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Hambletonia pseudococcina Compere, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965342"
+    }
+,
+    {
+      "name": "Leptomastidea Mercet, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptomastidea abnormis (Girault, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218122"
+    }
+,
+    {
+      "name": "Leptomastidea antillicola Dozier, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998779"
+    }
+,
+    {
+      "name": "Leptomastidea aurantiaca Mercet, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390090"
+    }
+,
+    {
+      "name": "Leptomastix abnormis (Girault, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998792"
+    }
+,
+    {
+      "name": "Paraleptomastix abnormis Girault, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998790"
+    }
+,
+    {
+      "name": "Tanaomastix abnormis (Girault, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998794"
+    }
+,
+    {
+      "name": "Leptomastidea bifasciata (Mayr, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218123"
+    }
+,
+    {
+      "name": "Leptomastix Förster, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptomastix dactylopii Howard, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218121"
+    }
+,
+    {
+      "name": "Leptomastix bifasciatus Compere, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390086"
+    }
+,
+    {
+      "name": "Leptomastix longipennis Mercet, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390087"
+    }
+,
+    {
+      "name": "Leptomastix superbus Silvestri, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390088"
+    }
+,
+    {
+      "name": "Leptomastix tambourissae Risbec, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390089"
+    }
+,
+    {
+      "name": "Leptomastix epona (Walker, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259862"
+    }
+,
+    {
+      "name": "Lyka Mercet, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Lyka submetallica Mercet, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218120"
+    }
+,
+    {
+      "name": "Lyka fleischerorum Hoffer, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390085"
+    }
+,
+    {
+      "name": "Mira Schellenberg, 1803",
+      "url": ""
+    }
+,
+    {
+      "name": "Mira mucora Schellenberg, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259857"
+    }
+,
+    {
+      "name": "Rhopus Förster, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhopus meridionalis (Ferrière, 1955)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218119"
+    }
+,
+    {
+      "name": "Rhopus delitescens Erdös, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390084"
+    }
+,
+    {
+      "name": "Tetracnemoidea Howard, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Tetracnemoidea brevicornis (Girault, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218116"
+    }
+,
+    {
+      "name": "Tetracnemoidea pretiosus Timberlake, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/390083"
+    }
+,
+    {
+      "name": "Tetracnemoidea mediterranea (Kerrich, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218117"
+    }
+,
+    {
+      "name": "Tetracnemoidea peregrina (Compere, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/218118"
+    }
+,
+    {
+      "name": "Tetracnemus Westwood, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Tetracnemus diversicornis Westwood, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/259825"
+    }
+
+  ]
+}

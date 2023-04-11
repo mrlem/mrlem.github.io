@@ -1,0 +1,47 @@
+
+{
+  "name": "lycidae",
+  "children": [
+
+    {
+      "name": "Lycidae Laporte de Castelnau, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Lycoplateros Pic, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Lycoplateros constantini Do Nascimento & Bocakova, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946427"
+    }
+,
+    {
+      "name": "Lycoplateros septentrionalis Do Nascimento & Bocakova, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946429"
+    }
+,
+    {
+      "name": "Thonalmus Bourgeois, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Thonalmus bicolor (Linnaeus, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640035"
+    }
+,
+    {
+      "name": "Thonalmus dominicensis (Chevrolat, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640036"
+    }
+,
+    {
+      "name": "lycinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/lycidae/lycinae/"
+    }
+
+  ]
+}

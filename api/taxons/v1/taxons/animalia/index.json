@@ -1,0 +1,227 @@
+
+{
+  "name": "animalia",
+  "children": [
+
+    {
+      "name": "Animalia Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "acanthocephala",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/acanthocephala/"
+    }
+,
+    {
+      "name": "annelida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/"
+    }
+,
+    {
+      "name": "arthropoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/"
+    }
+,
+    {
+      "name": "Bilateria Haeckel, 1874",
+      "url": ""
+    }
+,
+    {
+      "name": "brachiopoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/brachiopoda/"
+    }
+,
+    {
+      "name": "bryozoa",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/bryozoa/"
+    }
+,
+    {
+      "name": "Cephalorhyncha ",
+      "url": ""
+    }
+,
+    {
+      "name": "chaetognatha",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chaetognatha/"
+    }
+,
+    {
+      "name": "chordata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/"
+    }
+,
+    {
+      "name": "cnidaria",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/"
+    }
+,
+    {
+      "name": "ctenophora",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/ctenophora/"
+    }
+,
+    {
+      "name": "Cuticulata ",
+      "url": ""
+    }
+,
+    {
+      "name": "cycliophora",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cycliophora/"
+    }
+,
+    {
+      "name": "Deuterostomia Karl Grobben, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "dicyemida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/dicyemida/"
+    }
+,
+    {
+      "name": "Ecdysozoa Aguinaldo, Turbeville, Linford, Rivera, Garey, Raff & Lake, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "echinodermata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/"
+    }
+,
+    {
+      "name": "entoprocta",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/entoprocta/"
+    }
+,
+    {
+      "name": "Eumetazoa Bütschli, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "gastrotricha",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/gastrotricha/"
+    }
+,
+    {
+      "name": "gnathifera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/gnathifera/"
+    }
+,
+    {
+      "name": "gnathostomulida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/gnathostomulida/"
+    }
+,
+    {
+      "name": "hemichordata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/hemichordata/"
+    }
+,
+    {
+      "name": "kinorhyncha",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/kinorhyncha/"
+    }
+,
+    {
+      "name": "Lophotrochozoa Halanych, Bacheller, Aguinaldo & Liva, 1995",
+      "url": ""
+    }
+,
+    {
+      "name": "loricifera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/loricifera/"
+    }
+,
+    {
+      "name": "mollusca",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/"
+    }
+,
+    {
+      "name": "nematoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/"
+    }
+,
+    {
+      "name": "Nematoidea Rudolphi, 1808",
+      "url": ""
+    }
+,
+    {
+      "name": "nematomorpha",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematomorpha/"
+    }
+,
+    {
+      "name": "nemertea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nemertea/"
+    }
+,
+    {
+      "name": "onychophora",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/onychophora/"
+    }
+,
+    {
+      "name": "orthonectida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/orthonectida/"
+    }
+,
+    {
+      "name": "Panarthropoda Nielsen, 1995",
+      "url": ""
+    }
+,
+    {
+      "name": "phoronida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/phoronida/"
+    }
+,
+    {
+      "name": "platyhelminthes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/"
+    }
+,
+    {
+      "name": "porifera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/"
+    }
+,
+    {
+      "name": "priapulida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/priapulida/"
+    }
+,
+    {
+      "name": "Protostomia Grobben, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "rotifera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/rotifera/"
+    }
+,
+    {
+      "name": "sipuncula",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/sipuncula/"
+    }
+,
+    {
+      "name": "tardigrada",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/"
+    }
+,
+    {
+      "name": "xenacoelomorpha",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/xenacoelomorpha/"
+    }
+
+  ]
+}

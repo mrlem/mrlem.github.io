@@ -1,0 +1,27 @@
+
+{
+  "name": "leptysminae",
+  "children": [
+
+    {
+      "name": "Leptysminae Brunner von Wattenwyl, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "chloropseustini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/acrididae/leptysminae/chloropseustini/"
+    }
+,
+    {
+      "name": "leptysmini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/acrididae/leptysminae/leptysmini/"
+    }
+,
+    {
+      "name": "tetrataeniini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/acrididae/leptysminae/tetrataeniini/"
+    }
+
+  ]
+}

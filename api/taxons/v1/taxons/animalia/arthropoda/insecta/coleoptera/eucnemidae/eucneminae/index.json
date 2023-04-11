@@ -1,0 +1,42 @@
+
+{
+  "name": "eucneminae",
+  "children": [
+
+    {
+      "name": "Eucneminae Eschscholtz, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "eucnemini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/eucnemidae/eucneminae/eucnemini/"
+    }
+,
+    {
+      "name": "galbitini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/eucnemidae/eucneminae/galbitini/"
+    }
+,
+    {
+      "name": "Monrosina Cobos, 1958",
+      "url": ""
+    }
+,
+    {
+      "name": "Monrosina amazonica Chassain, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926853"
+    }
+,
+    {
+      "name": "Monrosina cobosi Chassain, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926852"
+    }
+,
+    {
+      "name": "mesogenini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/eucnemidae/eucneminae/mesogenini/"
+    }
+
+  ]
+}

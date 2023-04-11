@@ -1,0 +1,37 @@
+
+{
+  "name": "ostomopsinae",
+  "children": [
+
+    {
+      "name": "Ostomopsinae Sen Gupta & Crowson, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Ostomopsis Scott, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Ostomopsis kuscheli Jałoszyński & Ślipiński, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989007"
+    }
+,
+    {
+      "name": "Ostomopsis neotropicalis Lawrence & Stephan, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989008"
+    }
+,
+    {
+      "name": "Ostomopsis solitaria Scott, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989009"
+    }
+,
+    {
+      "name": "Ostomopsis watti Jałoszyński & Ślipiński, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989010"
+    }
+
+  ]
+}

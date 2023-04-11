@@ -1,0 +1,547 @@
+
+{
+  "name": "skeneidae",
+  "children": [
+
+    {
+      "name": "Skeneidae Clark W., 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Skeneinae Clark W., 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Callodix Laseron, 1954",
+      "url": ""
+    }
+,
+    {
+      "name": "Callodix juanvianoi (Rubio & Rolán, 2018)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969675"
+    }
+,
+    {
+      "name": "Anticlimax juanvianoi Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900306"
+    }
+,
+    {
+      "name": "Callodix solida Laseron, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949253"
+    }
+,
+    {
+      "name": "Woodringilla solida (Laseron, 1954)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527505"
+    }
+,
+    {
+      "name": "Cirsonella Angas, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "Cirsonella kerguelensis Thiele, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815179"
+    }
+,
+    {
+      "name": "Cirsonella romettensis (Granata-Grillo, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966023"
+    }
+,
+    {
+      "name": "Oxystele romettensis Granata-Grillo, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966024"
+    }
+,
+    {
+      "name": "Tharsis romettensis (Granata-Grillo, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966025"
+    }
+,
+    {
+      "name": "Dikoleps Hoisaeter, 1968",
+      "url": ""
+    }
+,
+    {
+      "name": "Dikoleps cutleriana (Clark, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/378601"
+    }
+,
+    {
+      "name": "Skenea cutleriana Clark, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546330"
+    }
+,
+    {
+      "name": "Dikoleps depressa (Monterosato, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972056"
+    }
+,
+    {
+      "name": "Cyclostrema depressum Monterosato, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/61948"
+    }
+,
+    {
+      "name": "Dikoleps marianae Rubio, Dantart & Luque, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966083"
+    }
+,
+    {
+      "name": "Dikoleps nitens (Philippi, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966084"
+    }
+,
+    {
+      "name": "Cyclostrema nitens (Philippi, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966092"
+    }
+,
+    {
+      "name": "Delphinula nitens Philippi, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966087"
+    }
+,
+    {
+      "name": "Skenea nitens (Philippi, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966093"
+    }
+,
+    {
+      "name": "Tubiola nitens (Philippi, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966090"
+    }
+,
+    {
+      "name": "Dikoleps templadoi Rubio, Dantart & Luque, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016839"
+    }
+,
+    {
+      "name": "Dikoleps umbilicostriata (Gaglini, 1987)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/378597"
+    }
+,
+    {
+      "name": "Haplocochlias Carpenter, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Haplocochlias arawakorum Rubio & Rolán, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790952"
+    }
+,
+    {
+      "name": "Haplocochlias bellus (Dall, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972102"
+    }
+,
+    {
+      "name": "Fossarus bellus Dall, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605521"
+    }
+,
+    {
+      "name": "Haplocochlias christopheri Rubio & Rolán, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790953"
+    }
+,
+    {
+      "name": "Haplocochlias compactus (Dall, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825627"
+    }
+,
+    {
+      "name": "Fossarus (Gottoina) compacta Dall, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605522"
+    }
+,
+    {
+      "name": "Haplocochlias karukera Rubio & Rolán, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790954"
+    }
+,
+    {
+      "name": "Haplocochlias loperi Rubio, Rolán & Lee, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791989"
+    }
+,
+    {
+      "name": "Haplocochlias lupita Espinosa & Ortea, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727087"
+    }
+,
+    {
+      "name": "Haplocochlias nunezi Espinosa, Ortea & Fernández-Garcés, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606068"
+    }
+,
+    {
+      "name": "Haplocochlias ortizi Espinosa, Ortea & Fernández-Garcés, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791988"
+    }
+,
+    {
+      "name": "Haplocochlias swifti Vanatta, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762484"
+    }
+,
+    {
+      "name": "Leucorhynchia Crosse, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Leucorhynchia barreiroi Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930708"
+    }
+,
+    {
+      "name": "Leucorhynchia caledonica Crosse, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527393"
+    }
+,
+    {
+      "name": "Leucorhynchia celata Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930714"
+    }
+,
+    {
+      "name": "Leucorhynchia crossei (Tryon, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970490"
+    }
+,
+    {
+      "name": "Teinostoma (Leucorhynchia) crossei Tryon, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970491"
+    }
+,
+    {
+      "name": "Leucorhynchia globosa Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930712"
+    }
+,
+    {
+      "name": "Leucorhynchia letourneuxi Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930741"
+    }
+,
+    {
+      "name": "Leucorhynchia lingula Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930743"
+    }
+,
+    {
+      "name": "Leucorhynchia lluviae Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930740"
+    }
+,
+    {
+      "name": "Leucorhynchia magnucleus Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930713"
+    }
+,
+    {
+      "name": "Leucorhynchia microtuberculata Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930742"
+    }
+,
+    {
+      "name": "Leucorhynchia multistriata Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930706"
+    }
+,
+    {
+      "name": "Leucorhynchia paucistriata Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930744"
+    }
+,
+    {
+      "name": "Leucorhynchia persculpturata Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930739"
+    }
+,
+    {
+      "name": "Leucorhynchia prominens Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930745"
+    }
+,
+    {
+      "name": "Leucorhynchia raquelae Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930715"
+    }
+,
+    {
+      "name": "Leucorhynchia reunionensis Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930716"
+    }
+,
+    {
+      "name": "Leucorhynchia sculpturata Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930738"
+    }
+,
+    {
+      "name": "Leucorhynchia seminiformis Rubio & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930707"
+    }
+,
+    {
+      "name": "Leucorhynchia tricarinata Melvill & Standen, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656064"
+    }
+,
+    {
+      "name": "Lissomphalia Warén, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Lissomphalia bithynoides (Monterosato, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966211"
+    }
+,
+    {
+      "name": "Cyclostrema bithynoides Monterosato, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966214"
+    }
+,
+    {
+      "name": "Lissospira Bush, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Lissospira ornata (A. E. Verrill, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762540"
+    }
+,
+    {
+      "name": "Lissospira valvata (Dall, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896160"
+    }
+,
+    {
+      "name": "Ganesa valvata Dall, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896161"
+    }
+,
+    {
+      "name": "Lodderena Iredale, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Lodderena emeryi (Ladd, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826263"
+    }
+,
+    {
+      "name": "Cyclostremiscus emeryi Ladd, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527392"
+    }
+,
+    {
+      "name": "Lodderena janetmayae Rubio, Rolan & Redfern, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711529"
+    }
+,
+    {
+      "name": "Lodderena ornata (Olsson & McGinty, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711526"
+    }
+,
+    {
+      "name": "Cyclostremiscus ornatus Olsson & McGinty, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711601"
+    }
+,
+    {
+      "name": "Cyclostremiscus solitarius Hertlein & Allison, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711602"
+    }
+,
+    {
+      "name": "Lodderena pulchella (Olsson & McGinty, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606101"
+    }
+,
+    {
+      "name": "Cyclostremiscus pulchellus Olsson & McGinty, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896162"
+    }
+,
+    {
+      "name": "Lodderia Tate, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Lodderia lodderae (Petterd, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970499"
+    }
+,
+    {
+      "name": "Liotia lodderae Petterd, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970500"
+    }
+,
+    {
+      "name": "Munditiella Kuroda & Habe, 1954",
+      "url": ""
+    }
+,
+    {
+      "name": "Munditiella archeri (Tryon, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018524"
+    }
+,
+    {
+      "name": "Cyclostrema annellarium Melvill & Standen, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703978"
+    }
+,
+    {
+      "name": "Cyclostrema archeri Tryon, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699303"
+    }
+,
+    {
+      "name": "Parviturbo Pilsbry & McGinty, 1945",
+      "url": ""
+    }
+,
+    {
+      "name": "Parviturbo boucheti Rubio, Rolán & Fernández-Garcés, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821784"
+    }
+,
+    {
+      "name": "Parviturbo comptus (Woodring, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606009"
+    }
+,
+    {
+      "name": "Fossarus comptus Woodring, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896163"
+    }
+,
+    {
+      "name": "Parviturbo dispar Rubio, Rolán & Letourneux, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821789"
+    }
+,
+    {
+      "name": "Parviturbo fortius Rubio, Rolán & Fernández-Garcés, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821785"
+    }
+,
+    {
+      "name": "Parviturbo guadeloupensis Rubio, Rolán & Fernández-Garcés, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821787"
+    }
+,
+    {
+      "name": "Parviturbo rectangularis Rubio, Rolán & Fernández-Garcés, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821788"
+    }
+,
+    {
+      "name": "Parviturbo rehderi Pilsbry & McGinty, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605508"
+    }
+,
+    {
+      "name": "Parviturbo tuberculosus (d'Orbigny, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711849"
+    }
+,
+    {
+      "name": "Parviturbo weberi Pilsbry & McGinty, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605509"
+    }
+,
+    {
+      "name": "Rotostoma Laseron, 1954",
+      "url": ""
+    }
+,
+    {
+      "name": "Rotostoma impleta Laseron, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699297"
+    }
+,
+    {
+      "name": "Seamountiella Rubio, Gofas & Rolán, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Seamountiella caledonica Rubio, Gofas & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930648"
+    }
+,
+    {
+      "name": "Seamountiella mayottensis Rubio, Gofas & Rolán, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930647"
+    }
+,
+    {
+      "name": "Skenea Fleming, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Skenea basistriata (Jeffreys, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/378630"
+    }
+,
+    {
+      "name": "Skenea catenoides (Monterosato, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966431"
+    }
+,
+    {
+      "name": "Cyclostrema catenoides Monterosato, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966432"
+    }
+,
+    {
+      "name": "Lodderena catenoides (Monterosato, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966433"
+    }
+,
+    {
+      "name": "Skenea costulata Sbrana & Siracusa, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912480"
+    }
+,
+    {
+      "name": "Skenea serpuloides (Montagu, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/378642"
+    }
+,
+    {
+      "name": "Skeneoides Warén, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Skeneoides exilissima (Philippi, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016841"
+    }
+,
+    {
+      "name": "Delphinula exilissima Philippi, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016842"
+    }
+
+  ]
+}

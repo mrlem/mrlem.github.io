@@ -1,0 +1,27 @@
+
+{
+  "name": "strigiformes",
+  "children": [
+
+    {
+      "name": "Strigiformes ",
+      "url": ""
+    }
+,
+    {
+      "name": "Strigi ",
+      "url": ""
+    }
+,
+    {
+      "name": "strigidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/strigiformes/strigidae/"
+    }
+,
+    {
+      "name": "tytonidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/strigiformes/tytonidae/"
+    }
+
+  ]
+}

@@ -1,0 +1,6192 @@
+
+{
+  "name": "mycetophilidae",
+  "children": [
+
+    {
+      "name": "Mycetophilidae Newman, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Acnemia Winnertz, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Acnemia amoena Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21792"
+    }
+,
+    {
+      "name": "Acnemia nitidicollis (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21794"
+    }
+,
+    {
+      "name": "Acnemia nigra Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399209"
+    }
+,
+    {
+      "name": "Leia defecta Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399208"
+    }
+,
+    {
+      "name": "Leia nitidicollis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909694"
+    }
+,
+    {
+      "name": "Allactoneura De Meijere, 1907",
+      "url": ""
+    }
+,
+    {
+      "name": "Allactoneura neocaledonica Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438717"
+    }
+,
+    {
+      "name": "Allocotocera Mik, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Allocotocera pulchella (Curtis, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21796"
+    }
+,
+    {
+      "name": "Allocotocera flavescens Johannsen, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399207"
+    }
+,
+    {
+      "name": "Boletina silacea van der Wulp, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399205"
+    }
+,
+    {
+      "name": "Eurycera flava Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399204"
+    }
+,
+    {
+      "name": "Leia pulchella Curtis, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909696"
+    }
+,
+    {
+      "name": "Leptomorphus parvulus Coquillett, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399206"
+    }
+,
+    {
+      "name": "Allodia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Allodia alternans (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226068"
+    }
+,
+    {
+      "name": "Allodia (Brachycampta) alternans (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21912"
+    }
+,
+    {
+      "name": "Brachypeza strigosa Ostroverkhova, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399339"
+    }
+,
+    {
+      "name": "Mycetophila alternans Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909701"
+    }
+,
+    {
+      "name": "Allodia anglofennica Edwards, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226063"
+    }
+,
+    {
+      "name": "Allodia angulata (Lundström, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226069"
+    }
+,
+    {
+      "name": "Brachycampta angulata Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909709"
+    }
+,
+    {
+      "name": "Allodia barbata (Lundström, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226070"
+    }
+,
+    {
+      "name": "Brachycampta barbata Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909710"
+    }
+,
+    {
+      "name": "Allodia czernyi (Landrock, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226071"
+    }
+,
+    {
+      "name": "Brachycampta czernyi Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909716"
+    }
+,
+    {
+      "name": "Allodia foliifera (Strobl, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226072"
+    }
+,
+    {
+      "name": "Brachycampta foliifera Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909717"
+    }
+,
+    {
+      "name": "Allodia grata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226073"
+    }
+,
+    {
+      "name": "Mycetophila grata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909718"
+    }
+,
+    {
+      "name": "Allodia lugens (Wiedemann, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226064"
+    }
+,
+    {
+      "name": "Allodia (Allodia) lugens (Wiedemann, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21909"
+    }
+,
+    {
+      "name": "Brachypeza simplex Bukowski, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399334"
+    }
+,
+    {
+      "name": "Mycetophila lugens Wiedemann, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909719"
+    }
+,
+    {
+      "name": "Allodia lundstroemi Edwards, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226065"
+    }
+,
+    {
+      "name": "Allodia neglecta Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226074"
+    }
+,
+    {
+      "name": "Allodia ornaticollis (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226066"
+    }
+,
+    {
+      "name": "Allodia falcata Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399338"
+    }
+,
+    {
+      "name": "Allodia (Allodia) ornaticollis (Meigen, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21910"
+    }
+,
+    {
+      "name": "Mycetophila longicornis van der Wulp, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399337"
+    }
+,
+    {
+      "name": "Mycetophila longicornis Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399336"
+    }
+,
+    {
+      "name": "Mycetophila nigricollis Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399335"
+    }
+,
+    {
+      "name": "Mycetophila ornaticollis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909720"
+    }
+,
+    {
+      "name": "Allodia pistillata (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226075"
+    }
+,
+    {
+      "name": "Brachycampta pistillata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909721"
+    }
+,
+    {
+      "name": "Brachypeza cuspidata Ostroverkhova, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399340"
+    }
+,
+    {
+      "name": "Allodia protenta Laštovka & Matile, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909724"
+    }
+,
+    {
+      "name": "Allodia septentrionalis Hackman, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909725"
+    }
+,
+    {
+      "name": "Allodia silvatica (Landrock, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226076"
+    }
+,
+    {
+      "name": "Brachycampta silvatica Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909722"
+    }
+,
+    {
+      "name": "Allodia triangularis (Strobl, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226077"
+    }
+,
+    {
+      "name": "Allodia retracta Plassmann, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399341"
+    }
+,
+    {
+      "name": "Allodia vernalis Polevoi, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399343"
+    }
+,
+    {
+      "name": "Brachycampta triangularis Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909723"
+    }
+,
+    {
+      "name": "Brachypeza truncata Ostroverkhova, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399342"
+    }
+,
+    {
+      "name": "Allodia truncata Edwards, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226067"
+    }
+,
+    {
+      "name": "Allodia westerholti Caspers, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226078"
+    }
+,
+    {
+      "name": "Allodia zaitzevi Kurina, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909726"
+    }
+,
+    {
+      "name": "Allodia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Brachycampta Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Allodiopsis Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Allodiopsis domestica (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226061"
+    }
+,
+    {
+      "name": "Allodiopsis (Allodiopsis) domestica (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21915"
+    }
+,
+    {
+      "name": "Mycetophila domestica Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909780"
+    }
+,
+    {
+      "name": "Allodiopsis korolevi Zaitzev, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921884"
+    }
+,
+    {
+      "name": "Allodiopsis rustica (Edwards, 1941)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226062"
+    }
+,
+    {
+      "name": "Rhymosia rustica Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909782"
+    }
+,
+    {
+      "name": "Rymosia matilei Plassmann, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399333"
+    }
+,
+    {
+      "name": "Anaclileia Meunier, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Anaclileia beshovskii Bechev, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284724"
+    }
+,
+    {
+      "name": "Anaclileia dispar (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21798"
+    }
+,
+    {
+      "name": "Boletina dispar Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909783"
+    }
+,
+    {
+      "name": "Anaclileia dziedzickii (Landrock, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21799"
+    }
+,
+    {
+      "name": "Paraneurotelia dziedzickii Landrock, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909784"
+    }
+,
+    {
+      "name": "Anatella Winnertz, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Anatella ankeli Plassmann, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226049"
+    }
+,
+    {
+      "name": "Anatella ciliata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226050"
+    }
+,
+    {
+      "name": "Anatella concava Plassmann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226051"
+    }
+,
+    {
+      "name": "Anatella longiflagellata Caspers, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399328"
+    }
+,
+    {
+      "name": "Anatella flavomaculata Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226052"
+    }
+,
+    {
+      "name": "Anatella gibba Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21924"
+    }
+,
+    {
+      "name": "Anatella orbiculata Ostroverkhova & Isotov, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399329"
+    }
+,
+    {
+      "name": "Anatella laffooni Plassmann, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226053"
+    }
+,
+    {
+      "name": "Anatella lenis Dziedzicki, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226054"
+    }
+,
+    {
+      "name": "Anatella longisetosa Dziedzicki, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226055"
+    }
+,
+    {
+      "name": "Anatella piligera Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399330"
+    }
+,
+    {
+      "name": "Anatella pseudogibba Plassmann, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226056"
+    }
+,
+    {
+      "name": "Anatella setigera Edwards, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226057"
+    }
+,
+    {
+      "name": "Anatella dissecta Ostroverkhova, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399331"
+    }
+,
+    {
+      "name": "Anatella simpatica Dziedzicki, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226058"
+    }
+,
+    {
+      "name": "Anatella incisurata Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399332"
+    }
+,
+    {
+      "name": "Anatella turi Dziedzicki, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226059"
+    }
+,
+    {
+      "name": "Anatella unguigera Edwards, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226060"
+    }
+,
+    {
+      "name": "Anomalomyia Hutton, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Anomalomyia intermedia Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438718"
+    }
+,
+    {
+      "name": "Anomalomyia nasuta Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438719"
+    }
+,
+    {
+      "name": "Anomalomyia picta Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438720"
+    }
+,
+    {
+      "name": "Apolephthisa Grzegorzek, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Apolephthisa subincana (Curtis, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21882"
+    }
+,
+    {
+      "name": "Apolephthisa rara Grzegorzek, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399541"
+    }
+,
+    {
+      "name": "Sciophila subincana Curtis, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909789"
+    }
+,
+    {
+      "name": "Tetragoneura melanoceras Haliday in Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399540"
+    }
+,
+    {
+      "name": "Azana Walker, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Azana anomala (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909742"
+    }
+,
+    {
+      "name": "Boletina anomala Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909743"
+    }
+,
+    {
+      "name": "Azana corsicana Coher, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225931"
+    }
+,
+    {
+      "name": "Azana anomala auct. non (Staeger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909790"
+    }
+,
+    {
+      "name": "Azana flavohalterata Strobl in Czeny & Strobl, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848230"
+    }
+,
+    {
+      "name": "Azana anomala flavohalterata Strobl in Czeny & Strobl, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909791"
+    }
+,
+    {
+      "name": "Azana Walker, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Boletina Stæger, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Boletina basalis (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21884"
+    }
+,
+    {
+      "name": "Boletina alpina Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399528"
+    }
+,
+    {
+      "name": "Boletina consequana Séguy, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399529"
+    }
+,
+    {
+      "name": "Leia basalis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909796"
+    }
+,
+    {
+      "name": "Leia humeralis Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399526"
+    }
+,
+    {
+      "name": "Leia nigra Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399527"
+    }
+,
+    {
+      "name": "Boletina bidenticulata Sasakawa & Kimura, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909798"
+    }
+,
+    {
+      "name": "Boletina dispecta auct. non Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21887"
+    }
+,
+    {
+      "name": "Boletina cincticornis (Walker, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226201"
+    }
+,
+    {
+      "name": "Boletina consobrina Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399530"
+    }
+,
+    {
+      "name": "Boletina coxata Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399532"
+    }
+,
+    {
+      "name": "Boletina winnertzii Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399531"
+    }
+,
+    {
+      "name": "Mycetophila cincticornis Walker, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909797"
+    }
+,
+    {
+      "name": "Boletina dubia (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21888"
+    }
+,
+    {
+      "name": "Boletina inermis Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399535"
+    }
+,
+    {
+      "name": "Boletina postposita Strobl, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399534"
+    }
+,
+    {
+      "name": "Leia analis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399533"
+    }
+,
+    {
+      "name": "Mycetophila dubia Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909799"
+    }
+,
+    {
+      "name": "Boletina edwardsi Chandler, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226202"
+    }
+,
+    {
+      "name": "Boletina brevicornis auct. non Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909800"
+    }
+,
+    {
+      "name": "Boletina gripha Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21891"
+    }
+,
+    {
+      "name": "Boletina trebevicensis Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399536"
+    }
+,
+    {
+      "name": "Boletina griphoides Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285148"
+    }
+,
+    {
+      "name": "Boletina landrocki Edwards, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226203"
+    }
+,
+    {
+      "name": "Boletina lundstroemi Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226204"
+    }
+,
+    {
+      "name": "Boletina moravica Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226205"
+    }
+,
+    {
+      "name": "Boletina nigricans Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226206"
+    }
+,
+    {
+      "name": "Boletina nitida Grzegorzek, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226207"
+    }
+,
+    {
+      "name": "Boletina oreadophila Chandler, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226208"
+    }
+,
+    {
+      "name": "Boletina pallidula Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909744"
+    }
+,
+    {
+      "name": "Boletina plana Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21893"
+    }
+,
+    {
+      "name": "Boletina dubia Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399537"
+    }
+,
+    {
+      "name": "Boletina grzegorzekii Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399538"
+    }
+,
+    {
+      "name": "Boletina rejecta Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226209"
+    }
+,
+    {
+      "name": "Boletina sciarina Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21894"
+    }
+,
+    {
+      "name": "Mycetophila obscurella Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399539"
+    }
+,
+    {
+      "name": "Boletina trispinosa Edwards, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909745"
+    }
+,
+    {
+      "name": "Boletina trivittata (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21895"
+    }
+,
+    {
+      "name": "Leia trivittata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909803"
+    }
+,
+    {
+      "name": "Brachypeza Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Brachypeza armata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848227"
+    }
+,
+    {
+      "name": "Brachypeza bisignata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226047"
+    }
+,
+    {
+      "name": "Brachypeza hilaris Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399327"
+    }
+,
+    {
+      "name": "Brachypeza radiata Jenkinson, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226048"
+    }
+,
+    {
+      "name": "Brachypeza Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Brevicornu Marshall, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Brevicornu arcticoides Caspers, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226030"
+    }
+,
+    {
+      "name": "Brevicornu auriculatum (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226031"
+    }
+,
+    {
+      "name": "Allodia auriculatum Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909805"
+    }
+,
+    {
+      "name": "Brevicornu bellum (Johannsen, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909746"
+    }
+,
+    {
+      "name": "Allodia bella Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909750"
+    }
+,
+    {
+      "name": "Brevicornu canescens (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909810"
+    }
+,
+    {
+      "name": "Allodia karpathica Landrock, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399319"
+    }
+,
+    {
+      "name": "Brevicornu griseolum auct. non (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226037"
+    }
+,
+    {
+      "name": "Brevicornu (Brevicornu) griseolum (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21932"
+    }
+,
+    {
+      "name": "Mycetophila canescens Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909811"
+    }
+,
+    {
+      "name": "Brevicornu fennicum (Landrock, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909752"
+    }
+,
+    {
+      "name": "Allodia fennicum Landrock, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909753"
+    }
+,
+    {
+      "name": "Brevicornu fissicauda (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226032"
+    }
+,
+    {
+      "name": "Brachycampta fissicauda Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909806"
+    }
+,
+    {
+      "name": "Brevicornu (Brevicornu) fissicauda (Lundstrom, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21928"
+    }
+,
+    {
+      "name": "Brevicornu foliatum (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226033"
+    }
+,
+    {
+      "name": "Allodia foliata Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909807"
+    }
+,
+    {
+      "name": "Brevicornu fuscipenne (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226034"
+    }
+,
+    {
+      "name": "Brevicornu (Brevicornu) fuscipenne (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21929"
+    }
+,
+    {
+      "name": "Mycetophila fuscipennis Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909808"
+    }
+,
+    {
+      "name": "Brevicornu glandis Laštovka & Matile, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226035"
+    }
+,
+    {
+      "name": "Brevicornu griseicolle (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226036"
+    }
+,
+    {
+      "name": "Allodia variabilis Stora, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399318"
+    }
+,
+    {
+      "name": "Brachycampta caudata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399314"
+    }
+,
+    {
+      "name": "Brachycampta circumdata Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399315"
+    }
+,
+    {
+      "name": "Brachycampta flavicornis Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399316"
+    }
+,
+    {
+      "name": "Brachycampta fontinalis Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399317"
+    }
+,
+    {
+      "name": "Brachycampta griseicollis (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897589"
+    }
+,
+    {
+      "name": "Brevicornu (Brevicornu) griseicolle (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21930"
+    }
+,
+    {
+      "name": "Mycetophila griseicollis Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909809"
+    }
+,
+    {
+      "name": "Brevicornu improvisum Zaitzev, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226038"
+    }
+,
+    {
+      "name": "Brevicornu intermedium (Santos Abréu, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226039"
+    }
+,
+    {
+      "name": "Allodia intermedia Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909812"
+    }
+,
+    {
+      "name": "Allodia obscuripennis Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399320"
+    }
+,
+    {
+      "name": "Brevicornu hissaricum Zaitzev, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399321"
+    }
+,
+    {
+      "name": "Brevicornu kingi (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226040"
+    }
+,
+    {
+      "name": "Allodia kingi Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909813"
+    }
+,
+    {
+      "name": "Brevicornu nigrofuscum (Lundström, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226041"
+    }
+,
+    {
+      "name": "Brachycampta nigrofusca Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909814"
+    }
+,
+    {
+      "name": "Brevicornu proximum (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226042"
+    }
+,
+    {
+      "name": "Mycetophila proxima Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909815"
+    }
+,
+    {
+      "name": "Brevicornu ruficorne (Meigen, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226043"
+    }
+,
+    {
+      "name": "Brachycampta cinerea Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399323"
+    }
+,
+    {
+      "name": "Brachycampta hastata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399322"
+    }
+,
+    {
+      "name": "Mycetophila ruficornis Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909816"
+    }
+,
+    {
+      "name": "Brevicornu serenum (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226044"
+    }
+,
+    {
+      "name": "Brachycampta serena Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909817"
+    }
+,
+    {
+      "name": "Brevicornu sericoma (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226045"
+    }
+,
+    {
+      "name": "Brachycampta amoena Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399325"
+    }
+,
+    {
+      "name": "Brevicornu guilanense Matile, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399326"
+    }
+,
+    {
+      "name": "Brevicornu (Brevicornu) sericomum (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21933"
+    }
+,
+    {
+      "name": "Mycetophila semiflava Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399324"
+    }
+,
+    {
+      "name": "Mycetophila sericoma Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909818"
+    }
+,
+    {
+      "name": "Brevicornu subfissicauda Zaitzev, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284886"
+    }
+,
+    {
+      "name": "Brevicornu verralli (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226046"
+    }
+,
+    {
+      "name": "Allodia verralli Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909819"
+    }
+,
+    {
+      "name": "Caledonileia Matile, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Caledonileia pusilla Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438721"
+    }
+,
+    {
+      "name": "Clastobasis Skuse, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Clastobasis alternans (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285098"
+    }
+,
+    {
+      "name": "Glaphyroptera alternans Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909820"
+    }
+,
+    {
+      "name": "Clastobasis brunhesi Matile, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781479"
+    }
+,
+    {
+      "name": "Clastobasis loici Chandler, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285099"
+    }
+,
+    {
+      "name": "Clastobasis stylata Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438722"
+    }
+,
+    {
+      "name": "Clastobasis vicina Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438723"
+    }
+,
+    {
+      "name": "Clastobasis yoshimotoi Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438724"
+    }
+,
+    {
+      "name": "Coelophthinia Edwards, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Coelophthinia thoracica (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015881"
+    }
+,
+    {
+      "name": "Phthinia thoracica Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015902"
+    }
+,
+    {
+      "name": "Coelosia Winnertz, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Coelosia flava (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226199"
+    }
+,
+    {
+      "name": "Boletina flava Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909834"
+    }
+,
+    {
+      "name": "Mycetophila flava Walker, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399523"
+    }
+,
+    {
+      "name": "Coelosia fusca Bezzi, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226200"
+    }
+,
+    {
+      "name": "Coelosia silvatica Landrock, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21898"
+    }
+,
+    {
+      "name": "Coelosia tenella (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21899"
+    }
+,
+    {
+      "name": "Boletina setipennis Holmgren, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399525"
+    }
+,
+    {
+      "name": "Boletina tenella Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909836"
+    }
+,
+    {
+      "name": "Coelosia flavicauda Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399524"
+    }
+,
+    {
+      "name": "Cordyla Meigen, 1803",
+      "url": ""
+    }
+,
+    {
+      "name": "Cordyla brevicornis (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226024"
+    }
+,
+    {
+      "name": "Brachypeza nigra Strobl, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399305"
+    }
+,
+    {
+      "name": "Cordyla bicornuta Landrock, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399306"
+    }
+,
+    {
+      "name": "Pachypalpus brevicornis Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909837"
+    }
+,
+    {
+      "name": "Cordyla crassicornis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21939"
+    }
+,
+    {
+      "name": "Pachypalpus cinereus Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399307"
+    }
+,
+    {
+      "name": "Polyxena nigrifemur Landrock, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399308"
+    }
+,
+    {
+      "name": "Cordyla fasciata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226025"
+    }
+,
+    {
+      "name": "Cordyla fulveola Haliday, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399309"
+    }
+,
+    {
+      "name": "Cordyla fissa Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226026"
+    }
+,
+    {
+      "name": "Cordyla flaviceps (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21940"
+    }
+,
+    {
+      "name": "Pachypalpus flaviceps Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909838"
+    }
+,
+    {
+      "name": "Cordyla fusca Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21941"
+    }
+,
+    {
+      "name": "Cordyla obscuripennis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399312"
+    }
+,
+    {
+      "name": "Mycetophila anomala Macquart, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399310"
+    }
+,
+    {
+      "name": "Pachypalpus ater Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399311"
+    }
+,
+    {
+      "name": "Cordyla insons Laštovka & Matile, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226027"
+    }
+,
+    {
+      "name": "Cordyla murina Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21943"
+    }
+,
+    {
+      "name": "Cordyla nitidula Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226028"
+    }
+,
+    {
+      "name": "Polyxena bergensis Barendrecht, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399313"
+    }
+,
+    {
+      "name": "Cordyla parvipalpis Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226029"
+    }
+,
+    {
+      "name": "Cordyla pusilla Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284865"
+    }
+,
+    {
+      "name": "Cordyla semiflava (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21944"
+    }
+,
+    {
+      "name": "Pachypalpus semiflavus Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909933"
+    }
+,
+    {
+      "name": "Cordyla styliforceps (Bukowski, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284866"
+    }
+,
+    {
+      "name": "Polyxena styliforceps Bukowski, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909934"
+    }
+,
+    {
+      "name": "Docosia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Docosia carbonaria Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226187"
+    }
+,
+    {
+      "name": "Docosia expectata Laštovka & Ševčik, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726802"
+    }
+,
+    {
+      "name": "Docosia flavicoxa Strobl, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226188"
+    }
+,
+    {
+      "name": "Docosia valida flavicoxa Strobl, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909938"
+    }
+,
+    {
+      "name": "Docosia fumosa Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226189"
+    }
+,
+    {
+      "name": "Docosia fuscipes (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285088"
+    }
+,
+    {
+      "name": "Leia fuscipes von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909944"
+    }
+,
+    {
+      "name": "Docosia gilvipes (Haliday in Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21801"
+    }
+,
+    {
+      "name": "Leia gilvipes Haliday in Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909946"
+    }
+,
+    {
+      "name": "Docosia lastovkai Chandler, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921896"
+    }
+,
+    {
+      "name": "Docosia matilei Ševčík & Laštovka, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909954"
+    }
+,
+    {
+      "name": "Docosia melita Chandler & Gatt, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921897"
+    }
+,
+    {
+      "name": "Docosia moravica Landrock, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226190"
+    }
+,
+    {
+      "name": "Docosia nigra Landrock, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285094"
+    }
+,
+    {
+      "name": "Docosia sciarina (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21802"
+    }
+,
+    {
+      "name": "Docosia nigricoxa Strobl, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399509"
+    }
+,
+    {
+      "name": "Docosia nigrifemur Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399508"
+    }
+,
+    {
+      "name": "Docosia valida Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21803"
+    }
+,
+    {
+      "name": "Leia basalis Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399507"
+    }
+,
+    {
+      "name": "Leia pubescens Walker, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399506"
+    }
+,
+    {
+      "name": "Mycetophila sciarina Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909959"
+    }
+,
+    {
+      "name": "Dynatosoma Winnertz, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Dynatosoma cochleare Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226175"
+    }
+,
+    {
+      "name": "Dynatosoma fuscicorne (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21946"
+    }
+,
+    {
+      "name": "Mycetophila amabilis Dufour, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399475"
+    }
+,
+    {
+      "name": "Mycetophila flexuosa Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399476"
+    }
+,
+    {
+      "name": "Mycetophila fuscicornis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909960"
+    }
+,
+    {
+      "name": "Mycetophila praeusta Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399474"
+    }
+,
+    {
+      "name": "Dynatosoma majus Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226176"
+    }
+,
+    {
+      "name": "Dynatosoma major Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909962"
+    }
+,
+    {
+      "name": "Dynatosoma nobile Loew, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226177"
+    }
+,
+    {
+      "name": "Dynatosoma nobilis Loew, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909963"
+    }
+,
+    {
+      "name": "Dynatosoma surrecta Plassmann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399477"
+    }
+,
+    {
+      "name": "Dynatosoma reciprocum (Walker, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21947"
+    }
+,
+    {
+      "name": "Mycetophila nigricoxa Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399478"
+    }
+,
+    {
+      "name": "Mycetophila reciproca Walker, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909964"
+    }
+,
+    {
+      "name": "Dynatosoma rufescens (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285065"
+    }
+,
+    {
+      "name": "Mycetophila rufescens Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909965"
+    }
+,
+    {
+      "name": "Dynatosoma thoracicum (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921901"
+    }
+,
+    {
+      "name": "Mycetophila thoracicum Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921902"
+    }
+,
+    {
+      "name": "Dziedzickia Johannsen, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Dziedzickia marginata (Dziedzicki, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21902"
+    }
+,
+    {
+      "name": "Hertwigia marginata Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909966"
+    }
+,
+    {
+      "name": "Ectrepesthoneura Enderlein, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Ectrepesthoneura colyeri Chandler, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226197"
+    }
+,
+    {
+      "name": "Ectrepesthoneura gracilis Edwards, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226198"
+    }
+,
+    {
+      "name": "Ectrepesthoneura hirta (Winnertz, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21806"
+    }
+,
+    {
+      "name": "Sciophila aliena Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399522"
+    }
+,
+    {
+      "name": "Tetragoneura hirta Winnertz, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909972"
+    }
+,
+    {
+      "name": "Epicypta Winnertz, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Epicypta aterrima (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226171"
+    }
+,
+    {
+      "name": "Epicypta pulicaria Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399473"
+    }
+,
+    {
+      "name": "Mycetophila atterrima Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909973"
+    }
+,
+    {
+      "name": "Mycetophila selecta Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399472"
+    }
+,
+    {
+      "name": "Epicypta fumigata (Dziedzicki, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921903"
+    }
+,
+    {
+      "name": "Allophallus fumigata Dziedzicki, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921904"
+    }
+,
+    {
+      "name": "Epicypta limnophila Chandler, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226172"
+    }
+,
+    {
+      "name": "Epicypta pilosistyla Matile, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781480"
+    }
+,
+    {
+      "name": "Epicypta scatophora (Perris, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226173"
+    }
+,
+    {
+      "name": "Mycetophila scatophora Perris, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910152"
+    }
+,
+    {
+      "name": "Epicypta torquata Matile, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226174"
+    }
+,
+    {
+      "name": "Eudicrana Loew, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Eudicrana araucariae Matile, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438709"
+    }
+,
+    {
+      "name": "Exechia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Exechia bicincta (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21950"
+    }
+,
+    {
+      "name": "Exechia serpentina Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399284"
+    }
+,
+    {
+      "name": "Exechia spinosa Bukowski, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399285"
+    }
+,
+    {
+      "name": "Mycetophila bicincta Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910155"
+    }
+,
+    {
+      "name": "Mycetophila interrupta Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399283"
+    }
+,
+    {
+      "name": "Exechia chandleri Caspers, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284845"
+    }
+,
+    {
+      "name": "Exechia cincta Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226010"
+    }
+,
+    {
+      "name": "Exechia confinis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226011"
+    }
+,
+    {
+      "name": "Exechia contaminata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21952"
+    }
+,
+    {
+      "name": "Exechia macroura Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399286"
+    }
+,
+    {
+      "name": "Exechia dizona Edwards, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21953"
+    }
+,
+    {
+      "name": "Exechia bicincta Lundström, 1909 non Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910298"
+    }
+,
+    {
+      "name": "Exechia dorsalis (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226012"
+    }
+,
+    {
+      "name": "Exechia bispinosa Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399288"
+    }
+,
+    {
+      "name": "Exechia marikowskii Plotnikova, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399289"
+    }
+,
+    {
+      "name": "Mycetophila diagonalis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399287"
+    }
+,
+    {
+      "name": "Mycetophila dorsalis Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910388"
+    }
+,
+    {
+      "name": "Exechia exigua Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226013"
+    }
+,
+    {
+      "name": "Exechia festiva Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226014"
+    }
+,
+    {
+      "name": "Exechia frigida (Boheman, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226015"
+    }
+,
+    {
+      "name": "Mycetophila frigida Boheman, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910448"
+    }
+,
+    {
+      "name": "Parexechia concolor Becher, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399290"
+    }
+,
+    {
+      "name": "Exechia fulva Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226016"
+    }
+,
+    {
+      "name": "Exechia peyerimhoffi Burghele-Balacesco, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399291"
+    }
+,
+    {
+      "name": "Rhymosia exornata Séguy, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399292"
+    }
+,
+    {
+      "name": "Exechia fusca (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21955"
+    }
+,
+    {
+      "name": "Exechia griseicollis Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399295"
+    }
+,
+    {
+      "name": "Exechia pseudocontaminata Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399296"
+    }
+,
+    {
+      "name": "Exechia rubella Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399297"
+    }
+,
+    {
+      "name": "Exechia tenuimaculata Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399298"
+    }
+,
+    {
+      "name": "Mycetophila fusca Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910449"
+    }
+,
+    {
+      "name": "Mycetophila guttiventris Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399294"
+    }
+,
+    {
+      "name": "Mycetophila lateralis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399293"
+    }
+,
+    {
+      "name": "Exechia lundstroemi Landrock, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226017"
+    }
+,
+    {
+      "name": "Exechia macula Chandler, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284851"
+    }
+,
+    {
+      "name": "Exechia nigrofusca Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284854"
+    }
+,
+    {
+      "name": "Exechia nigroscutellata Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21958"
+    }
+,
+    {
+      "name": "Exechia nitidicollis Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226018"
+    }
+,
+    {
+      "name": "Exechia parva Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21959"
+    }
+,
+    {
+      "name": "Exechia parvula (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21960"
+    }
+,
+    {
+      "name": "Exechia nana (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910450"
+    }
+,
+    {
+      "name": "Mycetophila nana Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399299"
+    }
+,
+    {
+      "name": "Mycetophila parvula Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910451"
+    }
+,
+    {
+      "name": "Exechia pectinivalva Stackelberg, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284856"
+    }
+,
+    {
+      "name": "Exechia pseudocincta Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226019"
+    }
+,
+    {
+      "name": "Exechia spicata Plotnikova, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399300"
+    }
+,
+    {
+      "name": "Exechia pseudofestiva Lackschewitz, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226020"
+    }
+,
+    {
+      "name": "Exechia repanda Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21962"
+    }
+,
+    {
+      "name": "Exechia repandoides Caspers, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226021"
+    }
+,
+    {
+      "name": "Exechia separata Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226022"
+    }
+,
+    {
+      "name": "Exechia seriata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21963"
+    }
+,
+    {
+      "name": "Mycetophila modesta Dufour, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399302"
+    }
+,
+    {
+      "name": "Mycetophila ochracea Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399303"
+    }
+,
+    {
+      "name": "Mycetophila pallida Stannius, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399301"
+    }
+,
+    {
+      "name": "Mycetophila seriata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910452"
+    }
+,
+    {
+      "name": "Exechia setosa Matile, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781476"
+    }
+,
+    {
+      "name": "Exechia spinuligera Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226023"
+    }
+,
+    {
+      "name": "Exechia borealis Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399304"
+    }
+,
+    {
+      "name": "Exechiopsis Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Exechiopsis aemula Plassmann, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225991"
+    }
+,
+    {
+      "name": "Exechiopsis clypeata (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225992"
+    }
+,
+    {
+      "name": "Exechia clypeata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910484"
+    }
+,
+    {
+      "name": "Exechiopsis (Exechiopsis) clypeata (Lundstrom, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21968"
+    }
+,
+    {
+      "name": "Exechiopsis coremura (Edwards, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225993"
+    }
+,
+    {
+      "name": "Exechia coremura Edwards, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910485"
+    }
+,
+    {
+      "name": "Exechiopsis crucigera (Lundström, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226007"
+    }
+,
+    {
+      "name": "Exechia crucigera Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910486"
+    }
+,
+    {
+      "name": "Exechiopsis fimbriata (Lundström, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225994"
+    }
+,
+    {
+      "name": "Exechia fimbriata Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910487"
+    }
+,
+    {
+      "name": "Exechiopsis (Exechiopsis) fimbriata (Lundstrom, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21969"
+    }
+,
+    {
+      "name": "Exechiopsis furcata (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225995"
+    }
+,
+    {
+      "name": "Exechia furcata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910488"
+    }
+,
+    {
+      "name": "Exechiopsis hammi (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225996"
+    }
+,
+    {
+      "name": "Exechia hammi Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910489"
+    }
+,
+    {
+      "name": "Exechiopsis indecisa (Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225997"
+    }
+,
+    {
+      "name": "Exechiopsis (Exechiopsis) indecisa (Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21970"
+    }
+,
+    {
+      "name": "Mycetophila indecisa Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910490"
+    }
+,
+    {
+      "name": "Mycetophila tenuicornis van der Wulp, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399279"
+    }
+,
+    {
+      "name": "Mycetophila vicina Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399278"
+    }
+,
+    {
+      "name": "Exechiopsis intersecta (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225998"
+    }
+,
+    {
+      "name": "Exechia gracilicornis Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399280"
+    }
+,
+    {
+      "name": "Exechiopsis (Exechiopsis) intersecta (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21972"
+    }
+,
+    {
+      "name": "Mycetophila intersecta Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910491"
+    }
+,
+    {
+      "name": "Exechiopsis jenkinsoni (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225999"
+    }
+,
+    {
+      "name": "Exechia jenkinsoni Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910492"
+    }
+,
+    {
+      "name": "Exechiopsis leptura (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226008"
+    }
+,
+    {
+      "name": "Mycetophila leptura Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910493"
+    }
+,
+    {
+      "name": "Exechiopsis ligulata (Lundström, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226000"
+    }
+,
+    {
+      "name": "Exechia ligulata Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910494"
+    }
+,
+    {
+      "name": "Exechiopsis perita Plassmann, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399281"
+    }
+,
+    {
+      "name": "Exechiopsis magnicauda (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226001"
+    }
+,
+    {
+      "name": "Exechia magnicauda Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910495"
+    }
+,
+    {
+      "name": "Exechiopsis membranacea (Lundstrom, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921905"
+    }
+,
+    {
+      "name": "Exechia membranacea Lundstrom, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921906"
+    }
+,
+    {
+      "name": "Exechiopsis pollicata (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226009"
+    }
+,
+    {
+      "name": "Exechia pollicata Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910496"
+    }
+,
+    {
+      "name": "Exechiopsis pseudindecisa Laštovka & Matile, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226002"
+    }
+,
+    {
+      "name": "Exechiopsis pseudopulchella (Lundström, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284833"
+    }
+,
+    {
+      "name": "Exechia pseudopulchella Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910497"
+    }
+,
+    {
+      "name": "Exechiopsis (Exechiopsis) pseudopulchella (Lundstrom, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21973"
+    }
+,
+    {
+      "name": "Exechiopsis pulchella (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226003"
+    }
+,
+    {
+      "name": "Exechia forciposa Tollet, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399282"
+    }
+,
+    {
+      "name": "Exechia pulchella Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910498"
+    }
+,
+    {
+      "name": "Exechiopsis (Exechiopsis) pulchella (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21974"
+    }
+,
+    {
+      "name": "Exechiopsis sagittata Laštovka & Matile, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909755"
+    }
+,
+    {
+      "name": "Exechiopsis seducta (Plassmann, 1976)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284841"
+    }
+,
+    {
+      "name": "Exechia seducta Plassmann, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910499"
+    }
+,
+    {
+      "name": "Exechiopsis subulata (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226004"
+    }
+,
+    {
+      "name": "Exechia subulata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910500"
+    }
+,
+    {
+      "name": "Exechiopsis (Exechiopsis) subulata (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21975"
+    }
+,
+    {
+      "name": "Exechiopsis unguiculata (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226005"
+    }
+,
+    {
+      "name": "Exechia unguiculata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910501"
+    }
+,
+    {
+      "name": "Exechiopsis vizzavonensis (Edwards, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226006"
+    }
+,
+    {
+      "name": "Exechia vizzavonensis Edwards, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910502"
+    }
+,
+    {
+      "name": "Exechiopsis Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Gnoriste Meigen, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Gnoriste bilineata Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226195"
+    }
+,
+    {
+      "name": "Gnoriste trilineata Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399521"
+    }
+,
+    {
+      "name": "Gnoriste harcyniae von Röder, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226196"
+    }
+,
+    {
+      "name": "Gracilileia Matile, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Gracilileia aurata Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438725"
+    }
+,
+    {
+      "name": "Gracilileia lydiae Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438726"
+    }
+,
+    {
+      "name": "Gracilileia montana Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438727"
+    }
+,
+    {
+      "name": "Gracilileia redunda Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438728"
+    }
+,
+    {
+      "name": "Gracilileia tillierorum Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438729"
+    }
+,
+    {
+      "name": "Greenomyia Brunetti, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Greenomyia borealis (Winnertz, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921907"
+    }
+,
+    {
+      "name": "Glaphyroptera borealis Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921908"
+    }
+,
+    {
+      "name": "Greenomyia mongolica Laštovka & Matile, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848223"
+    }
+,
+    {
+      "name": "Grzegorzekia Edwards, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Grzegorzekia bushyae Chandler, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910504"
+    }
+,
+    {
+      "name": "Grzegorzekia collaris (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226194"
+    }
+,
+    {
+      "name": "Empalia stylifera Grzegorzek, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399519"
+    }
+,
+    {
+      "name": "Neoempheria pandellei Séguy, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399520"
+    }
+,
+    {
+      "name": "Polylepta splendida Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399518"
+    }
+,
+    {
+      "name": "Sciophila collaris Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910503"
+    }
+,
+    {
+      "name": "Sciophila diversa Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399517"
+    }
+,
+    {
+      "name": "Leia Meigen, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Leia bilineata (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285075"
+    }
+,
+    {
+      "name": "Glaphyroptera bilineata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910505"
+    }
+,
+    {
+      "name": "Leia bimaculata (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21810"
+    }
+,
+    {
+      "name": "Leia fasciola Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399491"
+    }
+,
+    {
+      "name": "Leia octomaculata Curtis, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399492"
+    }
+,
+    {
+      "name": "Leia stigmatella van der Wulp, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399494"
+    }
+,
+    {
+      "name": "Mycetophila bimaculata Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910506"
+    }
+,
+    {
+      "name": "Mycetophila flaviventris von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399493"
+    }
+,
+    {
+      "name": "Leia crucigera Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226181"
+    }
+,
+    {
+      "name": "Leia cylindrica (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226182"
+    }
+,
+    {
+      "name": "Glaphyroptera cylindrica Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910507"
+    }
+,
+    {
+      "name": "Leia delobeli Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438730"
+    }
+,
+    {
+      "name": "Leia fascipennis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21812"
+    }
+,
+    {
+      "name": "Leia flavicornis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399495"
+    }
+,
+    {
+      "name": "Leia fuscicalcar Edwards, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226183"
+    }
+,
+    {
+      "name": "Leia picta Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226184"
+    }
+,
+    {
+      "name": "Leia bivittata von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399497"
+    }
+,
+    {
+      "name": "Leia posticata Zetterstedt, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399498"
+    }
+,
+    {
+      "name": "Mycetophila trimaculata Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399496"
+    }
+,
+    {
+      "name": "Leia subfasciata (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21813"
+    }
+,
+    {
+      "name": "Leia lunulata von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399501"
+    }
+,
+    {
+      "name": "Leia marklini Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399499"
+    }
+,
+    {
+      "name": "Mycetophyla subfasciata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910508"
+    }
+,
+    {
+      "name": "Neoglaphyroptera tricuspidata Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399502"
+    }
+,
+    {
+      "name": "Platyura bifasciata von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399500"
+    }
+,
+    {
+      "name": "Leia umbrosa Caspers, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226185"
+    }
+,
+    {
+      "name": "Leia winthemii Lehmann, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226186"
+    }
+,
+    {
+      "name": "Leia trifasciata Walker, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399504"
+    }
+,
+    {
+      "name": "Leia uncinata Ostroverkhova & Grishina, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399505"
+    }
+,
+    {
+      "name": "Leia winthemi Lehmann, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21814"
+    }
+,
+    {
+      "name": "Mycetophila maculipennis Say, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399503"
+    }
+,
+    {
+      "name": "Leptomorphus Curtis, 1831",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptomorphus walkeri Curtis, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21816"
+    }
+,
+    {
+      "name": "Leia apicalis von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399203"
+    }
+,
+    {
+      "name": "Macrobrachius Dziedzicki, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Macrobrachius kowarzii Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226170"
+    }
+,
+    {
+      "name": "Manota Williston, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Manota acutistylus Jaschhof & Hippa, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959442"
+    }
+,
+    {
+      "name": "Manota aligera Hippa, Kurina & Sääksjärvi, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978765"
+    }
+,
+    {
+      "name": "Manota appendiculata Hippa & Kurina, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959438"
+    }
+,
+    {
+      "name": "Manota corniculata Kurina & Hippa, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978744"
+    }
+,
+    {
+      "name": "Manota ctenophora Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438731"
+    }
+,
+    {
+      "name": "Manota digitata Hippa, Kurina & Sääksjärvi, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978772"
+    }
+,
+    {
+      "name": "Manota diversiseta Jaschhof & Hippa, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959444"
+    }
+,
+    {
+      "name": "Manota ibanezi Hippa & Huerta, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959446"
+    }
+,
+    {
+      "name": "Manota inornata Jaschhof & Hippa, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959445"
+    }
+,
+    {
+      "name": "Manota iota Hippa & Kurina, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959439"
+    }
+,
+    {
+      "name": "Manota micula Hippa & Kurina, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978775"
+    }
+,
+    {
+      "name": "Manota nordestina Kurina, Hippa & Amorim, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978778"
+    }
+,
+    {
+      "name": "Manota patula Hippa & Kurina, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959440"
+    }
+,
+    {
+      "name": "Manota pisinna Hippa & Kurina, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959441"
+    }
+,
+    {
+      "name": "Manota pseudocavata Kurina & Hippa, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978748"
+    }
+,
+    {
+      "name": "Manota serrulata Hippa, Kurina & Sääksjärvi, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978780"
+    }
+,
+    {
+      "name": "Manota spinosa Jaschhof & Hippa, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978786"
+    }
+,
+    {
+      "name": "Manota taedia Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438732"
+    }
+,
+    {
+      "name": "Manota truuverki Kurina & Hippa, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978762"
+    }
+,
+    {
+      "name": "Manota unifurcata Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226178"
+    }
+,
+    {
+      "name": "Megalopelma Enderlein, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Megalopelma nigroclavatum (Strobl, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21818"
+    }
+,
+    {
+      "name": "Lasiosoma nigroclavatum Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910693"
+    }
+,
+    {
+      "name": "Megophthalmidia Dziedzicki, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Megophthalmidia crassicornis (Curtis, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226180"
+    }
+,
+    {
+      "name": "Cordyla valida Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399487"
+    }
+,
+    {
+      "name": "Leia brevicornis Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399485"
+    }
+,
+    {
+      "name": "Leia crassicornis Curtis, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910695"
+    }
+,
+    {
+      "name": "Leia ferruginea van der Wulp, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399488"
+    }
+,
+    {
+      "name": "Leia helvola Haliday in Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399486"
+    }
+,
+    {
+      "name": "Megophthalmidia zugmayeriae Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399489"
+    }
+,
+    {
+      "name": "Rutrophora rufina Schnuse, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399490"
+    }
+,
+    {
+      "name": "Monoclona Mik, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Monoclona braueri (Strobl, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225930"
+    }
+,
+    {
+      "name": "Acnemia braueri Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910706"
+    }
+,
+    {
+      "name": "Monoclona forcipata Strobl, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399196"
+    }
+,
+    {
+      "name": "Monoclona rufilatera (Walker, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21821"
+    }
+,
+    {
+      "name": "Acnemia weigandi Plassmann, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399202"
+    }
+,
+    {
+      "name": "Monoclona aristata Ostroverkhova, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399201"
+    }
+,
+    {
+      "name": "Monoclona atrata Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399199"
+    }
+,
+    {
+      "name": "Monoclona elegantula Johannsen, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399200"
+    }
+,
+    {
+      "name": "Sciophila halterata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399197"
+    }
+,
+    {
+      "name": "Sciophila rufilatera Walker, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910711"
+    }
+,
+    {
+      "name": "Staegeria unicornuta Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399198"
+    }
+,
+    {
+      "name": "Mycetophila Meigen, 1803",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycetophila abiecta (Laštovka, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226118"
+    }
+,
+    {
+      "name": "Fungivora abiecta Laštovka, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910717"
+    }
+,
+    {
+      "name": "Mycetophila adumbrata Mik, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226119"
+    }
+,
+    {
+      "name": "Mycetophila alea Laffoon, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226120"
+    }
+,
+    {
+      "name": "Mycetophila guttata Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399404"
+    }
+,
+    {
+      "name": "Mycetophila arcuata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931103"
+    }
+,
+    {
+      "name": "Mycetophila autumnalis Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285003"
+    }
+,
+    {
+      "name": "Mycetophila bialorussica Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226121"
+    }
+,
+    {
+      "name": "Mycetophila biusta Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21979"
+    }
+,
+    {
+      "name": "Mycetophila blanda Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226122"
+    }
+,
+    {
+      "name": "Fungivora lucidithorax Bukowski, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399405"
+    }
+,
+    {
+      "name": "Mycetophila bohemica (Laštovka, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226123"
+    }
+,
+    {
+      "name": "Fungivora bohemica Laštovka, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921719"
+    }
+,
+    {
+      "name": "Mycetophila britannica Laštovka, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226124"
+    }
+,
+    {
+      "name": "Mycetophila caudata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226125"
+    }
+,
+    {
+      "name": "Mycetophila gibba Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399406"
+    }
+,
+    {
+      "name": "Mycetophila ocellata Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399408"
+    }
+,
+    {
+      "name": "Mycetophila polita Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399407"
+    }
+,
+    {
+      "name": "Mycetophila cingulum Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21980"
+    }
+,
+    {
+      "name": "Leia bifasciata von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399410"
+    }
+,
+    {
+      "name": "Mycetophila lunulata Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399409"
+    }
+,
+    {
+      "name": "Mycetophila confluens Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226126"
+    }
+,
+    {
+      "name": "Fungivora sibirica Plotnikova, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399411"
+    }
+,
+    {
+      "name": "Mycetophila franzi Plassmann, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399412"
+    }
+,
+    {
+      "name": "Mycetophila confusa Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226127"
+    }
+,
+    {
+      "name": "Mycetophila affluctata Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399413"
+    }
+,
+    {
+      "name": "Mycetophila corsica Edwards, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226128"
+    }
+,
+    {
+      "name": "Mycetophila curviseta Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226129"
+    }
+,
+    {
+      "name": "Mycetophila devia Plassmann & Schacht, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399414"
+    }
+,
+    {
+      "name": "Mycetophila duodevia Plassmann & Schacht, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399415"
+    }
+,
+    {
+      "name": "Mycetophila czizekii Landrock, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21981"
+    }
+,
+    {
+      "name": "Mycetophila deflexa Chandler, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226130"
+    }
+,
+    {
+      "name": "Mycetophila dentata Lundström, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226131"
+    }
+,
+    {
+      "name": "Mycetophila permata Guthrie, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399416"
+    }
+,
+    {
+      "name": "Mycetophila dziedzickii Chandler, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226132"
+    }
+,
+    {
+      "name": "Mycetophila obscura Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399417"
+    }
+,
+    {
+      "name": "Mycetophila edwardsi Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226133"
+    }
+,
+    {
+      "name": "Mycetophila santosiana Stora, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399418"
+    }
+,
+    {
+      "name": "Mycetophila eppingensis Chandler, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921911"
+    }
+,
+    {
+      "name": "Mycetophila exstincta Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226134"
+    }
+,
+    {
+      "name": "Mycetophila longelamellata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399420"
+    }
+,
+    {
+      "name": "Mycetophila mikii Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399419"
+    }
+,
+    {
+      "name": "Mycetophila finlandica Edwards, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226135"
+    }
+,
+    {
+      "name": "Mycetophila forcipata Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226136"
+    }
+,
+    {
+      "name": "Mycetophila luteicauda Edwards, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399421"
+    }
+,
+    {
+      "name": "Mycetophila formosa Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21982"
+    }
+,
+    {
+      "name": "Fungivora difficilis Bukowski, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399423"
+    }
+,
+    {
+      "name": "Mycetophila pulchra Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399422"
+    }
+,
+    {
+      "name": "Mycetophila fraterna Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226137"
+    }
+,
+    {
+      "name": "Mycetophila fungorum (De Geer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21983"
+    }
+,
+    {
+      "name": "Mycetophila cunctans Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399425"
+    }
+,
+    {
+      "name": "Mycetophila grisea Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399430"
+    }
+,
+    {
+      "name": "Mycetophila punctata Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21984"
+    }
+,
+    {
+      "name": "Mycetophila rufa Macquart, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399427"
+    }
+,
+    {
+      "name": "Mycetophila semicincta Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399426"
+    }
+,
+    {
+      "name": "Mycetophila trivialis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399428"
+    }
+,
+    {
+      "name": "Mycetophila unicolor Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399429"
+    }
+,
+    {
+      "name": "Sciara striata Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399424"
+    }
+,
+    {
+      "name": "Tipula fungorum De Geer, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948939"
+    }
+,
+    {
+      "name": "Mycetophila gibbula Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226138"
+    }
+,
+    {
+      "name": "Mycetophila hetschkoi Landrock, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909756"
+    }
+,
+    {
+      "name": "Mycetophila hyrcania Laštovka & Matile, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226139"
+    }
+,
+    {
+      "name": "Mycetophila ichneumonea Say, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226140"
+    }
+,
+    {
+      "name": "Mycetophila centralis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399431"
+    }
+,
+    {
+      "name": "Mycetophila idonea Laštovka, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285017"
+    }
+,
+    {
+      "name": "Mycetophila lamellata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226141"
+    }
+,
+    {
+      "name": "Mycetophila lastovkai Caspers, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226142"
+    }
+,
+    {
+      "name": "Mycetophila lubomirskii Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226143"
+    }
+,
+    {
+      "name": "Mycetophila luctuosa Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21986"
+    }
+,
+    {
+      "name": "Mycetophila extenta Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399433"
+    }
+,
+    {
+      "name": "Mycetophila modesta Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399432"
+    }
+,
+    {
+      "name": "Mycetophila lunata Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21987"
+    }
+,
+    {
+      "name": "Mycetophila magnicauda Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226144"
+    }
+,
+    {
+      "name": "Mycetophila fereina Plassmann & Schacht, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399434"
+    }
+,
+    {
+      "name": "Mycetophila marginata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21988"
+    }
+,
+    {
+      "name": "Mycetophila mitis (Johannsen, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226145"
+    }
+,
+    {
+      "name": "Mycetophila jenkinsoni Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948941"
+    }
+,
+    {
+      "name": "Mycothera mitis Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948940"
+    }
+,
+    {
+      "name": "Mycetophila mohilevensis Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226146"
+    }
+,
+    {
+      "name": "Mycetophila nigrofusca Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226147"
+    }
+,
+    {
+      "name": "Mycetophila occultans Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226148"
+    }
+,
+    {
+      "name": "Mycetophila tarsata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399435"
+    }
+,
+    {
+      "name": "Mycetophila ocellus Walker, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21989"
+    }
+,
+    {
+      "name": "Fungivora fenestratula var. rubiginosa Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006517"
+    }
+,
+    {
+      "name": "Mycetophila cinerea Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399436"
+    }
+,
+    {
+      "name": "Mycetophila dimidiata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21990"
+    }
+,
+    {
+      "name": "Mycetophila exusta Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399441"
+    }
+,
+    {
+      "name": "Mycetophila fenestrata Coquillett, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399439"
+    }
+,
+    {
+      "name": "Mycetophila fenestratula Becker, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399440"
+    }
+,
+    {
+      "name": "Mycetophila fusca van Duzee, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399444"
+    }
+,
+    {
+      "name": "Mycetophila monochaeta Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399437"
+    }
+,
+    {
+      "name": "Mycetophila praenubila Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399442"
+    }
+,
+    {
+      "name": "Mycetophila rubiginosa Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399443"
+    }
+,
+    {
+      "name": "Mycetophila vanderwulpii Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399438"
+    }
+,
+    {
+      "name": "Mycetophila ornata Stephens, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226149"
+    }
+,
+    {
+      "name": "Mycetophila paracruciator Laštovka & Matile, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226150"
+    }
+,
+    {
+      "name": "Mycetophila clavata Ostroverkhova, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006518"
+    }
+,
+    {
+      "name": "Mycetophila perpallida Chandler, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226151"
+    }
+,
+    {
+      "name": "Mycetophila pictula Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21991"
+    }
+,
+    {
+      "name": "Mycetophila imitator Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399447"
+    }
+,
+    {
+      "name": "Mycetophila laufferi Strobl, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399446"
+    }
+,
+    {
+      "name": "Sciara bimaculata Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399445"
+    }
+,
+    {
+      "name": "Mycetophila pumila Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226152"
+    }
+,
+    {
+      "name": "Fungivora unimaculata Bukowski, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399449"
+    }
+,
+    {
+      "name": "Mycetophila fluctata Becker, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399448"
+    }
+,
+    {
+      "name": "Mycetophila unimaculata Bukowski, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998502"
+    }
+,
+    {
+      "name": "Mycetophila pyrenaica Matile, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226153"
+    }
+,
+    {
+      "name": "Mycetophila quadra Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226154"
+    }
+,
+    {
+      "name": "Mycetophila triaculeata Ostroverkhova, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399450"
+    }
+,
+    {
+      "name": "Mycetophila ruficollis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226155"
+    }
+,
+    {
+      "name": "Mycetophila schnablii (Dziedzicki, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226156"
+    }
+,
+    {
+      "name": "Mycetophila flavoscutellata Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399452"
+    }
+,
+    {
+      "name": "Mycetophila major Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399451"
+    }
+,
+    {
+      "name": "Mycothera schnablii Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948942"
+    }
+,
+    {
+      "name": "Mycetophila scotica Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226157"
+    }
+,
+    {
+      "name": "Mycetophila sepulta (Laffoon, 1957)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226158"
+    }
+,
+    {
+      "name": "Fungivora sepulta Laffoon, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921739"
+    }
+,
+    {
+      "name": "Mycetophila sigillata Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226159"
+    }
+,
+    {
+      "name": "Mycetophila sigmoides Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285038"
+    }
+,
+    {
+      "name": "Mycetophila signata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21995"
+    }
+,
+    {
+      "name": "Fungivora fasciata Plotnikova, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399453"
+    }
+,
+    {
+      "name": "Mycetophila signatoides Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226160"
+    }
+,
+    {
+      "name": "Fungivora conformis Matile, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399454"
+    }
+,
+    {
+      "name": "Mycetophila assimilis Matile, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399455"
+    }
+,
+    {
+      "name": "Mycetophila sordida van der Wulp, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226161"
+    }
+,
+    {
+      "name": "Mycetophila spectabilis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21996"
+    }
+,
+    {
+      "name": "Mycetophila stolida Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21997"
+    }
+,
+    {
+      "name": "Mycetophila socia Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399456"
+    }
+,
+    {
+      "name": "Mycetophila strigata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226162"
+    }
+,
+    {
+      "name": "Mycetophila fuliginosa Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399458"
+    }
+,
+    {
+      "name": "Mycetophila trichonota Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399457"
+    }
+,
+    {
+      "name": "Mycetophila strigatoides Landrock, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226163"
+    }
+,
+    {
+      "name": "Fungivora pseudoquadra Bukowski, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399459"
+    }
+,
+    {
+      "name": "Mycetophila pseudoquadroides Matile, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399460"
+    }
+,
+    {
+      "name": "Mycetophila strobli Laštovka, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226164"
+    }
+,
+    {
+      "name": "Mycetophila bivittata Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399461"
+    }
+,
+    {
+      "name": "Mycetophila stylata (Dziedzicki, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226165"
+    }
+,
+    {
+      "name": "Mycothera stylata Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921747"
+    }
+,
+    {
+      "name": "Mycetophila subsigillata Zaitzev, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909757"
+    }
+,
+    {
+      "name": "Mycetophila tridentata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848229"
+    }
+,
+    {
+      "name": "Mycetophila trinotata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226166"
+    }
+,
+    {
+      "name": "Mycetophila quatuornotata Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399462"
+    }
+,
+    {
+      "name": "Mycetophila russata Dziedzicki, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399463"
+    }
+,
+    {
+      "name": "Mycetophila subquatuornotata Shaw, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399465"
+    }
+,
+    {
+      "name": "Mycetophila ujhelyii Lundström, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399464"
+    }
+,
+    {
+      "name": "Mycetophila uliginosa Chandler, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226167"
+    }
+,
+    {
+      "name": "Mycetophila unicolor Stannius, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21998"
+    }
+,
+    {
+      "name": "Fungivora similis Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399468"
+    }
+,
+    {
+      "name": "Mycetophila fusconitens Becker, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399466"
+    }
+,
+    {
+      "name": "Mycetophila posticalis Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399467"
+    }
+,
+    {
+      "name": "Mycetophila uninotata Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226168"
+    }
+,
+    {
+      "name": "Mycetophila unipunctata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226169"
+    }
+,
+    {
+      "name": "Mycetophila inculta Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399469"
+    }
+,
+    {
+      "name": "Mycetophila vittipes Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21999"
+    }
+,
+    {
+      "name": "Mycetophila continens Becker, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399470"
+    }
+,
+    {
+      "name": "Mycetophila xanthopyga Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22000"
+    }
+,
+    {
+      "name": "Mycetophila melanochroitica Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399471"
+    }
+,
+    {
+      "name": "Mycomya Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycomya affinis (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225966"
+    }
+,
+    {
+      "name": "Mycomyia (Mycomyopsis) affinis (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21845"
+    }
+,
+    {
+      "name": "Sciophila affinis Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921914"
+    }
+,
+    {
+      "name": "Sciophila flava Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399248"
+    }
+,
+    {
+      "name": "Mycomya alpina Matile, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225934"
+    }
+,
+    {
+      "name": "Mycomya annulata (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225935"
+    }
+,
+    {
+      "name": "Sciophila annulata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948944"
+    }
+,
+    {
+      "name": "Sciophila incisurata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399213"
+    }
+,
+    {
+      "name": "Mycomya bicolor (Dziedzicki, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225936"
+    }
+,
+    {
+      "name": "Mycomya maxima Johannsen, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948948"
+    }
+,
+    {
+      "name": "Sciophila bicolor Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948945"
+    }
+,
+    {
+      "name": "Mycomya brunnea (Dziedzicki, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225937"
+    }
+,
+    {
+      "name": "Sciophila brunnea Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921806"
+    }
+,
+    {
+      "name": "Mycomya cinerascens (Macquart, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225938"
+    }
+,
+    {
+      "name": "Mycomya incompta Johannsen, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399218"
+    }
+,
+    {
+      "name": "Mycomya sequax Johannsen, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399219"
+    }
+,
+    {
+      "name": "Mycomyia (Mycomyia) cinerascens (Macquart, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21830"
+    }
+,
+    {
+      "name": "Sciophila alacris Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399215"
+    }
+,
+    {
+      "name": "Sciophila cinerascens Macquart, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948949"
+    }
+,
+    {
+      "name": "Sciophila hyalinata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399214"
+    }
+,
+    {
+      "name": "Sciophila inanis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399216"
+    }
+,
+    {
+      "name": "Sciophila supposita Strobl, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399217"
+    }
+,
+    {
+      "name": "Mycomya circumdata (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225933"
+    }
+,
+    {
+      "name": "Mycomyia (Cymomyia) circumdata (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21825"
+    }
+,
+    {
+      "name": "Sciophila abruptinervis Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399212"
+    }
+,
+    {
+      "name": "Sciophila circumdata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812985"
+    }
+,
+    {
+      "name": "Sciophila lucorum Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399211"
+    }
+,
+    {
+      "name": "Mycomya collini Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909759"
+    }
+,
+    {
+      "name": "Mycomya danielae Matile, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225939"
+    }
+,
+    {
+      "name": "Mycomya denmax Väisänen, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225940"
+    }
+,
+    {
+      "name": "Mycomya dziedzickii Väisänen, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225941"
+    }
+,
+    {
+      "name": "Sciophila fulva Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399220"
+    }
+,
+    {
+      "name": "Mycomya fimbriata (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225971"
+    }
+,
+    {
+      "name": "Mycomya flavithorax Brunetti, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948954"
+    }
+,
+    {
+      "name": "Mycomyia alternata Fisher, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399251"
+    }
+,
+    {
+      "name": "Sciophila fimbriata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948951"
+    }
+,
+    {
+      "name": "Mycomya fissa (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225942"
+    }
+,
+    {
+      "name": "Sciophila fissa Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948955"
+    }
+,
+    {
+      "name": "Mycomya flavicollis (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225943"
+    }
+,
+    {
+      "name": "Sciophila flavicollis Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921821"
+    }
+,
+    {
+      "name": "Sciophila fraterna Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399221"
+    }
+,
+    {
+      "name": "Mycomya fornicata (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225944"
+    }
+,
+    {
+      "name": "Sciophila fornicata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948958"
+    }
+,
+    {
+      "name": "Mycomya griseovittata (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225945"
+    }
+,
+    {
+      "name": "Mycomya magna Garrett, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399225"
+    }
+,
+    {
+      "name": "Mycomyia gimmerthali Landrock, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399226"
+    }
+,
+    {
+      "name": "Sciophila clavigera Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399224"
+    }
+,
+    {
+      "name": "Sciophila fasciata Gimmerthal, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399223"
+    }
+,
+    {
+      "name": "Sciophila fasciata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399222"
+    }
+,
+    {
+      "name": "Sciophila griseovittata Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921833"
+    }
+,
+    {
+      "name": "Mycomya hebrardi Väisänen & Matile, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225946"
+    }
+,
+    {
+      "name": "Mycomyia lindrothi Plassmann, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399227"
+    }
+,
+    {
+      "name": "Mycomya insignis (Winnertz, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225947"
+    }
+,
+    {
+      "name": "Empheria insignis Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921489"
+    }
+,
+    {
+      "name": "Sciophila wrzesniowskii Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399228"
+    }
+,
+    {
+      "name": "Mycomya marginata (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225948"
+    }
+,
+    {
+      "name": "Sciophila limbata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399229"
+    }
+,
+    {
+      "name": "Sciophila marginata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948959"
+    }
+,
+    {
+      "name": "Mycomya matilei Väisänen, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225949"
+    }
+,
+    {
+      "name": "Mycomya maura (Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225967"
+    }
+,
+    {
+      "name": "Sciophila lugubris Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948961"
+    }
+,
+    {
+      "name": "Sciophila maura Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948960"
+    }
+,
+    {
+      "name": "Mycomya minuscula Matile, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438710"
+    }
+,
+    {
+      "name": "Mycomya neohyalinata Väisänen, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225950"
+    }
+,
+    {
+      "name": "Mycomya hyalinata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926146"
+    }
+,
+    {
+      "name": "Mycomya nitida (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225951"
+    }
+,
+    {
+      "name": "Mycomyia (Mycomyia) nitida (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21835"
+    }
+,
+    {
+      "name": "Sciophila exigua Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399230"
+    }
+,
+    {
+      "name": "Sciophila nitida Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812986"
+    }
+,
+    {
+      "name": "Mycomya occultans (Winnertz, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225952"
+    }
+,
+    {
+      "name": "Sciophila corcyrensis Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399231"
+    }
+,
+    {
+      "name": "Sciophila occultans Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921846"
+    }
+,
+    {
+      "name": "Mycomya ornata (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225953"
+    }
+,
+    {
+      "name": "Sciophila ornata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812987"
+    }
+,
+    {
+      "name": "Mycomya paradentata Väisänen, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225968"
+    }
+,
+    {
+      "name": "Mycomya parva (Dziedzicki, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225954"
+    }
+,
+    {
+      "name": "Sciophila parva Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948963"
+    }
+,
+    {
+      "name": "Mycomya permixta Väisänen, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225969"
+    }
+,
+    {
+      "name": "Mycomya perparva Matile, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438711"
+    }
+,
+    {
+      "name": "Mycomya prominens (Lundström, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225955"
+    }
+,
+    {
+      "name": "Sciophila prominens Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948965"
+    }
+,
+    {
+      "name": "Mycomya punctata (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225956"
+    }
+,
+    {
+      "name": "Platyura punctata Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812979"
+    }
+,
+    {
+      "name": "Sciophila unimaculata Macquart, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399232"
+    }
+,
+    {
+      "name": "Mycomya ruficollis (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225957"
+    }
+,
+    {
+      "name": "Sciophila ruficollis Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948967"
+    }
+,
+    {
+      "name": "Mycomya rufonigra Matile, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438712"
+    }
+,
+    {
+      "name": "Mycomya shermani Garrett, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225958"
+    }
+,
+    {
+      "name": "Mycomyia kingi Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399233"
+    }
+,
+    {
+      "name": "Mycomya sigma Johannsen, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225959"
+    }
+,
+    {
+      "name": "Mycomyia duplicata Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399235"
+    }
+,
+    {
+      "name": "Mycomyia noctivaga Plassmann, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399236"
+    }
+,
+    {
+      "name": "Sciophila trivittata Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399234"
+    }
+,
+    {
+      "name": "Mycomya tenuis (Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225960"
+    }
+,
+    {
+      "name": "Mycomyia (Mycomyia) tenuis (Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21838"
+    }
+,
+    {
+      "name": "Mycomyia intermissa Plassmann, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399239"
+    }
+,
+    {
+      "name": "Sciophila apicalis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399237"
+    }
+,
+    {
+      "name": "Sciophila radoszkowskii Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399238"
+    }
+,
+    {
+      "name": "Sciophila tenuis Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812988"
+    }
+,
+    {
+      "name": "Mycomya tridens (Lundström, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225961"
+    }
+,
+    {
+      "name": "Sciophila tridens Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948970"
+    }
+,
+    {
+      "name": "Mycomya trilineata (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225970"
+    }
+,
+    {
+      "name": "Mycomyia (Mycomyopsis) trilineata (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21847"
+    }
+,
+    {
+      "name": "Sciophila fusca Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399249"
+    }
+,
+    {
+      "name": "Sciophila trilineata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812989"
+    }
+,
+    {
+      "name": "Sciophila univittata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399250"
+    }
+,
+    {
+      "name": "Mycomya trivittata (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225962"
+    }
+,
+    {
+      "name": "Mycomyia (Mycomyia) trivittata (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21840"
+    }
+,
+    {
+      "name": "Mycomyia nigra Fisher, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399243"
+    }
+,
+    {
+      "name": "Polylepta fragilis Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399240"
+    }
+,
+    {
+      "name": "Sciophila abruptinervis Strobl, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399242"
+    }
+,
+    {
+      "name": "Sciophila marginata Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399241"
+    }
+,
+    {
+      "name": "Sciophila trivittata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812990"
+    }
+,
+    {
+      "name": "Mycomya tumida (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225963"
+    }
+,
+    {
+      "name": "Sciophila tumida Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948971"
+    }
+,
+    {
+      "name": "Mycomya wankowiczii (Dziedzicki, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225964"
+    }
+,
+    {
+      "name": "Mycomyia (Mycomyia) wankowiczii (Dziedzicki, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21841"
+    }
+,
+    {
+      "name": "Sciophila ferruginea Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399244"
+    }
+,
+    {
+      "name": "Sciophila notabilis Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399245"
+    }
+,
+    {
+      "name": "Sciophila sororcula Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399246"
+    }
+,
+    {
+      "name": "Sciophila wankowiczii Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812991"
+    }
+,
+    {
+      "name": "Mycomya winnertzi (Dziedzicki, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225965"
+    }
+,
+    {
+      "name": "Mycomyia parascopula Fisher, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399247"
+    }
+,
+    {
+      "name": "Sciophila winnertzi Dziedzicki, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812992"
+    }
+,
+    {
+      "name": "Mycomya yoshimotoi Matile, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438713"
+    }
+,
+    {
+      "name": "Mycomya Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Myrosia Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Myrosia maculosa (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225990"
+    }
+,
+    {
+      "name": "Allodiopsis (Myrosia) maculosa (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21917"
+    }
+,
+    {
+      "name": "Mycetophila maculosa Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921943"
+    }
+,
+    {
+      "name": "Neoaphelomera Miller, 1945",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoaphelomera seclusa Matile, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438714"
+    }
+,
+    {
+      "name": "Neoempheria Osten Sacken, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoempheria bimaculata (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21856"
+    }
+,
+    {
+      "name": "Empheria formosa Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399210"
+    }
+,
+    {
+      "name": "Sciophila bimaculata von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948973"
+    }
+,
+    {
+      "name": "Neoempheria pictipennis (Haliday, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21858"
+    }
+,
+    {
+      "name": "Sciophila pictipennis Haliday, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921944"
+    }
+,
+    {
+      "name": "Neoempheria proxima (Winnertz, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921946"
+    }
+,
+    {
+      "name": "Empheria proxima Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921947"
+    }
+,
+    {
+      "name": "Neoempheria striata (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21859"
+    }
+,
+    {
+      "name": "Sciophila striata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948974"
+    }
+,
+    {
+      "name": "Neoempheria stubbsi Chandler & Ribeiro, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921949"
+    }
+,
+    {
+      "name": "Neoempheria winnertzi Edwards, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225932"
+    }
+,
+    {
+      "name": "Neuratelia Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Neuratelia minor (Lundström, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225928"
+    }
+,
+    {
+      "name": "Anaclinia minor Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948975"
+    }
+,
+    {
+      "name": "Neuratelia nemoralis (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21862"
+    }
+,
+    {
+      "name": "Leptomorphus elongatus Walker, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399195"
+    }
+,
+    {
+      "name": "Mycetophila nemoralis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948976"
+    }
+,
+    {
+      "name": "Neuratelia nigricornis Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21863"
+    }
+,
+    {
+      "name": "Neuratelia spinosa Matile, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225929"
+    }
+,
+    {
+      "name": "Notolopha Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Notolopha cristata (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225989"
+    }
+,
+    {
+      "name": "Allodiopsis (Notolopha) cristata (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21919"
+    }
+,
+    {
+      "name": "Mycetophila brachycera Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399276"
+    }
+,
+    {
+      "name": "Mycetophila cristata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921952"
+    }
+,
+    {
+      "name": "Rhymosia brevicornis Sherman, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399277"
+    }
+,
+    {
+      "name": "Novakia Strobl, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Novakia scatopsiformis Strobl, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848225"
+    }
+,
+    {
+      "name": "Novakia simillima Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848226"
+    }
+,
+    {
+      "name": "Opsion Gistel, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Opsion pappi (Ševčik, 2004)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925193"
+    }
+,
+    {
+      "name": "Sceptonia pappi Ševčik, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925194"
+    }
+,
+    {
+      "name": "Palaeodocosia Meunier, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Palaeodocosia vittata (Coquillett, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226193"
+    }
+,
+    {
+      "name": "Docosia vittata Coquillett, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921953"
+    }
+,
+    {
+      "name": "Heteropygium janickii Dziedzicki, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399516"
+    }
+,
+    {
+      "name": "Paratinia Mik, 1874",
+      "url": ""
+    }
+,
+    {
+      "name": "Paratinia sciarina Mik, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21865"
+    }
+,
+    {
+      "name": "Parempheriella Matile, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "Parempheriella setosa Matile, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781478"
+    }
+,
+    {
+      "name": "Phronia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Phronia basalis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22002"
+    }
+,
+    {
+      "name": "Phronia laeta Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399370"
+    }
+,
+    {
+      "name": "Phronia biarcuata (Becker, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226098"
+    }
+,
+    {
+      "name": "Phronia insularis Landrock, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399376"
+    }
+,
+    {
+      "name": "Phronia johannae Steenberg, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399374"
+    }
+,
+    {
+      "name": "Phronia praecox Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399375"
+    }
+,
+    {
+      "name": "Telmaphilus biarcuata Becker, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921958"
+    }
+,
+    {
+      "name": "Telmaphilus flavidus Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399372"
+    }
+,
+    {
+      "name": "Telmaphilus humeralis Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399371"
+    }
+,
+    {
+      "name": "Telmaphilus ochraceus Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399373"
+    }
+,
+    {
+      "name": "Phronia bicolor Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226099"
+    }
+,
+    {
+      "name": "Phronia fusciventris van Duzee, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399377"
+    }
+,
+    {
+      "name": "Phronia braueri Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22003"
+    }
+,
+    {
+      "name": "Phronia annulata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22004"
+    }
+,
+    {
+      "name": "Phronia vittata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399378"
+    }
+,
+    {
+      "name": "Phronia cinerascens Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22005"
+    }
+,
+    {
+      "name": "Phronia truncata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399379"
+    }
+,
+    {
+      "name": "Phronia conformis (Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226100"
+    }
+,
+    {
+      "name": "Mycetophila conformis Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948977"
+    }
+,
+    {
+      "name": "Mycetophila leiodes Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399380"
+    }
+,
+    {
+      "name": "Phronia difficilis Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399383"
+    }
+,
+    {
+      "name": "Phronia emarginata Strobl, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399382"
+    }
+,
+    {
+      "name": "Phronia girschnerii Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399381"
+    }
+,
+    {
+      "name": "Phronia coritanica Chandler, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226101"
+    }
+,
+    {
+      "name": "Phronia crassipes Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399384"
+    }
+,
+    {
+      "name": "Phronia disgrega Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226102"
+    }
+,
+    {
+      "name": "Phronia angulosa Ostroverkhova, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399385"
+    }
+,
+    {
+      "name": "Phronia egregia Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226103"
+    }
+,
+    {
+      "name": "Phronia melaena Edwards, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399386"
+    }
+,
+    {
+      "name": "Phronia exigua (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22006"
+    }
+,
+    {
+      "name": "Mycetophila exigua Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948978"
+    }
+,
+    {
+      "name": "Phronia longipes Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399387"
+    }
+,
+    {
+      "name": "Phronia rustica Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399388"
+    }
+,
+    {
+      "name": "Phronia venusta Johansen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399389"
+    }
+,
+    {
+      "name": "Phronia flavipes Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22008"
+    }
+,
+    {
+      "name": "Phronia flabellata van Duzee, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399390"
+    }
+,
+    {
+      "name": "Phronia forcipata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22009"
+    }
+,
+    {
+      "name": "Phronia uncinata Lundström, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399391"
+    }
+,
+    {
+      "name": "Phronia forcipula Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226104"
+    }
+,
+    {
+      "name": "Phronia meniscoidea Ostroverkhova, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399393"
+    }
+,
+    {
+      "name": "Phronia pygisiaca Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399392"
+    }
+,
+    {
+      "name": "Phronia humeralis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226105"
+    }
+,
+    {
+      "name": "Phronia umbricula Grzegorzek, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399394"
+    }
+,
+    {
+      "name": "Phronia longelamellata Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226106"
+    }
+,
+    {
+      "name": "Phronia dubioides Matile, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399396"
+    }
+,
+    {
+      "name": "Phronia minuta Landrock, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399395"
+    }
+,
+    {
+      "name": "Phronia lutescens Hackman, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226107"
+    }
+,
+    {
+      "name": "Phronia maculata Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226108"
+    }
+,
+    {
+      "name": "Phronia nigricornis (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22010"
+    }
+,
+    {
+      "name": "Mycetophila nigricornis Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948979"
+    }
+,
+    {
+      "name": "Phronia dubia Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22011"
+    }
+,
+    {
+      "name": "Phronia insulsa Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399397"
+    }
+,
+    {
+      "name": "Phronia nitidiventris (van der Wulp, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22012"
+    }
+,
+    {
+      "name": "Mycetophila nitidiventris van der Wulp, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948980"
+    }
+,
+    {
+      "name": "Phronia squalida Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399398"
+    }
+,
+    {
+      "name": "Phronia vitiosa Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22013"
+    }
+,
+    {
+      "name": "Phronia notata Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226109"
+    }
+,
+    {
+      "name": "Phronia obtusa Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226110"
+    }
+,
+    {
+      "name": "Phronia petulans Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226111"
+    }
+,
+    {
+      "name": "Phronia signata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226112"
+    }
+,
+    {
+      "name": "Phronia austriaca Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399399"
+    }
+,
+    {
+      "name": "Phronia spinigera Hackman, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226113"
+    }
+,
+    {
+      "name": "Phronia strenua Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226114"
+    }
+,
+    {
+      "name": "Phronia flavicollis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22007"
+    }
+,
+    {
+      "name": "Phronia taczanowskyi Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284996"
+    }
+,
+    {
+      "name": "Phronia tenuis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22015"
+    }
+,
+    {
+      "name": "Phronia basalis van Duzee, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399400"
+    }
+,
+    {
+      "name": "Phronia californica Fisher, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399401"
+    }
+,
+    {
+      "name": "Phronia hitchcocki Shaw, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399402"
+    }
+,
+    {
+      "name": "Phronia triangularis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226115"
+    }
+,
+    {
+      "name": "Phronia tyrrhenica Edwards, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226116"
+    }
+,
+    {
+      "name": "Phronia forcipula tyrrhenica Edwards, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909566"
+    }
+,
+    {
+      "name": "Phronia vitrea Plassmann, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921963"
+    }
+,
+    {
+      "name": "Phronia willistoni Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226117"
+    }
+,
+    {
+      "name": "Phronia incisa Caspers, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399403"
+    }
+,
+    {
+      "name": "Phthinia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Phthinia dallaii Zaitzev, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225925"
+    }
+,
+    {
+      "name": "Phthinia humilis Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21867"
+    }
+,
+    {
+      "name": "Phthinia mira (Ostroverkhova, 1977)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225926"
+    }
+,
+    {
+      "name": "Coelophthinia mira Ostroverkhova, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921965"
+    }
+,
+    {
+      "name": "Phthinia plassmanni Caspers, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399194"
+    }
+,
+    {
+      "name": "Phthinia winnertzi Mik, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225927"
+    }
+,
+    {
+      "name": "Platurocypta Enderlein, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Platurocypta punctum (Stannius, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22018"
+    }
+,
+    {
+      "name": "Mycetophila lycogalae Perris, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399367"
+    }
+,
+    {
+      "name": "Mycetophila obsoleta Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399368"
+    }
+,
+    {
+      "name": "Mycetophila punctum Stannius, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948981"
+    }
+,
+    {
+      "name": "Platurocypta testata (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226097"
+    }
+,
+    {
+      "name": "Epicypta fumipennis Bukowski, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399369"
+    }
+,
+    {
+      "name": "Epicypta testata Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948982"
+    }
+,
+    {
+      "name": "Polylepta Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Polylepta guttiventris (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21869"
+    }
+,
+    {
+      "name": "Polylepta flava Grzegorzek, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399190"
+    }
+,
+    {
+      "name": "Polylepta major Landrock, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399192"
+    }
+,
+    {
+      "name": "Polylepta obediens Johannsen, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399191"
+    }
+,
+    {
+      "name": "Polylepta undulata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399189"
+    }
+,
+    {
+      "name": "Sciophila guttiventris Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948984"
+    }
+,
+    {
+      "name": "Polylepta zonata Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225924"
+    }
+,
+    {
+      "name": "Polylepta meridionalis Bechev, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399193"
+    }
+,
+    {
+      "name": "Pseudexechia Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudexechia monica Kjærendsen & Chandler, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726821"
+    }
+,
+    {
+      "name": "Pseudexechia parallela (Edwards, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225986"
+    }
+,
+    {
+      "name": "Exechia parallela Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921967"
+    }
+,
+    {
+      "name": "Pseudexechia trisignata (Edwards, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225987"
+    }
+,
+    {
+      "name": "Exechia trisignata Edwards, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922709"
+    }
+,
+    {
+      "name": "Pseudexechia trivittata (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225988"
+    }
+,
+    {
+      "name": "Exechia pulchrigastris Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399275"
+    }
+,
+    {
+      "name": "Mycetophila trivittata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925296"
+    }
+,
+    {
+      "name": "Pseudexechia tuomikoskii Kjaerandsen, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925294"
+    }
+,
+    {
+      "name": "Pseudobrachypeza Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudobrachypeza helvetica (Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22020"
+    }
+,
+    {
+      "name": "Allodia barbipes Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399272"
+    }
+,
+    {
+      "name": "Boletina helvetica Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948985"
+    }
+,
+    {
+      "name": "Brachypeza spuria Edwards, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399273"
+    }
+,
+    {
+      "name": "Pseudobrachypeza pseudohelvetica Plassmann, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399274"
+    }
+,
+    {
+      "name": "Rondaniella Johannsen, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Rondaniella dimidiata (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226179"
+    }
+,
+    {
+      "name": "Leia abbreviata Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399483"
+    }
+,
+    {
+      "name": "Leia apicalis Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399480"
+    }
+,
+    {
+      "name": "Leia elegans Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399481"
+    }
+,
+    {
+      "name": "Leia sororcula Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399484"
+    }
+,
+    {
+      "name": "Leia terminalis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399479"
+    }
+,
+    {
+      "name": "Leia variegata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399482"
+    }
+,
+    {
+      "name": "Mycetophila dimidiata Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948987"
+    }
+,
+    {
+      "name": "Rymosia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Rymosia affinis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22022"
+    }
+,
+    {
+      "name": "Rhymosia affinis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009378"
+    }
+,
+    {
+      "name": "Rymosia gracilipes Dziedzicki, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399265"
+    }
+,
+    {
+      "name": "Rymosia beaucournui Matile, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225976"
+    }
+,
+    {
+      "name": "Rymosia bifida Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225977"
+    }
+,
+    {
+      "name": "Rhymosia minor Landrock, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399266"
+    }
+,
+    {
+      "name": "Rymosia britteni Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284794"
+    }
+,
+    {
+      "name": "Rymosia fasciata (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22025"
+    }
+,
+    {
+      "name": "Mycetophila fasciata Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948988"
+    }
+,
+    {
+      "name": "Rhymosia fasciata (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009497"
+    }
+,
+    {
+      "name": "Rymosia lundstroemi Dziedzicki, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225978"
+    }
+,
+    {
+      "name": "Rhymosia matilei Burghele-Balacesco, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399267"
+    }
+,
+    {
+      "name": "Rymosia placida Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225979"
+    }
+,
+    {
+      "name": "Rymosia pseudocretensis Burghele-Balacesco, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225980"
+    }
+,
+    {
+      "name": "Rymosia setiger Dziedzicki, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225981"
+    }
+,
+    {
+      "name": "Rhymosia appendiculata Lackschewitz, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399268"
+    }
+,
+    {
+      "name": "Rymosia signatipes (van der Wulp, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225982"
+    }
+,
+    {
+      "name": "Mycetophila signatipes van der Wulp, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921968"
+    }
+,
+    {
+      "name": "Rymosia adventicia Plassmann, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399270"
+    }
+,
+    {
+      "name": "Rymosia truncata Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22028"
+    }
+,
+    {
+      "name": "Rymosia winnertzi Barendrecht, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399269"
+    }
+,
+    {
+      "name": "Rymosia spiniforceps Matile, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225983"
+    }
+,
+    {
+      "name": "Rymosia spinipes Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22027"
+    }
+,
+    {
+      "name": "Rhymosia nigrostriata Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399271"
+    }
+,
+    {
+      "name": "Rymosia tolleti Burghele-Balacesco, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225984"
+    }
+,
+    {
+      "name": "Rymosia tristis Matile, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225985"
+    }
+,
+    {
+      "name": "Rymosia virens Dziedzicki, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21514"
+    }
+,
+    {
+      "name": "Saigusaia Vockeroth, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "Saigusaia flaviventris (Strobl, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226192"
+    }
+,
+    {
+      "name": "Boletina flaviventris Strobl, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21889"
+    }
+,
+    {
+      "name": "Boletina reuteri Lundström, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399515"
+    }
+,
+    {
+      "name": "Sceptonia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Sceptonia concolor Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226089"
+    }
+,
+    {
+      "name": "Sceptonia costata (van der Wulp, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226090"
+    }
+,
+    {
+      "name": "Mycetophila costata van der Wulp, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921969"
+    }
+,
+    {
+      "name": "Sceptonia cryptocauda Chandler, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226091"
+    }
+,
+    {
+      "name": "Sceptonia flavipuncta Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226092"
+    }
+,
+    {
+      "name": "Sceptonia fumipes Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909760"
+    }
+,
+    {
+      "name": "Sceptonia membranacea Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226093"
+    }
+,
+    {
+      "name": "Sceptonia nigra (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21516"
+    }
+,
+    {
+      "name": "Mycetophila nigra Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897574"
+    }
+,
+    {
+      "name": "Sceptonia pilosa Bukowski, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226094"
+    }
+,
+    {
+      "name": "Sceptonia pughi Chandler, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226095"
+    }
+,
+    {
+      "name": "Sceptonia tenuis Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226096"
+    }
+,
+    {
+      "name": "Sciophila Meigen, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Sciophila arizonensis Zaitzev, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225914"
+    }
+,
+    {
+      "name": "Sciophila bonnevalensis Bouchard & Bouchard-Madrelle, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931234"
+    }
+,
+    {
+      "name": "Sciophila corlutea Chandler in Chandler & Blasco-Zumeta, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225915"
+    }
+,
+    {
+      "name": "Sciophila dziedzickii Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225916"
+    }
+,
+    {
+      "name": "Lasiosoma thoracica Dziedzicki, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399178"
+    }
+,
+    {
+      "name": "Sciophila fenestella Curtis, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225917"
+    }
+,
+    {
+      "name": "Sciophila geniculata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225918"
+    }
+,
+    {
+      "name": "Lasiosoma nitens Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399179"
+    }
+,
+    {
+      "name": "Sciophila hirta Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21872"
+    }
+,
+    {
+      "name": "Sciophila pilosa Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399180"
+    }
+,
+    {
+      "name": "Sciophila pilosula Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399181"
+    }
+,
+    {
+      "name": "Sciophila iberolutea Chandler & Blasco-Zumeta, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848231"
+    }
+,
+    {
+      "name": "Sciophila interrupta (Winnertz, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284689"
+    }
+,
+    {
+      "name": "Lasiosoma interrupta Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921970"
+    }
+,
+    {
+      "name": "Sciophila jakutica Blagoderov, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284690"
+    }
+,
+    {
+      "name": "Sciophila limbatella Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225919"
+    }
+,
+    {
+      "name": "Lasiosoma robusta Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399182"
+    }
+,
+    {
+      "name": "Sciophila sharpi Edwards, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399183"
+    }
+,
+    {
+      "name": "Sciophila lutea Macquart, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21873"
+    }
+,
+    {
+      "name": "Lasiosoma analis Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399185"
+    }
+,
+    {
+      "name": "Sciophila flavipennis von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399184"
+    }
+,
+    {
+      "name": "Sciophila nigronitida Landrock, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225920"
+    }
+,
+    {
+      "name": "Lasiosoma nigrum Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399186"
+    }
+,
+    {
+      "name": "Sciophila nonnisilva Hutson, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225921"
+    }
+,
+    {
+      "name": "Sciophila ocreata Philippi, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962790"
+    }
+,
+    {
+      "name": "Sciophila parviareolata Santos Abreu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848232"
+    }
+,
+    {
+      "name": "Sciophila plurisetosa Edwards, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284697"
+    }
+,
+    {
+      "name": "Sciophila pomacea Chandler, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931219"
+    }
+,
+    {
+      "name": "Sciophila ochracea Stephens in Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225922"
+    }
+,
+    {
+      "name": "Sciophila rufa Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21875"
+    }
+,
+    {
+      "name": "Sciophila silvatica Plotnikova, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284700"
+    }
+,
+    {
+      "name": "Sciophila thoracica Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225923"
+    }
+,
+    {
+      "name": "Sciophila quadriterga Hutson, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399187"
+    }
+,
+    {
+      "name": "Sciophila varia (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21876"
+    }
+,
+    {
+      "name": "Lasiosoma varia Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948990"
+    }
+,
+    {
+      "name": "Sciophila fulva Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399188"
+    }
+,
+    {
+      "name": "Sigmoleia Tonnoir & Edwards, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Sigmoleia minuta Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438733"
+    }
+,
+    {
+      "name": "Sigmoleia spinosistyla Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438734"
+    }
+,
+    {
+      "name": "Speolepta Edwards, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Speolepta leptogaster (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21878"
+    }
+,
+    {
+      "name": "Polylepta leptogaster Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948991"
+    }
+,
+    {
+      "name": "Speolepta dissona Plassmann, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399177"
+    }
+,
+    {
+      "name": "Stenophragma Skuse, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenophragma paponorum Matile, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438715"
+    }
+,
+    {
+      "name": "Stigmatomeria Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Stigmatomeria crassicornis (Stannius, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225975"
+    }
+,
+    {
+      "name": "Brevicornu (Brevicornu) bicolor (Macquart, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21927"
+    }
+,
+    {
+      "name": "Brevicornu (Stigmatomeria) crassicorne (Stannius, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21935"
+    }
+,
+    {
+      "name": "Brevicornu (Stigmatomeria) punctipes (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21936"
+    }
+,
+    {
+      "name": "Cordyla canescens Zetterstedt, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399261"
+    }
+,
+    {
+      "name": "Mycetophila bicolor Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399258"
+    }
+,
+    {
+      "name": "Mycetophila crassicornis Stannius, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948992"
+    }
+,
+    {
+      "name": "Mycetophila punctipes Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399259"
+    }
+,
+    {
+      "name": "Mycetophila sobria Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399262"
+    }
+,
+    {
+      "name": "Mycetophila spinicoxa Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399260"
+    }
+,
+    {
+      "name": "Rhymosia sparca Ostroverkhova, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399264"
+    }
+,
+    {
+      "name": "Stigmatomeria obscura (Winnertz, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726796"
+    }
+,
+    {
+      "name": "Allodia obscura Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399263"
+    }
+,
+    {
+      "name": "Synapha Meigen, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Synapha consueta Matile, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438716"
+    }
+,
+    {
+      "name": "Synapha fasciata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21905"
+    }
+,
+    {
+      "name": "Empalia paradoxa Edwards, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399513"
+    }
+,
+    {
+      "name": "Synapha vitripennis (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21906"
+    }
+,
+    {
+      "name": "Mycetophila finalis Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399514"
+    }
+,
+    {
+      "name": "Sciophila vitripennis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948994"
+    }
+,
+    {
+      "name": "Synplasta Skuse, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Synplasta bayardi (Matile, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225972"
+    }
+,
+    {
+      "name": "Allodiopsis bayardi Matile, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909727"
+    }
+,
+    {
+      "name": "Brevicornu turgidula Plassmann & Schacht, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399254"
+    }
+,
+    {
+      "name": "Synplasta exclusa (Dziedzicki, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922023"
+    }
+,
+    {
+      "name": "Rymosia exclusa Dziedzicki, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922024"
+    }
+,
+    {
+      "name": "Synplasta gracilis (Winnertz, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225973"
+    }
+,
+    {
+      "name": "Rhymosia simulatrix Lackschewitz, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399256"
+    }
+,
+    {
+      "name": "Rymosia gracilis Winnertz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922025"
+    }
+,
+    {
+      "name": "Rymosia tiefii Strobl, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399255"
+    }
+,
+    {
+      "name": "Synplasta rufilatera (Edwards, 1941)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284788"
+    }
+,
+    {
+      "name": "Rhymosia rufilatera Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922026"
+    }
+,
+    {
+      "name": "Synplasta sintenisi (Lackschewitz, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225974"
+    }
+,
+    {
+      "name": "Allodia schoengeisingensis Plassmann & Schacht, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399257"
+    }
+,
+    {
+      "name": "Rhymosia sintenisi Lackschewitz, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922028"
+    }
+,
+    {
+      "name": "Syntemna Winnertz, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Syntemna hungarica (Lundström, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226191"
+    }
+,
+    {
+      "name": "Loewiella hungarica Lundström, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922029"
+    }
+,
+    {
+      "name": "Syntemna bispina Plassmann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399512"
+    }
+,
+    {
+      "name": "Tarnania Tuomikoski, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Tarnania dziedzickii (Edwards, 1941)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21518"
+    }
+,
+    {
+      "name": "Rhymosia dziedzickii Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948995"
+    }
+,
+    {
+      "name": "Tarnania fenestralis (Meigen, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21519"
+    }
+,
+    {
+      "name": "Mycetophila apicalis Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399252"
+    }
+,
+    {
+      "name": "Mycetophila fenestralis Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949090"
+    }
+,
+    {
+      "name": "Tarnania bavaria Plassmann, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399253"
+    }
+,
+    {
+      "name": "Tarnania nemoralis (Edwards, 1941)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21520"
+    }
+,
+    {
+      "name": "Rhymosia nemoralis Edwards, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949091"
+    }
+,
+    {
+      "name": "Tarnania tarnanii (Dziedzicki, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21521"
+    }
+,
+    {
+      "name": "Rymosia tarnanii Dziedzicki, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949092"
+    }
+,
+    {
+      "name": "Tetragoneura Winnertz, 1846",
+      "url": ""
+    }
+,
+    {
+      "name": "Tetragoneura annulicornis Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438735"
+    }
+,
+    {
+      "name": "Tetragoneura auriculata Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438736"
+    }
+,
+    {
+      "name": "Tetragoneura baylaci Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438737"
+    }
+,
+    {
+      "name": "Tetragoneura boucheti Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438738"
+    }
+,
+    {
+      "name": "Tetragoneura bourgoini Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438739"
+    }
+,
+    {
+      "name": "Tetragoneura chazeaui Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438740"
+    }
+,
+    {
+      "name": "Tetragoneura fallaciosa Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438741"
+    }
+,
+    {
+      "name": "Tetragoneura hirsuticauda Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438742"
+    }
+,
+    {
+      "name": "Tetragoneura occulta Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438743"
+    }
+,
+    {
+      "name": "Tetragoneura pervigila Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438744"
+    }
+,
+    {
+      "name": "Tetragoneura reducta Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438745"
+    }
+,
+    {
+      "name": "Tetragoneura sylvatica (Curtis, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21880"
+    }
+,
+    {
+      "name": "Sciophila compressa Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399511"
+    }
+,
+    {
+      "name": "Sciophila sylvatica Curtis, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949093"
+    }
+,
+    {
+      "name": "Tetragoneura distincta Winnertz, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399510"
+    }
+,
+    {
+      "name": "Tetragoneura usitata Matile, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438746"
+    }
+,
+    {
+      "name": "Trichonta Winnertz, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichonta apicalis Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226082"
+    }
+,
+    {
+      "name": "Trichonta phronioides Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399350"
+    }
+,
+    {
+      "name": "Trichonta vernalis Landrock, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399351"
+    }
+,
+    {
+      "name": "Trichonta atricauda (Zetterstedt, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909761"
+    }
+,
+    {
+      "name": "Mycetophila atricauda Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909762"
+    }
+,
+    {
+      "name": "Trichonta bicolor Landrock, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226083"
+    }
+,
+    {
+      "name": "Trichonta brevicauda Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226084"
+    }
+,
+    {
+      "name": "Trichonta clavigera Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21524"
+    }
+,
+    {
+      "name": "Trichonta comica Gagné, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226085"
+    }
+,
+    {
+      "name": "Trichonta conjungens Lundstrom, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922034"
+    }
+,
+    {
+      "name": "Trichonta falcata Lundström, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21525"
+    }
+,
+    {
+      "name": "Trichonta albescens Dziedzicki, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399352"
+    }
+,
+    {
+      "name": "Trichonta foeda Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922036"
+    }
+,
+    {
+      "name": "Trichonta fragilis Gagné, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226086"
+    }
+,
+    {
+      "name": "Trichonta hamata Mik, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21527"
+    }
+,
+    {
+      "name": "Trichonta sagana Shaw, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399353"
+    }
+,
+    {
+      "name": "Trichonta icenica Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226087"
+    }
+,
+    {
+      "name": "Trichonta lyrica Gagné, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21528"
+    }
+,
+    {
+      "name": "Trichonta melanura (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21529"
+    }
+,
+    {
+      "name": "Mycetophila melanopyga Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399354"
+    }
+,
+    {
+      "name": "Mycetophila melanura Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922039"
+    }
+,
+    {
+      "name": "Trichonta paraterminalis Zaitzev, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922041"
+    }
+,
+    {
+      "name": "Trichonta pulchra Gagné, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284953"
+    }
+,
+    {
+      "name": "Trichonta subfusca Lundström, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21530"
+    }
+,
+    {
+      "name": "Trichonta submaculata (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21531"
+    }
+,
+    {
+      "name": "Mycetophila submaculata Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922043"
+    }
+,
+    {
+      "name": "Trichonta terminalis (Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21532"
+    }
+,
+    {
+      "name": "Mycetophila terminalis Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949094"
+    }
+,
+    {
+      "name": "Trichonta funebris Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399355"
+    }
+,
+    {
+      "name": "Trichonta venosa (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21533"
+    }
+,
+    {
+      "name": "Mycetophila venosa Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949095"
+    }
+,
+    {
+      "name": "Trichonta hansoni Shaw, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399357"
+    }
+,
+    {
+      "name": "Trichonta spinosa Lundström, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399356"
+    }
+,
+    {
+      "name": "Trichonta vitta (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21534"
+    }
+,
+    {
+      "name": "Mycetophila vitta Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949096"
+    }
+,
+    {
+      "name": "Trichonta canariensis Landrock, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399362"
+    }
+,
+    {
+      "name": "Trichonta diffissa Johannsen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399360"
+    }
+,
+    {
+      "name": "Trichonta floresiana Stora, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399363"
+    }
+,
+    {
+      "name": "Trichonta trivittata Santos Abréu, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399361"
+    }
+,
+    {
+      "name": "Trichonta trossula Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399358"
+    }
+,
+    {
+      "name": "Trichonta umbratica Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399359"
+    }
+,
+    {
+      "name": "Trichonta vulcani (Dziedzicki, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226088"
+    }
+,
+    {
+      "name": "Phronia appropinquata Strobl, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399364"
+    }
+,
+    {
+      "name": "Phronia vulcani Dziedzicki, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922047"
+    }
+,
+    {
+      "name": "Trichonta setigera Ostroverkhova, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399366"
+    }
+,
+    {
+      "name": "Trichonta trifida Lundström, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399365"
+    }
+,
+    {
+      "name": "Zygomyia Winnertz, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Zygomyia angusta Plassmann, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284921"
+    }
+,
+    {
+      "name": "Zygomyia humeralis (Wiedemann, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21537"
+    }
+,
+    {
+      "name": "Mycetophila humeralis Wiedemann, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949097"
+    }
+,
+    {
+      "name": "Mycetophila nigritula Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399345"
+    }
+,
+    {
+      "name": "Mycetophila pusilla Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399344"
+    }
+,
+    {
+      "name": "Zygomyia canescens Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21538"
+    }
+,
+    {
+      "name": "Zygomyia matilei Caspers, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284923"
+    }
+,
+    {
+      "name": "Zygomyia notata (Stannius, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21539"
+    }
+,
+    {
+      "name": "Mycetophila notata Stannius, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949098"
+    }
+,
+    {
+      "name": "Mycetophila paludosa Staeger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949099"
+    }
+,
+    {
+      "name": "Zygomyia pictipennis (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21540"
+    }
+,
+    {
+      "name": "Mycetophila pictipennis Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949100"
+    }
+,
+    {
+      "name": "Zygomyia pseudohumeralis Caspers, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226079"
+    }
+,
+    {
+      "name": "Zygomyia semifusca (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226080"
+    }
+,
+    {
+      "name": "Mycetophila semifusca Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21994"
+    }
+,
+    {
+      "name": "Mycetophila thaleri Plassmann, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399347"
+    }
+,
+    {
+      "name": "Zygomyia fascipennis Lundström, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399346"
+    }
+,
+    {
+      "name": "Zygomyia setosa Barendrecht, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/284924"
+    }
+,
+    {
+      "name": "Zygomyia valeriae Chandler, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226081"
+    }
+,
+    {
+      "name": "Zygomyia valida Winnertz, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21541"
+    }
+,
+    {
+      "name": "Zygomyia planitarsata Becker, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399349"
+    }
+,
+    {
+      "name": "Zygomyia simplex Strobl, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399348"
+    }
+,
+    {
+      "name": "Zygomyia vara (Stæger, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22030"
+    }
+,
+    {
+      "name": "Mycetophila vara Stæger, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922052"
+    }
+,
+    {
+      "name": "schiophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/mycetophilidae/schiophilinae/"
+    }
+
+  ]
+}

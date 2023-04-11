@@ -1,0 +1,507 @@
+
+{
+  "name": "leiognathidae",
+  "children": [
+
+    {
+      "name": "Leiognathidae Gill, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Equulites Fowler, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Equulites klunzingeri (Steindachner, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530143"
+    }
+,
+    {
+      "name": "Equula klunzingeri Steindachner, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925093"
+    }
+,
+    {
+      "name": "Leiognathus klunzingeri (Steindachner, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925092"
+    }
+,
+    {
+      "name": "Photoplagios klunzingeri (Steindachner, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925094"
+    }
+,
+    {
+      "name": "Equulites leuciscus (Günther, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542781"
+    }
+,
+    {
+      "name": "Equula leuciscus Günther, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564832"
+    }
+,
+    {
+      "name": "Equula longispina De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564834"
+    }
+,
+    {
+      "name": "Equulites novaehollandiae Munro, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564844"
+    }
+,
+    {
+      "name": "Leiognathus edwardsi Evermann & Seale, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558173"
+    }
+,
+    {
+      "name": "Leiognathus leuciscus (Günther, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424582"
+    }
+,
+    {
+      "name": "Leiognathus vermiculatus Fowler, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558181"
+    }
+,
+    {
+      "name": "Liognathus hastatus Ogilby, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564997"
+    }
+,
+    {
+      "name": "Photoplagios leuciscus (Günther, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587129"
+    }
+,
+    {
+      "name": "Equulites rivulatus (Temminck & Schlegel, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542782"
+    }
+,
+    {
+      "name": "Equula rivulata Temminck & Schlegel, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564837"
+    }
+,
+    {
+      "name": "Leiognathus rivulatus (Temminck & Schlegel, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424638"
+    }
+,
+    {
+      "name": "Photoplagios rivulatus (Temminck & Schlegel, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587130"
+    }
+,
+    {
+      "name": "Eubleekeria Fowler, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Eubleekeria splendens (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544433"
+    }
+,
+    {
+      "name": "Equula argentea De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564817"
+    }
+,
+    {
+      "name": "Equula gomorah Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564829"
+    }
+,
+    {
+      "name": "Equula ovalis De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564836"
+    }
+,
+    {
+      "name": "Equula simplex De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564841"
+    }
+,
+    {
+      "name": "Equula splendens Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564842"
+    }
+,
+    {
+      "name": "Eubleekeria ovalis (De Vis, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564854"
+    }
+,
+    {
+      "name": "Goomorah karah Russell, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563745"
+    }
+,
+    {
+      "name": "Leiognathus devisi Whitley, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558171"
+    }
+,
+    {
+      "name": "Leiognathus ovalis (De Vis, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558178"
+    }
+,
+    {
+      "name": "Leiognathus philippinus Fowler, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558179"
+    }
+,
+    {
+      "name": "Leiognathus spilotus Fowler, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553364"
+    }
+,
+    {
+      "name": "Leiognathus splendens (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424639"
+    }
+,
+    {
+      "name": "Leognathus splendens (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587131"
+    }
+,
+    {
+      "name": "Gazza Rüppell, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Gazza dentex (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424237"
+    }
+,
+    {
+      "name": "Equula dentex Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564822"
+    }
+,
+    {
+      "name": "Gazza minuta (Bloch, 1795)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424238"
+    }
+,
+    {
+      "name": "Equula dispar De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564823"
+    }
+,
+    {
+      "name": "Equula minuta (Bloch, 1795)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564835"
+    }
+,
+    {
+      "name": "Gaza minuta (Bloch, 1795)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587132"
+    }
+,
+    {
+      "name": "Gazza argentaria (Forster, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/560889"
+    }
+,
+    {
+      "name": "Gazza dispar (De Vis, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/560890"
+    }
+,
+    {
+      "name": "Gazza equulaeformis Rüppell, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/560891"
+    }
+,
+    {
+      "name": "Gazza equulasformis Rüppell, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587133"
+    }
+,
+    {
+      "name": "Gazza equuleformis Rüppell, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587134"
+    }
+,
+    {
+      "name": "Gazza tapeinosoma Bleeker, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/560892"
+    }
+,
+    {
+      "name": "Scomber minutus Bloch, 1795",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558599"
+    }
+,
+    {
+      "name": "Zeus argentarius Forster, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559255"
+    }
+,
+    {
+      "name": "Gazza squamiventralis Yamashita & Kimura, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891101"
+    }
+,
+    {
+      "name": "Leiognathus Lacepède, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Leiognathus dussumieri (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424578"
+    }
+,
+    {
+      "name": "Equula dussumieri Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564824"
+    }
+,
+    {
+      "name": "Leiognathus equulus (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424580"
+    }
+,
+    {
+      "name": "Equula caballa Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564820"
+    }
+,
+    {
+      "name": "Equula edentula (Bloch, 1795)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564825"
+    }
+,
+    {
+      "name": "Equula ensifera Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564826"
+    }
+,
+    {
+      "name": "Equula totta Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564843"
+    }
+,
+    {
+      "name": "Leiognathus argenteus Lacepède, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558170"
+    }
+,
+    {
+      "name": "Leiognathus edentulus (Bloch, 1795)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558172"
+    }
+,
+    {
+      "name": "Leiognathus equula (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558174"
+    }
+,
+    {
+      "name": "Leiognathus obscura Seale, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558177"
+    }
+,
+    {
+      "name": "Scomber edentulus Bloch, 1795",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/556854"
+    }
+,
+    {
+      "name": "Scomber equula Forsskål, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/556855"
+    }
+,
+    {
+      "name": "Leiognathus fasciatus (Lacepède, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424581"
+    }
+,
+    {
+      "name": "Aurigequula fasciata (Lacepède, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655079"
+    }
+,
+    {
+      "name": "Clupea fasciata Lacepède, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554638"
+    }
+,
+    {
+      "name": "Equula asina De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564818"
+    }
+,
+    {
+      "name": "Equula cara Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564821"
+    }
+,
+    {
+      "name": "Equula fasciata (Lacepède, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564827"
+    }
+,
+    {
+      "name": "Equula filigera Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564828"
+    }
+,
+    {
+      "name": "Equula serrulifera Richardson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564840"
+    }
+,
+    {
+      "name": "Leiognathus lineolatus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424637"
+    }
+,
+    {
+      "name": "Equula lineolata Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564833"
+    }
+,
+    {
+      "name": "Photoplagios lineolatus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/652039"
+    }
+,
+    {
+      "name": "Leiognathus longispinis (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698459"
+    }
+,
+    {
+      "name": "Equula longispinis Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704348"
+    }
+,
+    {
+      "name": "Equula smithursti Ramsay & Ogilby, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704349"
+    }
+,
+    {
+      "name": "Leiognathus smithursti (Ramsay & Ogilby, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704347"
+    }
+,
+    {
+      "name": "Photopectoralis Sparks, Dunlap & Smith, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "Photopectoralis bindus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544434"
+    }
+,
+    {
+      "name": "Equula bindus Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564819"
+    }
+,
+    {
+      "name": "Leiognathus bindus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424577"
+    }
+,
+    {
+      "name": "Leiognathus virgatus Fowler, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558182"
+    }
+,
+    {
+      "name": "Leiognatus bindus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587135"
+    }
+,
+    {
+      "name": "Secutor Gistel, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Secutor insidiator (Bloch, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425643"
+    }
+,
+    {
+      "name": "Equula insidiator (Bloch, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564830"
+    }
+,
+    {
+      "name": "Equula insidiatrix (Bloch, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587136"
+    }
+,
+    {
+      "name": "Leiognathus insidiator (Bloch, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558175"
+    }
+,
+    {
+      "name": "Secutor insiadiator (Bloch, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587137"
+    }
+,
+    {
+      "name": "Secutor insidator (Bloch, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587220"
+    }
+,
+    {
+      "name": "Secutor insidiatur (Bloch, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587221"
+    }
+,
+    {
+      "name": "Zeus insidiator Bloch, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559540"
+    }
+,
+    {
+      "name": "Secutor ruconius (Hamilton, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425644"
+    }
+,
+    {
+      "name": "Chanda ruconius Hamilton, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559489"
+    }
+,
+    {
+      "name": "Equula ruconia (Hamilton, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564838"
+    }
+,
+    {
+      "name": "Equula ruconius (Hamilton, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564839"
+    }
+,
+    {
+      "name": "Leiognathus ruconius (Hamilton, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558180"
+    }
+,
+    {
+      "name": "Secutor ruconeus (Hamilton, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587222"
+    }
+
+  ]
+}

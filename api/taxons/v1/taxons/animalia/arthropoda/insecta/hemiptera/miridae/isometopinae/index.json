@@ -1,0 +1,22 @@
+
+{
+  "name": "isometopinae",
+  "children": [
+
+    {
+      "name": "Isometopinae Fieber, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "isometopini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/miridae/isometopinae/isometopini/"
+    }
+,
+    {
+      "name": "myiommatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/miridae/isometopinae/myiommatini/"
+    }
+
+  ]
+}

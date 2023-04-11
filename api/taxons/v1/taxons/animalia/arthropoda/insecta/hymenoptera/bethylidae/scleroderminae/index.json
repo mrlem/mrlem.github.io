@@ -1,0 +1,352 @@
+
+{
+  "name": "scleroderminae",
+  "children": [
+
+    {
+      "name": "Scleroderminae Kieffer, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Acephalonomia Strejcek, 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "Acephalonomia cisidophaga Strejcek, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010140"
+    }
+,
+    {
+      "name": "Cephalonomia cisidophaga (Strejcek, 1990)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010142"
+    }
+,
+    {
+      "name": "Cephalonomia Westwood, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Holopedina Foerster, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Cephalonomia formiciformis Westwood, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010143"
+    }
+,
+    {
+      "name": "Cephalonomia formiciformis var. sulcata Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010150"
+    }
+,
+    {
+      "name": "Cephalonomia sulcata Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011013"
+    }
+,
+    {
+      "name": "Cephalonomia gallicola (Ashmead, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217838"
+    }
+,
+    {
+      "name": "Cephalonomia strandi Hoffer, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010304"
+    }
+,
+    {
+      "name": "Cephalonomia xambeui Giard, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010281"
+    }
+,
+    {
+      "name": "Holopedina nubilipennis Ashmead, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389679"
+    }
+,
+    {
+      "name": "Sclerochroa gallicola Ashmead, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010156"
+    }
+,
+    {
+      "name": "Cephalonomia giraudi Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010587"
+    }
+,
+    {
+      "name": "Cephalonomia hypobori Kieffer, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217839"
+    }
+,
+    {
+      "name": "Cephalonomia nigricornis Sarra, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389680"
+    }
+,
+    {
+      "name": "Cephalonomyia hypobori Kieffer, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010378"
+    }
+,
+    {
+      "name": "Cephalonomia maculata Maneval, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217840"
+    }
+,
+    {
+      "name": "Cephalonomia mycetophila Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217841"
+    }
+,
+    {
+      "name": "Cephalonomia nigrescens Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217842"
+    }
+,
+    {
+      "name": "Cephalonomia rufa Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217843"
+    }
+,
+    {
+      "name": "Cephalonomia stephanoderis Betrem, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589830"
+    }
+,
+    {
+      "name": "Cephalonomia unicolor Fouts, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776435"
+    }
+,
+    {
+      "name": "Cephalonomia venata Richards, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217844"
+    }
+,
+    {
+      "name": "Glenosema Kieffer, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Arysepyris Kieffer, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Glenosema merceti (Kieffer, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217854"
+    }
+,
+    {
+      "name": "Arysepyris merceti Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010514"
+    }
+,
+    {
+      "name": "Glenosema nigra Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217855"
+    }
+,
+    {
+      "name": "Glenosema occitanica H. Tussac & M. Tussac, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/443384"
+    }
+,
+    {
+      "name": "Plastanoxus Kieffer, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Snappania Hedqvist, 1975",
+      "url": ""
+    }
+,
+    {
+      "name": "Plastanoxus ahusiensis (Hedqvist, 1975)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011913"
+    }
+,
+    {
+      "name": "Plastanoxus ahuensis (Hedqvist, 1975)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011924"
+    }
+,
+    {
+      "name": "Plastanoxus ahuiensis (Hedqvist, 1975)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011923"
+    }
+,
+    {
+      "name": "Snappania ahusiensis Hedqvist, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011922"
+    }
+,
+    {
+      "name": "Plastanoxus laevis (Ashmead, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838894"
+    }
+,
+    {
+      "name": "Anoxus laevis Ashmead, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010515"
+    }
+,
+    {
+      "name": "Plastanoxus westwoodi (Kieffer, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011925"
+    }
+,
+    {
+      "name": "Cephalonomia westwoodi Kieffer, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011926"
+    }
+,
+    {
+      "name": "Sclerodermus Latreille, 1809",
+      "url": ""
+    }
+,
+    {
+      "name": "Ateleopterus Förster, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Schleroderma Costa, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Sclerochroa Foerster, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Scleroderma Latreille, 1809",
+      "url": ""
+    }
+,
+    {
+      "name": "Scleroderma Oken, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Sclerodermus abdominalis Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217882"
+    }
+,
+    {
+      "name": "Scleroderma abdominale Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010585"
+    }
+,
+    {
+      "name": "Scleroderma abdominalis Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010523"
+    }
+,
+    {
+      "name": "Sclerodermus ateleopterus (Foerster, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010530"
+    }
+,
+    {
+      "name": "Ateleopterus atelopterus (Foerster, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217833"
+    }
+,
+    {
+      "name": "Ateleopterus foersteri Kirchner, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389677"
+    }
+,
+    {
+      "name": "Bethylus ateleopterus Foerster, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010532"
+    }
+,
+    {
+      "name": "Bethylus atelopterus Foerster, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010527"
+    }
+,
+    {
+      "name": "Sclerodermus brevicornis Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217883"
+    }
+,
+    {
+      "name": "Scleroderma brevicorne Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010533"
+    }
+,
+    {
+      "name": "Sclerodermus domesticus Klug, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217884"
+    }
+,
+    {
+      "name": "Scleroderma domesticum Klug, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010583"
+    }
+,
+    {
+      "name": "Sclerodermus fonscolombei Westwood, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217885"
+    }
+,
+    {
+      "name": "Scleroderma fonscolombei Westwood, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010536"
+    }
+,
+    {
+      "name": "Sclerodermus fuscicornis Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217886"
+    }
+,
+    {
+      "name": "Scleroderma fuscicorne Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010584"
+    }
+,
+    {
+      "name": "Scleroderma fuscicornis Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010538"
+    }
+,
+    {
+      "name": "Sclerodermus nitidus Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217887"
+    }
+,
+    {
+      "name": "Scleroderma nitida Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010540"
+    }
+,
+    {
+      "name": "Scleroderma nitidum Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010586"
+    }
+,
+    {
+      "name": "Sclerodermus piceus Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217888"
+    }
+,
+    {
+      "name": "Scleroderma picea Westwood, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010535"
+    }
+
+  ]
+}

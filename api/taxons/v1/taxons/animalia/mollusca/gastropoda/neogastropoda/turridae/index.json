@@ -1,0 +1,817 @@
+
+{
+  "name": "turridae",
+  "children": [
+
+    {
+      "name": "Turridae H. Adams & A. Adams, 1853 (1838)",
+      "url": ""
+    }
+,
+    {
+      "name": "Pleurotomidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptogemma Dall, 1918",
+      "url": ""
+    }
+,
+    {
+      "name": "Bathybermudia F. Haas, 1949",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptogemma aethiopica (Thiele, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946579"
+    }
+,
+    {
+      "name": "Gemmula aethiopica (Thiele, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946580"
+    }
+,
+    {
+      "name": "Pinguigemmula philippinensis Powell, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537872"
+    }
+,
+    {
+      "name": "Pleurotoma (Gemmula) aethiopica Thiele, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946581"
+    }
+,
+    {
+      "name": "Cryptogemma periscelida (Dall, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946587"
+    }
+,
+    {
+      "name": "Gemmula periscelida (Dall, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460418"
+    }
+,
+    {
+      "name": "Pleurotoma periscelida Dall, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587327"
+    }
+,
+    {
+      "name": "Cryptogemma powelli Zaharias, Kantor, Fedosov, Criscione, Hallan, Kano, Bardin & Puillandre, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946583"
+    }
+,
+    {
+      "name": "Cryptogemma praesignis (E.A.Smith, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946571"
+    }
+,
+    {
+      "name": "Gemmula praesignis (E. A. Smith, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946574"
+    }
+,
+    {
+      "name": "Gemmula rotatilis (Martens, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946573"
+    }
+,
+    {
+      "name": "Pleurotoma praesignis E. A. Smith, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946572"
+    }
+,
+    {
+      "name": "Cryptogemma tessellata (Powell, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946576"
+    }
+,
+    {
+      "name": "Gemmula tessellata Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946577"
+    }
+,
+    {
+      "name": "Cryptogemma unilineata (Powell, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946575"
+    }
+,
+    {
+      "name": "Gemmula congener unilineata Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897986"
+    }
+,
+    {
+      "name": "Gemmula unilineata Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897985"
+    }
+,
+    {
+      "name": "Gemmula Weinkauff, 1875",
+      "url": ""
+    }
+,
+    {
+      "name": "Gemmula albina (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914865"
+    }
+,
+    {
+      "name": "Lophiotoma albina (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536513"
+    }
+,
+    {
+      "name": "Pleurotoma albina Lamarck, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587409"
+    }
+,
+    {
+      "name": "Gemmula amabilis (Weinkauff, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536512"
+    }
+,
+    {
+      "name": "Gemmula gemmata (Hinds, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683766"
+    }
+,
+    {
+      "name": "Pleurotoma amabilis Weinkauff & Kobelt, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587325"
+    }
+,
+    {
+      "name": "Pleurotoma gemmata Hinds, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683767"
+    }
+,
+    {
+      "name": "Gemmula cosmoi (Sykes, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699497"
+    }
+,
+    {
+      "name": "Turris cosmoi Sykes, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704042"
+    }
+,
+    {
+      "name": "Gemmula graeffei (Weinkauff, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591106"
+    }
+,
+    {
+      "name": "Pleurotoma graeffei Weinkauff, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691540"
+    }
+,
+    {
+      "name": "Gemmula hastula (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591073"
+    }
+,
+    {
+      "name": "Lophiotoma hastula (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655734"
+    }
+,
+    {
+      "name": "Pleurotoma hastula Reeve, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691297"
+    }
+,
+    {
+      "name": "Gemmula monilifera (Pease, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528057"
+    }
+,
+    {
+      "name": "Turris monilifera Pease, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587326"
+    }
+,
+    {
+      "name": "Gemmula pseudomonilifera Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528058"
+    }
+,
+    {
+      "name": "Gemmula rarimaculata Kuroda & Oyama, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897957"
+    }
+,
+    {
+      "name": "Gemmuloborsonia Shuto, 1989",
+      "url": ""
+    }
+,
+    {
+      "name": "Gemmuloborsonia colorata (Sysoev & Bouchet, 2001)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592837"
+    }
+,
+    {
+      "name": "Bathytoma colorata Sysoev & Bouchet, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592904"
+    }
+,
+    {
+      "name": "Gemmuloborsonia jarrigei Sysoev & Bouchet, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592753"
+    }
+,
+    {
+      "name": "Gemmuloborsonia moosai Sysoev & Bouchet, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897987"
+    }
+,
+    {
+      "name": "Gemmuloborsonia neocaledonica Sysoev & Bouchet, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592754"
+    }
+,
+    {
+      "name": "Iotyrris Medinskaya & Sysoev, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "Iotyrris cerithiformis (Powell, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528072"
+    }
+,
+    {
+      "name": "Xenuroturris cerithiformis Powell, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/586555"
+    }
+,
+    {
+      "name": "Iotyrris cingulifera (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/543280"
+    }
+,
+    {
+      "name": "Clamturris incredula Iredale, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681140"
+    }
+,
+    {
+      "name": "Lophiotoma cingulifera (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551127"
+    }
+,
+    {
+      "name": "Pleurotoma cingulifera Lamarck, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549553"
+    }
+,
+    {
+      "name": "Turris cingulifera ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549550"
+    }
+,
+    {
+      "name": "Xenuroturris cingulifera (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527157"
+    }
+,
+    {
+      "name": "Iotyrris devoizei Kantor, Puillandre, Olivera & Bouchet, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591110"
+    }
+,
+    {
+      "name": "Iotyrris kingae (Powell, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000495"
+    }
+,
+    {
+      "name": "Xenuroturris kingae Powell, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528129"
+    }
+,
+    {
+      "name": "Iotyrris marquesensis Sysoev, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526945"
+    }
+,
+    {
+      "name": "Iotyrris musivum Kantor, Puillandre, Olivera & Bouchet, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591111"
+    }
+,
+    {
+      "name": "Iotyrris olangoensis (Olivera, 2002)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976901"
+    }
+,
+    {
+      "name": "Lophiotoma olangoensis Olivera, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976902"
+    }
+,
+    {
+      "name": "Lophiotoma Casey, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Lophiotoma abbreviata (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590790"
+    }
+,
+    {
+      "name": "Pleurotoma abbreviata Reeve, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691108"
+    }
+,
+    {
+      "name": "Lophiotoma acuta (Perry, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526889"
+    }
+,
+    {
+      "name": "Pleurotoma acuta PerryG., 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587408"
+    }
+,
+    {
+      "name": "Lophiotoma brevicaudata (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590789"
+    }
+,
+    {
+      "name": "Pleurotoma brevicaudata Reeve, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691107"
+    }
+,
+    {
+      "name": "Lophiotoma picturata (Weinkauff, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000389"
+    }
+,
+    {
+      "name": "Pleurotoma picturata Weinkauff, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795119"
+    }
+,
+    {
+      "name": "Lophiotoma ruthveniana (Melvill, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591128"
+    }
+,
+    {
+      "name": "Turris ruthveniana Melvill, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691644"
+    }
+,
+    {
+      "name": "Lophiotoma semfala Puillandre, Fedosov, Zaharias, Aznar-Cormano & Kantor, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956554"
+    }
+,
+    {
+      "name": "Lucerapex Wenz, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Lucerapex cracens Kantor, Fedosov & Puillandre, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896086"
+    }
+,
+    {
+      "name": "Lucerapex indagatoris (Finlay, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537870"
+    }
+,
+    {
+      "name": "Gemmula indagatoris Finlay H.J., 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587410"
+    }
+,
+    {
+      "name": "Lucerapex laevicarinata Kantor, Fedosov & Puillandre, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896087"
+    }
+,
+    {
+      "name": "Lucerapex laevicarinatus Kantor, Fedosov & Puillandre, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896088"
+    }
+,
+    {
+      "name": "Polystira Woodring, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Polystira albida (G. Perry, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605713"
+    }
+,
+    {
+      "name": "Pleurotoma albida Perry G., 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/686335"
+    }
+,
+    {
+      "name": "Polystira florencae Bartsch, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605714"
+    }
+,
+    {
+      "name": "Polystira gruneri (Philippi, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762518"
+    }
+,
+    {
+      "name": "Pleurotoma gruneri Philippi, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896601"
+    }
+,
+    {
+      "name": "Polystira jelskii (Crosse, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606013"
+    }
+,
+    {
+      "name": "Pleurotoma jelskii Crosse, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896602"
+    }
+,
+    {
+      "name": "Polystira parvula Espinosa, Ortea & Moro, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848907"
+    }
+,
+    {
+      "name": "Polystira tellea (Dall, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460432"
+    }
+,
+    {
+      "name": "Pleurotoma tellea Dall, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587497"
+    }
+,
+    {
+      "name": "Polystira vibex (Dall, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605715"
+    }
+,
+    {
+      "name": "Pleurotoma antillarum Crosse, 1865 non d'Orbigny, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018474"
+    }
+,
+    {
+      "name": "Pleurotoma vibex Dall, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/686412"
+    }
+,
+    {
+      "name": "Polystira antillarum (Crosse, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896600"
+    }
+,
+    {
+      "name": "Purpuraturris K. Chase, Watkins, Safavi-Hemami & B. M. Olivera, 2022",
+      "url": ""
+    }
+,
+    {
+      "name": "Purpuraturris cristata (Vera-Peláez, Vega-Luz & Lozano-Francisco, 2000)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018626"
+    }
+,
+    {
+      "name": "Turris cristata Vera-Peláez, Vega-Luz & Lozano-Francisco, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591138"
+    }
+,
+    {
+      "name": "Purpuraturris cryptorraphe (G. B. Sowerby I, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018627"
+    }
+,
+    {
+      "name": "Murex bicarinatus W. Wood, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691655"
+    }
+,
+    {
+      "name": "Pleurotoma cryptorrhaphe G.B. Sowerby I, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691654"
+    }
+,
+    {
+      "name": "Pleurotoma woodii Kiener, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691656"
+    }
+,
+    {
+      "name": "Turris cryptorrhaphe (G. B. Sowerby I, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591139"
+    }
+,
+    {
+      "name": "Turridrupa Hedley, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Turridrupa acutigemmata (E.A. Smith, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536564"
+    }
+,
+    {
+      "name": "Pleurotoma acutigemmata Smith E. A., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587478"
+    }
+,
+    {
+      "name": "Turridrupa albofasciata (E. A. Smith, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591137"
+    }
+,
+    {
+      "name": "Pleurotoma albofasciata Smith E. A., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691653"
+    }
+,
+    {
+      "name": "Turridrupa armillata (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528122"
+    }
+,
+    {
+      "name": "Pleurotoma armillata Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587479"
+    }
+,
+    {
+      "name": "Turridrupa astricta (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526912"
+    }
+,
+    {
+      "name": "Pleurotoma astricta Reeve, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587480"
+    }
+,
+    {
+      "name": "Turridrupa bijubata (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536565"
+    }
+,
+    {
+      "name": "Pleurotoma bijubata Reeve, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549554"
+    }
+,
+    {
+      "name": "Surcula bijubata (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683856"
+    }
+,
+    {
+      "name": "Turricula bijubata (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683857"
+    }
+,
+    {
+      "name": "Turridrupa cincta (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536518"
+    }
+,
+    {
+      "name": "Pleurotoma cincta Lamarck, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549552"
+    }
+,
+    {
+      "name": "Surcula cincta (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683792"
+    }
+,
+    {
+      "name": "Turris cincta ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683791"
+    }
+,
+    {
+      "name": "Turridrupa consobrina Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010853"
+    }
+,
+    {
+      "name": "Turridrupa astricta consobrina Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010854"
+    }
+,
+    {
+      "name": "Turridrupa deceptrix Hedley, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528124"
+    }
+,
+    {
+      "name": "Turridrupa diffusa Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526909"
+    }
+,
+    {
+      "name": "Turridrupa jubata (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526910"
+    }
+,
+    {
+      "name": "Pleurotoma jubata Reeve, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587481"
+    }
+,
+    {
+      "name": "Turridrupa weaveri Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526911"
+    }
+,
+    {
+      "name": "Turris Batsch, 1789",
+      "url": ""
+    }
+,
+    {
+      "name": "Turris babylonia (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718160"
+    }
+,
+    {
+      "name": "Lophiotoma babylonia (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720779"
+    }
+,
+    {
+      "name": "Murex babylonius Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720773"
+    }
+,
+    {
+      "name": "Turris assyria Olivera, Seronay & Fedosov, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720774"
+    }
+,
+    {
+      "name": "Turris imperfecti Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720775"
+    }
+,
+    {
+      "name": "Turris nobilis Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720776"
+    }
+,
+    {
+      "name": "Turris pulchra Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720777"
+    }
+,
+    {
+      "name": "Turris tornatum Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720778"
+    }
+,
+    {
+      "name": "Turris condei Vera-Peláez, Vega-Luz & Lozano-Francisco, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718165"
+    }
+,
+    {
+      "name": "Turris crispa (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536776"
+    }
+,
+    {
+      "name": "Pleurotoma crispa Lamarck, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587482"
+    }
+,
+    {
+      "name": "Turris dollyae Olivera, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681167"
+    }
+,
+    {
+      "name": "Turris garnonsii (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536384"
+    }
+,
+    {
+      "name": "Pleurotoma garnonsii Reeve, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587483"
+    }
+,
+    {
+      "name": "Turris guidopoppei Kilburn, Fedosov & Olivera, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718167"
+    }
+,
+    {
+      "name": "Turris kathiewayae Kilburn, Fedosov & Olivera, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718158"
+    }
+,
+    {
+      "name": "Turris pagasa Olivera, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718159"
+    }
+,
+    {
+      "name": "Turris kilburni Vera-Pelaez, Vega-Luz & Lozano-Francisco, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720772"
+    }
+,
+    {
+      "name": "Turris spectabilis (Reeve, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526790"
+    }
+,
+    {
+      "name": "Pleurotoma spectabilis Reeve, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587484"
+    }
+,
+    {
+      "name": "Unedogemmula MacNeil, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "Unedogemmula indica (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914866"
+    }
+,
+    {
+      "name": "Lophiotoma indica (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536514"
+    }
+,
+    {
+      "name": "Lophioturris indica (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683770"
+    }
+,
+    {
+      "name": "Turris indica Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683771"
+    }
+,
+    {
+      "name": "Unedogemmula unedo (Kiener, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900059"
+    }
+,
+    {
+      "name": "Gemmula unedo (Kiener, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900061"
+    }
+,
+    {
+      "name": "Pleurotoma unedo Kiener, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900060"
+    }
+,
+    {
+      "name": "Xenuroturris Iredale, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Xenuroturris gemmuloides Powell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528128"
+    }
+,
+    {
+      "name": "Xenuroturris legitima Iredale, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591372"
+    }
+,
+    {
+      "name": "Xenuroturris millepunctata (G.B. Sowerby III, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591141"
+    }
+,
+    {
+      "name": "Pleurotoma millepunctata G.B. Sowerby III, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691657"
+    }
+,
+    {
+      "name": "Xenuroturris millepuntatus (Sowerby, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528130"
+    }
+
+  ]
+}

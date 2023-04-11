@@ -1,0 +1,342 @@
+
+{
+  "name": "cerambycinae",
+  "children": [
+
+    {
+      "name": "Cerambycinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "achrysonini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/achrysonini/"
+    }
+,
+    {
+      "name": "anaglyptini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/anaglyptini/"
+    }
+,
+    {
+      "name": "aphneopini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/aphneopini/"
+    }
+,
+    {
+      "name": "bothriospilini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/bothriospilini/"
+    }
+,
+    {
+      "name": "brachypteromini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/brachypteromini/"
+    }
+,
+    {
+      "name": "callichromatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/callichromatini/"
+    }
+,
+    {
+      "name": "callidiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/callidiini/"
+    }
+,
+    {
+      "name": "callidiopini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/callidiopini/"
+    }
+,
+    {
+      "name": "cerambycini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/cerambycini/"
+    }
+,
+    {
+      "name": "certallini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/certallini/"
+    }
+,
+    {
+      "name": "clytini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/clytini/"
+    }
+,
+    {
+      "name": "compsocerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/compsocerini/"
+    }
+,
+    {
+      "name": "coptommatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/coptommatini/"
+    }
+,
+    {
+      "name": "deilini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/deilini/"
+    }
+,
+    {
+      "name": "dodecosini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/dodecosini/"
+    }
+,
+    {
+      "name": "eburiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/eburiini/"
+    }
+,
+    {
+      "name": "ectenessini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/ectenessini/"
+    }
+,
+    {
+      "name": "elaphidiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/elaphidiini/"
+    }
+,
+    {
+      "name": "glaucytini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/glaucytini/"
+    }
+,
+    {
+      "name": "graciliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/graciliini/"
+    }
+,
+    {
+      "name": "hesperophanini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/hesperophanini/"
+    }
+,
+    {
+      "name": "heteropsini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/heteropsini/"
+    }
+,
+    {
+      "name": "hexoplonini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/hexoplonini/"
+    }
+,
+    {
+      "name": "hylotrupini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/hylotrupini/"
+    }
+,
+    {
+      "name": "Arrhytmus Lameere, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "Arrhytmus rugosipennis Waterhouse, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853738"
+    }
+,
+    {
+      "name": "ideratini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/ideratini/"
+    }
+,
+    {
+      "name": "Kenyoeme Quentin & Villiers, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Kenyoeme pantherina Quentin & Villiers, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853741"
+    }
+,
+    {
+      "name": "Omotes Newman, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Omotes binotatum (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964289"
+    }
+,
+    {
+      "name": "Ceresium binotatum Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909899"
+    }
+,
+    {
+      "name": "Exaeretiformis binotatum (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964288"
+    }
+,
+    {
+      "name": "Omotes neocaledonicus Vives & Sudre, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924776"
+    }
+,
+    {
+      "name": "Omotes pilosus Vives & Sudre, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924781"
+    }
+,
+    {
+      "name": "Omotes rostratus Vives & Sudre, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924779"
+    }
+,
+    {
+      "name": "Omotes wanati Vives & Sudre, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924780"
+    }
+,
+    {
+      "name": "lissonotini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/lissonotini/"
+    }
+,
+    {
+      "name": "methiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/methiini/"
+    }
+,
+    {
+      "name": "molorchini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/molorchini/"
+    }
+,
+    {
+      "name": "nathriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/nathriini/"
+    }
+,
+    {
+      "name": "necydalopsini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/necydalopsini/"
+    }
+,
+    {
+      "name": "neocorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/neocorini/"
+    }
+,
+    {
+      "name": "neoibidionini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/neoibidionini/"
+    }
+,
+    {
+      "name": "obriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/obriini/"
+    }
+,
+    {
+      "name": "oemini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/oemini/"
+    }
+,
+    {
+      "name": "phlyctaenodini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/phlyctaenodini/"
+    }
+,
+    {
+      "name": "phoracanthini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/phoracanthini/"
+    }
+,
+    {
+      "name": "piesarthriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/piesarthriini/"
+    }
+,
+    {
+      "name": "piezocerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/piezocerini/"
+    }
+,
+    {
+      "name": "plectromerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/plectromerini/"
+    }
+,
+    {
+      "name": "protaxini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/protaxini/"
+    }
+,
+    {
+      "name": "psebiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/psebiini/"
+    }
+,
+    {
+      "name": "pteroplatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/pteroplatini/"
+    }
+,
+    {
+      "name": "rhagiomorphini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/rhagiomorphini/"
+    }
+,
+    {
+      "name": "rhinotragini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/rhinotragini/"
+    }
+,
+    {
+      "name": "rhopalophorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/rhopalophorini/"
+    }
+,
+    {
+      "name": "smodicini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/smodicini/"
+    }
+,
+    {
+      "name": "spintheriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/spintheriini/"
+    }
+,
+    {
+      "name": "stenhomalini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/stenhomalini/"
+    }
+,
+    {
+      "name": "stenopterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/stenopterini/"
+    }
+,
+    {
+      "name": "strongylurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/strongylurini/"
+    }
+,
+    {
+      "name": "tillomorphini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/tillomorphini/"
+    }
+,
+    {
+      "name": "torneutini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/torneutini/"
+    }
+,
+    {
+      "name": "trachyderini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/trachyderini/"
+    }
+,
+    {
+      "name": "xystrocerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerambycidae/cerambycinae/xystrocerini/"
+    }
+
+  ]
+}

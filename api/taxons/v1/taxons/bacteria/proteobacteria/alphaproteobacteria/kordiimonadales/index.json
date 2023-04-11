@@ -1,0 +1,22 @@
+
+{
+  "name": "kordiimonadales",
+  "children": [
+
+    {
+      "name": "Kordiimonadales Kwon, Lee, Yang & Kim, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "kordiimonadaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/kordiimonadales/kordiimonadaceae/"
+    }
+,
+    {
+      "name": "temperatibacteraceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/kordiimonadales/temperatibacteraceae/"
+    }
+
+  ]
+}

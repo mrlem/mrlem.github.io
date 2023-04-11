@@ -1,0 +1,22 @@
+
+{
+  "name": "naryciinae",
+  "children": [
+
+    {
+      "name": "Naryciinae Tutt, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "dahlicini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/naryciinae/dahlicini/"
+    }
+,
+    {
+      "name": "naryciini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/naryciinae/naryciini/"
+    }
+
+  ]
+}

@@ -1,0 +1,37 @@
+
+{
+  "name": "blaptinae",
+  "children": [
+
+    {
+      "name": "Blaptinae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "blaptini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/blaptinae/blaptini/"
+    }
+,
+    {
+      "name": "dendarini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/blaptinae/dendarini/"
+    }
+,
+    {
+      "name": "opatrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/blaptinae/opatrini/"
+    }
+,
+    {
+      "name": "pedinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/blaptinae/pedinini/"
+    }
+,
+    {
+      "name": "platynotini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/blaptinae/platynotini/"
+    }
+
+  ]
+}

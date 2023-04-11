@@ -1,0 +1,37 @@
+
+{
+  "name": "corynebacteriaceae",
+  "children": [
+
+    {
+      "name": "Corynebacteriaceae Lehmann & Neumann, 1907",
+      "url": ""
+    }
+,
+    {
+      "name": "Corynebacterium Lehmann & Neumann, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Corynebacterium accolens Neubauer, Sourek, Ryc, Bohacek, Mara & Mnukova, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952689"
+    }
+,
+    {
+      "name": "Corynebacterium cystitidis Yanagawa & Honda, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952690"
+    }
+,
+    {
+      "name": "Corynebacterium xerosis (Lehmann & Neumann) Lehmann & Neumann, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995898"
+    }
+,
+    {
+      "name": "Bacillus xerosis Lehmann & Neumann, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995900"
+    }
+
+  ]
+}

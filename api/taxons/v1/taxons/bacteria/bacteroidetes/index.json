@@ -1,0 +1,177 @@
+
+{
+  "name": "bacteroidetes",
+  "children": [
+
+    {
+      "name": "Bacteroidetes Krieg, Ludwig, Euzéby & Whitman, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Bacteroidales Krieg, 2012",
+      "url": ""
+    }
+,
+    {
+      "name": "Bacteroidaceae Pribram, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Bacteroides Castellani & Chalmers, 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "Bacteroides plebeius Kitahara, Sakamoto, Ike, Sakata & Benno, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952146"
+    }
+,
+    {
+      "name": "Dysgonomonadaceae Ormerod, Wood, Lachner, Gellatly, Daly, Parsons, Dal'Molin, Palfreyman, Nielsen & Cooper, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "Dysgonomonas Hofstad, Olsen, Eribe, Falsen, Collins & Lawson, 2000",
+      "url": ""
+    }
+,
+    {
+      "name": "Dysgonomonas macrotermitis Yang, Zhang, Ji, Lan, Zhang, Shen, Li & Ni, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/953347"
+    }
+,
+    {
+      "name": "Marinifilaceae Iino, Mori, Itoh, Kudo, Suzuki & Ohkuma, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Ancylomarina Wu, Zhao, Chen & Du, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "Ancylomarina subtilis Wu, Zhao, Chen & Du, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960131"
+    }
+,
+    {
+      "name": "Prevotellaceae Krieg, 2012",
+      "url": ""
+    }
+,
+    {
+      "name": "Alloprevotella Downes, Dewhirst, Tanner & Wade, 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "Alloprevotella tannerae (Moore, Johnson & Moore) Downes, Dewhirst, Tanner & Wade, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951592"
+    }
+,
+    {
+      "name": "Prevotella tannerae Moore, Johnson & Moore, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951593"
+    }
+,
+    {
+      "name": "Prolixibacteraceae Huang, Liu, Dong, Qu, Zhang, Wang, Tian & Zhang, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Roseimarinus Wu, Liu, Chen & Du, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Roseimarinus sediminis Wu, Liu, Chen & Du, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956351"
+    }
+,
+    {
+      "name": "Rikenellaceae Krieg, Staley, Brown, Hedlund, Paster, Ward, Ludwig & Whitman, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Alistipes Rautio, Eerola, Vaisanen-Tunkelrott, Molitoris, Lawson, Collins & Jousimies-Somer, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Alistipes finegoldii Rautio, Eerola, Vaisanen-Tunkelrott, Molitoris, Lawson, Collins & Jousimies-Somer, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951583"
+    }
+,
+    {
+      "name": "cytophagia",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/"
+    }
+,
+    {
+      "name": "flavobacteria",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/flavobacteria/"
+    }
+,
+    {
+      "name": "Marinilabiliales Wu, Zhao, Chen & Du, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "Marinilabiliaceae Ludwig, Euzéby & Whitman, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Carboxylicivirga Yang, Seo, Woo, Oh, Jang, Lee, Kim & Kwon, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Carboxylicivirga flava Wang, Qi, Chen, Dong, Tang & Hu, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952444"
+    }
+,
+    {
+      "name": "Labilibacter Lu, Zhao, Wang, Xie & Du, 2017",
+      "url": ""
+    }
+,
+    {
+      "name": "Labilibacter marinus (Liu, Li, Xiao, Lu, Chen & Du) Lu, Zhao, Wang, Xie & Du, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996746"
+    }
+,
+    {
+      "name": "Saccharicrinis marinus Liu, Li, Xiao, Lu, Chen & Du, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996745"
+    }
+,
+    {
+      "name": "Saccharicrinis Yang, Seo, Woo, Oh, Jang, Lee, Kim & Kwon, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Saccharicrinis carchari Liu, Wang, Li, Du & Chen, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956483"
+    }
+,
+    {
+      "name": "saprospiria",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/saprospiria/"
+    }
+,
+    {
+      "name": "sphingobacteriia",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/sphingobacteriia/"
+    }
+
+  ]
+}

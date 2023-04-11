@@ -1,0 +1,37 @@
+
+{
+  "name": "anthocorinae",
+  "children": [
+
+    {
+      "name": "Anthocorinae Fieber, 1836",
+      "url": ""
+    }
+,
+    {
+      "name": "anthocorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/anthocoridae/anthocorinae/anthocorini/"
+    }
+,
+    {
+      "name": "cardiastethini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/anthocoridae/anthocorinae/cardiastethini/"
+    }
+,
+    {
+      "name": "oriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/anthocoridae/anthocorinae/oriini/"
+    }
+,
+    {
+      "name": "scolopini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/anthocoridae/anthocorinae/scolopini/"
+    }
+,
+    {
+      "name": "xylocorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/anthocoridae/anthocorinae/xylocorini/"
+    }
+
+  ]
+}

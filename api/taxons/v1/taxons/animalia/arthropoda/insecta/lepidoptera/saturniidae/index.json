@@ -1,0 +1,42 @@
+
+{
+  "name": "saturniidae",
+  "children": [
+
+    {
+      "name": "Saturniidae Boisduval, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "agliinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/saturniidae/agliinae/"
+    }
+,
+    {
+      "name": "arsenurinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/saturniidae/arsenurinae/"
+    }
+,
+    {
+      "name": "ceratocampinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/saturniidae/ceratocampinae/"
+    }
+,
+    {
+      "name": "hemileucinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/saturniidae/hemileucinae/"
+    }
+,
+    {
+      "name": "oxyteninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/saturniidae/oxyteninae/"
+    }
+,
+    {
+      "name": "saturniinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/saturniidae/saturniinae/"
+    }
+
+  ]
+}

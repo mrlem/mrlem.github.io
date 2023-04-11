@@ -1,0 +1,327 @@
+
+{
+  "name": "sagittidae",
+  "children": [
+
+    {
+      "name": "Sagittidae Claus & Grobben, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Aidanosagitta Tokioka & Pathansali, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Aidanosagitta neglecta (Aida, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714088"
+    }
+,
+    {
+      "name": "Sagitta neglecta Aida, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720565"
+    }
+,
+    {
+      "name": "Aidanosagitta oceania (Grey, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714089"
+    }
+,
+    {
+      "name": "Sagitta oceania Grey, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720566"
+    }
+,
+    {
+      "name": "Aidanosagitta regularis (Aida, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714152"
+    }
+,
+    {
+      "name": "Sagitta regularis Aida, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714153"
+    }
+,
+    {
+      "name": "Caecosagitta Tokioka, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Caecosagitta macrocephala (Fowler, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930832"
+    }
+,
+    {
+      "name": "Sagitta macrocephala Fowler, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930833"
+    }
+,
+    {
+      "name": "Decipisagitta Bieri, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Decipisagitta decipiens (Fowler, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530125"
+    }
+,
+    {
+      "name": "Mesosagitta decipiens (Fowler, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369072"
+    }
+,
+    {
+      "name": "Mesosagitta neodecipiens (Tokioka, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369070"
+    }
+,
+    {
+      "name": "Sagitta decipiens Fowler, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/6865"
+    }
+,
+    {
+      "name": "Ferosagitta Kassatkina, 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Ferosagitta ferox (Doncaster, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762316"
+    }
+,
+    {
+      "name": "Ferosagitta galerita (Dallot, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762312"
+    }
+,
+    {
+      "name": "Ferosagitta robusta (Doncaster, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529351"
+    }
+,
+    {
+      "name": "Sagitta robusta Doncaster, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553326"
+    }
+,
+    {
+      "name": "Sagitta tokiokai Alvariño, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363601"
+    }
+,
+    {
+      "name": "Flaccisagitta Tokioka, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Flaccisagitta enflata (Grassi, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369065"
+    }
+,
+    {
+      "name": "Sagitta enflata Grassi, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/6873"
+    }
+,
+    {
+      "name": "Flaccisagitta hexaptera (d'Orbigny, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369066"
+    }
+,
+    {
+      "name": "Sagitta hexaptera d'Orbigny, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/6878"
+    }
+,
+    {
+      "name": "Mesosagitta Tokioka, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesosagitta minima (Grassi, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369073"
+    }
+,
+    {
+      "name": "Sagitta minima Grassi, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/6886"
+    }
+,
+    {
+      "name": "Parasagitta Tokioka, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Parasagitta elegans (Verrill, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369064"
+    }
+,
+    {
+      "name": "Sagitta elegans arctica ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546601"
+    }
+,
+    {
+      "name": "Sagitta elegans baltica ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546599"
+    }
+,
+    {
+      "name": "Sagitta elegans elegans Verrill, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/6870"
+    }
+,
+    {
+      "name": "Sagitta elegans Verrill, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/6869"
+    }
+,
+    {
+      "name": "Parasagitta megalophthalma (Dallot & Ducret, 1969)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957725"
+    }
+,
+    {
+      "name": "Sagitta megalophthalma Dallot & Ducret, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957726"
+    }
+,
+    {
+      "name": "Parasagitta setosa (J. Müller, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369063"
+    }
+,
+    {
+      "name": "Sagitta batava Biersteker & Van der Spoel, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363604"
+    }
+,
+    {
+      "name": "Sagitta setosa J. Müller, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546606"
+    }
+,
+    {
+      "name": "Pseudosagitta Germain & Joubin, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudosagitta lyra (Krohn, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369060"
+    }
+,
+    {
+      "name": "Flaccisagitta lyra (Krohn, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582664"
+    }
+,
+    {
+      "name": "Pseudosagitta scrippsae (Alvarino, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553298"
+    }
+,
+    {
+      "name": "Sagitta lyra Krohn, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/6880"
+    }
+,
+    {
+      "name": "Sagitta Quoy & Gaimard, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Sagitta bipunctata Quoy & Gaimard, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/6861"
+    }
+,
+    {
+      "name": "Serratosagitta Tokioka & Pathansali, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Serratosagitta pacifica (Tokioka, 1940)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714119"
+    }
+,
+    {
+      "name": "Sagitta pacifica Tokioka, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714147"
+    }
+,
+    {
+      "name": "Serratosagitta pseudoserratodentata (Tokioka, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728111"
+    }
+,
+    {
+      "name": "Sagitta pseudoserratodentata Tokioka, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728112"
+    }
+,
+    {
+      "name": "Serratosagitta serratodentata (Krohn, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949156"
+    }
+,
+    {
+      "name": "Sagitta serratodentata Krohn, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949158"
+    }
+,
+    {
+      "name": "Serratosagitta tasmanica (Thompson, 1947)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930827"
+    }
+,
+    {
+      "name": "Sagitta serratodentata tasmanica ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930829"
+    }
+,
+    {
+      "name": "Sagitta tasmanica Thompson, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930828"
+    }
+,
+    {
+      "name": "Serratosagitta selkirki (Faggetti, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930830"
+    }
+,
+    {
+      "name": "Zonosagitta Tokioka, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Zonosagitta bedoti (Béraneck, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714149"
+    }
+,
+    {
+      "name": "Sagitta bedoti Béraneck, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714150"
+    }
+,
+    {
+      "name": "Zonosagitta pulchra (Doncaster, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728109"
+    }
+,
+    {
+      "name": "Sagitta pulchra Doncaster, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728110"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "neomonada",
+  "children": [
+
+    {
+      "name": "Neomonada Cavalier-Smith, 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesomycetozoa Mendoza, Taylor & Ajello, 2002",
+      "url": ""
+    }
+,
+    {
+      "name": "mesomycetozoea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/neomonada/mesomycetozoea/"
+    }
+,
+    {
+      "name": "protostelea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/neomonada/protostelea/"
+    }
+
+  ]
+}

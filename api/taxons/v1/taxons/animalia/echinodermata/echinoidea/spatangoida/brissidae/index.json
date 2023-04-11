@@ -1,0 +1,392 @@
+
+{
+  "name": "brissidae",
+  "children": [
+
+    {
+      "name": "Brissidae Gray, 1855",
+      "url": ""
+    }
+,
+    {
+      "name": "brissopsinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/echinoidea/spatangoida/brissidae/brissopsinae/"
+    }
+,
+    {
+      "name": "Brissus Gray, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Brissus latecarinatus (Leske, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628548"
+    }
+,
+    {
+      "name": "Brissus carinatus (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689630"
+    }
+,
+    {
+      "name": "Brissus maculatus Studer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689628"
+    }
+,
+    {
+      "name": "Brissus maculosus Bolau, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689629"
+    }
+,
+    {
+      "name": "Spatangus carinatus Lamarck, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689626"
+    }
+,
+    {
+      "name": "Spatangus (Brissus) latecarinatus Leske, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916801"
+    }
+,
+    {
+      "name": "Spatangus vulgaris Lamarck, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689627"
+    }
+,
+    {
+      "name": "Brissus meridionalis (Mortensen, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650033"
+    }
+,
+    {
+      "name": "Brissus (Allobrissus) meridionalis Mortensen, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916802"
+    }
+,
+    {
+      "name": "Brissus unicolor (Leske, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379004"
+    }
+,
+    {
+      "name": "Brissus brissus (Leske, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379003"
+    }
+,
+    {
+      "name": "Brissus brissus Tortonese, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576251"
+    }
+,
+    {
+      "name": "Brissus columbaris (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576252"
+    }
+,
+    {
+      "name": "Brissus cylindricus L. Agassiz & Desor, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576253"
+    }
+,
+    {
+      "name": "Brissus dimidiatus L. Agassiz & Desor, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576254"
+    }
+,
+    {
+      "name": "Brissus imperati Lambert & Thiery, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576255"
+    }
+,
+    {
+      "name": "Brissus scillae L. Agassiz, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379005"
+    }
+,
+    {
+      "name": "Spatangus brissus unicolor Leske, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/384212"
+    }
+,
+    {
+      "name": "Spatangus brissus Leske, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379016"
+    }
+,
+    {
+      "name": "Spatangus columbaris Lamarck, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379019"
+    }
+,
+    {
+      "name": "Spatangus (Brissus) unicolor Leske, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916803"
+    }
+,
+    {
+      "name": "Spatangus scillae (L. Agassiz, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576265"
+    }
+,
+    {
+      "name": "Meoma Gray, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Meoma ventricosa (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649668"
+    }
+,
+    {
+      "name": "Brissus panis Grube, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694426"
+    }
+,
+    {
+      "name": "Brissus ventricosus (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694427"
+    }
+,
+    {
+      "name": "Spatangus ventricosus Lamarck, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694425"
+    }
+,
+    {
+      "name": "Metalia Gray, 1855",
+      "url": ""
+    }
+,
+    {
+      "name": "Metalia angustus de Ridder, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628683"
+    }
+,
+    {
+      "name": "Metalia dicrana H.L. Clark, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908336"
+    }
+,
+    {
+      "name": "Metalia nobilis Verrill, 1867-71",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655126"
+    }
+,
+    {
+      "name": "Metalia spatagus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628520"
+    }
+,
+    {
+      "name": "Brissus compressus (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689444"
+    }
+,
+    {
+      "name": "Echinus maculosus Gmelin, 1788",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689441"
+    }
+,
+    {
+      "name": "Echinus spatagus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689442"
+    }
+,
+    {
+      "name": "Metalia maculosa (Gmelin, 1788)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689446"
+    }
+,
+    {
+      "name": "Prometalia spatagus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689447"
+    }
+,
+    {
+      "name": "Prometalia ventricosa Lambert & Thiery, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689445"
+    }
+,
+    {
+      "name": "Spatangus compressus Lamarck, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689443"
+    }
+,
+    {
+      "name": "Metalia sternalis (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628521"
+    }
+,
+    {
+      "name": "Brissus areolatus L. Agassiz & Desor, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689451"
+    }
+,
+    {
+      "name": "Brissus bicinctus L. Agassiz & Desor, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689452"
+    }
+,
+    {
+      "name": "Brissus sternalis (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689453"
+    }
+,
+    {
+      "name": "Metalia gareti (A.Agassiz, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689455"
+    }
+,
+    {
+      "name": "Metalia garretti (A. Agassiz, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689456"
+    }
+,
+    {
+      "name": "Metalia sternalis var. jousseaumei Dollfus & Roman, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689448"
+    }
+,
+    {
+      "name": "Metalia sternalis var. lata Dollfus & Roman, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689449"
+    }
+,
+    {
+      "name": "Metallia sternalis (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689457"
+    }
+,
+    {
+      "name": "Spatangus sternalis Lamarck, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689450"
+    }
+,
+    {
+      "name": "Xanthobrissus garretti A. Agassiz, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689454"
+    }
+,
+    {
+      "name": "Plagiobrissus Pomel, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "Plagiobrissus grandis (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649675"
+    }
+,
+    {
+      "name": "Echinus grandis Gmelin, 1788",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694765"
+    }
+,
+    {
+      "name": "Eupatagus (Plagiobrissus) grandis (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908712"
+    }
+,
+    {
+      "name": "Eupatagus pectoralis (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694767"
+    }
+,
+    {
+      "name": "Metalia pectoralis (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694768"
+    }
+,
+    {
+      "name": "Plagiobrissus pectoralis (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694769"
+    }
+,
+    {
+      "name": "Plagionotus desorii Gray, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694770"
+    }
+,
+    {
+      "name": "Plagionotus pectoralis (Lamarck, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694771"
+    }
+,
+    {
+      "name": "Spatangus pectoralis Lamarck, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694766"
+    }
+,
+    {
+      "name": "Plagiobrissus (Rhabdobrissus) costae (Gasco, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836105"
+    }
+,
+    {
+      "name": "Metalia costae Gasco, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/378999"
+    }
+,
+    {
+      "name": "Mortensenaster costae (Gasco, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687645"
+    }
+,
+    {
+      "name": "Plagiobrissus costae (Gasco, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687646"
+    }
+,
+    {
+      "name": "Plagiobrissus costai (Gasco, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/378997"
+    }
+,
+    {
+      "name": "Rhabdobrissus costae (Gasco, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669714"
+    }
+,
+    {
+      "name": "Rhabdobrissus perrieri Bernard, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/378993"
+    }
+,
+    {
+      "name": "Rhabdobrissus Cotteau, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhabdobrissus Cotteau, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhynobrissus A. Agassiz, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhynobrissus hemiasteroides A. Agassiz, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650077"
+    }
+,
+    {
+      "name": "Hemiaster apicatus Tension-Woods, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676899"
+    }
+,
+    {
+      "name": "Rhinobrissus apicatus (Tension-Woods, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676900"
+    }
+,
+    {
+      "name": "Rhinobrissus hemiasteroides A. Agassiz, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676898"
+    }
+
+  ]
+}

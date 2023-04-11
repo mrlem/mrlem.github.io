@@ -1,0 +1,37 @@
+
+{
+  "name": "ursidae",
+  "children": [
+
+    {
+      "name": "Ursidae Fischer, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Ursus Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "Ursus arctos Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/60826"
+    }
+,
+    {
+      "name": "Ursus arctos arctos Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899272"
+    }
+,
+    {
+      "name": "Ursus deningeri Richenau, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458829"
+    }
+,
+    {
+      "name": "Ursus spelaeus Rosenmüller, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/199763"
+    }
+
+  ]
+}

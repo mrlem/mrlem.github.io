@@ -1,0 +1,42 @@
+
+{
+  "name": "julinae",
+  "children": [
+
+    {
+      "name": "Julinae Leach, 1814",
+      "url": ""
+    }
+,
+    {
+      "name": "cylindroiulini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/julida/julidae/julinae/cylindroiulini/"
+    }
+,
+    {
+      "name": "julini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/julida/julidae/julinae/julini/"
+    }
+,
+    {
+      "name": "leptoiulini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/julida/julidae/julinae/leptoiulini/"
+    }
+,
+    {
+      "name": "metaiulini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/julida/julidae/julinae/metaiulini/"
+    }
+,
+    {
+      "name": "ommatoiulini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/julida/julidae/julinae/ommatoiulini/"
+    }
+,
+    {
+      "name": "typhloiulini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/julida/julidae/julinae/typhloiulini/"
+    }
+
+  ]
+}

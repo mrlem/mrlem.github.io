@@ -1,0 +1,47 @@
+
+{
+  "name": "rogadinae",
+  "children": [
+
+    {
+      "name": "Rogadinae Förster, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "aleiodini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/rogadinae/aleiodini/"
+    }
+,
+    {
+      "name": "betylobraconini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/rogadinae/betylobraconini/"
+    }
+,
+    {
+      "name": "cedriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/rogadinae/cedriini/"
+    }
+,
+    {
+      "name": "clinocentrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/rogadinae/clinocentrini/"
+    }
+,
+    {
+      "name": "hormiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/rogadinae/hormiini/"
+    }
+,
+    {
+      "name": "lysitermini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/rogadinae/lysitermini/"
+    }
+,
+    {
+      "name": "rogadini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/rogadinae/rogadini/"
+    }
+
+  ]
+}

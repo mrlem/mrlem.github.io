@@ -1,0 +1,37 @@
+
+{
+  "name": "sciuridae",
+  "children": [
+
+    {
+      "name": "Sciuridae Fischer von Waldheim, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Sciuridae Hemprich, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "callosciurinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/rodentia/sciuridae/callosciurinae/"
+    }
+,
+    {
+      "name": "sciurillinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/rodentia/sciuridae/sciurillinae/"
+    }
+,
+    {
+      "name": "sciurinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/rodentia/sciuridae/sciurinae/"
+    }
+,
+    {
+      "name": "xerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/rodentia/sciuridae/xerinae/"
+    }
+
+  ]
+}

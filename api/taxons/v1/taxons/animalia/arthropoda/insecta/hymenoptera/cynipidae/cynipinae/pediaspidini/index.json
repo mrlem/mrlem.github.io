@@ -1,0 +1,37 @@
+
+{
+  "name": "pediaspidini",
+  "children": [
+
+    {
+      "name": "Pediaspidini Ashmead, 1903",
+      "url": ""
+    }
+,
+    {
+      "name": "Pediaspis Tischbein, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "Pediaspis aceris (Gmelin, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/236407"
+    }
+,
+    {
+      "name": "Cynips acerinae Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405938"
+    }
+,
+    {
+      "name": "Cynips pseudoplatani Mayer, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405936"
+    }
+,
+    {
+      "name": "Pediaspis sorbi Tischbein, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405937"
+    }
+
+  ]
+}

@@ -1,0 +1,47 @@
+
+{
+  "name": "scaphidiinae",
+  "children": [
+
+    {
+      "name": "Scaphidiinae Latreille, 1806",
+      "url": ""
+    }
+,
+    {
+      "name": "Scaphidiidae Latreille, 1806",
+      "url": ""
+    }
+,
+    {
+      "name": "Zinda Löbl, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Zinda abdita Löbl, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890810"
+    }
+,
+    {
+      "name": "Zinda teres Löbl, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890809"
+    }
+,
+    {
+      "name": "scaphidiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/scaphidiinae/scaphidiini/"
+    }
+,
+    {
+      "name": "scaphiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/scaphidiinae/scaphiini/"
+    }
+,
+    {
+      "name": "scaphisomatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/scaphidiinae/scaphisomatini/"
+    }
+
+  ]
+}

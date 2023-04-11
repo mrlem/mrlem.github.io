@@ -1,0 +1,547 @@
+
+{
+  "name": "trachycardiinae",
+  "children": [
+
+    {
+      "name": "Trachycardiinae Stewart, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Acrosterigma Dall, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Acrosterigma attenuatum (G. B. Sowerby II, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579280"
+    }
+,
+    {
+      "name": "Cardium attenuatum G. B. Sowerby II, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580630"
+    }
+,
+    {
+      "name": "Laevicardium attenuatum (G.B. Sowerby II, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536582"
+    }
+,
+    {
+      "name": "Vasticardium attenuatum (Sowerby, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579279"
+    }
+,
+    {
+      "name": "Acrosterigma biradiatum (Bruguière, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591723"
+    }
+,
+    {
+      "name": "Cardium biradiatum Bruguière, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690903"
+    }
+,
+    {
+      "name": "Laevicardium biradiatum (Bruguière, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590779"
+    }
+,
+    {
+      "name": "Laevicardium rubropictum Habe & Kosuge, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690902"
+    }
+,
+    {
+      "name": "Acrosterigma capricorne Vidal & Kirkendale, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526916"
+    }
+,
+    {
+      "name": "Acrosterigma dianthinum (Melvill & Standen, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590829"
+    }
+,
+    {
+      "name": "Acrosterigma discus J. Vidal, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536567"
+    }
+,
+    {
+      "name": "Acrosterigma hobbsae J. Vidal, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590830"
+    }
+,
+    {
+      "name": "Acrosterigma maculosum (W. Wood, 1815)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590831"
+    }
+,
+    {
+      "name": "Cardium arenicolum Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690567"
+    }
+,
+    {
+      "name": "Cardium maculosum W. Wood, 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018582"
+    }
+,
+    {
+      "name": "Cardium multistriatum Sowerby in Broderip & Sowerby, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690566"
+    }
+,
+    {
+      "name": "Trachycardium maculosum (W. Wood, 1815)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690568"
+    }
+,
+    {
+      "name": "Acrosterigma maculosum howense J. Vidal, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719521"
+    }
+,
+    {
+      "name": "Acrosterigma magnum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605269"
+    }
+,
+    {
+      "name": "Cardium leucostomum Born, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696501"
+    }
+,
+    {
+      "name": "Cardium magnum Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696500"
+    }
+,
+    {
+      "name": "Cardium marmoreum Lamarck, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696502"
+    }
+,
+    {
+      "name": "Cardium subelongatum G.B. Sowerby II, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696503"
+    }
+,
+    {
+      "name": "Trachycardium magnum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696504"
+    }
+,
+    {
+      "name": "Acrosterigma mauritianum (Deshayes, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536574"
+    }
+,
+    {
+      "name": "Cardium mauritianum Deshayes, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580604"
+    }
+,
+    {
+      "name": "Acrosterigma profundum J. Vidal, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591895"
+    }
+,
+    {
+      "name": "Acrosterigma punctolineatum Healy & Lamprell, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590832"
+    }
+,
+    {
+      "name": "Acrosterigma punctolineata Healy & Lamprell, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690569"
+    }
+,
+    {
+      "name": "Cardium foveolatum G.B. Sowerby II, 1840 sensu Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690570"
+    }
+,
+    {
+      "name": "Acrosterigma selene J. Vidal, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590833"
+    }
+,
+    {
+      "name": "Acrosterigma seurati J. Vidal, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526917"
+    }
+,
+    {
+      "name": "Acrosterigma simplex (Spengler, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590834"
+    }
+,
+    {
+      "name": "Acrosterigma unicolor (Sowerby II, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591824"
+    }
+,
+    {
+      "name": "Cardium nebulosum Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690572"
+    }
+,
+    {
+      "name": "Cardium simplex Spengler, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690571"
+    }
+,
+    {
+      "name": "Cardium unicolor G.B. Sowerby II, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591738"
+    }
+,
+    {
+      "name": "Laevicardium soyeri Fischer-Piette, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690573"
+    }
+,
+    {
+      "name": "Acrosterigma transcendens (Melvill & Standen, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527169"
+    }
+,
+    {
+      "name": "Laevicardium pulcherrimum Sakurai & Habe, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589363"
+    }
+,
+    {
+      "name": "Acrosterigma uniornatum J. Vidal, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780075"
+    }
+,
+    {
+      "name": "Dallocardia Stewart, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Dallocardia muricata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606055"
+    }
+,
+    {
+      "name": "Cardium campechiense Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685789"
+    }
+,
+    {
+      "name": "Cardium delicatulum E.A. Smith, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685791"
+    }
+,
+    {
+      "name": "Cardium gossei Deshayes, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685792"
+    }
+,
+    {
+      "name": "Cardium lima Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685790"
+    }
+,
+    {
+      "name": "Cardium muricatum Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/625987"
+    }
+,
+    {
+      "name": "Trachycardium muricatum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460559"
+    }
+,
+    {
+      "name": "Papyridea Swainson, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Papyridea clenchi ter Poorten, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933478"
+    }
+,
+    {
+      "name": "Papyridea lata (Born, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605271"
+    }
+,
+    {
+      "name": "Acanthocardia lata (Born, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896902"
+    }
+,
+    {
+      "name": "Cardium latum Born, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696505"
+    }
+,
+    {
+      "name": "Cardium spinosum Meuschen, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696506"
+    }
+,
+    {
+      "name": "Papyridea semisulcata (J.E. Gray, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605272"
+    }
+,
+    {
+      "name": "Cardium petitianum d'Orbigny, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696510"
+    }
+,
+    {
+      "name": "Cardium ringiculum G.B. Sowerby II, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696511"
+    }
+,
+    {
+      "name": "Cardium semisulcatum J. E. Gray, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696509"
+    }
+,
+    {
+      "name": "Papyridea soleniformis (Bruguière, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460557"
+    }
+,
+    {
+      "name": "Cardium hiatus Meuschen, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580638"
+    }
+,
+    {
+      "name": "Cardium soleniforme Bruguière, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580637"
+    }
+,
+    {
+      "name": "Trachycardium Mörch, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Trachycardium (Mexicardia) Stewart, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Trachycardium egmontianum (Shuttleworth, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605931"
+    }
+,
+    {
+      "name": "Trachycardium isocardia (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460558"
+    }
+,
+    {
+      "name": "Cardium eburniferum Guppy, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589365"
+    }
+,
+    {
+      "name": "Cardium isocardia Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589364"
+    }
+,
+    {
+      "name": "Vasticardium Iredale, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Vasticardium angulatum (Lamarck, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590839"
+    }
+,
+    {
+      "name": "Cardium alternatum G.B. Sowerby II, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690579"
+    }
+,
+    {
+      "name": "Cardium angulatum Lamarck, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690578"
+    }
+,
+    {
+      "name": "Trachycardium angulatum (Lamarck, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778386"
+    }
+,
+    {
+      "name": "Vasticardium assimile (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778435"
+    }
+,
+    {
+      "name": "Vasticardium assimile lacunosum (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778436"
+    }
+,
+    {
+      "name": "Trachycardium lacunosum (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778437"
+    }
+,
+    {
+      "name": "Vasticardium coralense (Vidal, 1993)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900062"
+    }
+,
+    {
+      "name": "Acrosterigma elongatum coralense Vidal, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900063"
+    }
+,
+    {
+      "name": "Vasticardium elongatum coralense (Vidal, 1993)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900064"
+    }
+,
+    {
+      "name": "Vasticardium elongatum (Bruguière, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536575"
+    }
+,
+    {
+      "name": "Acrosterigma elongatum (Bruguière, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582851"
+    }
+,
+    {
+      "name": "Trachycardium elongatum (Bruguière, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683853"
+    }
+,
+    {
+      "name": "Vasticardium flavum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542735"
+    }
+,
+    {
+      "name": "Acrosterigma flavum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898771"
+    }
+,
+    {
+      "name": "Cardium flavum Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851362"
+    }
+,
+    {
+      "name": "Laevicardium flavum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362262"
+    }
+,
+    {
+      "name": "Trachycardium flavum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649215"
+    }
+,
+    {
+      "name": "Vasticardium flavum flavum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898772"
+    }
+,
+    {
+      "name": "Vasticardium luteomarginatum (Voskuil & Onverwagt, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536576"
+    }
+,
+    {
+      "name": "Trachycardium luteomarginatum Voskuil & Onverwagt, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580654"
+    }
+,
+    {
+      "name": "Vasticardium mendanaense (G. B. Sowerby III, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956496"
+    }
+,
+    {
+      "name": "Acrosterigma mendanaense (G. B. Sowerby III, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956499"
+    }
+,
+    {
+      "name": "Cardium mendanaense G. B. Sowerby III, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956497"
+    }
+,
+    {
+      "name": "Vasticardium orbita (Broderip & Sowerby I, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591226"
+    }
+,
+    {
+      "name": "Cardium orbita Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690911"
+    }
+,
+    {
+      "name": "Vasticardium orbitum (Broderip & Sowerby, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527317"
+    }
+,
+    {
+      "name": "Vasticardium pectiniforme (Born, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536577"
+    }
+,
+    {
+      "name": "Cardium pectiniforme Born, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549140"
+    }
+,
+    {
+      "name": "Cardium regulare Bruguière, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577801"
+    }
+,
+    {
+      "name": "Cardium rugosum Lamarck, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549137"
+    }
+,
+    {
+      "name": "Trachycardium peregrinum Jousseaume, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580655"
+    }
+,
+    {
+      "name": "Vasticardium nigropunctatum Habe & Kosuge, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577802"
+    }
+,
+    {
+      "name": "Vasticardium philippinense (Hedley, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900066"
+    }
+,
+    {
+      "name": "Cardium philippinense Hedley, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900067"
+    }
+,
+    {
+      "name": "Vasticardium sewelli (Prashad, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590840"
+    }
+,
+    {
+      "name": "Cardium laddi Abrard, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690580"
+    }
+
+  ]
+}

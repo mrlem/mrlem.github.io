@@ -1,0 +1,27 @@
+
+{
+  "name": "trichiuridae",
+  "children": [
+
+    {
+      "name": "Trichiuridae Rafinesque, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "aphanopodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/trichiuridae/aphanopodinae/"
+    }
+,
+    {
+      "name": "lepidopodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/trichiuridae/lepidopodinae/"
+    }
+,
+    {
+      "name": "trichiurinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/trichiuridae/trichiurinae/"
+    }
+
+  ]
+}

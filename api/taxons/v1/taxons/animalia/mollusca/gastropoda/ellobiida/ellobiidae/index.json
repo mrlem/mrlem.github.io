@@ -1,0 +1,47 @@
+
+{
+  "name": "ellobiidae",
+  "children": [
+
+    {
+      "name": "Ellobiidae L. Pfeiffer, 1854 (1822)",
+      "url": ""
+    }
+,
+    {
+      "name": "Auriculidae Férussac, 1822",
+      "url": ""
+    }
+,
+    {
+      "name": "Melampidae Stimpson, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "carychiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/ellobiida/ellobiidae/carychiinae/"
+    }
+,
+    {
+      "name": "ellobiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/ellobiida/ellobiidae/ellobiinae/"
+    }
+,
+    {
+      "name": "melampodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/ellobiida/ellobiidae/melampodinae/"
+    }
+,
+    {
+      "name": "pedipedinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/ellobiida/ellobiidae/pedipedinae/"
+    }
+,
+    {
+      "name": "pythiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/ellobiida/ellobiidae/pythiinae/"
+    }
+
+  ]
+}

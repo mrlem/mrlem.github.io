@@ -1,0 +1,22 @@
+
+{
+  "name": "andrenidae",
+  "children": [
+
+    {
+      "name": "Andrenidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "andreninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/andrenidae/andreninae/"
+    }
+,
+    {
+      "name": "panurginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/andrenidae/panurginae/"
+    }
+
+  ]
+}

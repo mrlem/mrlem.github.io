@@ -1,0 +1,732 @@
+
+{
+  "name": "anthidiini",
+  "children": [
+
+    {
+      "name": "Anthidiini Ashmead, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthidiellum Cockerell, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthidiellum breviusculum (Pérez, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239469"
+    }
+,
+    {
+      "name": "Anthidium breviusculum Pérez, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997092"
+    }
+,
+    {
+      "name": "Anthidiellum strigatum (Panzer, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239470"
+    }
+,
+    {
+      "name": "Anthidium minusculum Nylander, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000069"
+    }
+,
+    {
+      "name": "Anthidium strigatum (Panzer, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53084"
+    }
+,
+    {
+      "name": "Trachusa strigata Panzer, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000421"
+    }
+,
+    {
+      "name": "Anthidiellum Cockerell, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthidium Fabricius, 1804",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthidium cingulatum Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239472"
+    }
+,
+    {
+      "name": "Anthidium diadema Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239473"
+    }
+,
+    {
+      "name": "Anthidium albiventre Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239471"
+    }
+,
+    {
+      "name": "Anthidium florentinum (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239474"
+    }
+,
+    {
+      "name": "Apis florentina Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000428"
+    }
+,
+    {
+      "name": "Anthidium loti Perris, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239476"
+    }
+,
+    {
+      "name": "Anthidium manicatum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53081"
+    }
+,
+    {
+      "name": "Apis manicata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850276"
+    }
+,
+    {
+      "name": "Anthidium montanum Morawitz, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53082"
+    }
+,
+    {
+      "name": "Anthidium oblongatum (Illiger, 1806)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239478"
+    }
+,
+    {
+      "name": "Anthophora oblongata Illiger, 1806",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998681"
+    }
+,
+    {
+      "name": "Anthidium punctatum Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53083"
+    }
+,
+    {
+      "name": "Anthidium sanguinicaudum Schwarz, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755628"
+    }
+,
+    {
+      "name": "Anthidium septemspinosum Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239480"
+    }
+,
+    {
+      "name": "Anthidium taeniatum Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239481"
+    }
+,
+    {
+      "name": "Anthidium fasciatum Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000449"
+    }
+,
+    {
+      "name": "Anthidium undulatum Dours, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239482"
+    }
+,
+    {
+      "name": "Anthidium Fabricius, 1804",
+      "url": ""
+    }
+,
+    {
+      "name": "Proanthidium Friese, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Hoplostelis Dominique, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Hoplostelis bilineolata (Spinola, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755629"
+    }
+,
+    {
+      "name": "Anthidium bilineolatum Spinola, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916333"
+    }
+,
+    {
+      "name": "Anthidium portoi Friese, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916335"
+    }
+,
+    {
+      "name": "Stelis tricornis Dominique, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916334"
+    }
+,
+    {
+      "name": "Icteranthidium Michener, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "Icteranthidium cimbiciforme (Smith, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239807"
+    }
+,
+    {
+      "name": "Anthidium bartholomei Radoszkowski, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407186"
+    }
+,
+    {
+      "name": "Icteranthidium grohmanni (Spinola, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239808"
+    }
+,
+    {
+      "name": "Anthidium grohmanni Spinola, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000433"
+    }
+,
+    {
+      "name": "Anthidium latreillei Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407187"
+    }
+,
+    {
+      "name": "Anthidium latreillii Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996016"
+    }
+,
+    {
+      "name": "Anthidium lepelletieri Fonscolombe, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997067"
+    }
+,
+    {
+      "name": "Icteranthidium laterale (Latreille, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239809"
+    }
+,
+    {
+      "name": "Anthidium laterale Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000429"
+    }
+,
+    {
+      "name": "Anthidium quadrilobum Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000560"
+    }
+,
+    {
+      "name": "Loyolanthidium Urban, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "Loyolanthidium albopilosum (Friese, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755630"
+    }
+,
+    {
+      "name": "Anthidium albopilosum Friese, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916336"
+    }
+,
+    {
+      "name": "Anthidium maroniense Dominique, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916337"
+    }
+,
+    {
+      "name": "Pseudoanthidium Friese, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Exanthidium Pasteels, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoanthidium eximium (Giraud, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240097"
+    }
+,
+    {
+      "name": "Anthidium eximium Giraud, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998657"
+    }
+,
+    {
+      "name": "Pseudoanthidium melanurum (Klug, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240099"
+    }
+,
+    {
+      "name": "Pseudoanthidium nanum (Mocsáry, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808468"
+    }
+,
+    {
+      "name": "Anthidium lituratum (Panzer, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000452"
+    }
+,
+    {
+      "name": "Anthidium nanum Mocsáry, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815521"
+    }
+,
+    {
+      "name": "Anthidium reptans Eversmann, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999848"
+    }
+,
+    {
+      "name": "Anthidium tenellum var. grandii Alfken, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999849"
+    }
+,
+    {
+      "name": "Apis liturata Panzer, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999845"
+    }
+,
+    {
+      "name": "Pseudoanthidium lituratum (Panzer, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240098"
+    }
+,
+    {
+      "name": "Pseudoanthidium reticulatum (Mocsáry, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240100"
+    }
+,
+    {
+      "name": "Pseudoanthidium scapulare (Latreille, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814908"
+    }
+,
+    {
+      "name": "Anthidium frontale Lepeletier de Saint Fargeau, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999851"
+    }
+,
+    {
+      "name": "Anthidium scapulare Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407207"
+    }
+,
+    {
+      "name": "Pseudoanthidium stigmaticorne (Dours, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998605"
+    }
+,
+    {
+      "name": "Anthidium astilleroi Dusmet & Alsonso, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999852"
+    }
+,
+    {
+      "name": "Anthidium fraternum Pérez, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999847"
+    }
+,
+    {
+      "name": "Anthidium peregrinum A. Costa, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967118"
+    }
+,
+    {
+      "name": "Anthidium stigmaticorne Dours, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998620"
+    }
+,
+    {
+      "name": "Paranthidiellum karakalense Popov, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999853"
+    }
+,
+    {
+      "name": "Pseudoanthidium alpinum gregoriense Nobile, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999854"
+    }
+,
+    {
+      "name": "Pseudoanthidium leucostoma (A. Costa, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939358"
+    }
+,
+    {
+      "name": "Stelis leucostoma A. Costa, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939359"
+    }
+,
+    {
+      "name": "Pseudoanthidium Friese, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Royanthidium Pasteels, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhodanthidium Isensee, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Asianthidium Popov, 1950",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhodanthidium caturigense (Giraud, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240101"
+    }
+,
+    {
+      "name": "Anthidium axillare Pasteels, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407209"
+    }
+,
+    {
+      "name": "Anthidium caturigense Giraud, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998656"
+    }
+,
+    {
+      "name": "Anthidium moriense Friese, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407210"
+    }
+,
+    {
+      "name": "Rhodanthidium pyrenaeum (Alfken, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240103"
+    }
+,
+    {
+      "name": "Rhodanthidium infuscatum (Erichson in Waltl, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240102"
+    }
+,
+    {
+      "name": "Anthidium bellicosum Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407211"
+    }
+,
+    {
+      "name": "Anthidium infuscatum Erichson in Waltl, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000276"
+    }
+,
+    {
+      "name": "Rhodanthidium septemdentatum (Latreille, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240104"
+    }
+,
+    {
+      "name": "Anthidium septemdentatum Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997060"
+    }
+,
+    {
+      "name": "Rhodanthidium siculum (Spinola, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240105"
+    }
+,
+    {
+      "name": "Rhodanthidium sticticum (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240106"
+    }
+,
+    {
+      "name": "Anthidium sticticum (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839681"
+    }
+,
+    {
+      "name": "Apis stictica Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000474"
+    }
+,
+    {
+      "name": "Rhodanthidium Isensee, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhynostelis Moure & Urban, 1995",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhynostelis multiplicata (Smith, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755631"
+    }
+,
+    {
+      "name": "Anthidium multiplicatum Smith, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916338"
+    }
+,
+    {
+      "name": "Stelis tuberculata Dominique, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916339"
+    }
+,
+    {
+      "name": "Rhynostelis plesiognatha Parizotto & Melo, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961756"
+    }
+,
+    {
+      "name": "Stelis Panzer, 1806",
+      "url": ""
+    }
+,
+    {
+      "name": "Heterostelis Timberlake, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Protostelis Friese, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudostelis Popov, 1956",
+      "url": ""
+    }
+,
+    {
+      "name": "Stelidomorpha Morawitz, 1875",
+      "url": ""
+    }
+,
+    {
+      "name": "Stelis annulata (Lepeletier, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240140"
+    }
+,
+    {
+      "name": "Anthidium annulatum Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000479"
+    }
+,
+    {
+      "name": "Stelis breviuscula (Nylander, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240141"
+    }
+,
+    {
+      "name": "Heriades breviuscula Nylander, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996003"
+    }
+,
+    {
+      "name": "Stelis franconica Blüthgen, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883928"
+    }
+,
+    {
+      "name": "Stelis minima Schenck, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984334"
+    }
+,
+    {
+      "name": "Stelis minuta Lepeletier de Saint Fargeau & Audinet-Serville, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240142"
+    }
+,
+    {
+      "name": "Stelis murina Pérez, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967144"
+    }
+,
+    {
+      "name": "Stelis nasuta (Latreille, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240143"
+    }
+,
+    {
+      "name": "Anthidium nasutum Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000489"
+    }
+,
+    {
+      "name": "Stelis odontopyga Noskiewicz, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/318513"
+    }
+,
+    {
+      "name": "Stelis ornatula (Klug, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240144"
+    }
+,
+    {
+      "name": "Gyrodroma ornatula Klug, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000252"
+    }
+,
+    {
+      "name": "Stelis phaeoptera (Kirby, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53196"
+    }
+,
+    {
+      "name": "Apis phaeoptera Kirby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996914"
+    }
+,
+    {
+      "name": "Stelis punctulatissima (Kirby, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/318516"
+    }
+,
+    {
+      "name": "Apis aterrima Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820956"
+    }
+,
+    {
+      "name": "Apis punctulatissima Kirby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996915"
+    }
+,
+    {
+      "name": "Stelis aterrima (Panzer, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820957"
+    }
+,
+    {
+      "name": "Stelis signata (Latreille, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240145"
+    }
+,
+    {
+      "name": "Anthidium signatum Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997058"
+    }
+,
+    {
+      "name": "Stelis simillima Morawitz, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240146"
+    }
+,
+    {
+      "name": "Stelis Panzer, 1806",
+      "url": ""
+    }
+,
+    {
+      "name": "Trachusa Panzer, 1804",
+      "url": ""
+    }
+,
+    {
+      "name": "Archianthidium Mavromoustakis, 1939",
+      "url": ""
+    }
+,
+    {
+      "name": "Paraanthidium Friese, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Trachusa byssina (Panzer, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815229"
+    }
+,
+    {
+      "name": "Apis byssina Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815209"
+    }
+,
+    {
+      "name": "Megachile rotundiventris Perris, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239931"
+    }
+,
+    {
+      "name": "Trachusa byssinum (Panzer, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240174"
+    }
+,
+    {
+      "name": "Trachusa integra (Eversmann, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938371"
+    }
+,
+    {
+      "name": "Anthidium integrum Eversmann, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938372"
+    }
+,
+    {
+      "name": "Trachusa interrupta (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240175"
+    }
+,
+    {
+      "name": "Anthidium flabilabre Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000450"
+    }
+,
+    {
+      "name": "Apis interrupta Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938450"
+    }
+,
+    {
+      "name": "Trachusa laeviventris (Dours, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814909"
+    }
+,
+    {
+      "name": "Anthidium atlanticum Benoist, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407146"
+    }
+,
+    {
+      "name": "Anthidium laeviventre Dours, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239475"
+    }
+,
+    {
+      "name": "Trachusa laeviventre (Dours, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814910"
+    }
+,
+    {
+      "name": "Trachusa laticeps (Morawitz, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/240176"
+    }
+,
+    {
+      "name": "Anthidium laticeps Morawitz, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000508"
+    }
+,
+    {
+      "name": "Trachusa Panzer, 1804",
+      "url": ""
+    }
+
+  ]
+}

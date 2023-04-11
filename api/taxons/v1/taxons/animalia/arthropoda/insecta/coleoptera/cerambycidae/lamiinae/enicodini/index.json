@@ -1,0 +1,907 @@
+
+{
+  "name": "enicodini",
+  "children": [
+
+    {
+      "name": "Enicodini Thomson, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Anomonotes Heller, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Anomonotes annulipes (Heller, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790356"
+    }
+,
+    {
+      "name": "Micronotes annulipes Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910691"
+    }
+,
+    {
+      "name": "Anomonotes leucomerus Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790357"
+    }
+,
+    {
+      "name": "Micronotes Heller, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Caledocentrus Cazères & Sudre, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Caledocentrus montrouzieri Cazères & Sudre, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790358"
+    }
+,
+    {
+      "name": "Cephalenicodes Breuning, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Cephalenicodes bimaculatus (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790359"
+    }
+,
+    {
+      "name": "Enicodes bimaculatus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910673"
+    }
+,
+    {
+      "name": "Clavenicodes Breuning, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Clavenicodes clavus (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790360"
+    }
+,
+    {
+      "name": "Enicodes clavus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909134"
+    }
+,
+    {
+      "name": "Dicra Fauvel, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Dicra insignicornis Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790361"
+    }
+,
+    {
+      "name": "Dicra nodicornis Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790362"
+    }
+,
+    {
+      "name": "Enicodes Thomson, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Enicodes fichtelii (Schreibers, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790363"
+    }
+,
+    {
+      "name": "Enicodes fichteli Fleutiaux, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983823"
+    }
+,
+    {
+      "name": "Enicodes montrouzieri Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790364"
+    }
+,
+    {
+      "name": "Enicodes montrouzieri MacLeay, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923348"
+    }
+,
+    {
+      "name": "Enicodes tapeinodes Thomson, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909129"
+    }
+,
+    {
+      "name": "Enicodes trochilus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910671"
+    }
+,
+    {
+      "name": "Enicodes schreibersii Thomson, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790365"
+    }
+,
+    {
+      "name": "Enicodes kaszabi Breuning, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909131"
+    }
+,
+    {
+      "name": "Enicodes sarasini Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909130"
+    }
+,
+    {
+      "name": "Enotes Thomson, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Enotes lifuanus (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790366"
+    }
+,
+    {
+      "name": "Aconodes lifuanus (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968631"
+    }
+,
+    {
+      "name": "Enotes lacordairei Thomson, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909158"
+    }
+,
+    {
+      "name": "Enotes montrouzieri Thomson, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909159"
+    }
+,
+    {
+      "name": "Hammaticherus lifuanus Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813120"
+    }
+,
+    {
+      "name": "Enotogenes Heller, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Enotogenes exiguus Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790367"
+    }
+,
+    {
+      "name": "Enotoschema Breuning, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Enotoschema sericans Breuning, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790368"
+    }
+,
+    {
+      "name": "Falsenicodes Breuning, 1940",
+      "url": ""
+    }
+,
+    {
+      "name": "Falsenicodes lineatus Breuning, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790369"
+    }
+,
+    {
+      "name": "Granulenotes Breuning, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Granulenotes granulipennis Breuning, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790370"
+    }
+,
+    {
+      "name": "Leptaschema Breuning, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptaschema filarium (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790371"
+    }
+,
+    {
+      "name": "Lepturoschema filarium (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910687"
+    }
+,
+    {
+      "name": "Nemaschema filarium Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909932"
+    }
+,
+    {
+      "name": "Leptenicodes Breuning, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptenicodes gracilis (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790372"
+    }
+,
+    {
+      "name": "Enicodes gracilis Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909132"
+    }
+,
+    {
+      "name": "Leptenicodes gracilis gracilis (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790373"
+    }
+,
+    {
+      "name": "Leptenicodes gracilis variivestris Breuning, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790374"
+    }
+,
+    {
+      "name": "Leptenicodes quadrilineatus Breuning, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790375"
+    }
+,
+    {
+      "name": "Leptonota Thomson, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptonota bordoni Mille & Sudre, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790376"
+    }
+,
+    {
+      "name": "Leptonota comitessa (White, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790377"
+    }
+,
+    {
+      "name": "Enicodes comitessa White, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910689"
+    }
+,
+    {
+      "name": "Leptonota picta Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923511"
+    }
+,
+    {
+      "name": "Leptonota sepium Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790378"
+    }
+,
+    {
+      "name": "Mimenicodes aureovitta Breuning, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909160"
+    }
+,
+    {
+      "name": "Lepturonota Breuning, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Lepturonota inconspicua (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790379"
+    }
+,
+    {
+      "name": "Lepturoschema inconspicuum (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910683"
+    }
+,
+    {
+      "name": "Nemaschema inconspicuum (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920731"
+    }
+,
+    {
+      "name": "Saperda inconspicua Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909931"
+    }
+,
+    {
+      "name": "Lepturonota lifuana (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790380"
+    }
+,
+    {
+      "name": "Leptonota lifuana Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813119"
+    }
+,
+    {
+      "name": "Lepturonota loyaltiana Breuning, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790381"
+    }
+,
+    {
+      "name": "Lepturonota modesta (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790382"
+    }
+,
+    {
+      "name": "Leptonota modesta Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813148"
+    }
+,
+    {
+      "name": "Lepturonota tristis (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790383"
+    }
+,
+    {
+      "name": "Leptonota aenea Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909165"
+    }
+,
+    {
+      "name": "Leptonota albovittata Fauvel, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909162"
+    }
+,
+    {
+      "name": "Leptonota tristis var. ruficollis Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909164"
+    }
+,
+    {
+      "name": "Leptonota tristis Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909161"
+    }
+,
+    {
+      "name": "Lepturonota tristis var. chalybaea Lepesme & Breuning, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909163"
+    }
+,
+    {
+      "name": "Lepturonota tristis transversefasciata Breuning, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978146"
+    }
+,
+    {
+      "name": "Nemaschema aenea (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968355"
+    }
+,
+    {
+      "name": "Nemaschema parteflavoantennatum Breuning, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909166"
+    }
+,
+    {
+      "name": "Lepturoschema Heller, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Lepturoschema penardi (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790384"
+    }
+,
+    {
+      "name": "Glaucytes penardi (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968358"
+    }
+,
+    {
+      "name": "Leptonota penardi Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909930"
+    }
+,
+    {
+      "name": "Lepturoschema costulata Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910676"
+    }
+,
+    {
+      "name": "Lepturoschema penardi var. humeralis Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910675"
+    }
+,
+    {
+      "name": "Nemaschema leseleuci Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910677"
+    }
+,
+    {
+      "name": "Nemaschema penardi (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920726"
+    }
+,
+    {
+      "name": "Nemaschema rufithorax Breuning, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909927"
+    }
+,
+    {
+      "name": "Microenicodes Sudre, Vives, Cazères & Mille, 2022",
+      "url": ""
+    }
+,
+    {
+      "name": "Microenicodes burwelli Sudre, Vives, Cazères & Mille, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015096"
+    }
+,
+    {
+      "name": "Mimenicodes Breuning, 1940",
+      "url": ""
+    }
+,
+    {
+      "name": "Mimenicodes bougieri (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790387"
+    }
+,
+    {
+      "name": "Enicodes bougieri Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909142"
+    }
+,
+    {
+      "name": "Mimenicodes flavolineatus Breuning, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909143"
+    }
+,
+    {
+      "name": "Mimenicodes cylindricus (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790388"
+    }
+,
+    {
+      "name": "Enicodes cylindricus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909138"
+    }
+,
+    {
+      "name": "Mimenicodes cylindroides Breuning, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790389"
+    }
+,
+    {
+      "name": "Mimenicodes fractimacula (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790390"
+    }
+,
+    {
+      "name": "Enicodes fractimacula Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909144"
+    }
+,
+    {
+      "name": "Mimenicodes granulum (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790385"
+    }
+,
+    {
+      "name": "Enicodes granulum Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909145"
+    }
+,
+    {
+      "name": "Mimenicodes latreillei (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790391"
+    }
+,
+    {
+      "name": "Enicodes latreillei Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909140"
+    }
+,
+    {
+      "name": "Mimenicodes opacoides Breuning, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909141"
+    }
+,
+    {
+      "name": "Mimenicodes obliquatus Breuning, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790393"
+    }
+,
+    {
+      "name": "Mimenicodes opacus (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790394"
+    }
+,
+    {
+      "name": "Enicodes opacus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909139"
+    }
+,
+    {
+      "name": "Mimenicodes perroudi (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790386"
+    }
+,
+    {
+      "name": "Enicodes perroudi Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909146"
+    }
+,
+    {
+      "name": "Mimenicodes rugiceps (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790395"
+    }
+,
+    {
+      "name": "Enicodes rugiceps Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910672"
+    }
+,
+    {
+      "name": "Mimenicodes scripticollis (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790396"
+    }
+,
+    {
+      "name": "Enicodes scripticollis Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910674"
+    }
+,
+    {
+      "name": "Mimenicodes subunicolor Breuning, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790397"
+    }
+,
+    {
+      "name": "Mimenicodes thomsoni (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790398"
+    }
+,
+    {
+      "name": "Enicodes thomsoni Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909136"
+    }
+,
+    {
+      "name": "Mimenicodes cohici Lepesme & Breuning, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909137"
+    }
+,
+    {
+      "name": "Mimenicodes unicolor Breuning, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790399"
+    }
+,
+    {
+      "name": "Nemaschema Thomson, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Nemaschema baladicum (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790400"
+    }
+,
+    {
+      "name": "Enicodes baladicus Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909926"
+    }
+,
+    {
+      "name": "Leptonota baladica (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968356"
+    }
+,
+    {
+      "name": "Lepturoschema baladicum (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910678"
+    }
+,
+    {
+      "name": "Nemaschema chlorizans Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790401"
+    }
+,
+    {
+      "name": "Lepturoschema chlorizans (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910684"
+    }
+,
+    {
+      "name": "Nemaschema collarti Breuning, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790402"
+    }
+,
+    {
+      "name": "Nemaschema cruciferum (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889615"
+    }
+,
+    {
+      "name": "Leiopus crucifer Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889614"
+    }
+,
+    {
+      "name": "Stenellipsis crucifera (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790244"
+    }
+,
+    {
+      "name": "Nemaschema flavovittatum Breuning, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790403"
+    }
+,
+    {
+      "name": "Nemaschema griseum Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790404"
+    }
+,
+    {
+      "name": "Lepturoschema griseum (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910686"
+    }
+,
+    {
+      "name": "Nemaschema kudrnai Sudre & Mille, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790405"
+    }
+,
+    {
+      "name": "Nemaschema lamberti (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790406"
+    }
+,
+    {
+      "name": "Leptonota lamberti Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909924"
+    }
+,
+    {
+      "name": "Nemaschema limbicolle (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790407"
+    }
+,
+    {
+      "name": "Enicodes limbicollis Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909153"
+    }
+,
+    {
+      "name": "Nemaschema lineatum Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790408"
+    }
+,
+    {
+      "name": "Lepturoschema lineatum (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910679"
+    }
+,
+    {
+      "name": "Nemaschema macilentum Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790409"
+    }
+,
+    {
+      "name": "Lepturoschema macilentum (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910685"
+    }
+,
+    {
+      "name": "Nemaschema modesta (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790410"
+    }
+,
+    {
+      "name": "Hetœmis modesta Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813149"
+    }
+,
+    {
+      "name": "Nemaschema mulsanti Perroud & Montrouzier, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790411"
+    }
+,
+    {
+      "name": "Nemaschema nitidulum Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790412"
+    }
+,
+    {
+      "name": "Lepturoschema nitidulum (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910682"
+    }
+,
+    {
+      "name": "Nemaschema olivaceum Breuning, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790413"
+    }
+,
+    {
+      "name": "Nemaschema puberulum (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790414"
+    }
+,
+    {
+      "name": "Leptonota puberula Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909151"
+    }
+,
+    {
+      "name": "Lepturoschema puberulum (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910681"
+    }
+,
+    {
+      "name": "Nemaschema thomsoni Fauvel, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909152"
+    }
+,
+    {
+      "name": "Nemaschema quadrisulcatum Breuning, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790415"
+    }
+,
+    {
+      "name": "Nemaschema sanguinicolle (Chevrolat, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790416"
+    }
+,
+    {
+      "name": "Lepturoschema sanguinicolle (Chevrolat, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910680"
+    }
+,
+    {
+      "name": "Navomorpha sanguinicollis Chevrolat, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909925"
+    }
+,
+    {
+      "name": "Nemaschema virgula Sudre, Vives, Cazères & Mille, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015099"
+    }
+,
+    {
+      "name": "Nemaschema viridipes (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790417"
+    }
+,
+    {
+      "name": "Enicodes viridipes Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909148"
+    }
+,
+    {
+      "name": "Nemaschema ochreovittatum Breuning, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909150"
+    }
+,
+    {
+      "name": "Nemaschemoides Sudre, Vives, Cazères & Mille, 2022",
+      "url": ""
+    }
+,
+    {
+      "name": "Nemaschemoides rosemaii Sudre, Vives, Cazères & Mille, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015098"
+    }
+,
+    {
+      "name": "Otenis Heller, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Neozygocera Breuning, 1978",
+      "url": ""
+    }
+,
+    {
+      "name": "Otenis chalybaea Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790418"
+    }
+,
+    {
+      "name": "Neozygocera kaszabi Breuning, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909157"
+    }
+,
+    {
+      "name": "Otenis epaphra Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909156"
+    }
+,
+    {
+      "name": "Paraenicodes Sudre, Vives, Cazères & Mille, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Paraenicodes annulifer (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790419"
+    }
+,
+    {
+      "name": "Enicodes annulifer Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909133"
+    }
+,
+    {
+      "name": "Pseudotmesisternus Breuning, 1951",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudotmesisternus vestitus (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790420"
+    }
+,
+    {
+      "name": "Tmesisternus vestitus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909154"
+    }
+,
+    {
+      "name": "Pteridoteloides Breuning, 1951",
+      "url": ""
+    }
+,
+    {
+      "name": "Pteridoteloides argentellus (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790421"
+    }
+,
+    {
+      "name": "Pteridotelus argentellus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909155"
+    }
+,
+    {
+      "name": "Pulchrenicodes Breuning, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Pulchrenicodes univittatus (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790422"
+    }
+,
+    {
+      "name": "Enicodes univittatus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909923"
+    }
+,
+    {
+      "name": "Scabroschema Breuning, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Scabroschema scabricolle (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790423"
+    }
+,
+    {
+      "name": "Leptonota scabricollis Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909929"
+    }
+,
+    {
+      "name": "Nemaschema paracomitessa Breuning, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909928"
+    }
+
+  ]
+}

@@ -1,0 +1,562 @@
+
+{
+  "name": "anthophorinae",
+  "children": [
+
+    {
+      "name": "Anthophorinae Dahlbom, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthophoridae Dahlbom, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Amegilla Friese, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Amegilla albigena (Lepeletier, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239286"
+    }
+,
+    {
+      "name": "Anthophora albigena Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838971"
+    }
+,
+    {
+      "name": "Anthophora binotata Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996014"
+    }
+,
+    {
+      "name": "Anthophora graeca Alfken, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407110"
+    }
+,
+    {
+      "name": "Amegilla comorensis Brooks & Pauly, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/901565"
+    }
+,
+    {
+      "name": "Amegilla fasciata (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239287"
+    }
+,
+    {
+      "name": "Andrena fasciata Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997053"
+    }
+,
+    {
+      "name": "Anthophora candens (Dalla torre, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816818"
+    }
+,
+    {
+      "name": "Anthophora candida Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239492"
+    }
+,
+    {
+      "name": "Podalirius candens Dalla torre, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997054"
+    }
+,
+    {
+      "name": "Amegilla garrula (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239289"
+    }
+,
+    {
+      "name": "Anthophora garrula (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000791"
+    }
+,
+    {
+      "name": "Apis garrula Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898948"
+    }
+,
+    {
+      "name": "Amegilla magnilabris (Fedtschenko, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239290"
+    }
+,
+    {
+      "name": "Anthophora magnilabris Fedtschenko, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996012"
+    }
+,
+    {
+      "name": "Amegilla ochroleuca (Pérez, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239291"
+    }
+,
+    {
+      "name": "Anthophora ochroleuca Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407111"
+    }
+,
+    {
+      "name": "Amegilla pulchra (Smith, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836125"
+    }
+,
+    {
+      "name": "Amegilla holmesi (Rayment, 1947)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987955"
+    }
+,
+    {
+      "name": "Amegilla parapulchra (Rayment, 1947)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987956"
+    }
+,
+    {
+      "name": "Amegilla salteri (Cockerell, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987963"
+    }
+,
+    {
+      "name": "Amegilla shafferyella (Rayment, 1947)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987965"
+    }
+,
+    {
+      "name": "Amegilla townleyella (Rayment, 1947)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987962"
+    }
+,
+    {
+      "name": "Amegilla wallaciella (Rayment, 1947)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987967"
+    }
+,
+    {
+      "name": "Anthophora holmesi Rayment, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987954"
+    }
+,
+    {
+      "name": "Anthophora parapulchra Rayment, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987953"
+    }
+,
+    {
+      "name": "Anthophora perpulchra wallaciella Rayment, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987966"
+    }
+,
+    {
+      "name": "Anthophora pulchra townleyella Rayment, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987960"
+    }
+,
+    {
+      "name": "Anthophora pulchra Smith, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987951"
+    }
+,
+    {
+      "name": "Anthophora salteri Cockerell, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987957"
+    }
+,
+    {
+      "name": "Anthophora shafferyella Rayment, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987964"
+    }
+,
+    {
+      "name": "Amegilla quadrifasciata (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239292"
+    }
+,
+    {
+      "name": "Apis quadrifasciata Villers, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998582"
+    }
+,
+    {
+      "name": "Zonamegilla Popov, 1950",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthophora Latreille, 1803",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthophora aestivalis (Panzer, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239483"
+    }
+,
+    {
+      "name": "Anthophora aestivalis Schenck, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820677"
+    }
+,
+    {
+      "name": "Anthophora intermedia Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000786"
+    }
+,
+    {
+      "name": "Apis aestivalis Panzer, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998583"
+    }
+,
+    {
+      "name": "Anthophora affinis Brullé, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239484"
+    }
+,
+    {
+      "name": "Anthophora biciliata Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239489"
+    }
+,
+    {
+      "name": "Anthophora agama Radoszkowski, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239485"
+    }
+,
+    {
+      "name": "Anthophora atriceps Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239486"
+    }
+,
+    {
+      "name": "Anthophora atroalba Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239487"
+    }
+,
+    {
+      "name": "Anthophora balneorum Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239488"
+    }
+,
+    {
+      "name": "Anthophora bimaculata (Panzer, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239490"
+    }
+,
+    {
+      "name": "Anthophora squalida Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000793"
+    }
+,
+    {
+      "name": "Apis bimaculata Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998621"
+    }
+,
+    {
+      "name": "Anthophora borealis Morawitz, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883851"
+    }
+,
+    {
+      "name": "Anthophora calcarata Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239491"
+    }
+,
+    {
+      "name": "Anthophora canescens Brullé, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883852"
+    }
+,
+    {
+      "name": "Anthophora lanata (Klug, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814740"
+    }
+,
+    {
+      "name": "Anthophora nigrocincta Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407152"
+    }
+,
+    {
+      "name": "Anthophora subterranea Germar, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239521"
+    }
+,
+    {
+      "name": "Anthophora crassipes Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239493"
+    }
+,
+    {
+      "name": "Anthophora dispar Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239495"
+    }
+,
+    {
+      "name": "Anthophora dufourii Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239496"
+    }
+,
+    {
+      "name": "Anthophora femorata (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239497"
+    }
+,
+    {
+      "name": "Apis femorata Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790701"
+    }
+,
+    {
+      "name": "Anthophora fulvitarsis Brullé, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239498"
+    }
+,
+    {
+      "name": "Anthophora fulvodimidiata Dours, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239499"
+    }
+,
+    {
+      "name": "Anthophora nigripes Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407147"
+    }
+,
+    {
+      "name": "Anthophora furcata (Panzer, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239500"
+    }
+,
+    {
+      "name": "Apis furcata Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998628"
+    }
+,
+    {
+      "name": "Anthophora gallica Dalla Torre & Friese, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814738"
+    }
+,
+    {
+      "name": "Amegilla gallica (Dalla Torre & Friese, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239288"
+    }
+,
+    {
+      "name": "Anthophora dubia Smith, 1854 non Eversmann, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998629"
+    }
+,
+    {
+      "name": "Anthophora quadricolor gallica Dalla Torre & Friese, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814739"
+    }
+,
+    {
+      "name": "Anthophora larvata Giraud, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239501"
+    }
+,
+    {
+      "name": "Anthophora leucophaea Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239502"
+    }
+,
+    {
+      "name": "Anthophora mucida Gribodo, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239504"
+    }
+,
+    {
+      "name": "Anthophora nigrovittata Dours, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239505"
+    }
+,
+    {
+      "name": "Anthophora plagiata (Illiger, 1806)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239507"
+    }
+,
+    {
+      "name": "Apis parietina Fabricius, 1793 non Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407148"
+    }
+,
+    {
+      "name": "Megilla plagiata Illiger, 1806",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998680"
+    }
+,
+    {
+      "name": "Anthophora plumipes (Pallas, 1772)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239508"
+    }
+,
+    {
+      "name": "Anthophora pilipes (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820951"
+    }
+,
+    {
+      "name": "Apis pilipes Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820950"
+    }
+,
+    {
+      "name": "Apis plumipes Pallas, 1772",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998685"
+    }
+,
+    {
+      "name": "Anthophora podagra Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239509"
+    }
+,
+    {
+      "name": "Anthophora rufa Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407149"
+    }
+,
+    {
+      "name": "Anthophora pubescens (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239510"
+    }
+,
+    {
+      "name": "Anthophora flabellifera Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000787"
+    }
+,
+    {
+      "name": "Apis pubescens Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998686"
+    }
+,
+    {
+      "name": "Anthophora punctilabris Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239511"
+    }
+,
+    {
+      "name": "Anthophora quadricolor (Erichson, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239512"
+    }
+,
+    {
+      "name": "Anthophora quadrimaculata (Panzer, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239513"
+    }
+,
+    {
+      "name": "Anthophora vara Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407150"
+    }
+,
+    {
+      "name": "Anthophora vulpina (Panzer, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816765"
+    }
+,
+    {
+      "name": "Apis quadrimaculata Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998687"
+    }
+,
+    {
+      "name": "Apis vulpina Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1003416"
+    }
+,
+    {
+      "name": "Anthophora retusa (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239514"
+    }
+,
+    {
+      "name": "Anthophora retusa var. meridionalis Pérez, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945630"
+    }
+,
+    {
+      "name": "Anthophora retusa retusa (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008547"
+    }
+,
+    {
+      "name": "Apis retusa Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850267"
+    }
+,
+    {
+      "name": "Anthophora robusta (Klug, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239515"
+    }
+,
+    {
+      "name": "Anthophora oxygona Dours, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407151"
+    }
+,
+    {
+      "name": "Anthophora salviae (Panzer, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239517"
+    }
+,
+    {
+      "name": "Anthophora crinipes Smith, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239494"
+    }
+,
+    {
+      "name": "Lasius salviae Panzer, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815955"
+    }
+,
+    {
+      "name": "Anthophora senescens Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239519"
+    }
+,
+    {
+      "name": "Anthophora sichelii Radoszkowski, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239520"
+    }
+,
+    {
+      "name": "Anthophora tricolor (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783084"
+    }
+,
+    {
+      "name": "Habropoda Smith, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Habropoda tarsata (Spinola, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239687"
+    }
+,
+    {
+      "name": "Tetralonia tarsata Spinola, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998688"
+    }
+,
+    {
+      "name": "Habropoda zonatula (Smith, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239688"
+    }
+,
+    {
+      "name": "Habrophora zonatula Smith, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815655"
+    }
+
+  ]
+}

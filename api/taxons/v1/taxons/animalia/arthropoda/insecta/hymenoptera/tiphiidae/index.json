@@ -1,0 +1,32 @@
+
+{
+  "name": "tiphiidae",
+  "children": [
+
+    {
+      "name": "Tiphiidae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "methochinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tiphiidae/methochinae/"
+    }
+,
+    {
+      "name": "myzininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tiphiidae/myzininae/"
+    }
+,
+    {
+      "name": "thynninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tiphiidae/thynninae/"
+    }
+,
+    {
+      "name": "tiphiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tiphiidae/tiphiinae/"
+    }
+
+  ]
+}

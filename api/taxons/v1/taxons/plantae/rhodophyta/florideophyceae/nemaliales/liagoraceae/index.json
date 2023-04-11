@@ -1,0 +1,722 @@
+
+{
+  "name": "liagoraceae",
+  "children": [
+
+    {
+      "name": "Liagoraceae Kütz., 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Akalaphycus Huisman, I.A.Abbott & A.R.Sherwood, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Akalaphycus liagoroides (Yamada) Huisman, I.A.Abbott & A.R.Sherwood, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649151"
+    }
+,
+    {
+      "name": "Rhodopeltis liagoroides Yamada, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694748"
+    }
+,
+    {
+      "name": "Stenopeltis liagoroides (Yamada) Itono & Yoshizaki, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649152"
+    }
+,
+    {
+      "name": "Cumagloia Setchell & N.L.Gardner, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Cumagloia andersonii (Farlow) Setchell & N.L.Gardner, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958985"
+    }
+,
+    {
+      "name": "Nemalion andersonii Farlow, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958986"
+    }
+,
+    {
+      "name": "Dermonema Harvey ex Heydrich, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Dermonema virens (J.Agardh) Pedroche & Ávila Ortíz, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372174"
+    }
+,
+    {
+      "name": "Cladosiphon frappieri Mont. & Millardet, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/569915"
+    }
+,
+    {
+      "name": "Dermonema dichotomum Grev., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572150"
+    }
+,
+    {
+      "name": "Dermonema dichotomum Harvey ex Heydrich, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571090"
+    }
+,
+    {
+      "name": "Dermonema frappieri (Mont. & Millardet) Børgesen, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/575790"
+    }
+,
+    {
+      "name": "Dermonema gracile (Kütz.) Schmitz, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/569956"
+    }
+,
+    {
+      "name": "Dermonema gracile Weber Bosse, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572149"
+    }
+,
+    {
+      "name": "Gymnophlaea gracilis G.Martens, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572148"
+    }
+,
+    {
+      "name": "Gymnophlaea gracilis Kütz., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572147"
+    }
+,
+    {
+      "name": "Nemalion virens J.Agardh, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572146"
+    }
+,
+    {
+      "name": "Ganonema K.-C.Fan & Yung-C.Wang, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "Ganonema farinosum (J.V.Lamour.) K.C.Fan & Yung C.Wang, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372176"
+    }
+,
+    {
+      "name": "Galaxaura cliftonii Harvey, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568193"
+    }
+,
+    {
+      "name": "Liagora bipinnata P.L.Crouan & H.M.Crouan, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685151"
+    }
+,
+    {
+      "name": "Liagora cheyneana Harvey, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/569359"
+    }
+,
+    {
+      "name": "Liagora cliftonii (Harvey) J.Agardh, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568194"
+    }
+,
+    {
+      "name": "Liagora crassa Dickie, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572152"
+    }
+,
+    {
+      "name": "Liagora elongata Zanardini, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572151"
+    }
+,
+    {
+      "name": "Liagora farinosa f. lurida (Dickie) Børgesen, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/569618"
+    }
+,
+    {
+      "name": "Liagora farinosa var. cheynana (Harvey) Zanefeld, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572520"
+    }
+,
+    {
+      "name": "Liagora farinosa J.V.Lamour., 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553030"
+    }
+,
+    {
+      "name": "Liagora lurida Dickie, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572153"
+    }
+,
+    {
+      "name": "Liagora paniculata J.Agardh, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685152"
+    }
+,
+    {
+      "name": "Liagora preissii Sonder ex Kütz., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568758"
+    }
+,
+    {
+      "name": "Liagora tomentosa Kütz., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650823"
+    }
+,
+    {
+      "name": "Ganonema filicoides (Kütz.) Huisman & A.J.K.Millar, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651032"
+    }
+,
+    {
+      "name": "Nemalion filicoides Kütz., 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651033"
+    }
+,
+    {
+      "name": "Ganonema papenfussii (I.A.Abbott) J.M.Huisman, I.A.Abbott & A.R.Sherwood, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650653"
+    }
+,
+    {
+      "name": "Liagora papenfussii I.A.Abbott, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693118"
+    }
+,
+    {
+      "name": "Ganonema pinnatum (Harv.) Huisman, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648225"
+    }
+,
+    {
+      "name": "Liagora pinnata Harv., 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/692921"
+    }
+,
+    {
+      "name": "Gloiocallis S.-M.Lin, Huisman & D.L.Ballantine, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Gloiocallis dendroidea (P.Crouan & H.Crouan) Showe M.Lin, Huisman & D.L.Ballantine, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975427"
+    }
+,
+    {
+      "name": "Ganonema dendroideum (P.Crouan & H.Crouan) D.L.Ballantine & N.E.Aponte, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975432"
+    }
+,
+    {
+      "name": "Helminthora dendroidea P.Crouan & H.Crouan, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975429"
+    }
+,
+    {
+      "name": "Liagora dendroidea (P.L.Crouan & H.M.Crouan) I.A.Abbott, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975430"
+    }
+,
+    {
+      "name": "Liagora mucosa M.A.Howe, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975428"
+    }
+,
+    {
+      "name": "Helminthocladia J.Agardh, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Helminthocladia calvadosii (J.V.Lamour. ex Duby) Setch., 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372178"
+    }
+,
+    {
+      "name": "Dumontia calvadosii J.V.Lamour. ex Duby, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577120"
+    }
+,
+    {
+      "name": "Helminthocladia purpurea (Harvey) J.Agardh, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/570949"
+    }
+,
+    {
+      "name": "Mesogloia purpurea Harvey, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571698"
+    }
+,
+    {
+      "name": "Nemalion purpureum (Harvey) Chauv., 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685153"
+    }
+,
+    {
+      "name": "Helminthocladia hudsonii J.Agardh, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851038"
+    }
+,
+    {
+      "name": "Helminthocladia agardhiana P.S.Dixon, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851039"
+    }
+,
+    {
+      "name": "Helminthora J.Agardh, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Helminthora divaricata (C.Agardh) J.Agardh, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372179"
+    }
+,
+    {
+      "name": "Acrochaetium polyidis (Rosenv.) Børgesen, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576518"
+    }
+,
+    {
+      "name": "Chantransia polyidis Rosenv., 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576517"
+    }
+,
+    {
+      "name": "Colaconema polyidis (Rosenv.) Woelk., 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546780"
+    }
+,
+    {
+      "name": "Dudresnaya divaricata (C.Agardh) J.Agardh, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571692"
+    }
+,
+    {
+      "name": "Mesogloia divaricata C.Agardh, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576516"
+    }
+,
+    {
+      "name": "Mesogloia hornemanni Suhr ex Hornem., 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/569800"
+    }
+,
+    {
+      "name": "Nemalion divaricatum (C.Agardh) Chauvin, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009456"
+    }
+,
+    {
+      "name": "Nemalion ramosissimum Zanardini, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576519"
+    }
+,
+    {
+      "name": "Hommersandiophycus S.-M.Lin & J.M.Huisman, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Hommersandiophycus samaensis (C.K.Tseng) S.-M.Lin & Huisman, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/830093"
+    }
+,
+    {
+      "name": "Ganonema samaense (C.K.Tseng) Huisman, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648236"
+    }
+,
+    {
+      "name": "Liagora amplectans I.A.Abbott, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/692929"
+    }
+,
+    {
+      "name": "Liagora samaensis C.K.Tseng, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/692928"
+    }
+,
+    {
+      "name": "Liagora J.V.Lamour., 1812",
+      "url": ""
+    }
+,
+    {
+      "name": "Liagora albicans J.V.Lamour., 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372167"
+    }
+,
+    {
+      "name": "Liagora ceylonica Zeh, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572155"
+    }
+,
+    {
+      "name": "Liagora decussata Mont., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572154"
+    }
+,
+    {
+      "name": "Liagora erecta Zeh, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572222"
+    }
+,
+    {
+      "name": "Liagora kahukuana I.A.Abbott, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568800"
+    }
+,
+    {
+      "name": "Liagora maxima Butters, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568799"
+    }
+,
+    {
+      "name": "Liagora articulata J.V.Lamour., 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650821"
+    }
+,
+    {
+      "name": "Liagora boergesenii Yamada, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648157"
+    }
+,
+    {
+      "name": "Liagora brachyclada Decaisne, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650822"
+    }
+,
+    {
+      "name": "Liagora ceranoides J.V.Lamour., 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372161"
+    }
+,
+    {
+      "name": "Dichotomaria ceranoides (J.V.Lamour.) Blainville, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009528"
+    }
+,
+    {
+      "name": "Liagora ceranoides f. leprosa (J.Agardh) Yamada, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589294"
+    }
+,
+    {
+      "name": "Liagora ceranoides f. pulverulenta (C.Agardh) Yamada, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685100"
+    }
+,
+    {
+      "name": "Liagora ceranoides var. leprosa (J.Agardh) Børgesen, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/570900"
+    }
+,
+    {
+      "name": "Liagora ceranoides var. pulverulenta (C.Agardh) Børgesen, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/570899"
+    }
+,
+    {
+      "name": "Liagora leprosa J.Agardh, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549214"
+    }
+,
+    {
+      "name": "Liagora opposita J.Agardh, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685103"
+    }
+,
+    {
+      "name": "Liagora patens P.L.Crouan & H.M.Crouan, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685101"
+    }
+,
+    {
+      "name": "Liagora pilgeriana Zeh, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685104"
+    }
+,
+    {
+      "name": "Liagora prolifera P.L.Crouan & H.M.Crouan, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685102"
+    }
+,
+    {
+      "name": "Liagora pulverulenta C.Agardh, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549215"
+    }
+,
+    {
+      "name": "Liagora viscida f. ceranoides (Zanardini) Feldmann",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/569639"
+    }
+,
+    {
+      "name": "Liagora distenta (Mertens ex Roth) J.V.Lamour., 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372164"
+    }
+,
+    {
+      "name": "Fucus canalicularioides Clemente, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/572797"
+    }
+,
+    {
+      "name": "Fucus distentus Mertens ex Roth, 1806",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568650"
+    }
+,
+    {
+      "name": "Liagora maderensis Kütz., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975473"
+    }
+,
+    {
+      "name": "Liagora tetrasporifera Børgesen, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372166"
+    }
+,
+    {
+      "name": "Liagora tsengii Huisman & M.J.Wynne, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650824"
+    }
+,
+    {
+      "name": "Liagora viscida (Forssk.) C.Agardh, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372169"
+    }
+,
+    {
+      "name": "Fucus viscidus Forssk., 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568651"
+    }
+,
+    {
+      "name": "Liagora cladoniaeformis Bory, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/576393"
+    }
+,
+    {
+      "name": "Sphaerococcus viscidus (Forssk.) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009529"
+    }
+,
+    {
+      "name": "Liagoropsis Yamada, 1944",
+      "url": ""
+    }
+,
+    {
+      "name": "Liagoropsis schrammii (P.L.Crouan & H.M.Crouan) Doty & I.A.Abbott, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841017"
+    }
+,
+    {
+      "name": "Helminthocladia schrammii P.L.Crouan & H.M.Crouan, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841018"
+    }
+,
+    {
+      "name": "Nemalion schrammii (P.L.Crouan & H.M.Crouan) Børgesen, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841019"
+    }
+,
+    {
+      "name": "Neoizziella S.M.Lin, S.-Y.Yang & Huisman, 2011",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoizziella asiatica S.M.Lin, S.-Y.Yang & Huisman, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851111"
+    }
+,
+    {
+      "name": "Neoizziella divaricata (C.K.Tseng) S.M.Lin, S.-Y.Yang & Huisman, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670556"
+    }
+,
+    {
+      "name": "Liagora divaricata C.K.Tseng, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372170"
+    }
+,
+    {
+      "name": "Stenopeltis Itono & Yoshizaki, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenopeltis gracilis (Yamada & Tanaka) Itono & Yoshizaki, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943879"
+    }
+,
+    {
+      "name": "Rhodopeltis gracilis Yamada & Tanaka, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943880"
+    }
+,
+    {
+      "name": "Titanophycus Huisman, G.W.Saunders & A.R.Sherwood, 2006",
+      "url": ""
+    }
+,
+    {
+      "name": "Titanophycus setchellii (Yamada) S.-M.Lin, S.-Y.Yang & Huisman, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943886"
+    }
+,
+    {
+      "name": "Liagora setchellii Yamada, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943887"
+    }
+,
+    {
+      "name": "Titanophycus validus (Harv.) Huisman, G.W.Saunders & A.R.Sherwood, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544706"
+    }
+,
+    {
+      "name": "Galaxaura valida (Harvey) P.Crouan & H.Crouan, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009760"
+    }
+,
+    {
+      "name": "Liagora annulata J.Agardh, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568290"
+    }
+,
+    {
+      "name": "Liagora pseudorobusta K.C.Fan, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568248"
+    }
+,
+    {
+      "name": "Liagora rosacea Zeh, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696910"
+    }
+,
+    {
+      "name": "Liagora tenuis J.Agardh, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568289"
+    }
+,
+    {
+      "name": "Liagora valida Harv., 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372168"
+    }
+,
+    {
+      "name": "Trichogloea Kütz., 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichogloea herveyi W.R.Taylor, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701527"
+    }
+,
+    {
+      "name": "Trichogloea lubrica J.Agardh, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975446"
+    }
+,
+    {
+      "name": "Trichogloea requienii (Mont.) Kütz., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/652272"
+    }
+,
+    {
+      "name": "Batrachospermum requienii Mont., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688621"
+    }
+,
+    {
+      "name": "Trichogloea jadinii Børgesen, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688620"
+    }
+,
+    {
+      "name": "Trichogloea papenfussii Tanaka, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688619"
+    }
+,
+    {
+      "name": "Trichogloeopsis I.A. Abbott & Doty, 1960",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichogloeopsis mucosissima (Yamada) I.A.Abbott & Doty, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825204"
+    }
+,
+    {
+      "name": "Liagora mucosissima Yamada, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009762"
+    }
+,
+    {
+      "name": "Trichogloeopsis pedicellata (Howe) I.A.Abbott & Doty, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841048"
+    }
+,
+    {
+      "name": "Liagora pedicellata M.A.Howe, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841049"
+    }
+,
+    {
+      "name": "Yamadaella I.A. Abbott, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Yamadaella caenomyce (Decaisne) I.A.Abbott, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648275"
+    }
+,
+    {
+      "name": "Liagora caeomyce Decaisne, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693649"
+    }
+,
+    {
+      "name": "Liagora holstii Zeh, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693650"
+    }
+,
+    {
+      "name": "Liagora intricata Butters, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693651"
+    }
+,
+    {
+      "name": "Liagora rugosa Zanardini, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648356"
+    }
+,
+    {
+      "name": "Yoshizakia S.-M.Lin, Huisman & C.Payri, 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "Yoshizakia indopacifica S.-M.Lin, Huisman & C.Payri, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943890"
+    }
+
+  ]
+}

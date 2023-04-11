@@ -1,0 +1,372 @@
+
+{
+  "name": "leucostomatini",
+  "children": [
+
+    {
+      "name": "Leucostomatini Townsend, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Brullaea Robineau-Desvoidy, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Brullaea ocypteroidea Robineau-Desvoidy, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226676"
+    }
+,
+    {
+      "name": "Cinochira Zetterstedt, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Cinochira atra Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226671"
+    }
+,
+    {
+      "name": "Clairvillia Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Clairvillia biguttata (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/28297"
+    }
+,
+    {
+      "name": "Clairvilla biguttata (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968417"
+    }
+,
+    {
+      "name": "Clairvillia dispar Rondani, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941312"
+    }
+,
+    {
+      "name": "Clairvillia flavipalpis Rondani, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941313"
+    }
+,
+    {
+      "name": "Clairvillia forcipata Robineau-Desvoidy, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941314"
+    }
+,
+    {
+      "name": "Clairvillia ocypterina Schiner, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941315"
+    }
+,
+    {
+      "name": "Ocyptera irregularis Loew, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941316"
+    }
+,
+    {
+      "name": "Phanemya musca Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941318"
+    }
+,
+    {
+      "name": "Tachina biguttata Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941311"
+    }
+,
+    {
+      "name": "Clairvillia pninae Kugler, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226678"
+    }
+,
+    {
+      "name": "Dionaea Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Dionaea aurifrons (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/28316"
+    }
+,
+    {
+      "name": "Dionaea aurulans Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941464"
+    }
+,
+    {
+      "name": "Dionaea binotata Robineau-Desvoidy, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941465"
+    }
+,
+    {
+      "name": "Dionaea forcipata Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941466"
+    }
+,
+    {
+      "name": "Dionaea lineata Robineau-Desvoidy, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941467"
+    }
+,
+    {
+      "name": "Tachina aurifrons Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941463"
+    }
+,
+    {
+      "name": "Dionaea flavisquamis Robineau-Desvoidy, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226685"
+    }
+,
+    {
+      "name": "Dionaea magnifrons Herting, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226686"
+    }
+,
+    {
+      "name": "Eulabidogaster Belanovsky, 1951",
+      "url": ""
+    }
+,
+    {
+      "name": "Eulabidogaster setifacies (Rondani, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226684"
+    }
+,
+    {
+      "name": "Labidigaster setifacies Rondani, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941693"
+    }
+,
+    {
+      "name": "Labigastera Macquart, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Labigastera forcipata (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226673"
+    }
+,
+    {
+      "name": "Clairvillia rondani Pandellé, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942010"
+    }
+,
+    {
+      "name": "Labidigaster uncinata Rondani, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942011"
+    }
+,
+    {
+      "name": "Labidogyne grandis Brauer & Bergenstamm, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942012"
+    }
+,
+    {
+      "name": "Labigaster forcipata (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/28339"
+    }
+,
+    {
+      "name": "Tachina forcipata Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942009"
+    }
+,
+    {
+      "name": "Labigastera nitidula (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226674"
+    }
+,
+    {
+      "name": "Labigastera algira Macquart, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942014"
+    }
+,
+    {
+      "name": "Tachina nitidula Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942013"
+    }
+,
+    {
+      "name": "Labigastera pauciseta Rondani, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226675"
+    }
+,
+    {
+      "name": "Medorilla subfasciata Rondani, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942015"
+    }
+,
+    {
+      "name": "Leucostoma Meigen, 1803",
+      "url": ""
+    }
+,
+    {
+      "name": "Leucostoma abbreviatum Herting, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226679"
+    }
+,
+    {
+      "name": "Leucostoma anthracinum (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226680"
+    }
+,
+    {
+      "name": "Leucostoma vimmeri Jacentkovsky, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942025"
+    }
+,
+    {
+      "name": "Tachina anthracina Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942024"
+    }
+,
+    {
+      "name": "Leucostoma crassum Kugler, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226681"
+    }
+,
+    {
+      "name": "Leucostoma meridianum (Rondani, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226682"
+    }
+,
+    {
+      "name": "Clairvillia pubens Pandellé, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942027"
+    }
+,
+    {
+      "name": "Leucostoma meridiana (Rondani, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002869"
+    }
+,
+    {
+      "name": "Psalida meridiana Rondani, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942026"
+    }
+,
+    {
+      "name": "Leucostoma simplex (Fallén, 1815)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/28342"
+    }
+,
+    {
+      "name": "Clelia minor Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942029"
+    }
+,
+    {
+      "name": "Clelia rapida Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942030"
+    }
+,
+    {
+      "name": "Cyclodionaea acuminata Townsend, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942031"
+    }
+,
+    {
+      "name": "Leucostoma atra Townsend, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942032"
+    }
+,
+    {
+      "name": "Ocyptera simplex Fallén, 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942028"
+    }
+,
+    {
+      "name": "Leucostoma tetraptera (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/28343"
+    }
+,
+    {
+      "name": "Clelia agilis Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942034"
+    }
+,
+    {
+      "name": "Leucostoma analis (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002870"
+    }
+,
+    {
+      "name": "Musca aterrima Villers, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942035"
+    }
+,
+    {
+      "name": "Pseudoleucostoma buresi Jacentkovsky, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942036"
+    }
+,
+    {
+      "name": "Pseudoleucostoma slivense Jacentkovsky, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942037"
+    }
+,
+    {
+      "name": "Tachina analis Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942038"
+    }
+,
+    {
+      "name": "Tachina tetraptera Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942033"
+    }
+,
+    {
+      "name": "Leucostoma turonicum Dupuis, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226683"
+    }
+,
+    {
+      "name": "Psalidoxena Villeneuve, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Psalidoxena transsylvanica (Villeneuve, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226677"
+    }
+,
+    {
+      "name": "Dionaea transsylvanica Villeneuve, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943235"
+    }
+,
+    {
+      "name": "Weberia Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Weberia digramma (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226672"
+    }
+,
+    {
+      "name": "Lepidosyntoma lucidifrons Becker, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943580"
+    }
+,
+    {
+      "name": "Tachina digramma Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943578"
+    }
+,
+    {
+      "name": "Weberia appendiculata Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943582"
+    }
+
+  ]
+}

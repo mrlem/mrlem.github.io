@@ -1,0 +1,27 @@
+
+{
+  "name": "cyclominae",
+  "children": [
+
+    {
+      "name": "Cyclominae Schönherr, 1826",
+      "url": ""
+    }
+,
+    {
+      "name": "dichotrachelini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cyclominae/dichotrachelini/"
+    }
+,
+    {
+      "name": "hipporhinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cyclominae/hipporhinini/"
+    }
+,
+    {
+      "name": "listroderini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cyclominae/listroderini/"
+    }
+
+  ]
+}

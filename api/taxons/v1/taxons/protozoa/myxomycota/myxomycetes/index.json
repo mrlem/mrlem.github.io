@@ -1,0 +1,67 @@
+
+{
+  "name": "myxomycetes",
+  "children": [
+
+    {
+      "name": "Myxomycetes G.Winter, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Columellinia Leontyev, Schnittler, S.L.Stephenson, Lado, L.L.Shadwick, Novozh. & Shchepin, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "echinosteliales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/echinosteliales/"
+    }
+,
+    {
+      "name": "Kelleromyxa Eliasson, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Kelleromyxa fimicola (Dearn. & Bisby) Eliasson, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016793"
+    }
+,
+    {
+      "name": "Licea fimicola Dearn. & Bisby, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016794"
+    }
+,
+    {
+      "name": "liceales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/liceales/"
+    }
+,
+    {
+      "name": "Lucisporinia Leontyev, Schnittler, S.L.Stephenson, Novozh. & Shchepin, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "physarales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/physarales/"
+    }
+,
+    {
+      "name": "stemonitales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/stemonitales/"
+    }
+,
+    {
+      "name": "trichiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/trichiales/"
+    }
+,
+    {
+      "name": "trichiida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/trichiida/"
+    }
+
+  ]
+}

@@ -1,0 +1,452 @@
+
+{
+  "name": "dacini",
+  "children": [
+
+    {
+      "name": "Dacini Loew, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Bactrocera Macquart, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Bactrocera aneuvittata (Drew, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911859"
+    }
+,
+    {
+      "name": "Dacus aneuvittatus Drew, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438414"
+    }
+,
+    {
+      "name": "Bactrocera atra (Malloch, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776091"
+    }
+,
+    {
+      "name": "Dacus atra Malloch, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438662"
+    }
+,
+    {
+      "name": "Bactrocera caledoniensis Drew, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438418"
+    }
+,
+    {
+      "name": "Bactrocera carambolae Drew & Hancock, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438412"
+    }
+,
+    {
+      "name": "Bactrocera curvipennis (Froggatt, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808941"
+    }
+,
+    {
+      "name": "Dacus curvipennis Froggatt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438494"
+    }
+,
+    {
+      "name": "Bactrocera distincta (Malloch, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777102"
+    }
+,
+    {
+      "name": "Dacus distinctus Malloch, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944073"
+    }
+,
+    {
+      "name": "Bactrocera dorsalis (Hendel, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775759"
+    }
+,
+    {
+      "name": "Bactrocera invadens Drew, Tsuruta & White, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653197"
+    }
+,
+    {
+      "name": "Chaetodacus okinawanus Shiraki, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944075"
+    }
+,
+    {
+      "name": "Dacus dorsalis Hendel, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944074"
+    }
+,
+    {
+      "name": "Bactrocera ebenea (Drew, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808942"
+    }
+,
+    {
+      "name": "Dacus ebenea Drew, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911854"
+    }
+,
+    {
+      "name": "Bactrocera facialis (Coquillett, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808953"
+    }
+,
+    {
+      "name": "Bactrocera frauenfeldi (Schiner, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828308"
+    }
+,
+    {
+      "name": "Bactrocera fulvifacies (Perkins, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808943"
+    }
+,
+    {
+      "name": "Zeugodacus fulvifacies Perkins, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438794"
+    }
+,
+    {
+      "name": "Bactrocera grandistylus Drew & Hancock, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438413"
+    }
+,
+    {
+      "name": "Bactrocera kirki (Froggatt, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776092"
+    }
+,
+    {
+      "name": "Dacus kirki Froggatt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911867"
+    }
+,
+    {
+      "name": "Bactrocera luteola (Malloch, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776093"
+    }
+,
+    {
+      "name": "Dacus luteola Malloch, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438627"
+    }
+,
+    {
+      "name": "Bactrocera montyana (Munro, 1984)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653204"
+    }
+,
+    {
+      "name": "Mauritidacus montyanus Munro, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944076"
+    }
+,
+    {
+      "name": "Bactrocera mucronis (Drew, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808944"
+    }
+,
+    {
+      "name": "Dacus mucronis Drew, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438416"
+    }
+,
+    {
+      "name": "Bactrocera obscura (Malloch, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777103"
+    }
+,
+    {
+      "name": "Dacus obscurus Malloch, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944077"
+    }
+,
+    {
+      "name": "Bactrocera oleae (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653205"
+    }
+,
+    {
+      "name": "Bactrocera oleae (Gmelin, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216950"
+    }
+,
+    {
+      "name": "Dacus oleae (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017506"
+    }
+,
+    {
+      "name": "Musca oleae Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898984"
+    }
+,
+    {
+      "name": "Bactrocera paraxanthodes Drew & Hancock, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808945"
+    }
+,
+    {
+      "name": "Bactrocera passiflorae (Froggatt, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777101"
+    }
+,
+    {
+      "name": "Dacus passiflorae Froggatt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911868"
+    }
+,
+    {
+      "name": "Bactrocera perfusca (Aubertin in Aubertin & Cheesman, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645239"
+    }
+,
+    {
+      "name": "Chaetodacus perfuscus Aubertin, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438175"
+    }
+,
+    {
+      "name": "Dacus perfuscus (Aubertin in Aubertin & Cheesman, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645240"
+    }
+,
+    {
+      "name": "Bactrocera perpusilla (Drew, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808946"
+    }
+,
+    {
+      "name": "Dacus perpusillus Drew, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438417"
+    }
+,
+    {
+      "name": "Bactrocera psidii (Froggatt, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808947"
+    }
+,
+    {
+      "name": "Bactrocera ornatissimus (Froggatt, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962616"
+    }
+,
+    {
+      "name": "Dacus ornatissimus Froggatt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911856"
+    }
+,
+    {
+      "name": "Tephritis psidii Froggatt, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911855"
+    }
+,
+    {
+      "name": "Bactrocera setinervis (Malloch, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014660"
+    }
+,
+    {
+      "name": "Dacus setinervis Malloch, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014657"
+    }
+,
+    {
+      "name": "Bactrocera trilineola Drew, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589947"
+    }
+,
+    {
+      "name": "Bactrocera tryoni (Froggatt, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776094"
+    }
+,
+    {
+      "name": "Tephritis tryoni Froggatt, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438493"
+    }
+,
+    {
+      "name": "Bactrocera umbrosa (Fabricius, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808948"
+    }
+,
+    {
+      "name": "Dacus frenchi Froggatt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911858"
+    }
+,
+    {
+      "name": "Dacus umbrosa Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911857"
+    }
+,
+    {
+      "name": "Bactrocera xanthodes (Broun, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777100"
+    }
+,
+    {
+      "name": "Tephrites xanthodes Broun, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911869"
+    }
+,
+    {
+      "name": "Bactrocera zonata (Saunders, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653206"
+    }
+,
+    {
+      "name": "Bactrocera maculigera Doleschall, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944079"
+    }
+,
+    {
+      "name": "Dacus mangiferae Cotes, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944080"
+    }
+,
+    {
+      "name": "Dasyneura zonatus Saunders, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944078"
+    }
+,
+    {
+      "name": "Rivellia persicae Bigot, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944081"
+    }
+,
+    {
+      "name": "Dacus Fabricius, 1805",
+      "url": ""
+    }
+,
+    {
+      "name": "Dacus bivittatus (Bigot, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653198"
+    }
+,
+    {
+      "name": "Dacus atrescens Munro, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944142"
+    }
+,
+    {
+      "name": "Dacus bipartitus Graham, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944143"
+    }
+,
+    {
+      "name": "Dacus cucumarius Sack, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944144"
+    }
+,
+    {
+      "name": "Dacus hulstaerti Collart, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944145"
+    }
+,
+    {
+      "name": "Dacus pectoralis Walker, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944146"
+    }
+,
+    {
+      "name": "Dacus rubiginosus Hendel, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944147"
+    }
+,
+    {
+      "name": "Leptoxys bivittatus Bigot, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944141"
+    }
+,
+    {
+      "name": "Dacus ciliatus Loew, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653199"
+    }
+,
+    {
+      "name": "Dacus demmerezi (Bezzi, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653209"
+    }
+,
+    {
+      "name": "Tridacus d'emmerezi Bezzi, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944149"
+    }
+,
+    {
+      "name": "Dacus ebeneus Drew, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438415"
+    }
+,
+    {
+      "name": "Dacus etiennellus Munro, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/947764"
+    }
+,
+    {
+      "name": "Dacus umbrosus Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438469"
+    }
+,
+    {
+      "name": "Dacus vertebratus Bezzi, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653200"
+    }
+,
+    {
+      "name": "Dirioxa Hendel, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Dirioxa pornia (Walker, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776097"
+    }
+,
+    {
+      "name": "Rioxa confusa Hardy, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944157"
+    }
+,
+    {
+      "name": "Trypeta musae Froggatt, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944158"
+    }
+,
+    {
+      "name": "Trypeta pornia Walker, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438886"
+    }
+,
+    {
+      "name": "Zeugodacus Hendel, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Zeugodacus cucurbitae (Coquillett, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836736"
+    }
+,
+    {
+      "name": "Bactrocera cucurbitae (Coquillett, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653203"
+    }
+,
+    {
+      "name": "Dacus cucurbitae Coquillett, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944465"
+    }
+
+  ]
+}

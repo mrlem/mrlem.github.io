@@ -1,0 +1,22 @@
+
+{
+  "name": "colletinae",
+  "children": [
+
+    {
+      "name": "Colletinae Lepeletier de Saint Fargeau, 1841",
+      "url": ""
+    }
+,
+    {
+      "name": "colletini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/colletidae/colletinae/colletini/"
+    }
+,
+    {
+      "name": "paracolletini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/colletidae/colletinae/paracolletini/"
+    }
+
+  ]
+}

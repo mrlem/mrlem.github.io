@@ -1,0 +1,47 @@
+
+{
+  "name": "chytridiomycetes",
+  "children": [
+
+    {
+      "name": "Chytridiomycetes M.Möbius, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "chytridiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/chytridiomycota/chytridiomycetes/chytridiales/"
+    }
+,
+    {
+      "name": "Chytridiomycetidae Doweld, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "cladochytriales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/chytridiomycota/chytridiomycetes/cladochytriales/"
+    }
+,
+    {
+      "name": "Bertramia capitellae Mesnil & Caullery, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008227"
+    }
+,
+    {
+      "name": "Rhizophydium heimii Motte, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002931"
+    }
+,
+    {
+      "name": "olpidiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/chytridiomycota/chytridiomycetes/olpidiales/"
+    }
+,
+    {
+      "name": "rhizophlyctidales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/chytridiomycota/chytridiomycetes/rhizophlyctidales/"
+    }
+
+  ]
+}

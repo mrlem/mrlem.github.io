@@ -1,0 +1,1132 @@
+
+{
+  "name": "anthomyiidae",
+  "children": [
+
+    {
+      "name": "Anthomyiidae Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "anthomyiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/anthomyiidae/anthomyiinae/"
+    }
+,
+    {
+      "name": "Acyglossa Rondani, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Acyglossa atramentaria (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224490"
+    }
+,
+    {
+      "name": "Anthomyia atramentaria Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935629"
+    }
+,
+    {
+      "name": "Acyglossa pollinosa Villeneuve, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224491"
+    }
+,
+    {
+      "name": "Chiastocheta Pokorny, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Chiastocheta dentifera Hennig, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967260"
+    }
+,
+    {
+      "name": "Chiastocheta inermella (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967262"
+    }
+,
+    {
+      "name": "Anthomyza inermella Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967263"
+    }
+,
+    {
+      "name": "Chiastocheta lophota Karl, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979809"
+    }
+,
+    {
+      "name": "Chiastocheta macropyga Hennig, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979810"
+    }
+,
+    {
+      "name": "Chiastocheta rotundiventris Hennig, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967264"
+    }
+,
+    {
+      "name": "Chiastocheta setifera Hennig, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967265"
+    }
+,
+    {
+      "name": "Chirosia Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Chirosia albitarsis (Zetterstedt, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224519"
+    }
+,
+    {
+      "name": "Aricia albitarsis Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935270"
+    }
+,
+    {
+      "name": "Chirosia betuleti (Ringdahl, 1935)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224520"
+    }
+,
+    {
+      "name": "Hylemyia betuleti Ringdahl, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910636"
+    }
+,
+    {
+      "name": "Chirosia cinerosa (Zetterstedt, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224521"
+    }
+,
+    {
+      "name": "Aricia cinerosa Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935272"
+    }
+,
+    {
+      "name": "Chirosia crassiseta Stein, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224522"
+    }
+,
+    {
+      "name": "Chirosia flavipennis (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26861"
+    }
+,
+    {
+      "name": "Musca flavipennis Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935273"
+    }
+,
+    {
+      "name": "Chirosia griseifrons (Séguy, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224523"
+    }
+,
+    {
+      "name": "Hylemyia griseifrons Séguy, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935275"
+    }
+,
+    {
+      "name": "Hylemyia lobata Karl, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398144"
+    }
+,
+    {
+      "name": "Hylemyia luteipennis Ringdahl, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398145"
+    }
+,
+    {
+      "name": "Meliniella watanabei Suwa, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398146"
+    }
+,
+    {
+      "name": "Chirosia grossicauda Strobl, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26862"
+    }
+,
+    {
+      "name": "Chirosia parvicornis auct. non Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/844733"
+    }
+,
+    {
+      "name": "Chirosia histricina (Rondani, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224524"
+    }
+,
+    {
+      "name": "Chorthophila histricina Rondani, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935277"
+    }
+,
+    {
+      "name": "Egle Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Egle ciliata (Walker, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26891"
+    }
+,
+    {
+      "name": "Eriphia ciliata Walker, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935704"
+    }
+,
+    {
+      "name": "Egle concomitans (Pandellé, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224550"
+    }
+,
+    {
+      "name": "Anthomyia concomitans Pandellé, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935705"
+    }
+,
+    {
+      "name": "Hylemyia hinei Malloch, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398153"
+    }
+,
+    {
+      "name": "Egle minuta (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/282088"
+    }
+,
+    {
+      "name": "Anthomyia minuta Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935707"
+    }
+,
+    {
+      "name": "Egle gracilior Zheng & Fan, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/426479"
+    }
+,
+    {
+      "name": "Egle korpokkur Suwa, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/426480"
+    }
+,
+    {
+      "name": "Hylemyia fuscohalterata Malloch, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/426501"
+    }
+,
+    {
+      "name": "Hylemyia tantalisa Huckett, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/426507"
+    }
+,
+    {
+      "name": "Egle parvaeformis Schnabl, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967401"
+    }
+,
+    {
+      "name": "Egle parva Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26893"
+    }
+,
+    {
+      "name": "Egle rhinotmeta (Pandellé, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224551"
+    }
+,
+    {
+      "name": "Anthomyia rhinotmeta Pandellé, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935708"
+    }
+,
+    {
+      "name": "Emmesomyia Malloch, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Emmesomyia grisea (Robineau-Desvoidy, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224552"
+    }
+,
+    {
+      "name": "Chortophila geniculata Macquart, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935836"
+    }
+,
+    {
+      "name": "Phorbia grisea Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935837"
+    }
+,
+    {
+      "name": "Emmesomyia socia (Fallén, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26967"
+    }
+,
+    {
+      "name": "Hylemyia villica Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398154"
+    }
+,
+    {
+      "name": "Musca socia Fallén, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935838"
+    }
+,
+    {
+      "name": "Enneastigma Stein, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Enneastigma compressum (Stein, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224553"
+    }
+,
+    {
+      "name": "Chortophila compressa Stein, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935839"
+    }
+,
+    {
+      "name": "Eustalomyia Kowarz, 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "Eustalomyia festiva (Zetterstedt, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26895"
+    }
+,
+    {
+      "name": "Aricia festiva Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935840"
+    }
+,
+    {
+      "name": "Eustalomyia hilaris (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26896"
+    }
+,
+    {
+      "name": "Musca hilaris Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935841"
+    }
+,
+    {
+      "name": "Eustalomyia histrio (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26897"
+    }
+,
+    {
+      "name": "Anthomyza histrio Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935842"
+    }
+,
+    {
+      "name": "Eustalomyia vittipes (Zetterstedt, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224554"
+    }
+,
+    {
+      "name": "Anthomyza vittipes Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936011"
+    }
+,
+    {
+      "name": "Eutrichota Kowarz, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Eutrichota praepotens (Wiedemann, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224555"
+    }
+,
+    {
+      "name": "Anthomyia praepotens Wiedemann, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935843"
+    }
+,
+    {
+      "name": "Eutriochota praepotens (Wiedemann, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26969"
+    }
+,
+    {
+      "name": "Eutrichota schineri (Schnabl, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224556"
+    }
+,
+    {
+      "name": "Pegomyia schineri Schnabl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935844"
+    }
+,
+    {
+      "name": "Eutrichota similis (Schnabl in Schnabl & Dziedzicki, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224557"
+    }
+,
+    {
+      "name": "Pegomyia similis Schnabl in Schnabl & Dziedzicki, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935845"
+    }
+,
+    {
+      "name": "Eutrichota socculata (Zetterstedt, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224558"
+    }
+,
+    {
+      "name": "Anthomyza socculata Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935846"
+    }
+,
+    {
+      "name": "Pegomya socculata (Zetterstedt, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27001"
+    }
+,
+    {
+      "name": "Pegomyza consanguinea Tiensuu, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398155"
+    }
+,
+    {
+      "name": "Heterostylodes Hennig, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Heterostylodes macrurus (Schnabl in Schnabl & Dziedzicki, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224559"
+    }
+,
+    {
+      "name": "Hylemyia macrura Schnabl in Schnabl & Dziedzicki, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935848"
+    }
+,
+    {
+      "name": "Heterostylodes nominabilis Collin, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224560"
+    }
+,
+    {
+      "name": "Heterostylodes pilifer (Zetterstedt, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224562"
+    }
+,
+    {
+      "name": "Aricia pilifer Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935850"
+    }
+,
+    {
+      "name": "Heterostylodes pratensis (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26903"
+    }
+,
+    {
+      "name": "Anthomyia congenerata Pandellé, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398157"
+    }
+,
+    {
+      "name": "Anthomyia obscura Macquart, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935849"
+    }
+,
+    {
+      "name": "Anthomyia pratensis Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935851"
+    }
+,
+    {
+      "name": "Aricia denigrata Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398156"
+    }
+,
+    {
+      "name": "Heterostylodes obscurus (Macquart, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224561"
+    }
+,
+    {
+      "name": "Hydrophoria Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Hydrophoria albiceps (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224563"
+    }
+,
+    {
+      "name": "Anthomyia albiceps Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935852"
+    }
+,
+    {
+      "name": "Hydrophoria aliena Lyneborg, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398158"
+    }
+,
+    {
+      "name": "Hydrophoria diabata (Pandellé, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224564"
+    }
+,
+    {
+      "name": "Anthomyia diabata Pandellé, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935853"
+    }
+,
+    {
+      "name": "Hydrophoria lancifer (Harris, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26906"
+    }
+,
+    {
+      "name": "Anthomyia conica Wiedemann, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398159"
+    }
+,
+    {
+      "name": "Musca lancifer Harris, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935854"
+    }
+,
+    {
+      "name": "Hydrophoria linogrisea (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26910"
+    }
+,
+    {
+      "name": "Anthomyia linogrisea Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935896"
+    }
+,
+    {
+      "name": "Hydrophoria ruralis (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26911"
+    }
+,
+    {
+      "name": "Anthomyia ruralis Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935897"
+    }
+,
+    {
+      "name": "Hydrophoria silvicola (Robineau-Desvoidy, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224565"
+    }
+,
+    {
+      "name": "Hylemya silvicola Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935898"
+    }
+,
+    {
+      "name": "Hylemyza Schnabl & Dziedzicki, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Hylemyza partita (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224567"
+    }
+,
+    {
+      "name": "Anthomyia partita Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935901"
+    }
+,
+    {
+      "name": "Hylemya partita (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26917"
+    }
+,
+    {
+      "name": "Hyporites Pokorny, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Hyporites montanus (Schiner, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224568"
+    }
+,
+    {
+      "name": "Eriphia montana Schiner, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935902"
+    }
+,
+    {
+      "name": "Lasiomma Stein, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Lasiomma anthomyinum (Rondani, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224569"
+    }
+,
+    {
+      "name": "Lasiops anthomyinum Rondani, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935903"
+    }
+,
+    {
+      "name": "Lasiomma latipenne (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224570"
+    }
+,
+    {
+      "name": "Anthomyza latipenne Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936012"
+    }
+,
+    {
+      "name": "Cordylura flavipennis Walker, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398161"
+    }
+,
+    {
+      "name": "Lasiomma picipes (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224571"
+    }
+,
+    {
+      "name": "Anthomyia picipes Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936013"
+    }
+,
+    {
+      "name": "Aricia octoguttata Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398162"
+    }
+,
+    {
+      "name": "Lasiomma seminitidum (Zetterstedt, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224572"
+    }
+,
+    {
+      "name": "Aricia seminitidum Zetterstedt, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936014"
+    }
+,
+    {
+      "name": "Lasiomma apenninum Hennig, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398163"
+    }
+,
+    {
+      "name": "Lasiops meadei Kowarz, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398164"
+    }
+,
+    {
+      "name": "Lasiomma strigilatum (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224573"
+    }
+,
+    {
+      "name": "Anthomyza strigilata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936015"
+    }
+,
+    {
+      "name": "Aricia nitidicauda Zetterstedt, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398165"
+    }
+,
+    {
+      "name": "Leucophora Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Leucophora brevifrons (Stein, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224574"
+    }
+,
+    {
+      "name": "Hylephila brevifrons Stein, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935904"
+    }
+,
+    {
+      "name": "Leucophora cinerea Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26928"
+    }
+,
+    {
+      "name": "Leucophora dissimilis (Villeneuve, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224575"
+    }
+,
+    {
+      "name": "Hammomyia dissimilis Villeneuve, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935905"
+    }
+,
+    {
+      "name": "Leucophora dorsalis (Stein, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224576"
+    }
+,
+    {
+      "name": "Hylephila dorsalis Stein, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935906"
+    }
+,
+    {
+      "name": "Leucophora grisella Hennig, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26931"
+    }
+,
+    {
+      "name": "Leucophora obtusa (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26933"
+    }
+,
+    {
+      "name": "Anthomyza obtusa Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935907"
+    }
+,
+    {
+      "name": "Leucophora personata (Collin, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224577"
+    }
+,
+    {
+      "name": "Hylephila personata Collin, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935908"
+    }
+,
+    {
+      "name": "Leucophora sericea Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26934"
+    }
+,
+    {
+      "name": "Leucophora sociata (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26936"
+    }
+,
+    {
+      "name": "Anthomyia sociata Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935909"
+    }
+,
+    {
+      "name": "Leucophora sponsa (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224578"
+    }
+,
+    {
+      "name": "Anthomyia sponsa Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935910"
+    }
+,
+    {
+      "name": "Leucophora unistriata (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224579"
+    }
+,
+    {
+      "name": "Anthomyza unistriata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935911"
+    }
+,
+    {
+      "name": "Mycophaga Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycophaga testacea (Gimmerthal, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26971"
+    }
+,
+    {
+      "name": "Caenosia testacea Gimmerthal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935912"
+    }
+,
+    {
+      "name": "Myopina Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Myopina myopina (Fallén, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26974"
+    }
+,
+    {
+      "name": "Musca myopina Fallén, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935914"
+    }
+,
+    {
+      "name": "Paradelia Ringdahl, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Paradelia brunneonigra (Schnabl in Schnabl & Dziedzicki, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224580"
+    }
+,
+    {
+      "name": "Pegomyia brunneonigra Schnabl in Schnabl & Dziedzicki, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935915"
+    }
+,
+    {
+      "name": "Paradelia intersecta (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26977"
+    }
+,
+    {
+      "name": "Anthomyia intersecta Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935917"
+    }
+,
+    {
+      "name": "Paradelia palpata (Stein, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224581"
+    }
+,
+    {
+      "name": "Pegomyia palpata Stein, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935919"
+    }
+,
+    {
+      "name": "Pegomyia tacta Huckett, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398166"
+    }
+,
+    {
+      "name": "Pegomyia trigonalis Karl, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398167"
+    }
+,
+    {
+      "name": "Paregle Schnabl, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Paregle audacula (Harris, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26939"
+    }
+,
+    {
+      "name": "Anthomyia obliqua Macquart, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992757"
+    }
+,
+    {
+      "name": "Musca audacula Harris, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935920"
+    }
+,
+    {
+      "name": "Paregle coerulescens (Strobl, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224582"
+    }
+,
+    {
+      "name": "Anthomyia coerulescens Strobl, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936016"
+    }
+,
+    {
+      "name": "Paregle pilipes (Stein, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26945"
+    }
+,
+    {
+      "name": "Chortophila pilipes Stein, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935924"
+    }
+,
+    {
+      "name": "Pegoplata Schnabl & Dziedzicki, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Pegoplata aestiva (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27018"
+    }
+,
+    {
+      "name": "Anthomyia aestiva Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935973"
+    }
+,
+    {
+      "name": "Anthomyia alpina Strobl, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398192"
+    }
+,
+    {
+      "name": "Anthomyia brunnipennis Macquart, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992752"
+    }
+,
+    {
+      "name": "Anthomyia fuscipennis Macquart, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992754"
+    }
+,
+    {
+      "name": "Pegoplata annulata (Pandellé, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224608"
+    }
+,
+    {
+      "name": "Anthomyia annulata Pandellé, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936017"
+    }
+,
+    {
+      "name": "Pegomyia nitidicauda Schnabl in Schnabl & Dziedzicki, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398193"
+    }
+,
+    {
+      "name": "Pegoplata debilis (Stein, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224609"
+    }
+,
+    {
+      "name": "Chortophila debilis Stein, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936018"
+    }
+,
+    {
+      "name": "Pegoplata infirma (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224610"
+    }
+,
+    {
+      "name": "Anthomyia infirma Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936019"
+    }
+,
+    {
+      "name": "Pegoplata palposa (Stein, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224611"
+    }
+,
+    {
+      "name": "Hydrophoria palposa Stein, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936020"
+    }
+,
+    {
+      "name": "Pegoplata patellans (Pandellé, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224612"
+    }
+,
+    {
+      "name": "Hydrophoria patellans Pandellé, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936021"
+    }
+,
+    {
+      "name": "Strobilomyia Michelsen, 1988",
+      "url": ""
+    }
+,
+    {
+      "name": "Strobilomyia anthracina (Czerny, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224616"
+    }
+,
+    {
+      "name": "Chortophila anthracina Czerny, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936027"
+    }
+,
+    {
+      "name": "Strobilomyia carbonaria (Ringdahl, 1948)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224617"
+    }
+,
+    {
+      "name": "Hylemyia carbonaria Ringdahl, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936028"
+    }
+,
+    {
+      "name": "Strobilomyia infrequens (Ackland, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224618"
+    }
+,
+    {
+      "name": "Lasiomma infrequens Ackland, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936029"
+    }
+,
+    {
+      "name": "Strobilomyia laricicola (Karl, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224619"
+    }
+,
+    {
+      "name": "Chortophila laricicola Karl, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935975"
+    }
+,
+    {
+      "name": "Strobilomyia melania (Ackland, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224620"
+    }
+,
+    {
+      "name": "Lasiomma melania Ackland, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936030"
+    }
+,
+    {
+      "name": "Subhylemyia Ringdahl, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Subhylemyia longula (Fallén, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26951"
+    }
+,
+    {
+      "name": "Musca longula Fallén, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936031"
+    }
+,
+    {
+      "name": "Tettigoniomyia Hennig, 1968",
+      "url": ""
+    }
+,
+    {
+      "name": "Tettigoniomyia cribrata (Villeneuve, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224621"
+    }
+,
+    {
+      "name": "Chortophila cribrata Villeneuve, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936032"
+    }
+,
+    {
+      "name": "Tettigoniomyia kuntzei Hennig, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224622"
+    }
+,
+    {
+      "name": "Zaphne Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Zaphne ambigua (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26954"
+    }
+,
+    {
+      "name": "Musca ambigua Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936033"
+    }
+,
+    {
+      "name": "Zaphne caudata (Zetterstedt, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26955"
+    }
+,
+    {
+      "name": "Aricia caudata Zetterstedt, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936034"
+    }
+,
+    {
+      "name": "Zaphne divisa (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26956"
+    }
+,
+    {
+      "name": "Anthomyia divisa Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936035"
+    }
+,
+    {
+      "name": "Zaphne inuncta (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224623"
+    }
+,
+    {
+      "name": "Anthomyza inuncta Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936036"
+    }
+,
+    {
+      "name": "Aricia hyalipennis Zetterstedt, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398195"
+    }
+,
+    {
+      "name": "Zaphne septimalis (Pandellé, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224624"
+    }
+,
+    {
+      "name": "Anthomyia septimalis Pandellé, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936037"
+    }
+,
+    {
+      "name": "Zaphne spiniclunis (Pandellé, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224625"
+    }
+,
+    {
+      "name": "Anthomyia spiniclunis Pandellé, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936038"
+    }
+,
+    {
+      "name": "Zaphne wierzejskii (Mik, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224626"
+    }
+,
+    {
+      "name": "Spilogaster wierzejskii Mik, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936039"
+    }
+,
+    {
+      "name": "pegomyinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/anthomyiidae/pegomyinae/"
+    }
+
+  ]
+}

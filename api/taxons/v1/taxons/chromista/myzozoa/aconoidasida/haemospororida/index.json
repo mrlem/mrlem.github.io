@@ -1,0 +1,22 @@
+
+{
+  "name": "haemospororida",
+  "children": [
+
+    {
+      "name": "Haemospororida Danielewski, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "haemoproteidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/myzozoa/aconoidasida/haemospororida/haemoproteidae/"
+    }
+,
+    {
+      "name": "plasmodiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/myzozoa/aconoidasida/haemospororida/plasmodiidae/"
+    }
+
+  ]
+}

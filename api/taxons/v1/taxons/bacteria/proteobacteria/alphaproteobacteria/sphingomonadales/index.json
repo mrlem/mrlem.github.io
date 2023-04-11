@@ -1,0 +1,22 @@
+
+{
+  "name": "sphingomonadales",
+  "children": [
+
+    {
+      "name": "Sphingomonadales Yabuuchi & Kosako, 2006",
+      "url": ""
+    }
+,
+    {
+      "name": "erythrobacteraceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/sphingomonadales/erythrobacteraceae/"
+    }
+,
+    {
+      "name": "sphingomonadaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/sphingomonadales/sphingomonadaceae/"
+    }
+
+  ]
+}

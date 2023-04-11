@@ -1,0 +1,47 @@
+
+{
+  "name": "cidaroida",
+  "children": [
+
+    {
+      "name": "Cidaroida Claus, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "cidaridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/echinoidea/cidaroida/cidaridae/"
+    }
+,
+    {
+      "name": "Cidaroidea Gray, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Cidaridea Gray, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "ctenocidaridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/echinoidea/cidaroida/ctenocidaridae/"
+    }
+,
+    {
+      "name": "histocidaridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/echinoidea/cidaroida/histocidaridae/"
+    }
+,
+    {
+      "name": "Histocidaroidea Lambert, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Histocidaridea Kroh & Smith, 2010",
+      "url": ""
+    }
+
+  ]
+}

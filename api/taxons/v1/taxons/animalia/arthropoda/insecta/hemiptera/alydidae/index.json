@@ -1,0 +1,22 @@
+
+{
+  "name": "alydidae",
+  "children": [
+
+    {
+      "name": "Alydidae Amyot & Audinet-Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "alydinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/alydidae/alydinae/"
+    }
+,
+    {
+      "name": "micrelytrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/alydidae/micrelytrinae/"
+    }
+
+  ]
+}

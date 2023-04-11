@@ -1,0 +1,92 @@
+
+{
+  "name": "desmosomatidae",
+  "children": [
+
+    {
+      "name": "Desmosomatidae G. O. Sars, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudomesidae Hansen, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "desmosomatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/desmosomatidae/desmosomatinae/"
+    }
+,
+    {
+      "name": "eugerdellatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/desmosomatidae/eugerdellatinae/"
+    }
+,
+    {
+      "name": "Desmosoma G.O. Sars, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Desmosoma auritum Carvacho, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838177"
+    }
+,
+    {
+      "name": "Desmosoma elongatum Bonnier, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939122"
+    }
+,
+    {
+      "name": "Desmosoma latipes Hansen, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939251"
+    }
+,
+    {
+      "name": "Eugerda latipes (Hansen, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939252"
+    }
+,
+    {
+      "name": "Desmosoma lineare G. O. Sars, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939123"
+    }
+,
+    {
+      "name": "Disparella Hessler, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Disparella longimana (Vanhöffen, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821483"
+    }
+,
+    {
+      "name": "Desmosoma longimana (Vanhöffen, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821485"
+    }
+,
+    {
+      "name": "Eugerda longimana Vanhöffen, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821484"
+    }
+,
+    {
+      "name": "Eugerdella longimana (Vanhöffen, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374054"
+    }
+,
+    {
+      "name": "Eugerdella Kussakin, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Eugerdella serrata Brix, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948050"
+    }
+
+  ]
+}

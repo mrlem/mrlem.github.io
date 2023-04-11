@@ -1,0 +1,32 @@
+
+{
+  "name": "bathysauroididae",
+  "children": [
+
+    {
+      "name": "Bathysauroididae Sato & Nakabo, 2002",
+      "url": ""
+    }
+,
+    {
+      "name": "Bathysauroides Baldwin & Johnson, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Bathysauroides gigas (Kamohara, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791089"
+    }
+,
+    {
+      "name": "Bathysaurops gigas Kamohara, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889419"
+    }
+,
+    {
+      "name": "Bathysauropsis gigas (Kamohara, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791090"
+    }
+
+  ]
+}

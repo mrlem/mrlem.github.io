@@ -1,0 +1,237 @@
+
+{
+  "name": "platystomaceae",
+  "children": [
+
+    {
+      "name": "Platystomaceae J.Schröt., 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Astrosphaeriella Syd. & P.Syd., 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Astrotheca I.Hino, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Astrosphaeriella minoensis (Hara) D.Hawksw., 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804000"
+    }
+,
+    {
+      "name": "Leptosphaeria minoensis Hara, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886886"
+    }
+,
+    {
+      "name": "Astrosphaeriella stellata (Pat.) Sacc., 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804001"
+    }
+,
+    {
+      "name": "Amphisphaeria stellata Pat., 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886888"
+    }
+,
+    {
+      "name": "Astrosphaeriella tornata (Cooke) D.Hawksw. & Boise, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804002"
+    }
+,
+    {
+      "name": "Trematosphaeria tornata Cooke, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886889"
+    }
+,
+    {
+      "name": "Astrosphaeriella trochus (Penz. & Sacc.) D.Hawksw., 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804003"
+    }
+,
+    {
+      "name": "Melanomma trochus Penz. & Sacc., 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907545"
+    }
+,
+    {
+      "name": "Astrosphaeriella vesuvius (Berk. & Broome) D.Hawksw. & Boise, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804004"
+    }
+,
+    {
+      "name": "Sphaeria vesuvius Berk. & Broome, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886891"
+    }
+,
+    {
+      "name": "Javaria Boise, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Javaria shimekii (Ellis & Everh.) M.E.Barr, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804006"
+    }
+,
+    {
+      "name": "Melanopsamma shimekii Ellis & Everh., 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907547"
+    }
+,
+    {
+      "name": "Trematosphaeria Fuckel, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Trematosphaeria alaterni (Fabre) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857169"
+    }
+,
+    {
+      "name": "Requienella alaterni Fabre, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880812"
+    }
+,
+    {
+      "name": "Trematosphaeria callicarpa (Curr.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880814"
+    }
+,
+    {
+      "name": "Caryospora callicarpa (Curr.) Nitschke ex Fuckel, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865690"
+    }
+,
+    {
+      "name": "Sphaeria callicarpa Curr., 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872745"
+    }
+,
+    {
+      "name": "Trematosphaeria confusa (Garov.) Boise & D.Hawksw., 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804008"
+    }
+,
+    {
+      "name": "Verrucaria confusa Garov., 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661140"
+    }
+,
+    {
+      "name": "Trematosphaeria endoxyloides Rehm ex H.Wegelin, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857170"
+    }
+,
+    {
+      "name": "Trematosphaeria hydrela (Rehm) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857171"
+    }
+,
+    {
+      "name": "Melanomma hydrelum Rehm, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880813"
+    }
+,
+    {
+      "name": "Trematosphaeria hydrophila Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857172"
+    }
+,
+    {
+      "name": "Sphaeria hydrophila P.Karst., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884133"
+    }
+,
+    {
+      "name": "Trematosphaeria irregularis Fabre, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857173"
+    }
+,
+    {
+      "name": "Trematosphaeria lunaria (Cooke) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857174"
+    }
+,
+    {
+      "name": "Trematosphaeria melina (Berk. & Broome) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857175"
+    }
+,
+    {
+      "name": "Sphaeria melina Berk. & Broome, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983860"
+    }
+,
+    {
+      "name": "Trematosphaeria olearum (Castagne) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857176"
+    }
+,
+    {
+      "name": "Caryospora olearum (Castagne) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880815"
+    }
+,
+    {
+      "name": "Sphaeria olearum Castagne, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983861"
+    }
+,
+    {
+      "name": "Trematosphaeria pachycarpa (Sacc. & Marchal) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857177"
+    }
+,
+    {
+      "name": "Leptosphaeria pachycarpa Sacc. & Marchal, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880816"
+    }
+,
+    {
+      "name": "Trematosphaeria paradoxa G.Winter, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857178"
+    }
+,
+    {
+      "name": "Trematosphaeria perrumpens Samuels & E.Müll., 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804009"
+    }
+,
+    {
+      "name": "Trematosphaeria pertusa Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857179"
+    }
+,
+    {
+      "name": "Lophiostoma pertusa (Pers.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880817"
+    }
+,
+    {
+      "name": "Melanomma pertusa (Fuckel) Sacc., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880818"
+    }
+,
+    {
+      "name": "Sphaeria pertusa Pers., 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880819"
+    }
+,
+    {
+      "name": "Trematosphaeria anglica (Sacc.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880820"
+    }
+,
+    {
+      "name": "Trematosphaeria wegeliniana L.Holm & K.Holm, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857180"
+    }
+
+  ]
+}

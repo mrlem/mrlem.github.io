@@ -1,0 +1,3087 @@
+
+{
+  "name": "secotiaceae",
+  "children": [
+
+    {
+      "name": "Secotiaceae Tul. & C.Tul., 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Chamaemyces Battarra ex Earle, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Chamaemyces demisannulus (Secr. ex Fr.) M.M.Moser, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38138"
+    }
+,
+    {
+      "name": "Agaricus demisannulus Secr. ex Fr., 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974016"
+    }
+,
+    {
+      "name": "Chamaemyces fracidus (Fr.) Donk, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38140"
+    }
+,
+    {
+      "name": "Agaricus fracidus Fr., 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509480"
+    }
+,
+    {
+      "name": "Armillaria fracida (Fr.) Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31602"
+    }
+,
+    {
+      "name": "Armillaria irrorata (Quél.) J.E.Lange, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509481"
+    }
+,
+    {
+      "name": "Collybia mucida var. fracida (Fr.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509482"
+    }
+,
+    {
+      "name": "Drosella fracida (Fr.) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509483"
+    }
+,
+    {
+      "name": "Drosella irrorata (Quél.) Kühner & Maire, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509484"
+    }
+,
+    {
+      "name": "Lepiota irrorata Quél., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38142"
+    }
+,
+    {
+      "name": "Lepiotella irrorata f. passerinii Migl. & Zecchin, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509486"
+    }
+,
+    {
+      "name": "Lepiotella irrorata (Quél.) Singer, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509485"
+    }
+,
+    {
+      "name": "Chamaemyces fracidus var. pseudocastaneus Bon & Boiffard, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38144"
+    }
+,
+    {
+      "name": "Chamaemyces pseudocastaneus (Bon & Boiffard) Contu, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509487"
+    }
+,
+    {
+      "name": "Lepiotella irrotata f. pseudocastanea (Bon & Boiffard) Migliozzi & Zecchin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509488"
+    }
+,
+    {
+      "name": "Cystolepiota Singer, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Cystolepiota adulterina (F.H.Møller) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38201"
+    }
+,
+    {
+      "name": "Lepiota adulterina F.H.Møller, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38203"
+    }
+,
+    {
+      "name": "Cystolepiota adulterina var. reidii (Bon) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469636"
+    }
+,
+    {
+      "name": "Cystolepiota adulterina f. reidii Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38205"
+    }
+,
+    {
+      "name": "Lepiota adulterina sensu Reid",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511773"
+    }
+,
+    {
+      "name": "Cystolepiota adulterina var. subadulterina (Bon) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38206"
+    }
+,
+    {
+      "name": "Cystolepiota subadulterina Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38207"
+    }
+,
+    {
+      "name": "Cystolepiota bucknallii (Berk. & Broome) Singer & Clémençon, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38209"
+    }
+,
+    {
+      "name": "Agaricus bucknallii Berk. & Broome, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511774"
+    }
+,
+    {
+      "name": "Cystoderma bucknallii (Berk. & Broome) Singer, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38210"
+    }
+,
+    {
+      "name": "Lepiota bucknallii (Berk. & Broome) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38211"
+    }
+,
+    {
+      "name": "Cystolepiota bucknallii var. lilacina (Quél.) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38213"
+    }
+,
+    {
+      "name": "Lepiota lilacina (Quél.) Bigeard & Guillemin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38214"
+    }
+,
+    {
+      "name": "Lepiota seminuda var. lilacina Quél., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511775"
+    }
+,
+    {
+      "name": "Cystolepiota cystidiosa (A.H.Sm.) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38215"
+    }
+,
+    {
+      "name": "Lepiota cystidiosa A.H.Sm., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38216"
+    }
+,
+    {
+      "name": "Lepiota rufescens sensu J.E. Lange p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38490"
+    }
+,
+    {
+      "name": "Cystolepiota cystophora (Malençon) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38217"
+    }
+,
+    {
+      "name": "Lepiota cystophora Malençon, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38218"
+    }
+,
+    {
+      "name": "Cystolepiota hemisclera (Berk. & M.A.Curtis) Pegler, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/901695"
+    }
+,
+    {
+      "name": "Agaricus hemisclerus Berk. & M.A.Curtis, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/901694"
+    }
+,
+    {
+      "name": "Echinoderma hemisclerum (Berk. & M.A.Curtis) Courtec., 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/901693"
+    }
+,
+    {
+      "name": "Cystolepiota hetieri (Boud.) Singer, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38219"
+    }
+,
+    {
+      "name": "Cystoderma hetieri (Boud.) Singer, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511776"
+    }
+,
+    {
+      "name": "Lepiota hetieri f. gracilis Herink",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511777"
+    }
+,
+    {
+      "name": "Lepiota hetieri Boud., 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38220"
+    }
+,
+    {
+      "name": "Cystolepiota icterina F.H.Møller ex Knudsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38223"
+    }
+,
+    {
+      "name": "Lepiota icterina F.H.Møller, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38224"
+    }
+,
+    {
+      "name": "Cystolepiota langei (Locq.) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38225"
+    }
+,
+    {
+      "name": "Agaricus granulosus f. rufescens (Berk. & Broome) Britzelm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511778"
+    }
+,
+    {
+      "name": "Agaricus granulosus var. rufescens Berk. & Broome, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511779"
+    }
+,
+    {
+      "name": "Lepiota granulosa var. rufescens (Berk. & Broome) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511780"
+    }
+,
+    {
+      "name": "Lepiota langei Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38226"
+    }
+,
+    {
+      "name": "Cystolepiota luteicystidiata (D.A.Reid) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38227"
+    }
+,
+    {
+      "name": "Lepiota luteicystidiata D.A.Reid, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38229"
+    }
+,
+    {
+      "name": "Cystolepiota luteicystidiata var. lycoperdoides (Kreisel) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38228"
+    }
+,
+    {
+      "name": "Lepiota lycoperdoides Kreisel, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38230"
+    }
+,
+    {
+      "name": "Cystolepiota moelleri Knudsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38238"
+    }
+,
+    {
+      "name": "Cystolepiota rosea (Rea) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972322"
+    }
+,
+    {
+      "name": "Cystolepiota rosella M.M.Moser, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511781"
+    }
+,
+    {
+      "name": "Lepiota rosea Rea, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38239"
+    }
+,
+    {
+      "name": "Cystolepiota morieri (Gillet) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38231"
+    }
+,
+    {
+      "name": "Lepiota morieri Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38232"
+    }
+,
+    {
+      "name": "Cystolepiota sacchariolens Nonis, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38240"
+    }
+,
+    {
+      "name": "Cystolepiota seminuda (Lasch) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38242"
+    }
+,
+    {
+      "name": "Agaricus seminudus Lasch, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511782"
+    }
+,
+    {
+      "name": "Cystoderma seminudum (Lasch) Fayod, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511783"
+    }
+,
+    {
+      "name": "Lepiota seminuda (Lasch) P.Kumm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38244"
+    }
+,
+    {
+      "name": "Lepiota sistrata var. seminuda (Lasch) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511785"
+    }
+,
+    {
+      "name": "Lepiota sistrata sensu Konrad & Maubl.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511784"
+    }
+,
+    {
+      "name": "Cystolepiota sistrata (Fr.) Singer ex Bon & Bellù, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38241"
+    }
+,
+    {
+      "name": "Agaricus sistratus Fr., 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511786"
+    }
+,
+    {
+      "name": "Lepiota sistrata (Fr.) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38741"
+    }
+,
+    {
+      "name": "Cystolepiota sororia (Huijsman) Singer, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38245"
+    }
+,
+    {
+      "name": "Cystolepiota seminuda var. sororia (Huijsman) Gminder, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511787"
+    }
+,
+    {
+      "name": "Lepiota sororia Huijsman, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38246"
+    }
+,
+    {
+      "name": "Echinoderma (Locq. ex Bon) Bon, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Echinoderma acutesquamosum (Weinm.) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/462232"
+    }
+,
+    {
+      "name": "Agaricus acutesquamosus Weinm., 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511960"
+    }
+,
+    {
+      "name": "Agaricus friesii var. acutesquamosus (Weinm.) Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511961"
+    }
+,
+    {
+      "name": "Cystolepiota acutesquamosa (Weinm.) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511962"
+    }
+,
+    {
+      "name": "Echinoderma acutisquamosum (Weinm. ex Fr.) Bon",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38248"
+    }
+,
+    {
+      "name": "Lepiota acutesquamosa (Weinm.) Kumm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511963"
+    }
+,
+    {
+      "name": "Lepiota aspera var. acutesquamosa (Weinm.) Singer, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511964"
+    }
+,
+    {
+      "name": "Lepiota friesii var. acutesquamosa (Weinm.) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511965"
+    }
+,
+    {
+      "name": "Echinoderma acutesquamosum f. albineum Réaudin, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905657"
+    }
+,
+    {
+      "name": "Echinoderma acutesquamosum f. giganteum (Pilát) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469637"
+    }
+,
+    {
+      "name": "Lepiota acutesquamosa f. gigantea Pilát, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511966"
+    }
+,
+    {
+      "name": "Echinoderma asperum (Pers.) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38251"
+    }
+,
+    {
+      "name": "Agaricus asper Pers., 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511967"
+    }
+,
+    {
+      "name": "Amanita aspera (Pers.) Pers., 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38971"
+    }
+,
+    {
+      "name": "Amplariella aspera (Pers.) E.-J.Gilbert, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38973"
+    }
+,
+    {
+      "name": "Cystolepiota aspera (Pers.) Bon, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38252"
+    }
+,
+    {
+      "name": "Lepiota acutesquamosa var. furcata Kühner, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511968"
+    }
+,
+    {
+      "name": "Lepiota aspera (Pers.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38254"
+    }
+,
+    {
+      "name": "Echinoderma boertmannii (Knudsen) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38258"
+    }
+,
+    {
+      "name": "Lepiota boertmannii Knudsen, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38259"
+    }
+,
+    {
+      "name": "Echinoderma calcicola (Knudsen) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38260"
+    }
+,
+    {
+      "name": "Cystolepiota calcicola (Knudsen) Bon & Courtec., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38261"
+    }
+,
+    {
+      "name": "Lepiota calcicola Knudsen, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38263"
+    }
+,
+    {
+      "name": "Echinoderma carinii (Bres.) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38265"
+    }
+,
+    {
+      "name": "Lepiota carinii Bres., 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38266"
+    }
+,
+    {
+      "name": "Echinoderma carpaticum (M.M.Moser) E.Horak, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464366"
+    }
+,
+    {
+      "name": "Cystoderma carpaticum M.M.Moser, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38168"
+    }
+,
+    {
+      "name": "Lepiota carpatica (M.M.Moser) M.M.Moser, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38308"
+    }
+,
+    {
+      "name": "Echinoderma echinaceum (J.E.Lange) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38267"
+    }
+,
+    {
+      "name": "Cystolepiota echinacea (J.E.Lange) Knudsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38268"
+    }
+,
+    {
+      "name": "Lepiota echinacea J.E.Lange, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38269"
+    }
+,
+    {
+      "name": "Echinoderma echinaceum var. cedriolens Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38271"
+    }
+,
+    {
+      "name": "Echinoderma friesii (Lasch) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38278"
+    }
+,
+    {
+      "name": "Agaricus friesii Lasch, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511970"
+    }
+,
+    {
+      "name": "Cystolepiota friesii (Lasch) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511971"
+    }
+,
+    {
+      "name": "Lepiota friesii (Lasch) Quél., sensu Bon",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38279"
+    }
+,
+    {
+      "name": "Lepiota friesii (Lasch) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38255"
+    }
+,
+    {
+      "name": "Mastocephalus friesii (Lasch) Kuntze, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511972"
+    }
+,
+    {
+      "name": "Echinoderma hispidum (Gillet) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/462233"
+    }
+,
+    {
+      "name": "Agaricus hispidus Lasch, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976098"
+    }
+,
+    {
+      "name": "Cystolepiota hispida (Gillet) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38262"
+    }
+,
+    {
+      "name": "Lepiota aspera var. hispida (Gillet) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511973"
+    }
+,
+    {
+      "name": "Lepiota hispida Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511974"
+    }
+,
+    {
+      "name": "Echinoderma hystrix (F.H.Møller & J.E.Lange) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38280"
+    }
+,
+    {
+      "name": "Cystolepiota hystrix (F.H.Møller & J.E.Lange) Knudsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38281"
+    }
+,
+    {
+      "name": "Lepiota hystrix F.H.Møller & J.E.Lange, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38282"
+    }
+,
+    {
+      "name": "Echinoderma jacobii (Vellinga & Knudsen) Rald, Heilmann-Clausen & C. Lange",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/462234"
+    }
+,
+    {
+      "name": "Cystolepiota eriophora (Peck) Knudsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38275"
+    }
+,
+    {
+      "name": "Echinoderma eriophorum (Peck) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38274"
+    }
+,
+    {
+      "name": "Lepiota echinella var. eriophora (Peck) J.E.Lange, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38276"
+    }
+,
+    {
+      "name": "Lepiota echinella sensu auct. [non Quél.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511975"
+    }
+,
+    {
+      "name": "Lepiota eriophora Peck, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38277"
+    }
+,
+    {
+      "name": "Lepiota jacobii Vellinga & Knudsen, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511976"
+    }
+,
+    {
+      "name": "Echinoderma perplexum (Knudsen) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38283"
+    }
+,
+    {
+      "name": "Cystolepiota perplexa (Knudsen) Bon, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38285"
+    }
+,
+    {
+      "name": "Lepiota perplexa Knudsen, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511977"
+    }
+,
+    {
+      "name": "Echinoderma pseudoasperulum (Knudsen) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/462244"
+    }
+,
+    {
+      "name": "Cystolepiota pseudoasperula Knudsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38233"
+    }
+,
+    {
+      "name": "Lepiota asperula sensu auct. europ.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/511978"
+    }
+,
+    {
+      "name": "Lepiota eriophora var. asperula sensu Kühner & Romagn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38235"
+    }
+,
+    {
+      "name": "Lepiota pseudoasperula (Knudsen) Knudsen, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38236"
+    }
+,
+    {
+      "name": "Echinoderma sinopicum (Romagn.) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/462236"
+    }
+,
+    {
+      "name": "Cystolepiota sinopica (Romagn.) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38288"
+    }
+,
+    {
+      "name": "Echinoderma sinopica (Romagn.) Bon",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38287"
+    }
+,
+    {
+      "name": "Lepiota sinopica Romagn., 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38289"
+    }
+,
+    {
+      "name": "Leucoagaricus Locq. ex Singer, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "Leucoagaricus babosiae Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38464"
+    }
+,
+    {
+      "name": "Leucoagaricus jubilaei sensu Babos p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38466"
+    }
+,
+    {
+      "name": "Leucoagaricus badhamii (Berk. & Broome) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38467"
+    }
+,
+    {
+      "name": "Agaricus badhamii Berk. & Broome, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514710"
+    }
+,
+    {
+      "name": "Lepiota badhamii (Berk. & Broome) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38476"
+    }
+,
+    {
+      "name": "Lepiota badhamii Berk. & Broome, sensu Barla, sensu Josserand",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38468"
+    }
+,
+    {
+      "name": "Lepiota badhamii sensu Pat.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514711"
+    }
+,
+    {
+      "name": "Lepiota meleagris sensu Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38469"
+    }
+,
+    {
+      "name": "Lepiotophyllum badhamii (Berk. & Broome) Locq., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514712"
+    }
+,
+    {
+      "name": "Leucocoprinus badhamii (Berk. & Broome) Locq., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514713"
+    }
+,
+    {
+      "name": "Leucoagaricus barssii (Zeller) Vellinga, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514742"
+    }
+,
+    {
+      "name": "Lepiota barssii Zeller, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973090"
+    }
+,
+    {
+      "name": "Lepiota macrorhiza Locq. ex Kühner & Romagn., 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973091"
+    }
+,
+    {
+      "name": "Leucoagaricus macrorhizus Locq. ex E.Horak, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38541"
+    }
+,
+    {
+      "name": "Leucocoprinus macrorhizus (Locq. ex E.Horak) D.A.Reid, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514743"
+    }
+,
+    {
+      "name": "Leucoagaricus bohusii (Wasser) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38471"
+    }
+,
+    {
+      "name": "Leucocoprinus bohusii Wasser, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38472"
+    }
+,
+    {
+      "name": "Leucoagaricus boudierianus Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38473"
+    }
+,
+    {
+      "name": "Lepiota nympharum sensu Boud.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38474"
+    }
+,
+    {
+      "name": "Leucoagaricus bresadolae (Schulzer) Bon & Boiffard, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38475"
+    }
+,
+    {
+      "name": "Agaricus americanus Peck, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971070"
+    }
+,
+    {
+      "name": "Lepiota badhamii sensu Konrad & Maubl., Locquin, Kühner & Romagn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38480"
+    }
+,
+    {
+      "name": "Lepiota bresadolae Schulzer, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38477"
+    }
+,
+    {
+      "name": "Leucoagaricus americanus (Peck) Vellinga, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514714"
+    }
+,
+    {
+      "name": "Leucocoprinus badhamii sensu Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514715"
+    }
+,
+    {
+      "name": "Leucocoprinus bresadolae (Schulzer) M.M.Moser, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514716"
+    }
+,
+    {
+      "name": "Leucoagaricus bresadolae var. biornatus (Berk. & Broome) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38479"
+    }
+,
+    {
+      "name": "Agaricus biornatus Berk. & Broome, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514717"
+    }
+,
+    {
+      "name": "Lepiota biornata (Berk. & Broome) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38481"
+    }
+,
+    {
+      "name": "Leucocoprinus badhamii var. biornatus (Berk. & Broome) Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514718"
+    }
+,
+    {
+      "name": "Leucocoprinus biornatus (Berk. & Broome) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38482"
+    }
+,
+    {
+      "name": "Leucoagaricus bresadolae var. cookeianus Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38483"
+    }
+,
+    {
+      "name": "Lepiota bresadolae var. biornata sensu Cooke",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38484"
+    }
+,
+    {
+      "name": "Leucoagaricus brunneocingulatus (P.D.Orton) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38486"
+    }
+,
+    {
+      "name": "Lepiota brunneocingulata P.D.Orton, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514719"
+    }
+,
+    {
+      "name": "Leucoagaricus brunneolilacinus Babos, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38487"
+    }
+,
+    {
+      "name": "Leucoagaricus brunnescens (Peck) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38488"
+    }
+,
+    {
+      "name": "Lepiota brunnescens Peck, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38489"
+    }
+,
+    {
+      "name": "Leucocoprinus brunnescens (Peck) Pegler, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38491"
+    }
+,
+    {
+      "name": "Leucoagaricus caldariorum Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38492"
+    }
+,
+    {
+      "name": "Leucocoprinus caldariorum D.A.Reid, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514720"
+    }
+,
+    {
+      "name": "Leucoagaricus carneifolius (Gillet) Wasser, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38493"
+    }
+,
+    {
+      "name": "Lepiota carneifolia Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38494"
+    }
+,
+    {
+      "name": "Lepiota naucina var. carneifolia (Gillet) Konrad & Maubl.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514721"
+    }
+,
+    {
+      "name": "Leucocoprinus carneifolius (Gillet) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514722"
+    }
+,
+    {
+      "name": "Leucoagaricus cinerascens (Quél.) Bon & Boiffard, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38495"
+    }
+,
+    {
+      "name": "Lepiota cinerascens Quél., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38496"
+    }
+,
+    {
+      "name": "Lepiota naucina var. cinerascens (Quél.) Konrad & Maubl.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514723"
+    }
+,
+    {
+      "name": "Leucocoprinus cinerascens (Quél.) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514724"
+    }
+,
+    {
+      "name": "Leucoagaricus cinerascens var. riparius Bon, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38497"
+    }
+,
+    {
+      "name": "Leucoagaricus cinereolilacinus (Barbier) Bon & Boiffard, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38498"
+    }
+,
+    {
+      "name": "Lepiota holosericea f. cinereolilacina Barbier, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38499"
+    }
+,
+    {
+      "name": "Lepiota naucina f. cinereolilacina (Barbier) Joss., 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38500"
+    }
+,
+    {
+      "name": "Lepiota pudica f. cinereolilacina Barbier, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974746"
+    }
+,
+    {
+      "name": "Leucoagaricus leucothites f. cinereolilacina (Barbier) Wasser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514725"
+    }
+,
+    {
+      "name": "Leucoagaricus cinereoradicatus Boisselet & Migl., 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464393"
+    }
+,
+    {
+      "name": "Leucoagaricus croceovelutinus (Bon & Boiffard) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38501"
+    }
+,
+    {
+      "name": "Leucocoprinus croceovelutinus Bon & Boiffard, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38502"
+    }
+,
+    {
+      "name": "Leucoagaricus cupresseus (Burl.) Boisselet & Guinb., 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464394"
+    }
+,
+    {
+      "name": "Lepiota cupressea Burl., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514726"
+    }
+,
+    {
+      "name": "Leucoagaricus cygneoaffinis (Pilát) P.Roux & Eyssart., 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464395"
+    }
+,
+    {
+      "name": "Lepiota cygneoaffinis Pilát, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38756"
+    }
+,
+    {
+      "name": "Sericeomyces cygneoaffinis (Pilát) Heinem., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38755"
+    }
+,
+    {
+      "name": "Leucoagaricus densifolius (Gillet) Babos, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38503"
+    }
+,
+    {
+      "name": "Lepiota densifolia Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38504"
+    }
+,
+    {
+      "name": "Leucoagaricus erubescens (Babos) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38508"
+    }
+,
+    {
+      "name": "Lepiota pilatianus var. erubescens Babos",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514727"
+    }
+,
+    {
+      "name": "Lepiota rufovelutina var. subrubens sensu Babos",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38509"
+    }
+,
+    {
+      "name": "Leucoagaricus badhamii var. erubescens (Babos) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514728"
+    }
+,
+    {
+      "name": "Leucocoprinus pilatianus var. erubescens Babos, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38511"
+    }
+,
+    {
+      "name": "Leucoagaricus fuligineodiffractus Bellu & Lanzoni, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38512"
+    }
+,
+    {
+      "name": "Leucoagaricus gaillardii Bon & Boiffard, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38513"
+    }
+,
+    {
+      "name": "Leucoagaricus gauguei Bon & Boiffard, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38514"
+    }
+,
+    {
+      "name": "Sericeomyces gauguei (Bon & Boiffard) Heinem., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514729"
+    }
+,
+    {
+      "name": "Leucoagaricus gauguei var. fusipes Bon & Mornand, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38515"
+    }
+,
+    {
+      "name": "Leucoagaricus georginae (W.G.Sm.) Candusso, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38516"
+    }
+,
+    {
+      "name": "Agaricus georginae W.G.Sm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514730"
+    }
+,
+    {
+      "name": "Lepiota georginae (W.G.Sm.) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38517"
+    }
+,
+    {
+      "name": "Leucocoprinus georginae (W.G.Sm.) M.M.Moser, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38518"
+    }
+,
+    {
+      "name": "Leucoagaricus glabridiscus (Sundb.) Wuilb., 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38519"
+    }
+,
+    {
+      "name": "Lepiota glabridisca Sundb., 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38520"
+    }
+,
+    {
+      "name": "Leucoagaricus griseodiscus (Bon) Bon & Migl., 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38521"
+    }
+,
+    {
+      "name": "Leucoagaricus gauguei var. griseodiscus Bon, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38523"
+    }
+,
+    {
+      "name": "Leucoagaricus holosericeus (Gillet) M.M.Moser, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38524"
+    }
+,
+    {
+      "name": "Agaricus holosericeus Fr., 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973789"
+    }
+,
+    {
+      "name": "Lepiota holosericea Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38525"
+    }
+,
+    {
+      "name": "Leucocoprinus holosericeus (Gillet) Locq., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514731"
+    }
+,
+    {
+      "name": "Leucoagaricus holospilotus (Berk. & Broome) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38526"
+    }
+,
+    {
+      "name": "Agaricus holospilotus Berk. & Broome, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974722"
+    }
+,
+    {
+      "name": "Leucocoprinus holospilotus (Berk. & Broome) D.A.Reid, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974721"
+    }
+,
+    {
+      "name": "Leucoagaricus ianthinophaeus Locq., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38527"
+    }
+,
+    {
+      "name": "Lepiota ianthinophaeus Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38528"
+    }
+,
+    {
+      "name": "Leucoagaricus ianthinosquamulosus Guinb., 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38529"
+    }
+,
+    {
+      "name": "Leucoagaricus idae-fragum Guinb., Boisselet & G.Dupuy, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464405"
+    }
+,
+    {
+      "name": "Leucoagaricus ionidicolor Bellù & Lanzoni, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38530"
+    }
+,
+    {
+      "name": "Leucoagaricus ionidicolor var. major J.Charb., Péric. & R.Durand bis, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469914"
+    }
+,
+    {
+      "name": "Leucoagaricus marriagei sensu Charbonnel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514734"
+    }
+,
+    {
+      "name": "Leucoagaricus irinellus Chalange, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464397"
+    }
+,
+    {
+      "name": "Leucoagaricus jubilaei (Joss.) Bon, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38531"
+    }
+,
+    {
+      "name": "Lepiota jubilaei Joss., 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38532"
+    }
+,
+    {
+      "name": "Leucocoprinus jubilaei (Joss.) M.M.Moser, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38533"
+    }
+,
+    {
+      "name": "Leucoagaricus leucothites (Vittad.) Wasser, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38534"
+    }
+,
+    {
+      "name": "Agaricus leucothites Vittad., 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514735"
+    }
+,
+    {
+      "name": "Agaricus naucinus Fr., 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514736"
+    }
+,
+    {
+      "name": "Lepiota leucothites (Vittad.) P.D.Orton, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514737"
+    }
+,
+    {
+      "name": "Lepiota naucina var. leucothites (Vittad.) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514738"
+    }
+,
+    {
+      "name": "Lepiota naucina (Fr.) P.Kumm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38535"
+    }
+,
+    {
+      "name": "Leucoagaricus carneifolius var. leucothites (Vittad.) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514739"
+    }
+,
+    {
+      "name": "Leucoagaricus naucinus (Fr.) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38537"
+    }
+,
+    {
+      "name": "Mastocephalus naucinus (Fr.) Kuntze, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514740"
+    }
+,
+    {
+      "name": "Leucoagaricus littoralis (Menier) Bon & Boiffard, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38539"
+    }
+,
+    {
+      "name": "Lepiota littoralis Menier, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38540"
+    }
+,
+    {
+      "name": "Leucoagaricus magnusianus (Henn.) Singer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38547"
+    }
+,
+    {
+      "name": "Leucoagaricus mairei Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38550"
+    }
+,
+    {
+      "name": "Lepiota menieri sensu Maire",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38551"
+    }
+,
+    {
+      "name": "Leucoagaricus marginatus (Burl.) Boisselet, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464399"
+    }
+,
+    {
+      "name": "Lepiota marginata Burl., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514744"
+    }
+,
+    {
+      "name": "Leucoagaricus marriageae (D.A.Reid) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926229"
+    }
+,
+    {
+      "name": "Lepiota marriageae D.A.Reid, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926230"
+    }
+,
+    {
+      "name": "Leucoagaricus marriagei (D.A.Reid) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38552"
+    }
+,
+    {
+      "name": "Lepiota marriagei D.A.Reid, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38553"
+    }
+,
+    {
+      "name": "Leucoagaricus marriagei var. ammovirescens Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38554"
+    }
+,
+    {
+      "name": "Leucoagaricus melanotrichus (Malençon & Bertault) Trimbach, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38555"
+    }
+,
+    {
+      "name": "Lepiota melanotricha Malençon & Bertault, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38556"
+    }
+,
+    {
+      "name": "Leucoagaricus melanotrichus f. fuligineobrunneus (Bon & Boiffard) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38559"
+    }
+,
+    {
+      "name": "Leucoagaricus melanotrichus var. fuligineobrunneus Bon & Boiffard, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38558"
+    }
+,
+    {
+      "name": "Leucoagaricus meleagris (Gray) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464400"
+    }
+,
+    {
+      "name": "Agaricus meleagris Sowerby, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38064"
+    }
+,
+    {
+      "name": "Gymnopus meleagris Gray, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514745"
+    }
+,
+    {
+      "name": "Hiatula meleagris (Gray) Singer, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514746"
+    }
+,
+    {
+      "name": "Lepiota badhamii var. meleagris (Sowerby) Bigeard & Guillemin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514747"
+    }
+,
+    {
+      "name": "Lepiota meleagris (Sowerby) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38478"
+    }
+,
+    {
+      "name": "Leucocoprinus meleagris (Sowerby) Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514748"
+    }
+,
+    {
+      "name": "Leucoagaricus moseri (Wasser) Wasser, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38560"
+    }
+,
+    {
+      "name": "Lepiota moseri Wasser, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38561"
+    }
+,
+    {
+      "name": "Leucoagaricus oleicola Corriol, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916762"
+    }
+,
+    {
+      "name": "Leucoagaricus olgae (Velen.) M.M.Moser, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464401"
+    }
+,
+    {
+      "name": "Lepiota olgae Velen., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38410"
+    }
+,
+    {
+      "name": "Leucocoprinus olgae (Velen.) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514749"
+    }
+,
+    {
+      "name": "Leucoagaricus pilatianus (Demoulin) Bon & Boiffard, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38563"
+    }
+,
+    {
+      "name": "Lepiota pilatiana Demoulin, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38564"
+    }
+,
+    {
+      "name": "Lepiota rufovelutina sensu Pilát",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38565"
+    }
+,
+    {
+      "name": "Leucoagaricus badhamii var. pilatianus (Demoulin) Krieglst.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514750"
+    }
+,
+    {
+      "name": "Leucocoprinus pilatianus (Demoulin) Wasser, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38566"
+    }
+,
+    {
+      "name": "Leucoagaricus pilatianus f. rimosovelatus (Contu) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38567"
+    }
+,
+    {
+      "name": "Leucoagaricus pilatianus var. rimosovelatus (Contu) Migl. & A.Gennari, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514751"
+    }
+,
+    {
+      "name": "Leucoagaricus rimosovelatus Contu, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38568"
+    }
+,
+    {
+      "name": "Leucoagaricus pilatianus var. subrubens (Wichanský) Migl. & A.Gennari, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469915"
+    }
+,
+    {
+      "name": "Lepiota pilatiana var. subrubens (Wichanský) Demoulin, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514752"
+    }
+,
+    {
+      "name": "Lepiota rufovelutina var. subrubens Wichanský, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514753"
+    }
+,
+    {
+      "name": "Leucocoprinus pilatianus var. subrubens (Wichanský) Wasser, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514754"
+    }
+,
+    {
+      "name": "Leucoagaricus pinguipes (A.Pearson) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38569"
+    }
+,
+    {
+      "name": "Lepiota pinguipes A.Pearson, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38570"
+    }
+,
+    {
+      "name": "Leucoagaricus macrorhizus var. pinguipes (A.Pearson) Alessio, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38572"
+    }
+,
+    {
+      "name": "Leucoagaricus pseudocinerascens (Bon) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38546"
+    }
+,
+    {
+      "name": "Lepiota cinerascens sensu Boud. (in herb.)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38545"
+    }
+,
+    {
+      "name": "Leucoagaricus macrorhizus var. pseudocinerascens Bon, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38544"
+    }
+,
+    {
+      "name": "Leucoagaricus pseudopilatianus Migl., Rocabruna & Tabarés, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464402"
+    }
+,
+    {
+      "name": "Leucoagaricus purpureolilacinus Huijsman, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38573"
+    }
+,
+    {
+      "name": "Leucoagaricus purpureorimosus Bon & Boiffard, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38574"
+    }
+,
+    {
+      "name": "Leucoagaricus purpureorimosus f. pallidus Bon & Boiffard, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469916"
+    }
+,
+    {
+      "name": "Leucoagaricus rhodelephantinus Boisselet & Eyssart., 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002710"
+    }
+,
+    {
+      "name": "Leucoagaricus rubroconfusus Migl. & Coccia, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464403"
+    }
+,
+    {
+      "name": "Leucoagaricus rubrotinctus (Peck) Singer, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38575"
+    }
+,
+    {
+      "name": "Lepiota rubrotincta Peck, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38577"
+    }
+,
+    {
+      "name": "Leucoagaricus salmoneophyllus Bon & Guinb., 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38578"
+    }
+,
+    {
+      "name": "Leucoagaricus pilatianus var. salmoneophyllus (Bon) Migliozzi & A. Gennari",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514755"
+    }
+,
+    {
+      "name": "Leucoagaricus subcretaceus Bon, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38583"
+    }
+,
+    {
+      "name": "Lepiota naucina sensu auct.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514756"
+    }
+,
+    {
+      "name": "Leucoagaricus cretaceus sensu Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514757"
+    }
+,
+    {
+      "name": "Leucoagaricus leucothites var. subcretaceus (Bon) P.Roux & Guy García, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514758"
+    }
+,
+    {
+      "name": "Leucoagaricus subhymenoderma Bon & A.Caball., 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464404"
+    }
+,
+    {
+      "name": "Leucoagaricus sublittoralis (Kühner ex Hora) Singer, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38586"
+    }
+,
+    {
+      "name": "Lepiota sublittoralis Kühner ex Hora, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38587"
+    }
+,
+    {
+      "name": "Leucocoprinus sublitoralis (Kühner ex Hora) Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38588"
+    }
+,
+    {
+      "name": "Leucoagaricus subolivaceus Migl. & L.Perrone, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38589"
+    }
+,
+    {
+      "name": "Leucoagaricus subpudicus Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38590"
+    }
+,
+    {
+      "name": "Lepiota pudica sensu Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38591"
+    }
+,
+    {
+      "name": "Leucoagaricus tener (P.D.Orton) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38592"
+    }
+,
+    {
+      "name": "Lepiota tenera P.D.Orton, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38593"
+    }
+,
+    {
+      "name": "Leucoagaricus wichanskyi (Pilát) Bon & Boiffard, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38594"
+    }
+,
+    {
+      "name": "Lepiota wichanskyi Pilát, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38595"
+    }
+,
+    {
+      "name": "Leucocoprinus Pat., 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Leucocoprinus aureofloccosus (Henn.) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38597"
+    }
+,
+    {
+      "name": "Agaricus aureofloccosus Henn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514760"
+    }
+,
+    {
+      "name": "Hiatula aureofloccosa (Henn.) Singer, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38598"
+    }
+,
+    {
+      "name": "Lepiota aureofloccosa Henn., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38599"
+    }
+,
+    {
+      "name": "Leucocoprinus aureofloccosus (Henn.) M.M.Moser, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983056"
+    }
+,
+    {
+      "name": "Leucocoprinus birnbaumii (Corda) Singer, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38625"
+    }
+,
+    {
+      "name": "Agaricus birnbaumii Corda, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514761"
+    }
+,
+    {
+      "name": "Agaricus cepaestipes var. flos-sulfuris (Schnitzlein) Oudem.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514762"
+    }
+,
+    {
+      "name": "Agaricus flammula Alb. & Schwein., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514763"
+    }
+,
+    {
+      "name": "Agaricus flos-sulfuris Schnitzlein",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514764"
+    }
+,
+    {
+      "name": "Agaricus flos-sulphuris Schnizl., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/901847"
+    }
+,
+    {
+      "name": "Lepiota cepaestipes var. flammula (Alb. & Schwein.) Bigeard & Guillemin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514765"
+    }
+,
+    {
+      "name": "Lepiota cepaestipes var. lutea (Bolt.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514766"
+    }
+,
+    {
+      "name": "Lepiota flammula (Alb. & Schwein.) Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38623"
+    }
+,
+    {
+      "name": "Lepiota flos-sulphuris (Schnizl.) Mattir., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/901846"
+    }
+,
+    {
+      "name": "Lepiota lutea (Bolt.) Godfrin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38624"
+    }
+,
+    {
+      "name": "Leucocoprinus flos-sulfuris (Schnitzlein) Cejp",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514767"
+    }
+,
+    {
+      "name": "Leucocoprinus flos-sulphuris (Schnizl.) Cejp, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38622"
+    }
+,
+    {
+      "name": "Leucocoprinus luteus (Mattir.) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38626"
+    }
+,
+    {
+      "name": "Leucocoprinus brebissonii (Godey) Locq., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38600"
+    }
+,
+    {
+      "name": "Hiatula brebissonii (Godey) Singer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38601"
+    }
+,
+    {
+      "name": "Lepiota brebissonii Godey, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38602"
+    }
+,
+    {
+      "name": "Leucocoprinus castroi Blanco-Dios, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464380"
+    }
+,
+    {
+      "name": "Leucocoprinus cepistipes (Sowerby) Pat., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38608"
+    }
+,
+    {
+      "name": "Agaricus cepaestipes Sowerby, 1795",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514768"
+    }
+,
+    {
+      "name": "Hiatula cepaestipes (Sowerby) Heim & Romagn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514769"
+    }
+,
+    {
+      "name": "Lepiota caespestipes (Sowerby ex Fr.) Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38605"
+    }
+,
+    {
+      "name": "Lepiota cepaestipes (Sowerby) Kumm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514770"
+    }
+,
+    {
+      "name": "Leucocoprinus caespestipes (Sowerby ex Fr.) Pat.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38604"
+    }
+,
+    {
+      "name": "Mastocephalus cepaestipes (Sowerby) Kuntze",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514771"
+    }
+,
+    {
+      "name": "Leucocoprinus cepistipes var. rorulentus (Panizzi) Babos, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38612"
+    }
+,
+    {
+      "name": "Agaricus rorulentus Panizzi, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514772"
+    }
+,
+    {
+      "name": "Hiatula cepistipes (Sowerby) R.Heim & Romagn., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38609"
+    }
+,
+    {
+      "name": "Lepiota cepistipes (Sowerby) P.Kumm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38610"
+    }
+,
+    {
+      "name": "Lepiota rorulenta (Panizzi) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38607"
+    }
+,
+    {
+      "name": "Mastocephalus cepistipes (Sowerby) Kuntze, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38611"
+    }
+,
+    {
+      "name": "Leucocoprinus cretatus Locq.ex Lanzoni, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38613"
+    }
+,
+    {
+      "name": "Agaricus cretaceus Bull., 1788",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514773"
+    }
+,
+    {
+      "name": "Lepiota cretata Locq., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38614"
+    }
+,
+    {
+      "name": "Leucoagaricus cretaceus (Bull.) M.M.Moser, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514774"
+    }
+,
+    {
+      "name": "Leucocoprinus cygneus (J.E.Lange) Bon, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38615"
+    }
+,
+    {
+      "name": "Cystolepiota cygnea (J.E.Lange) M.M.Moser, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38616"
+    }
+,
+    {
+      "name": "Lepiota cygnea J.E.Lange, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514775"
+    }
+,
+    {
+      "name": "Lepiota cygnea Lange, sensu Huijsm., sensu Romagn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38617"
+    }
+,
+    {
+      "name": "Pseudobaeospora cygnea (J.E.Lange) Locq., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514776"
+    }
+,
+    {
+      "name": "Sericeomyces cygneus (J.E.Lange) Heinem., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514777"
+    }
+,
+    {
+      "name": "Leucocoprinus fragilissimus (Ravenel ex Berk. & M.A.Curtis) Pat., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38627"
+    }
+,
+    {
+      "name": "Hiatula fragilissima Ravenel ex Berk. & M.A.Curtis, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904694"
+    }
+,
+    {
+      "name": "Lepiota fragilissima (Ravenel ex Berk. & M.A.Curtis) Morgan, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38628"
+    }
+,
+    {
+      "name": "Leucocoprinus griseofloccosus Lagardère & Eyssart., 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/927877"
+    }
+,
+    {
+      "name": "Leucocoprinus heinemannii Migl., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464396"
+    }
+,
+    {
+      "name": "Leucocoprinus heinemanii Migliozzi",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38631"
+    }
+,
+    {
+      "name": "Leucocoprinus ianthinus (Sacc.) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38632"
+    }
+,
+    {
+      "name": "Agaricus ianthinus Cooke, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973791"
+    }
+,
+    {
+      "name": "Hiatula cepaestipes var. lilacinogranulosus (Henn.) Heim & Romagn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514779"
+    }
+,
+    {
+      "name": "Lepiota ianthina Sacc., 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514780"
+    }
+,
+    {
+      "name": "Lepiota lilacinogranulosa Henn., 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973792"
+    }
+,
+    {
+      "name": "Lepiota lilacinogranulosus Henn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514781"
+    }
+,
+    {
+      "name": "Leucocoprinus ianthinus (Sacc.) P.Mohr, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973790"
+    }
+,
+    {
+      "name": "Leucocoprinus lilacinogranulosus (Henn.) Locq., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38635"
+    }
+,
+    {
+      "name": "Leucocoprinus lanzonii Bon, Migl. & Brunori, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38636"
+    }
+,
+    {
+      "name": "Leucocoprinus magnusianus (Henn.) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464376"
+    }
+,
+    {
+      "name": "Hiatula magnusiana (Henn.) Singer, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38548"
+    }
+,
+    {
+      "name": "Lepiota magnusiana Henn., 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38549"
+    }
+,
+    {
+      "name": "Leucocoprinus medioflavus (Boud.) Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38637"
+    }
+,
+    {
+      "name": "Lepiota medioflava Boud., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38638"
+    }
+,
+    {
+      "name": "Leucocoprinus squamulosus (Mont.) Pegler, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804789"
+    }
+,
+    {
+      "name": "Hiatula squamulosa Mont., 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908244"
+    }
+,
+    {
+      "name": "Leucocoprinus straminellus (Bagl.) Narducci & Caroti, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464377"
+    }
+,
+    {
+      "name": "Agaricus straminellus Bagl., 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514782"
+    }
+,
+    {
+      "name": "Hiatula denudata (Sacc.) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514783"
+    }
+,
+    {
+      "name": "Lepiota cepaestipes Velen.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514784"
+    }
+,
+    {
+      "name": "Lepiota denudata Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38620"
+    }
+,
+    {
+      "name": "Lepiota gueguenii Sacc. & Traverso, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38621"
+    }
+,
+    {
+      "name": "Lepiota straminella (Bagl.) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514785"
+    }
+,
+    {
+      "name": "Leucocoprinus denudatus (Rabenh. ? Sacc.) Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38618"
+    }
+,
+    {
+      "name": "Leucocoprinus gueguenii (Sacc. & Traverso) Locq., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514786"
+    }
+,
+    {
+      "name": "Leucocoprinus straminellus var. albus (Joss.) Migl. & Rava, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469917"
+    }
+,
+    {
+      "name": "Leucocoprinus denudatus var. albus Joss., 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514787"
+    }
+,
+    {
+      "name": "Leucocoprinus subcretaceus Bon",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38639"
+    }
+,
+    {
+      "name": "Leucocoprinus sulphurellus Pegler, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904697"
+    }
+,
+    {
+      "name": "Leucocoprinus tenellus (Boud.) Locq., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904699"
+    }
+,
+    {
+      "name": "Lepiota tenella Boud., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904700"
+    }
+,
+    {
+      "name": "Leucocoprinus tenellus Pegler, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904698"
+    }
+,
+    {
+      "name": "Leucocoprinus venezuelanus Dennis, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904701"
+    }
+,
+    {
+      "name": "Macrolepiota Singer, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "Macrolepiota affinis (Velen.) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38643"
+    }
+,
+    {
+      "name": "Lepiota affinis Velen., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38644"
+    }
+,
+    {
+      "name": "Lepiota gracilenta sensu Bres.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38645"
+    }
+,
+    {
+      "name": "Lepiota permixta sensu Bres.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38691"
+    }
+,
+    {
+      "name": "Leucocoprinus affinis (Velen.) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38646"
+    }
+,
+    {
+      "name": "Macrolepiota excoriata (Schaeff.) Wasser, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38647"
+    }
+,
+    {
+      "name": "Agaricus excoriatus Schaeff., 1774",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515074"
+    }
+,
+    {
+      "name": "Lepiota excoriata (Schaeff.) P.Kumm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38649"
+    }
+,
+    {
+      "name": "Lepiotophyllum excoriatum (Schaeff.) Locq., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515075"
+    }
+,
+    {
+      "name": "Leucoagaricus excoriatus (Schaeff.) Singer, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515076"
+    }
+,
+    {
+      "name": "Leucocoprinus excoriatus (Schaeff.) Pat., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515077"
+    }
+,
+    {
+      "name": "Macrolepiota excoriata f. barlae Babos, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469928"
+    }
+,
+    {
+      "name": "Macrolepiota rubescens f. barlae Babos",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38717"
+    }
+,
+    {
+      "name": "Macrolepiota excoriata var. squarrosa (Maire) Wasser, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38655"
+    }
+,
+    {
+      "name": "Lepiota excoriata var. squarrosa Maire, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515083"
+    }
+,
+    {
+      "name": "Lepiota excoriata Dufour",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38652"
+    }
+,
+    {
+      "name": "Lepiota excoriata Maire",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38656"
+    }
+,
+    {
+      "name": "Macrolepiota fuligineosquarrosa Malençon, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38657"
+    }
+,
+    {
+      "name": "Macrolepiota fuliginosa (Barla) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38689"
+    }
+,
+    {
+      "name": "Lepiota fuliginosa Barla",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38687"
+    }
+,
+    {
+      "name": "Lepiota procera var. fuliginosa Barla, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38688"
+    }
+,
+    {
+      "name": "Leucocoprinus fuliginosus (Barla) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515084"
+    }
+,
+    {
+      "name": "Macrolepiota procera var. fuliginosa (Barla) Bellù & Lanzoni, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38686"
+    }
+,
+    {
+      "name": "Macrolepiota heimii Locq. ex Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38662"
+    }
+,
+    {
+      "name": "Lepiota heimii (Locq. ex Bon) Contu, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515085"
+    }
+,
+    {
+      "name": "Lepiota heimii Locq., non sensu Locq.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38663"
+    }
+,
+    {
+      "name": "Leucocoprinus heimii Locq., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515086"
+    }
+,
+    {
+      "name": "Leucocoprinus heimii Locquin, non sensu Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38665"
+    }
+,
+    {
+      "name": "Leucocoprinus naucinus Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515087"
+    }
+,
+    {
+      "name": "Macrolepiota konradii (Huijsman ex P.D.Orton) M.M.Moser, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38666"
+    }
+,
+    {
+      "name": "Lepiota excoriata subsp. mastoidea sensu Konrad & Maubl.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515088"
+    }
+,
+    {
+      "name": "Lepiota konradii Huijsman ex P.D.Orton, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38668"
+    }
+,
+    {
+      "name": "Macrolepiota procera var. konradii (Huijsman ex P.D.Orton) Gminder, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515089"
+    }
+,
+    {
+      "name": "Macrolepiota mastoidea (Fr.) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38670"
+    }
+,
+    {
+      "name": "Agaricus mastoideus Fr., 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515090"
+    }
+,
+    {
+      "name": "Lepiota excoriata var. mastoidea (Fr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515091"
+    }
+,
+    {
+      "name": "Lepiota mastoidea (Fr.) P.Kumm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38672"
+    }
+,
+    {
+      "name": "Lepiotophyllum mastoideum (Fr.) Locq., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515092"
+    }
+,
+    {
+      "name": "Leucocoprinus mastoideus (Fr.) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515093"
+    }
+,
+    {
+      "name": "Macrolepiota mastoidea var. atrobrunnea Dermek, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38674"
+    }
+,
+    {
+      "name": "Macrolepiota mastoidea var. coccineobasalis Locq. ex Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38675"
+    }
+,
+    {
+      "name": "Lepiota mastoidea var. coccineobasalis Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515094"
+    }
+,
+    {
+      "name": "Leucocoprinus coccineobasalis Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515095"
+    }
+,
+    {
+      "name": "Macrolepiota olivascens Singer & M.M.Moser, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38678"
+    }
+,
+    {
+      "name": "Lepiota olivascens (Singer & M.M.Moser) Contu, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515096"
+    }
+,
+    {
+      "name": "Macrolepiota permixta (Barla) Pacioni, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38679"
+    }
+,
+    {
+      "name": "Lepiota permixta Barla, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515097"
+    }
+,
+    {
+      "name": "Leucocoprinus permixtus (Barla) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38692"
+    }
+,
+    {
+      "name": "Macrolepiota procera var. permixta (Barla) Quadr. & Lunghini, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38690"
+    }
+,
+    {
+      "name": "Macrolepiota phaeodisca Bellù, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38680"
+    }
+,
+    {
+      "name": "Lepiota phaeodisca (Bellù) Contu & Curelli",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515098"
+    }
+,
+    {
+      "name": "Macrolepiota procera (Scop.) Singer, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38682"
+    }
+,
+    {
+      "name": "Agaricus procerus Scop., 1772",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515099"
+    }
+,
+    {
+      "name": "Amanita procera (Scop.) Fr., 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515100"
+    }
+,
+    {
+      "name": "Lepiota procera (Scop.) Gray",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515101"
+    }
+,
+    {
+      "name": "Lepiota procera (Scop.) Gray, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38685"
+    }
+,
+    {
+      "name": "Lepiotophyllum procerum (Scop.) Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515102"
+    }
+,
+    {
+      "name": "Leucocoprinus procerus (Scop.) Pat.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515103"
+    }
+,
+    {
+      "name": "Mastocephalus procerus (Scop.) Kuntze, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515104"
+    }
+,
+    {
+      "name": "Macrolepiota procera var. mediterranea Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469929"
+    }
+,
+    {
+      "name": "Macrolepiota procera var. pseudoolivascens Bellú & Lanzoni",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38693"
+    }
+,
+    {
+      "name": "Macrolepiota olivascens var. pseudoolivascens (Bellú & Lanzoni) Hauskn. & Pidlich-Aigner",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515105"
+    }
+,
+    {
+      "name": "Macrolepiota prominens (Sacc.) M.M.Moser, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38694"
+    }
+,
+    {
+      "name": "Agaricus procerus var. prominens Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515106"
+    }
+,
+    {
+      "name": "Agaricus prominens Fr., 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973802"
+    }
+,
+    {
+      "name": "Lepiota procera var. prominens (Fr.) Bigeard & Guillemin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515107"
+    }
+,
+    {
+      "name": "Lepiota prominens Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38696"
+    }
+,
+    {
+      "name": "Leucocoprinus prominens (Sacc.) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38697"
+    }
+,
+    {
+      "name": "Macrolepiota psammophila Guinb., 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/464286"
+    }
+,
+    {
+      "name": "Macrolepiota fuligineosquarrosa f. psammophila (Guinb.) Migl., 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515108"
+    }
+,
+    {
+      "name": "Macrolepiota puellaris (Fr.) M.M.Moser, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38698"
+    }
+,
+    {
+      "name": "Agaricus nympharum Kalchbr., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515109"
+    }
+,
+    {
+      "name": "Agaricus puellaris Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515110"
+    }
+,
+    {
+      "name": "Agaricus rhacodes var. puellaris Fr., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515111"
+    }
+,
+    {
+      "name": "Lepiota nympharum (Kalchbr.) Kalchbr., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515112"
+    }
+,
+    {
+      "name": "Lepiota puellaris (Fr.) P.Karst., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38699"
+    }
+,
+    {
+      "name": "Lepiota rhacodes var. puellaris (Fr.) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38701"
+    }
+,
+    {
+      "name": "Lepiotophyllum rhacodes var. puellaris (Fr.) Locq., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515113"
+    }
+,
+    {
+      "name": "Leucoagaricus nympharum (Kalchbr.) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515114"
+    }
+,
+    {
+      "name": "Leucocoprinus puellaris (Fr.) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38703"
+    }
+,
+    {
+      "name": "Macrolepiota nympharum (Kalchbr.) Wasser, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515115"
+    }
+,
+    {
+      "name": "Macrolepiota rickenii (Velen.) Bellù & Lanzoni, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38714"
+    }
+,
+    {
+      "name": "Agaricus gracilentus Krombh., 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515117"
+    }
+,
+    {
+      "name": "Lepiota excoriata var. gracilenta (Krombh.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515118"
+    }
+,
+    {
+      "name": "Lepiota gracilenta (Krombh.) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38659"
+    }
+,
+    {
+      "name": "Lepiota rickenii Velen., 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38716"
+    }
+,
+    {
+      "name": "Leucocoprinus gracilentus (Krombh.) Pat.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515119"
+    }
+,
+    {
+      "name": "Macrolepiota gracilenta (Krombh.) Moser ex Wasser",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38658"
+    }
+,
+    {
+      "name": "Macrolepiota mastoidea var. rickenii (Velen.) Gminder, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515120"
+    }
+,
+    {
+      "name": "Macrolepiota rubescens (L.M.Dufour) Pázmány, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515082"
+    }
+,
+    {
+      "name": "Lepiota excoriata var. rubescens L.M.Dufour, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515078"
+    }
+,
+    {
+      "name": "Lepiota rubescens Velen., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38653"
+    }
+,
+    {
+      "name": "Lepiotophyllum rubescens (Velen.) Locq., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515079"
+    }
+,
+    {
+      "name": "Leucocoprinus excoriatus subsp. rubescens (L.M.Dufour) Locq., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515080"
+    }
+,
+    {
+      "name": "Leucocoprinus rubescens (L.M.Dufour) Locq., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515081"
+    }
+,
+    {
+      "name": "Macrolepiota excoriata var. rubescens (L.M.Dufour) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38651"
+    }
+,
+    {
+      "name": "Macrolepiota subsquarrosa (Locq.) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38718"
+    }
+,
+    {
+      "name": "Lepiota subsquarrosa (Locq.) Gea & Honrubia, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515121"
+    }
+,
+    {
+      "name": "Leucocoprinus subsquarrosus Locq., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38719"
+    }
+,
+    {
+      "name": "Macrolepiota excoriata var. subsquarrosa (Locquin)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38720"
+    }
+,
+    {
+      "name": "Melanophyllum Velen., 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Melanophyllum eyrei (Massee) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38725"
+    }
+,
+    {
+      "name": "Chlorospora eyrei (Massee) Massee, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38726"
+    }
+,
+    {
+      "name": "Cystoderma eyrei (Massee) Singer, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515441"
+    }
+,
+    {
+      "name": "Glaucospora eyrei (Massee) Rea, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38727"
+    }
+,
+    {
+      "name": "Lepiota eyrei (Massee) J.E.Lange, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38728"
+    }
+,
+    {
+      "name": "Schulzeria eyrei Massee, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515442"
+    }
+,
+    {
+      "name": "Melanophyllum eyrei var. macrosporum Urbonas, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38729"
+    }
+,
+    {
+      "name": "Melanophyllum haematospermum (Bull.) Kreisel, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38730"
+    }
+,
+    {
+      "name": "Agaricus echinatus Roth, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515443"
+    }
+,
+    {
+      "name": "Agaricus haematospermus Bull., 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515444"
+    }
+,
+    {
+      "name": "Cystoderma echinatum (Roth) Singer, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515445"
+    }
+,
+    {
+      "name": "Inocybe echinata (Roth) Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515446"
+    }
+,
+    {
+      "name": "Lepiota echinata (Roth) Quél., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38732"
+    }
+,
+    {
+      "name": "Lepiota haematosperma f. gracilis J.E.Lange, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515456"
+    }
+,
+    {
+      "name": "Lepiota haematosperma (Bull.) P.Karst., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515447"
+    }
+,
+    {
+      "name": "Melanophyllum canali Velen., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515448"
+    }
+,
+    {
+      "name": "Melanophyllum echinatum f. gracile J.E.Lange ex Wasser, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515457"
+    }
+,
+    {
+      "name": "Melanophyllum echinatum (Roth) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38733"
+    }
+,
+    {
+      "name": "Melanophyllum haematospermum f. gracile J.E.Lange ex Migl., 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469945"
+    }
+,
+    {
+      "name": "Naucoria echinata (Roth) J.Schröt., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515449"
+    }
+,
+    {
+      "name": "Pratella echinata (Roth) Gillet, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515450"
+    }
+,
+    {
+      "name": "Pratella haematosperma (Bull.) Gillet, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515451"
+    }
+,
+    {
+      "name": "Psalliota echinata (Roth) P.Kumm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515452"
+    }
+,
+    {
+      "name": "Psalliota haematosperma (Bull.) S.Lundell & Nannf., 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515453"
+    }
+,
+    {
+      "name": "Psathyra echinata (Roth) Overh., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515454"
+    }
+,
+    {
+      "name": "Psathyrella ornatispora M.Villarreal & Esteve-Rav., 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515455"
+    }
+,
+    {
+      "name": "Pulverolepiota Bon, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Pulverolepiota pulverulenta (Huijsman) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38739"
+    }
+,
+    {
+      "name": "Cystolepiota pulverulenta (Huijsman) Vellinga, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/518231"
+    }
+,
+    {
+      "name": "Lepiota pulverulenta Huijsman, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38740"
+    }
+,
+    {
+      "name": "Leucoagaricus pulverulentus (Huijsman) Bon, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38742"
+    }
+,
+    {
+      "name": "Pulverolepiota pulverulenta f. minima (Bon, Migl. & Brunori) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38743"
+    }
+,
+    {
+      "name": "Cystolepiota pulverulenta f. minima (Bon, Migl. & Brunori) La Chiusa, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/518232"
+    }
+,
+    {
+      "name": "Leucoagaricus pulverulentus f. minimus Bon, Migl. & Brunori, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38744"
+    }
+,
+    {
+      "name": "Pulverolepiota pulverulenta var. subroseus (Bon) Bon",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/470045"
+    }
+,
+    {
+      "name": "Lepiota rosea sensu Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38746"
+    }
+,
+    {
+      "name": "Leucoagaricus pulverulentus var. subroseus Bon, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38747"
+    }
+,
+    {
+      "name": "Pulverolepiota pulverulenta var. subrosea (Bon) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38745"
+    }
+,
+    {
+      "name": "Pulverolepiota roseolanata (Huijsman) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38748"
+    }
+,
+    {
+      "name": "Lepiota brunneoincarnata var. microspora Konrad, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/518233"
+    }
+,
+    {
+      "name": "Lepiota roseolanata Huijsman, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38750"
+    }
+,
+    {
+      "name": "Leucoagaricus roseolanatus (Huijsman) Bon, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38751"
+    }
+,
+    {
+      "name": "Pulverolepiota roseolanata f. ochraceorubiginosa Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/470046"
+    }
+,
+    {
+      "name": "Pulverolepiota roseolanata var. ochraceorubiginosa Bon",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38753"
+    }
+,
+    {
+      "name": "Sericeomyces Heinem., 1978",
+      "url": ""
+    }
+,
+    {
+      "name": "Sericeomyces amylosporus (Malençon) Heinem., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/463415"
+    }
+,
+    {
+      "name": "Lepiota amylospora Malençon, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519056"
+    }
+,
+    {
+      "name": "Leucoagaricus amylosporus (Malençon) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519057"
+    }
+,
+    {
+      "name": "Sericeomyces crystallifer (Vellinga) Bon, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/463416"
+    }
+,
+    {
+      "name": "Leucoagaricus crystallifer Vellinga, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519058"
+    }
+,
+    {
+      "name": "Sericeomyces serenus sensu Bon p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519059"
+    }
+,
+    {
+      "name": "Sericeomyces deceptivus (Grilli) Ballero & Contu, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/463417"
+    }
+,
+    {
+      "name": "Leucoagaricus medioflavoides var. deceptivus Grilli, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519060"
+    }
+,
+    {
+      "name": "Sericeomyces erioderma (Malençon) Contu, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38757"
+    }
+,
+    {
+      "name": "Lepiota serena var. erioderma Malençon, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38758"
+    }
+,
+    {
+      "name": "Leucoagaricus erioderma (Malençon) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38505"
+    }
+,
+    {
+      "name": "Leucoagaricus eriodermus (Malençon) Bon, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38759"
+    }
+,
+    {
+      "name": "Sericeomyces serenus var. erioderma (Malençon) Heinemann",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519061"
+    }
+,
+    {
+      "name": "Sericeomyces medioflavoides (Bon) Contu, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38761"
+    }
+,
+    {
+      "name": "Leucoagaricus medioflavoides Bon, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38762"
+    }
+,
+    {
+      "name": "Sericeomyces medioflavoides f. subviscidulus Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38765"
+    }
+,
+    {
+      "name": "Sericeomyces medioflavoides var. deceptivus (Grilli) Bal. & Contu",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38763"
+    }
+,
+    {
+      "name": "Sericeomyces medullatus (Fr.) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38767"
+    }
+,
+    {
+      "name": "Agaricus medullatus Fr., 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519062"
+    }
+,
+    {
+      "name": "Lepiota medullata (Fr.) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38768"
+    }
+,
+    {
+      "name": "Leucoagaricus medullatus (Fr.) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519063"
+    }
+,
+    {
+      "name": "Limacella medullata (Fr.) P.D.Orton, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519064"
+    }
+,
+    {
+      "name": "Sericeomyces menieri (Sacc.) Contu, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38769"
+    }
+,
+    {
+      "name": "Lepiota menieri Sacc., 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38771"
+    }
+,
+    {
+      "name": "Leucoagaricus menieri (Sacc.) Singer, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519065"
+    }
+,
+    {
+      "name": "Sericeomyces serenus (Fr.) Heinem., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38773"
+    }
+,
+    {
+      "name": "Agaricus serenus Fr., 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519066"
+    }
+,
+    {
+      "name": "Lepiota serena (Fr.) Quél., sensu Kühner, non sensu Lange",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38580"
+    }
+,
+    {
+      "name": "Lepiota serena (Fr.) Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38506"
+    }
+,
+    {
+      "name": "Leucoagaricus serenus (Fr.) Bon & Boiffard, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38579"
+    }
+,
+    {
+      "name": "Pseudobaeospora serena (Fr.) Locq., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38581"
+    }
+,
+    {
+      "name": "Pseudobaeospora serena (Fr.) Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38776"
+    }
+,
+    {
+      "name": "Sericeomyces serenus var. violaceodiscus Ballero & Contu, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38777"
+    }
+,
+    {
+      "name": "Lepiota serena (Fr.) Quél., sensu Kühner, non Lange",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38774"
+    }
+,
+    {
+      "name": "Leucoagaricus serenus (Fr.) Heinem.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38775"
+    }
+,
+    {
+      "name": "Sericeomyces sericatellus (Malençon) Bon, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38778"
+    }
+,
+    {
+      "name": "Lepiota sericatella Malençon, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38779"
+    }
+,
+    {
+      "name": "Leucoagaricus sericatellus (Malençon) Bon, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38780"
+    }
+,
+    {
+      "name": "Leucoagaricus sericifer f. sericatellus (Malençon) Vellinga, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519067"
+    }
+,
+    {
+      "name": "Pseudobaeospora sericatella (Malençon) M.M.Moser, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519068"
+    }
+,
+    {
+      "name": "Sericeomyces sericatus var. sericatellus (Malençon) Heinem., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38781"
+    }
+,
+    {
+      "name": "Sericeomyces sericeus (Cool) Contu, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/463427"
+    }
+,
+    {
+      "name": "Lepiota cristata var. sericea Cool, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519069"
+    }
+,
+    {
+      "name": "Lepiota serena sensu J.E. Lange",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38783"
+    }
+,
+    {
+      "name": "Lepiota sericicephala Locquin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519070"
+    }
+,
+    {
+      "name": "Lepiota sericifera (Locq.) Locq., 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38784"
+    }
+,
+    {
+      "name": "Leucoagaricus sericeus (Cool) Bon & Boiffard, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38785"
+    }
+,
+    {
+      "name": "Leucoagaricus sericifer (Locq.) Vellinga, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519071"
+    }
+,
+    {
+      "name": "Pseudobaeospora sericifera Locq., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519072"
+    }
+,
+    {
+      "name": "Sericeomyces sericifer (Locq.) Døssing, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38782"
+    }
+,
+    {
+      "name": "Sericeomyces subvolvatus (Malençon & Bertault) Bon, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38786"
+    }
+,
+    {
+      "name": "Lepiota subvolvata (Malençon & Bert.)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38790"
+    }
+,
+    {
+      "name": "Lepiota subvolvata Malençon & Bertault, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38787"
+    }
+,
+    {
+      "name": "Leucoagaricus subvolvatus (Malençon & Bertault) Bon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38788"
+    }
+,
+    {
+      "name": "Sericeomyces subvolvatus f. pictus (Malençon & Bertault) Bon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/470227"
+    }
+,
+    {
+      "name": "Lepiota subvolvata var. picta Malençon & Bertault, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519073"
+    }
+,
+    {
+      "name": "Leucoagaricus subvolvatus var. pictus (Malençon & Bertault) ??",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/519074"
+    }
+,
+    {
+      "name": "Sericeomyces subvolvatus var. pictus (Malençon & Bert.) Bon",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38789"
+    }
+,
+    {
+      "name": "Sericeomyces viscidulus Heinem., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/38791"
+    }
+,
+    {
+      "name": "Leucoagaricus viscidulus (Heinem.) Consiglio & Contu, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976613"
+    }
+
+  ]
+}

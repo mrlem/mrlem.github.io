@@ -1,0 +1,597 @@
+
+{
+  "name": "platycephalidae",
+  "children": [
+
+    {
+      "name": "Platycephalidae Swainson, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "Cociella Whitley, 1940",
+      "url": ""
+    }
+,
+    {
+      "name": "Cociella crocodilus (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542778"
+    }
+,
+    {
+      "name": "Cociella crocodila (Tilesius, 1814)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423842"
+    }
+,
+    {
+      "name": "Cociella crocodilla (Tilesius, 1814)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583249"
+    }
+,
+    {
+      "name": "Cocius crocodila (Tilesius, 1814)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562385"
+    }
+,
+    {
+      "name": "Cocius crocodilus (Tilesius, 1814)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562386"
+    }
+,
+    {
+      "name": "Inegocia crocodilus (Tilesius, 1814)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562698"
+    }
+,
+    {
+      "name": "Platycephalus crocodila Tilesius, 1814",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583248"
+    }
+,
+    {
+      "name": "Platycephalus crocodilus Tilesius, 1814",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549488"
+    }
+,
+    {
+      "name": "Platycephalus inermis Jordan & Evermann, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557669"
+    }
+,
+    {
+      "name": "Platycephalus malabaricus Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557672"
+    }
+,
+    {
+      "name": "Cociella punctata (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651528"
+    }
+,
+    {
+      "name": "Cociella punctatus (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676970"
+    }
+,
+    {
+      "name": "Grammoplites jacksoni Fowler, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676968"
+    }
+,
+    {
+      "name": "Platycephalus fasciatus Günther, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676965"
+    }
+,
+    {
+      "name": "Platycephalus punctatus Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676966"
+    }
+,
+    {
+      "name": "Platycephalus quoyi Bleeker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676967"
+    }
+,
+    {
+      "name": "Suggrundus hunti Fowler, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676969"
+    }
+,
+    {
+      "name": "Cymbacephalus Fowler, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Cymbacephalus beauforti (Knapp, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423954"
+    }
+,
+    {
+      "name": "Platycephalus beauforti Knapp, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557665"
+    }
+,
+    {
+      "name": "Cymbacephalus nematophthalmus (Günther, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651800"
+    }
+,
+    {
+      "name": "Cymbacephalus nematopthalamus (Günther, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676455"
+    }
+,
+    {
+      "name": "Cymbacephalus nematopthalmus (Günther, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676457"
+    }
+,
+    {
+      "name": "Cymbacephalus nematopthlamus (Günther, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676456"
+    }
+,
+    {
+      "name": "Papilloculiceps nematophthalmus (Günther, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676453"
+    }
+,
+    {
+      "name": "Platycephalus nemathophthalmus Günther, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676454"
+    }
+,
+    {
+      "name": "Platycephalus nematophthalmus Günther, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676452"
+    }
+,
+    {
+      "name": "Cymbacephalus staigeri (Castelnau, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651801"
+    }
+,
+    {
+      "name": "Cymbacephalus parilis (McCulloch, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676786"
+    }
+,
+    {
+      "name": "Insidiator parilis McCulloch, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676787"
+    }
+,
+    {
+      "name": "Platycephalus staigeri Castelnau, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676784"
+    }
+,
+    {
+      "name": "Suggrundus staigeri (Castelnau, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676785"
+    }
+,
+    {
+      "name": "Kumococius Matsubara & Ochiai, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Kumococius rodericensis (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424612"
+    }
+,
+    {
+      "name": "Insidiator detrusus Jordan & Seale, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565870"
+    }
+,
+    {
+      "name": "Kumococcius detrusus (Jordan & Seale, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583378"
+    }
+,
+    {
+      "name": "Kumococius detrusus (Jordan & Seale, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562152"
+    }
+,
+    {
+      "name": "Kumococius rodericiensis (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583377"
+    }
+,
+    {
+      "name": "Platycephalus bengalensis Rao, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557666"
+    }
+,
+    {
+      "name": "Platycephalus rodericensis Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557677"
+    }
+,
+    {
+      "name": "Platycephalus sculptus Günther, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557678"
+    }
+,
+    {
+      "name": "Platycephalus timoriensis Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557682"
+    }
+,
+    {
+      "name": "Suggrundus bengalensis (Rao, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561184"
+    }
+,
+    {
+      "name": "Suggrundus rodericensis (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561289"
+    }
+,
+    {
+      "name": "Suggrundus rodriconsis (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583376"
+    }
+,
+    {
+      "name": "Suggrundus sculptus (Günther, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561290"
+    }
+,
+    {
+      "name": "Onigocia Jordan & Thompson, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Onigocia bimaculata Knapp, Imamura & Sakashita, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/533565"
+    }
+,
+    {
+      "name": "Onigocia lacrimalis Imamura & Knapp, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651840"
+    }
+,
+    {
+      "name": "Onigocia macrolepis (Bleeker, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425028"
+    }
+,
+    {
+      "name": "Platycephalus macrolepis Bleeker, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557671"
+    }
+,
+    {
+      "name": "Thysanophrys macrolepis (Bleeker, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561631"
+    }
+,
+    {
+      "name": "Onigocia oligolepis (Regan, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/616563"
+    }
+,
+    {
+      "name": "Platycephalus oligolepis Regan, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678540"
+    }
+,
+    {
+      "name": "Onigocia pedimacula (Regan, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/444885"
+    }
+,
+    {
+      "name": "Onigocia pedimaculata (Regan, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583379"
+    }
+,
+    {
+      "name": "Platycephalus pedimacula Regan, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557675"
+    }
+,
+    {
+      "name": "Onigocia spinosa (Temminck & Schlegel, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425029"
+    }
+,
+    {
+      "name": "Insidiator spinosus (Temminck & Schlegel, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565871"
+    }
+,
+    {
+      "name": "Platycephalus spinosus Temminck & Schlegel, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557681"
+    }
+,
+    {
+      "name": "Thysanophrys spinosus (Temminck & Schlegel, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561634"
+    }
+,
+    {
+      "name": "Papilloculiceps Fowler & Steinitz, 1956",
+      "url": ""
+    }
+,
+    {
+      "name": "Papilloculiceps longiceps (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925116"
+    }
+,
+    {
+      "name": "Platycephalus longiceps Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925117"
+    }
+,
+    {
+      "name": "Platycephalus Bloch, 1795",
+      "url": ""
+    }
+,
+    {
+      "name": "Platycephalus indicus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/69175"
+    }
+,
+    {
+      "name": "Callionymus indicus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557721"
+    }
+,
+    {
+      "name": "Cottus insidiator Forsskål, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558871"
+    }
+,
+    {
+      "name": "Cottus madagascariensis Lacepède, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558875"
+    }
+,
+    {
+      "name": "Platycephalus insidiator (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557670"
+    }
+,
+    {
+      "name": "Rogadius Jordan & Richardson, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Rogadius mcgroutheri Imamura, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651841"
+    }
+,
+    {
+      "name": "Rogadius patriciae Knapp, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425505"
+    }
+,
+    {
+      "name": "Rogadius pristiger (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425506"
+    }
+,
+    {
+      "name": "Platycephalus pristiger Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549489"
+    }
+,
+    {
+      "name": "Rogadius serratus (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425489"
+    }
+,
+    {
+      "name": "Platycephalus polijodon Bleeker, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557676"
+    }
+,
+    {
+      "name": "Platycephalus serratus Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557679"
+    }
+,
+    {
+      "name": "Rogadius polijodon (Bleeker, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561975"
+    }
+,
+    {
+      "name": "Rogadius welanderi (Schultz, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651711"
+    }
+,
+    {
+      "name": "Sorsogona welanderi (Schultz, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693997"
+    }
+,
+    {
+      "name": "Wakiyus welanderi Schultz, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693998"
+    }
+,
+    {
+      "name": "Sorsogona Herre, 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "Sorsogona prionota (Sauvage, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997885"
+    }
+,
+    {
+      "name": "Platycephalus prionotus Sauvage, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997886"
+    }
+,
+    {
+      "name": "Rogadius prionotus (Sauvage, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997887"
+    }
+,
+    {
+      "name": "Sunagocia Imamura, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Sunagocia arenicola (Schultz, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/652047"
+    }
+,
+    {
+      "name": "Eurycephalus arenicola (Schultz, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424174"
+    }
+,
+    {
+      "name": "Platycephalus arenicola (Schultz, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557664"
+    }
+,
+    {
+      "name": "Thysanophrys arenicola Schultz, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551595"
+    }
+,
+    {
+      "name": "Sunagocia otaitensis (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544306"
+    }
+,
+    {
+      "name": "Callionymus barffi Curtis, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557715"
+    }
+,
+    {
+      "name": "Cottus otaitensis Cuvier, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558876"
+    }
+,
+    {
+      "name": "Eurycephalus otaitensis (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424195"
+    }
+,
+    {
+      "name": "Platycephalus malayanus Bleeker, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557673"
+    }
+,
+    {
+      "name": "Platycephalus otaitensis (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557674"
+    }
+,
+    {
+      "name": "Platycephalus variolosus Günther, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557683"
+    }
+,
+    {
+      "name": "Platycephalus variolusus Günther, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583380"
+    }
+,
+    {
+      "name": "Thysanophrys malayanus (Bleeker, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561632"
+    }
+,
+    {
+      "name": "Thysanophrys otaitensis (Cuvier, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551594"
+    }
+,
+    {
+      "name": "Thysanophrys papillolabium Schultz, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561633"
+    }
+,
+    {
+      "name": "Thysanophrys Ogilby, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Thysanophrys celebica (Bleeker, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651529"
+    }
+,
+    {
+      "name": "Grammoplites pristis (Peters, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676973"
+    }
+,
+    {
+      "name": "Platycephalus celebicus Bleeker, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676971"
+    }
+,
+    {
+      "name": "Platycephalus horai de Beaufort, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676972"
+    }
+,
+    {
+      "name": "Platycephalus pristis Peters, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676976"
+    }
+,
+    {
+      "name": "Suggrundus brevirostris Shao & Chen, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676974"
+    }
+,
+    {
+      "name": "Thysanophrys celebicus (Bleeker, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676975"
+    }
+,
+    {
+      "name": "Thysanophrys chiltonae Schultz, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425881"
+    }
+,
+    {
+      "name": "Cociella chiltonae (Schultz, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559200"
+    }
+,
+    {
+      "name": "Inegocia chiltonae (Schultz, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562697"
+    }
+,
+    {
+      "name": "Platycephalus chiltonae (Schultz, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557667"
+    }
+,
+    {
+      "name": "Thysanophrys chiltoni Schultz, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583382"
+    }
+,
+    {
+      "name": "Thysanophrys cluitouse Schultz, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583381"
+    }
+
+  ]
+}

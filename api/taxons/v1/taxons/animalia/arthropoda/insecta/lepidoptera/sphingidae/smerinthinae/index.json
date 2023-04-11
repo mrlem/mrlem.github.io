@@ -1,0 +1,32 @@
+
+{
+  "name": "smerinthinae",
+  "children": [
+
+    {
+      "name": "Smerinthinae Grote & Robinson, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "ambulycini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sphingidae/smerinthinae/ambulycini/"
+    }
+,
+    {
+      "name": "mimatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sphingidae/smerinthinae/mimatini/"
+    }
+,
+    {
+      "name": "sichiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sphingidae/smerinthinae/sichiini/"
+    }
+,
+    {
+      "name": "smerinthini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sphingidae/smerinthinae/smerinthini/"
+    }
+
+  ]
+}

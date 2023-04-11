@@ -1,0 +1,27 @@
+
+{
+  "name": "ommastrephidae",
+  "children": [
+
+    {
+      "name": "Ommastrephidae Steenstrup, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "illicinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/cephalopoda/oegopsida/ommastrephidae/illicinae/"
+    }
+,
+    {
+      "name": "ommastrephinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/cephalopoda/oegopsida/ommastrephidae/ommastrephinae/"
+    }
+,
+    {
+      "name": "todarodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/cephalopoda/oegopsida/ommastrephidae/todarodinae/"
+    }
+
+  ]
+}

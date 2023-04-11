@@ -1,0 +1,362 @@
+
+{
+  "name": "esperiopsidae",
+  "children": [
+
+    {
+      "name": "Esperiopsidae Hentschel, 1923",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphilectus Vosmaer, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphilectus fucorum (Esper, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71553"
+    }
+,
+    {
+      "name": "Amphilectus dubius (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552667"
+    }
+,
+    {
+      "name": "Amphilectus edwardii (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552668"
+    }
+,
+    {
+      "name": "Amphilectus gracilis (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550493"
+    }
+,
+    {
+      "name": "Amphilectus imitatus (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552669"
+    }
+,
+    {
+      "name": "Dendoryx thompsoni (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552670"
+    }
+,
+    {
+      "name": "Esperella normani (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552671"
+    }
+,
+    {
+      "name": "Esperia collina (Bowerbank, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552672"
+    }
+,
+    {
+      "name": "Esperia normani (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552663"
+    }
+,
+    {
+      "name": "Esperiopsis dubia (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552673"
+    }
+,
+    {
+      "name": "Esperiopsis edwardii (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552664"
+    }
+,
+    {
+      "name": "Esperiopsis fucorum (Esper, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71554"
+    }
+,
+    {
+      "name": "Esperiopsis gracilis (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552674"
+    }
+,
+    {
+      "name": "Esperiopsis involuta (Bowerbank, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552666"
+    }
+,
+    {
+      "name": "Esperiopsis normani (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552665"
+    }
+,
+    {
+      "name": "Esperiopsis paupera (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552675"
+    }
+,
+    {
+      "name": "Esperiopsis thompsoni (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552676"
+    }
+,
+    {
+      "name": "Halichondria fucorum (Esper, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551075"
+    }
+,
+    {
+      "name": "Halichondria parasitica (Montagu, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552677"
+    }
+,
+    {
+      "name": "Halichondria thompsoni Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547616"
+    }
+,
+    {
+      "name": "Haliclona parasitica (Montagu, 1814)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/387945"
+    }
+,
+    {
+      "name": "Isodictya alderi Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547617"
+    }
+,
+    {
+      "name": "Isodictya collina Bowerbank, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547619"
+    }
+,
+    {
+      "name": "Isodictya dubia Bowerbank, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547620"
+    }
+,
+    {
+      "name": "Isodictya edwardii Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547621"
+    }
+,
+    {
+      "name": "Isodictya fucorum (Esper, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552662"
+    }
+,
+    {
+      "name": "Isodictya gracilis Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547622"
+    }
+,
+    {
+      "name": "Isodictya hispida Bowerbank, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547623"
+    }
+,
+    {
+      "name": "Isodictya imitata Bowerbank, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547624"
+    }
+,
+    {
+      "name": "Isodictya invalida Bowerbank, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547625"
+    }
+,
+    {
+      "name": "Isodictya involuta Bowerbank, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547626"
+    }
+,
+    {
+      "name": "Isodictya normani Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547627"
+    }
+,
+    {
+      "name": "Isodictya parasitica (Montagu, 1814)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/381657"
+    }
+,
+    {
+      "name": "Isodictya paupera Bowerbank, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547628"
+    }
+,
+    {
+      "name": "Isodictya pertenuis Bowerbank, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547629"
+    }
+,
+    {
+      "name": "Isodictya scitula Bowerbank, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547630"
+    }
+,
+    {
+      "name": "Myxilla thompsoni (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552678"
+    }
+,
+    {
+      "name": "Reniera paupera (Bowerbank, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552679"
+    }
+,
+    {
+      "name": "Spongia fucorum Esper, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547631"
+    }
+,
+    {
+      "name": "Spongia parasitica Montagu, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547632"
+    }
+,
+    {
+      "name": "Amphilectus rugosus (Thiele, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815740"
+    }
+,
+    {
+      "name": "Esperiopsis rugosa Thiele, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815741"
+    }
+,
+    {
+      "name": "Esperiopsis Carter, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "Esperiopsis challengeri (Ridley, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644397"
+    }
+,
+    {
+      "name": "Amphilectus challengeri Ridley, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683862"
+    }
+,
+    {
+      "name": "Esperiopsis diasolenia Lévi, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644398"
+    }
+,
+    {
+      "name": "Esperiopsis flava Lévi, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644399"
+    }
+,
+    {
+      "name": "Esperiopsis inodes Lévi, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644400"
+    }
+,
+    {
+      "name": "Esperiopsis macrosigma Stephens, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361456"
+    }
+,
+    {
+      "name": "Esperiopsis macrosigma var. novaezealandiae Dendy, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017758"
+    }
+,
+    {
+      "name": "Esperiopsis magnifolia Lévi, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/644401"
+    }
+,
+    {
+      "name": "Esperiopsis profunda Ridley & Dendy, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816041"
+    }
+,
+    {
+      "name": "Esperiopsis pulchella Ridley & Dendy, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815742"
+    }
+,
+    {
+      "name": "Esperiopsis strongylophora Vacelet, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71344"
+    }
+,
+    {
+      "name": "Ulosa de Laubenfels, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Ulosa digitata (Schmidt, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71610"
+    }
+,
+    {
+      "name": "Chalina digitata Schmidt, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548009"
+    }
+,
+    {
+      "name": "Chalina inornata Bowerbank, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551063"
+    }
+,
+    {
+      "name": "Spongia crispata Esper, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550051"
+    }
+,
+    {
+      "name": "Spongia stuposa Esper, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363908"
+    }
+,
+    {
+      "name": "Stylaxinella stuposa (Esper, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550652"
+    }
+,
+    {
+      "name": "Stylotella inornata (Bowerbank, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552795"
+    }
+,
+    {
+      "name": "Stylotella topsenti Arnesen, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550220"
+    }
+,
+    {
+      "name": "Ulosa stuposa (Esper, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71609"
+    }
+,
+    {
+      "name": "Ulosa topsenti (Arnesen, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550739"
+    }
+,
+    {
+      "name": "Ulosa pacifica van Soest, Kaiser & Van Syoc, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/674768"
+    }
+,
+    {
+      "name": "Ulosa tenellula Pulitzer-Finali, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364191"
+    }
+,
+    {
+      "name": "Ulosa tenullula Pulitzer & Finali, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71613"
+    }
+,
+    {
+      "name": "Ulosa tubulata Pulitzer-Finali, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/71614"
+    }
+
+  ]
+}

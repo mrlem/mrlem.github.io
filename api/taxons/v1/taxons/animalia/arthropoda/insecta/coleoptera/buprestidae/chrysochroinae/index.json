@@ -1,0 +1,47 @@
+
+{
+  "name": "chrysochroinae",
+  "children": [
+
+    {
+      "name": "Chrysochroinae Laporte de Castelnau, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "chrysochroini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/chrysochroinae/chrysochroini/"
+    }
+,
+    {
+      "name": "dicercini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/chrysochroinae/dicercini/"
+    }
+,
+    {
+      "name": "Chalcophoropsis Saunders, 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "Chalcophoropsis monochroma Gianasso, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853640"
+    }
+,
+    {
+      "name": "paraleptodemini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/chrysochroinae/paraleptodemini/"
+    }
+,
+    {
+      "name": "poecilonotini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/chrysochroinae/poecilonotini/"
+    }
+,
+    {
+      "name": "sphenopterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/chrysochroinae/sphenopterini/"
+    }
+
+  ]
+}

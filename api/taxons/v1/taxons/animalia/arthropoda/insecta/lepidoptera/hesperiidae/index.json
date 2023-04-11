@@ -1,0 +1,52 @@
+
+{
+  "name": "hesperiidae",
+  "children": [
+
+    {
+      "name": "Hesperiidae Latreille, 1809",
+      "url": ""
+    }
+,
+    {
+      "name": "Hesperioidea Latreille, 1809",
+      "url": ""
+    }
+,
+    {
+      "name": "coeliadinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/coeliadinae/"
+    }
+,
+    {
+      "name": "eudaminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/eudaminae/"
+    }
+,
+    {
+      "name": "hesperiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/hesperiinae/"
+    }
+,
+    {
+      "name": "heteropterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/heteropterinae/"
+    }
+,
+    {
+      "name": "Erionota Mabille, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Erionota torus Evans, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906182"
+    }
+,
+    {
+      "name": "pyrginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/pyrginae/"
+    }
+
+  ]
+}

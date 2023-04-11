@@ -1,0 +1,27 @@
+
+{
+  "name": "zygaenidae",
+  "children": [
+
+    {
+      "name": "Zygaenidae Latreille, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "chalcosiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/zygaenidae/chalcosiinae/"
+    }
+,
+    {
+      "name": "procridinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/zygaenidae/procridinae/"
+    }
+,
+    {
+      "name": "zygaeninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/zygaenidae/zygaeninae/"
+    }
+
+  ]
+}

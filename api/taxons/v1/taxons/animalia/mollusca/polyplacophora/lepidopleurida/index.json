@@ -1,0 +1,37 @@
+
+{
+  "name": "lepidopleurida",
+  "children": [
+
+    {
+      "name": "Lepidopleurida Thiele, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "abyssochitonidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/polyplacophora/lepidopleurida/abyssochitonidae/"
+    }
+,
+    {
+      "name": "hanleyidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/polyplacophora/lepidopleurida/hanleyidae/"
+    }
+,
+    {
+      "name": "Lepidopleurina Thiele, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "leptochitonidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/polyplacophora/lepidopleurida/leptochitonidae/"
+    }
+,
+    {
+      "name": "nierstraszellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/polyplacophora/lepidopleurida/nierstraszellidae/"
+    }
+
+  ]
+}

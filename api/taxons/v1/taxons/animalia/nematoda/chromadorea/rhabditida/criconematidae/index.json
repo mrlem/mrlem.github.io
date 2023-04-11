@@ -1,0 +1,412 @@
+
+{
+  "name": "criconematidae",
+  "children": [
+
+    {
+      "name": "Criconematidae Taylor, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "criconematinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/rhabditida/criconematidae/criconematinae/"
+    }
+,
+    {
+      "name": "discocriconemellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/rhabditida/criconematidae/discocriconemellinae/"
+    }
+,
+    {
+      "name": "Criconemoides Taylor, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Criconemoides amorphus De Grisse, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980694"
+    }
+,
+    {
+      "name": "Criconemella amorpha (De Grisse, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980696"
+    }
+,
+    {
+      "name": "Criconemoides informis (Micoletzky, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980668"
+    }
+,
+    {
+      "name": "Criconema informe (Micoletzky, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980669"
+    }
+,
+    {
+      "name": "Criconemella informis (Micoletzky, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980674"
+    }
+,
+    {
+      "name": "Hoplolaimus informis Micoletzky, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980671"
+    }
+,
+    {
+      "name": "Macroposthonia informis (Micoletzky, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980672"
+    }
+,
+    {
+      "name": "Criconemoides ornativulvatus Van Den Berg & Quénéhervé, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930234"
+    }
+,
+    {
+      "name": "Discocriconemella De Grisse & Loof, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Discocriconemella degrissei Loof & Sharma, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930236"
+    }
+,
+    {
+      "name": "Discocriconemella gufraensis Van Den Berg & Quénéhervé, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930242"
+    }
+,
+    {
+      "name": "Discocriconemella limitanea (Luc, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930244"
+    }
+,
+    {
+      "name": "Criconema limitaneum Luc, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930245"
+    }
+,
+    {
+      "name": "Discocriconemella mauritiensis (Williams, 1960)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930276"
+    }
+,
+    {
+      "name": "Criconemoides mauritiense Williams, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930277"
+    }
+,
+    {
+      "name": "Hemicriconemoides Chitwood & Birchfield, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemicriconemoides cocophilus (Loos, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930480"
+    }
+,
+    {
+      "name": "Criconemoides cocophillus Loos, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930482"
+    }
+,
+    {
+      "name": "Hemicriconemoides mangiferae Siddiqi, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590105"
+    }
+,
+    {
+      "name": "Hemicriconemoides scottolamassesei Germani & Anderson, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919656"
+    }
+,
+    {
+      "name": "Hemicriconemoides strictathecatus Esser, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930486"
+    }
+,
+    {
+      "name": "Mesocriconema Andrassy, 1985",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesocriconema antipolitanum (de Guiran, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980698"
+    }
+,
+    {
+      "name": "Criconemella antipolitana (de Guiran, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980701"
+    }
+,
+    {
+      "name": "Criconemoides antipolitanus de Guiran, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980699"
+    }
+,
+    {
+      "name": "Macroposthonia antipolitana (de Guiran, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980702"
+    }
+,
+    {
+      "name": "Mesocriconema crenatum (Loof, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948200"
+    }
+,
+    {
+      "name": "Criconemoides crenatus Loof, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980707"
+    }
+,
+    {
+      "name": "Mesocriconema curvatum (Raski, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948201"
+    }
+,
+    {
+      "name": "Criconemella curvata (Raski, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980716"
+    }
+,
+    {
+      "name": "Criconemoides curvatus Raski, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980710"
+    }
+,
+    {
+      "name": "Macroposthonia curvata (Raski, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980718"
+    }
+,
+    {
+      "name": "Mesocriconema dherdei (De Grisse, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238619"
+    }
+,
+    {
+      "name": "Criconemoides dherdei De Grisse, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958048"
+    }
+,
+    {
+      "name": "Mesocriconema ferniae (Luc, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238620"
+    }
+,
+    {
+      "name": "Criconemoides ferniae Luc, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958049"
+    }
+,
+    {
+      "name": "Mesocriconema kirjanovae (Andrássy, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982210"
+    }
+,
+    {
+      "name": "Criconemella annulatiformis (De Grisse & Loof, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982214"
+    }
+,
+    {
+      "name": "Criconemella kirjanovae (Andrássy, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982212"
+    }
+,
+    {
+      "name": "Criconemoides kirjanovae Andrássy, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982203"
+    }
+,
+    {
+      "name": "Macroposthonia annulatiformis De Grisse & Loof, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982211"
+    }
+,
+    {
+      "name": "Mesocriconema annulatiforme (De Grisse & Loof, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982216"
+    }
+,
+    {
+      "name": "Neocriconema kirjanovae (Andrássy, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982215"
+    }
+,
+    {
+      "name": "Mesocriconema onoense (Luc, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930280"
+    }
+,
+    {
+      "name": "Criconemoides onoense Luc, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930281"
+    }
+,
+    {
+      "name": "Mesocriconema oostenbrinki (Loof, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930922"
+    }
+,
+    {
+      "name": "Criconemoides oostenbrinki Loof, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930923"
+    }
+,
+    {
+      "name": "Mesocriconema ornatum (Raski, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930927"
+    }
+,
+    {
+      "name": "Criconemoides ornatum Raski, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930929"
+    }
+,
+    {
+      "name": "Mesocriconema palustra (Luc, 1970)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930933"
+    }
+,
+    {
+      "name": "Criconemoides palustris Luc, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930938"
+    }
+,
+    {
+      "name": "Mesocriconema rusticum (Micoletzky, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891711"
+    }
+,
+    {
+      "name": "Criconema rusticum Micoletzky, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891712"
+    }
+,
+    {
+      "name": "Mesocriconema sphaerocephalum (Taylor, 1936)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930300"
+    }
+,
+    {
+      "name": "Criconemoides sphaerocephalum Taylor, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930301"
+    }
+,
+    {
+      "name": "Mesocriconema surinamense (de Grisse & Maas, 1970)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930949"
+    }
+,
+    {
+      "name": "Discocriconemella surinamensis de Grisse & Maas, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930950"
+    }
+,
+    {
+      "name": "Mesocriconema xenoplax (Raski, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981909"
+    }
+,
+    {
+      "name": "Criconemoides xenoplax Raski, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981919"
+    }
+,
+    {
+      "name": "Ogma Southern, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Ogma aquitanense (Fies, 1968)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238621"
+    }
+,
+    {
+      "name": "Criconema aquitanense Fies, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958050"
+    }
+,
+    {
+      "name": "Ogma casparnetscheri Van Den Berg, Quénéherve & Tiedt, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930978"
+    }
+,
+    {
+      "name": "Ogma decalineatum (Chitwood, 1957)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930981"
+    }
+,
+    {
+      "name": "Criconema decalineatum Chitwood, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930982"
+    }
+,
+    {
+      "name": "Ogma hungaricus (Andrássy, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980661"
+    }
+,
+    {
+      "name": "Criconema hungaricum Andrássy, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980662"
+    }
+,
+    {
+      "name": "Crossonema (Seriespinula) hungaricum (Andrássy, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980664"
+    }
+,
+    {
+      "name": "Seriespinula hungarica (Andrássy, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980665"
+    }
+,
+    {
+      "name": "Ogma murrayi Southern, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891710"
+    }
+,
+    {
+      "name": "Ogma rhombosquamatus (Mehta & Raski, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980682"
+    }
+,
+    {
+      "name": "Criconema (Variasquamata) rhombosquamatum Mehta & Raski, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980684"
+    }
+,
+    {
+      "name": "Variasquamata rhombosquamata (Mehta & Raski, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980686"
+    }
+,
+    {
+      "name": "Ogma toparti Van Den Berg & Quénéhervé, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930986"
+    }
+,
+    {
+      "name": "Ogma zernovi Kirjanova, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980688"
+    }
+,
+    {
+      "name": "Criconema zernovi (Kirjanova, 1948)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980689"
+    }
+,
+    {
+      "name": "Variasquamata zernovi (Kirjanova, 1948)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980692"
+    }
+
+  ]
+}

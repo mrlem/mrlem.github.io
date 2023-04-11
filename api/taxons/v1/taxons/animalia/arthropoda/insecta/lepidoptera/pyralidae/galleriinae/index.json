@@ -1,0 +1,22 @@
+
+{
+  "name": "galleriinae",
+  "children": [
+
+    {
+      "name": "Galleriinae Zeller, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "galleriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/galleriinae/galleriini/"
+    }
+,
+    {
+      "name": "tirathabini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/galleriinae/tirathabini/"
+    }
+
+  ]
+}

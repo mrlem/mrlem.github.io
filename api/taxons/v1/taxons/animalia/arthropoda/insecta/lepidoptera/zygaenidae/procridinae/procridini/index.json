@@ -1,0 +1,507 @@
+
+{
+  "name": "procridini",
+  "children": [
+
+    {
+      "name": "Procridini Boisduval, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "Adscita Retzius, 1783",
+      "url": ""
+    }
+,
+    {
+      "name": "Adscita alpina (Alberti, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247062"
+    }
+,
+    {
+      "name": "Procris alpina Alberti, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643399"
+    }
+,
+    {
+      "name": "Adscita dujardini Efetov & Tarmann, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780121"
+    }
+,
+    {
+      "name": "Adscita albanica auct. non (Naufock, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247065"
+    }
+,
+    {
+      "name": "Procris albanica auct. non Naufock, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643397"
+    }
+,
+    {
+      "name": "Adscita geryon (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247064"
+    }
+,
+    {
+      "name": "Ino geryon (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784131"
+    }
+,
+    {
+      "name": "Procris geryon (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643423"
+    }
+,
+    {
+      "name": "Sphinx geryon Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643411"
+    }
+,
+    {
+      "name": "Adscita geryon geryon (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343037"
+    }
+,
+    {
+      "name": "Adscita geryon aeris Verity, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785598"
+    }
+,
+    {
+      "name": "Adscita geryon parisiensis Leraut, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785599"
+    }
+,
+    {
+      "name": "Adscita mannii (Lederer, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247066"
+    }
+,
+    {
+      "name": "Adscita mannii atlantica (Alberti, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343042"
+    }
+,
+    {
+      "name": "Adscita mannii denticulata Verity, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936245"
+    }
+,
+    {
+      "name": "Adscita mannii mannii (Lederer, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343041"
+    }
+,
+    {
+      "name": "Adscita mannii pseudostatices Verity, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936246"
+    }
+,
+    {
+      "name": "Ino mannii Lederer, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643415"
+    }
+,
+    {
+      "name": "Procris manni atlantica Alberti, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936206"
+    }
+,
+    {
+      "name": "Procris mannii (Lederer, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643425"
+    }
+,
+    {
+      "name": "Procris micans sensu Guenée, 1865 non (Freyer, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936205"
+    }
+,
+    {
+      "name": "Adscita statices (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247063"
+    }
+,
+    {
+      "name": "Adscita statices anomala Verity, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936248"
+    }
+,
+    {
+      "name": "Adscita statices heuseri (Reichl, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/703009"
+    }
+,
+    {
+      "name": "Adscita turcosa Retzius, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415415"
+    }
+,
+    {
+      "name": "Atychia micans Freyer, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936204"
+    }
+,
+    {
+      "name": "Ino statices (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778492"
+    }
+,
+    {
+      "name": "Phalaena stuticus Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935176"
+    }
+,
+    {
+      "name": "Procris heuseri Reichl, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415416"
+    }
+,
+    {
+      "name": "Procris statices (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643424"
+    }
+,
+    {
+      "name": "Sphinx statices Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643413"
+    }
+,
+    {
+      "name": "Adscita statices statices (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343031"
+    }
+,
+    {
+      "name": "Adscita Retzius, 1783",
+      "url": ""
+    }
+,
+    {
+      "name": "Tarmannita Efetov, 2000",
+      "url": ""
+    }
+,
+    {
+      "name": "Harrisinopsis Jordan, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Harrisinopsis robusta Jordan, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810675"
+    }
+,
+    {
+      "name": "Jordanita Verity, 1946",
+      "url": ""
+    }
+,
+    {
+      "name": "Jordanita Efetov & Tarmann, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Gregorita Povolný & Šmelhaus, 1951",
+      "url": ""
+    }
+,
+    {
+      "name": "Jordanita budensis (Ad. Speyer & Au. Speyer, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247067"
+    }
+,
+    {
+      "name": "Ino budensis Ad. Speyer & Au. Speyer, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643433"
+    }
+,
+    {
+      "name": "Procris budensis (Ad. Speyer & Au. Speyer, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936211"
+    }
+,
+    {
+      "name": "Jordanita budensis budensis (Ad. Speyer & Au. Speyer, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343044"
+    }
+,
+    {
+      "name": "Jordanita chloros (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247070"
+    }
+,
+    {
+      "name": "Procris chloros (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936208"
+    }
+,
+    {
+      "name": "Sphinx chloros Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643421"
+    }
+,
+    {
+      "name": "Jordanita chloros chloros (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343051"
+    }
+,
+    {
+      "name": "Jordanita globulariae (Hübner, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247071"
+    }
+,
+    {
+      "name": "Adscita globulariae (Hübner, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782959"
+    }
+,
+    {
+      "name": "Ino globulariae (Hübner, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774714"
+    }
+,
+    {
+      "name": "Procris cognata auct. non (Herrich-Schäffer, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936210"
+    }
+,
+    {
+      "name": "Procris globulariae (Hübner, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643429"
+    }
+,
+    {
+      "name": "Sphinx globulariae Hübner, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643427"
+    }
+,
+    {
+      "name": "Jordanita hispanica (Alberti, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247069"
+    }
+,
+    {
+      "name": "Adscita hispanica (Alberti, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015049"
+    }
+,
+    {
+      "name": "Procris hispanica danieli Alberti, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936207"
+    }
+,
+    {
+      "name": "Procris hispanica Alberti, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643417"
+    }
+,
+    {
+      "name": "Jordanita notata (Zeller, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247068"
+    }
+,
+    {
+      "name": "Atychia notata Zeller, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643434"
+    }
+,
+    {
+      "name": "Procris globulariae notata (Zeller, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936250"
+    }
+,
+    {
+      "name": "Jordanita subsolana (Staudinger, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247072"
+    }
+,
+    {
+      "name": "Ino cognata subsolana Staudinger, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643431"
+    }
+,
+    {
+      "name": "Procris subsolana (Staudinger, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936216"
+    }
+,
+    {
+      "name": "Jordanita Verity, 1946",
+      "url": ""
+    }
+,
+    {
+      "name": "Roccia Alberti, 1954",
+      "url": ""
+    }
+,
+    {
+      "name": "Solaniterna Efetov, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Tremewania Efetov & Tarmann, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Monalita Tremewan, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Monalita faurei Tarmann & Drouet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810677"
+    }
+,
+    {
+      "name": "Monalita laguerrei Tarmann & Drouet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810678"
+    }
+,
+    {
+      "name": "Pampa Walker, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Pampa hermieri Tarmann & Drouet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810685"
+    }
+,
+    {
+      "name": "Pampa pseudovenata Tarmann & Drouet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810686"
+    }
+,
+    {
+      "name": "Pampa smaragdina (Hering, 1941)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810684"
+    }
+,
+    {
+      "name": "Harrisina smaragdina Hering, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988876"
+    }
+,
+    {
+      "name": "Pycnoctena R. Felder, 1874",
+      "url": ""
+    }
+,
+    {
+      "name": "Pycnoctena angustula R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810680"
+    }
+,
+    {
+      "name": "Rhagades Wallengren, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhagades pruni (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247073"
+    }
+,
+    {
+      "name": "Adscita pruni (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771340"
+    }
+,
+    {
+      "name": "Ino pruni (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778487"
+    }
+,
+    {
+      "name": "Procris pruni (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777347"
+    }
+,
+    {
+      "name": "Rhagades pruni callunae Spuler, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343063"
+    }
+,
+    {
+      "name": "Rhagades pruni pruni (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343062"
+    }
+,
+    {
+      "name": "Sphinx pruni Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643435"
+    }
+,
+    {
+      "name": "Rhagades Wallengren, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Seryda Walker, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Seryda confusa Tarmann & Drouet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810683"
+    }
+,
+    {
+      "name": "Seryda gallardi Tarmann & Drouet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810682"
+    }
+,
+    {
+      "name": "Stylura Burmeister, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Stylura guyanensis Tarmann & Drouet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810673"
+    }
+,
+    {
+      "name": "Theresimima Strand, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Theresia Spuler, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Theresimima ampellophaga (Bayle-Barelle, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247074"
+    }
+,
+    {
+      "name": "Ino ampellophaga (Bayle-Barelle, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838729"
+    }
+,
+    {
+      "name": "Ino ampelophaga (Bayle-Barelle, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975917"
+    }
+,
+    {
+      "name": "Procris vitis Boisduval, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977886"
+    }
+,
+    {
+      "name": "Zygaena ampellophaga Bayle-Barelle, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643437"
+    }
+
+  ]
+}

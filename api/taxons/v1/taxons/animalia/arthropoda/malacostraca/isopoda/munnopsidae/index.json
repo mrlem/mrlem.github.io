@@ -1,0 +1,77 @@
+
+{
+  "name": "munnopsidae",
+  "children": [
+
+    {
+      "name": "Munnopsidae Lilljeborg, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "acanthocopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnopsidae/acanthocopinae/"
+    }
+,
+    {
+      "name": "eurycopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnopsidae/eurycopinae/"
+    }
+,
+    {
+      "name": "ilyarachninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnopsidae/ilyarachninae/"
+    }
+,
+    {
+      "name": "Munneurycope Stephensen, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Munneurycope murrayi (Walker, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374099"
+    }
+,
+    {
+      "name": "Munnopsis murrayi Walker, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553776"
+    }
+,
+    {
+      "name": "Munnopsurus Richardson, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Munnopsurus atlanticus (Bonnier, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374095"
+    }
+,
+    {
+      "name": "Eurycope atlanticus Bonnier, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553778"
+    }
+,
+    {
+      "name": "lipomerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnopsidae/lipomerinae/"
+    }
+,
+    {
+      "name": "munnopsinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnopsidae/munnopsinae/"
+    }
+,
+    {
+      "name": "storthyngurinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnopsidae/storthyngurinae/"
+    }
+,
+    {
+      "name": "syneurycopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnopsidae/syneurycopinae/"
+    }
+
+  ]
+}

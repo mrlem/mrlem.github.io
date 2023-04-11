@@ -1,0 +1,917 @@
+
+{
+  "name": "lepturini",
+  "children": [
+
+    {
+      "name": "Lepturini Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Alosterna Mulsant, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Alosterna tabacicolor (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12236"
+    }
+,
+    {
+      "name": "Alosterna bicoloripes Pic, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396459"
+    }
+,
+    {
+      "name": "Leptura tabacicolor De Geer, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802313"
+    }
+,
+    {
+      "name": "Anastrangalia Casey, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Anastrangalia dubia (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12282"
+    }
+,
+    {
+      "name": "Leptura dubia Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774053"
+    }
+,
+    {
+      "name": "Leptura notata Olivier, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926311"
+    }
+,
+    {
+      "name": "Strangalia dubia (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12284"
+    }
+,
+    {
+      "name": "Anastrangalia reyi (Heyden, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223169"
+    }
+,
+    {
+      "name": "Leptura inexpectata Jansson & Sjöberg, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396461"
+    }
+,
+    {
+      "name": "Leptura reyi Heyden, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802314"
+    }
+,
+    {
+      "name": "Anastrangalia sanguinolenta (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12280"
+    }
+,
+    {
+      "name": "Leptura bonaeriensis Burmeister, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993108"
+    }
+,
+    {
+      "name": "Leptura sanguinolenta Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774056"
+    }
+,
+    {
+      "name": "Anoplodera Mulsant, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "Anoplodera rufipes (Schaller, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12238"
+    }
+,
+    {
+      "name": "Leptura rufipes Schaller, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802315"
+    }
+,
+    {
+      "name": "Anoplodera rufipes rufipes (Schaller, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251489"
+    }
+,
+    {
+      "name": "Leptura krueperi Ganglbauer, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396460"
+    }
+,
+    {
+      "name": "Anoplodera sexguttata (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12239"
+    }
+,
+    {
+      "name": "Leptura sexguttata Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527244"
+    }
+,
+    {
+      "name": "Cornumutila Letzner, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Cornumutila lineata (Letzner, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645869"
+    }
+,
+    {
+      "name": "Cornumutila quadrivittata auct. non (Gebler, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223155"
+    }
+,
+    {
+      "name": "Cornumutila semenovi Plavilstshikov, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/675598"
+    }
+,
+    {
+      "name": "Leptura lineata Letzner, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396458"
+    }
+,
+    {
+      "name": "Leptura quadrivittata auct. non Gebler, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/675597"
+    }
+,
+    {
+      "name": "Etorofus Matsushita, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Etorofus pubescens (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792866"
+    }
+,
+    {
+      "name": "Etorufus pubescens (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761828"
+    }
+,
+    {
+      "name": "Leptura pubescens Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802316"
+    }
+,
+    {
+      "name": "Pedostrangalia pubescens (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223173"
+    }
+,
+    {
+      "name": "Fortuneleptura Villiers, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Fortuneleptura cameneni Villiers, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439123"
+    }
+,
+    {
+      "name": "Grammoptera Audinet-Serville, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Grammoptera abdominalis (Stephens, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223175"
+    }
+,
+    {
+      "name": "Grammoptera variegata (Germar, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12234"
+    }
+,
+    {
+      "name": "Leptura abdominalis Stephens, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802317"
+    }
+,
+    {
+      "name": "Leptura variegata Germar, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396463"
+    }
+,
+    {
+      "name": "Grammoptera ruficornis (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12232"
+    }
+,
+    {
+      "name": "Leptura ruficornis Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802318"
+    }
+,
+    {
+      "name": "Grammoptera ruficornis ruficornis (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251493"
+    }
+,
+    {
+      "name": "Leptura atra Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396464"
+    }
+,
+    {
+      "name": "Grammoptera ustulata (Schaller, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12233"
+    }
+,
+    {
+      "name": "Leptura ustulata Schaller, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802319"
+    }
+,
+    {
+      "name": "Judolia Mulsant, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Judolia sexmaculata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223158"
+    }
+,
+    {
+      "name": "Leptura sexmaculata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802320"
+    }
+,
+    {
+      "name": "Leptura Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptura aethiops Poda, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12241"
+    }
+,
+    {
+      "name": "Leptura annularis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223170"
+    }
+,
+    {
+      "name": "Leptura arcuata Panzer, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396462"
+    }
+,
+    {
+      "name": "Leptura annularis annularis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795635"
+    }
+,
+    {
+      "name": "Leptura aurulenta Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12242"
+    }
+,
+    {
+      "name": "Strangalia aurulenta (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12243"
+    }
+,
+    {
+      "name": "Leptura quadrifasciata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12246"
+    }
+,
+    {
+      "name": "Strangalia quadrifasciata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12247"
+    }
+,
+    {
+      "name": "Lepturobosca Reitter, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Lepturobosca chrysocoma (Kirby, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780631"
+    }
+,
+    {
+      "name": "Cosmosalia chrysocoma (Kirby, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932594"
+    }
+,
+    {
+      "name": "Lepturobosca virens (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223171"
+    }
+,
+    {
+      "name": "Leptura virens Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802321"
+    }
+,
+    {
+      "name": "Montrouzierina Vives, Sudre, Mille & Cazères, 2011",
+      "url": ""
+    }
+,
+    {
+      "name": "Montrouzierina dentata (Fauvel, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790468"
+    }
+,
+    {
+      "name": "Blosyropus dentatus Fauvel, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910655"
+    }
+,
+    {
+      "name": "Nustera Villiers, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "Nustera distigma (Charpentier, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223154"
+    }
+,
+    {
+      "name": "Leptura distigma Charpentier, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802322"
+    }
+,
+    {
+      "name": "Pachytodes Pic, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Pachytodes cerambyciformis (Schrank, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12261"
+    }
+,
+    {
+      "name": "Judolia cerambyciformis (Schrank, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912428"
+    }
+,
+    {
+      "name": "Leptura cerambyciformis Schrank, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12262"
+    }
+,
+    {
+      "name": "Pachytodes erraticus (Dalman, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223157"
+    }
+,
+    {
+      "name": "Judolia erratica (Dalman, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926956"
+    }
+,
+    {
+      "name": "Leptura erratica Dalman, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802323"
+    }
+,
+    {
+      "name": "Pachytodes erratica (Dalman, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12260"
+    }
+,
+    {
+      "name": "Pedostrangalia Sokolov, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Pedostrangalia revestita (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223172"
+    }
+,
+    {
+      "name": "Leptura revestita Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802324"
+    }
+,
+    {
+      "name": "Sphenalia revestita (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960173"
+    }
+,
+    {
+      "name": "Pseudovadonia Lobanov, Danilevsky & Murzin, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudovadonia livida (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223156"
+    }
+,
+    {
+      "name": "Leptura livida Fabricius, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802325"
+    }
+,
+    {
+      "name": "Pseudallosterna livida (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12292"
+    }
+,
+    {
+      "name": "Rutpela Nakane & Ohbayashi, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "Rutpela maculata (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223152"
+    }
+,
+    {
+      "name": "Leptura maculata Poda, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12244"
+    }
+,
+    {
+      "name": "Strangalia maculata (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12245"
+    }
+,
+    {
+      "name": "Rutpela nigra (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013882"
+    }
+,
+    {
+      "name": "Leptura nigra Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802328"
+    }
+,
+    {
+      "name": "Stenurella nigra (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12255"
+    }
+,
+    {
+      "name": "Stenurella Villiers, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenurella bifasciata (Müller, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12249"
+    }
+,
+    {
+      "name": "Leptura bifasciata Müller, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802326"
+    }
+,
+    {
+      "name": "Leptura cruciata Olivier, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926310"
+    }
+,
+    {
+      "name": "Stenurella melanura (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12252"
+    }
+,
+    {
+      "name": "Leptura melanura Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802327"
+    }
+,
+    {
+      "name": "Stenurella sennii Sama, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223151"
+    }
+,
+    {
+      "name": "Stictoleptura Casey, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Aredolpona Nakane & K. Ohbayashi, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "Cribroleptura Vives, 2000",
+      "url": ""
+    }
+,
+    {
+      "name": "Stictoleptura cordigera (Fuessly, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223166"
+    }
+,
+    {
+      "name": "Brachyleptura cordigera (Fuessly, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12264"
+    }
+,
+    {
+      "name": "Leptura cordigera Fuessly, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12265"
+    }
+,
+    {
+      "name": "Stictoleptura cordigera cordigera (Fuessly, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251491"
+    }
+,
+    {
+      "name": "Stictoleptura erythroptera (Hagenbach, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223167"
+    }
+,
+    {
+      "name": "Aredolpona erythroptera (Hagenbach, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416805"
+    }
+,
+    {
+      "name": "Brachyleptura erythroptera (Hagenbach, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527210"
+    }
+,
+    {
+      "name": "Leptura erythroptera Hagenbach, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802331"
+    }
+,
+    {
+      "name": "Stictoleptura fontenayi (Mulsant, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223165"
+    }
+,
+    {
+      "name": "Aredolpona fontenayi ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416806"
+    }
+,
+    {
+      "name": "Corymbia fontenayi (Mulsant, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12289"
+    }
+,
+    {
+      "name": "Leptura fontanayi ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12290"
+    }
+,
+    {
+      "name": "Leptura fontenayi Mulsant, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802332"
+    }
+,
+    {
+      "name": "Stictoleptura fulva (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794808"
+    }
+,
+    {
+      "name": "Brachyleptura fulva (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12268"
+    }
+,
+    {
+      "name": "Corymbia fulva (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713054"
+    }
+,
+    {
+      "name": "Leptura fulva De Geer, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802333"
+    }
+,
+    {
+      "name": "Paracorymbia fulva (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223159"
+    }
+,
+    {
+      "name": "Stictoleptura hybrida (Rey, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794809"
+    }
+,
+    {
+      "name": "Brachyleptura hybrida (Rey, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12272"
+    }
+,
+    {
+      "name": "Leptura hybrida Rey, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774054"
+    }
+,
+    {
+      "name": "Paracorymbia hybrida (Rey, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223160"
+    }
+,
+    {
+      "name": "Stictoleptura maculicornis (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794810"
+    }
+,
+    {
+      "name": "Brachyleptura maculicornis (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12275"
+    }
+,
+    {
+      "name": "Leptura maculicornis De Geer, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774055"
+    }
+,
+    {
+      "name": "Paracorymbia maculicornis maculicornis (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251490"
+    }
+,
+    {
+      "name": "Paracorymbia maculicornis (De Geer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223161"
+    }
+,
+    {
+      "name": "Stictoleptura rubra (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223164"
+    }
+,
+    {
+      "name": "Aredolpona rubra (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/844710"
+    }
+,
+    {
+      "name": "Corymbia rubra (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12286"
+    }
+,
+    {
+      "name": "Leptura rubra Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802329"
+    }
+,
+    {
+      "name": "Leptura testacea Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12288"
+    }
+,
+    {
+      "name": "Stictoleptura scutellata (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12278"
+    }
+,
+    {
+      "name": "Aredolpona scutellata ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416807"
+    }
+,
+    {
+      "name": "Leptura scutellata Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802335"
+    }
+,
+    {
+      "name": "Stictoleptura scutellata maritima Sláma, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961556"
+    }
+,
+    {
+      "name": "Stictoleptura scutellata scutellata (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251492"
+    }
+,
+    {
+      "name": "Corymbia scutellata (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912956"
+    }
+,
+    {
+      "name": "Stictoleptura simplonica (Fairmaire, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925520"
+    }
+,
+    {
+      "name": "Leptura simplonica Fairmaire, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892607"
+    }
+,
+    {
+      "name": "Paracorymbia simplonica (Fairmaire, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223162"
+    }
+,
+    {
+      "name": "Stictoleptura stragulata (Germar, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794807"
+    }
+,
+    {
+      "name": "Aredolpona stragulata (Germar, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416808"
+    }
+,
+    {
+      "name": "Brachyleptura stragulata (Germar, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527214"
+    }
+,
+    {
+      "name": "Leptura stragulata Germar, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802330"
+    }
+,
+    {
+      "name": "Paracorymbia stragulata (Germar, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223163"
+    }
+,
+    {
+      "name": "Stictoleptura trisignata (Fairmaire, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223168"
+    }
+,
+    {
+      "name": "Aredolpona trisignata (Fairmaire, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416809"
+    }
+,
+    {
+      "name": "Brachyleptura trisignata (Fairmaire, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12266"
+    }
+,
+    {
+      "name": "Leptura trisignata Fairmaire, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12267"
+    }
+,
+    {
+      "name": "Stictoleptura Casey, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Strangalia Audinet-Serville, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Strangalia albicollis (Pascoe, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758563"
+    }
+,
+    {
+      "name": "Euryptera albicollis Pascoe, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909375"
+    }
+,
+    {
+      "name": "Ophiostomis irene Gounelle, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909376"
+    }
+,
+    {
+      "name": "Strangalia attenuata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223153"
+    }
+,
+    {
+      "name": "Leptura attenuata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802337"
+    }
+,
+    {
+      "name": "Typocerus attenuatus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960172"
+    }
+,
+    {
+      "name": "Strangalia bivittata (Bates, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758564"
+    }
+,
+    {
+      "name": "Ophiostomis paraensis Gemminger & Harold, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909378"
+    }
+,
+    {
+      "name": "Ophistomis bivittatus Bates, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909377"
+    }
+,
+    {
+      "name": "Strangalia bonfilsi Villiers, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439125"
+    }
+,
+    {
+      "name": "Strangalia melanostoma (Bates, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758565"
+    }
+,
+    {
+      "name": "Ophistomis melanostomus Bates, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909379"
+    }
+,
+    {
+      "name": "Strangalia ochroptera (Bates, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/597111"
+    }
+,
+    {
+      "name": "Ophistomis ochropterus Bates, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909380"
+    }
+,
+    {
+      "name": "Strangalia rubricollis (Bates, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/597112"
+    }
+,
+    {
+      "name": "Ophistomis rubricollis Bates, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909381"
+    }
+,
+    {
+      "name": "Strangalia suavis (Melzer, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758566"
+    }
+,
+    {
+      "name": "Ophistomis suavis Melzer, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909382"
+    }
+,
+    {
+      "name": "Strangalia thoracica (Fleutiaux & Sallé, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439048"
+    }
+,
+    {
+      "name": "Ophiostomis thoracica Fleutiaux & Sallé, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012577"
+    }
+,
+    {
+      "name": "Vadonia Mulsant, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Vadonia unipunctata (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12296"
+    }
+,
+    {
+      "name": "Leptura unipunctata Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12297"
+    }
+,
+    {
+      "name": "Vadonia unipunctata gallica Podaný, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961557"
+    }
+,
+    {
+      "name": "Vadonia unipunctata occidentalis auct. non (K. Daniel & J. Daniel, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251488"
+    }
+,
+    {
+      "name": "Xestoleptura Casey, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Xestoleptura tibialis (LeConte, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780635"
+    }
+
+  ]
+}

@@ -1,0 +1,32 @@
+
+{
+  "name": "triatominae",
+  "children": [
+
+    {
+      "name": "Triatominae Jeannel, 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "bolboderini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/reduviidae/triatominae/bolboderini/"
+    }
+,
+    {
+      "name": "cavernicolini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/reduviidae/triatominae/cavernicolini/"
+    }
+,
+    {
+      "name": "rhodniini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/reduviidae/triatominae/rhodniini/"
+    }
+,
+    {
+      "name": "triatomini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/reduviidae/triatominae/triatomini/"
+    }
+
+  ]
+}

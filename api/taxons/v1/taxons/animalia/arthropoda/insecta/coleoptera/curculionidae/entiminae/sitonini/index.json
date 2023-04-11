@@ -1,0 +1,642 @@
+
+{
+  "name": "sitonini",
+  "children": [
+
+    {
+      "name": "Sitonini Gistel, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Andrion Velazquez de Castro, 2007",
+      "url": ""
+    }
+,
+    {
+      "name": "Andrion regensteinense (Herbst, 1797)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794964"
+    }
+,
+    {
+      "name": "Curculio regensteinense Herbst, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893564"
+    }
+,
+    {
+      "name": "Sitona regensteinensis (Herbst, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13003"
+    }
+,
+    {
+      "name": "Charagmus Schönherr, 1826",
+      "url": ""
+    }
+,
+    {
+      "name": "Charagmus cachectus (Gyllenhal, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794965"
+    }
+,
+    {
+      "name": "Sitona cachecta Gyllehall, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12988"
+    }
+,
+    {
+      "name": "Sitona cachectus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242624"
+    }
+,
+    {
+      "name": "Sitones subcostatus Allard, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409633"
+    }
+,
+    {
+      "name": "Charagmus gressorius (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794966"
+    }
+,
+    {
+      "name": "Curculio gressorius Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803642"
+    }
+,
+    {
+      "name": "Sitona gressorius (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13955"
+    }
+,
+    {
+      "name": "Sitones giganteus Fairmaire, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409634"
+    }
+,
+    {
+      "name": "Charagmus griseus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794967"
+    }
+,
+    {
+      "name": "Curculio cupreosquamosus Goeze, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951314"
+    }
+,
+    {
+      "name": "Curculio griseus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803643"
+    }
+,
+    {
+      "name": "Curculio intersectus Geoffroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951315"
+    }
+,
+    {
+      "name": "Curculio squamosus Gmelin, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951316"
+    }
+,
+    {
+      "name": "Sitona griseus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12980"
+    }
+,
+    {
+      "name": "Charagmus intermedius (Küster, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794968"
+    }
+,
+    {
+      "name": "Sitona intermedius Küster, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13957"
+    }
+,
+    {
+      "name": "Sitones intermedius Küster, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884555"
+    }
+,
+    {
+      "name": "Charagmus variegatus (Fåhraeus, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794969"
+    }
+,
+    {
+      "name": "Sitona formaneki Reitter, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12991"
+    }
+,
+    {
+      "name": "Sitona variegatus Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242625"
+    }
+,
+    {
+      "name": "Sitones variegatus Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884556"
+    }
+,
+    {
+      "name": "Coelositona Gonzalez, 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Coelositona cambricus (Stephens, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794970"
+    }
+,
+    {
+      "name": "Sitona cambricus Stephens, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12993"
+    }
+,
+    {
+      "name": "Sitona cribicollis Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409638"
+    }
+,
+    {
+      "name": "Sitona solarii Magnano, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409637"
+    }
+,
+    {
+      "name": "Sitones constrictus Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409639"
+    }
+,
+    {
+      "name": "Coelositona cinerascens (Fåhraeus, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794971"
+    }
+,
+    {
+      "name": "Sitona cinerascens Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12996"
+    }
+,
+    {
+      "name": "Sitones cinerascens Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884557"
+    }
+,
+    {
+      "name": "Coelositona limosus (Rossi, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794972"
+    }
+,
+    {
+      "name": "Curculio limosus Rossi, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803644"
+    }
+,
+    {
+      "name": "Sitona limosus Rossi, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12999"
+    }
+,
+    {
+      "name": "Coelositona puberulus (Reitter, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794973"
+    }
+,
+    {
+      "name": "Sitona brevirostris Solari, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409654"
+    }
+,
+    {
+      "name": "Sitona puberulus Reitter, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12997"
+    }
+,
+    {
+      "name": "Sitona Germar, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Sitona ambiguus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13288"
+    }
+,
+    {
+      "name": "Sitona bosnicus Apfelbeck, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242627"
+    }
+,
+    {
+      "name": "Sitona bosnicus alpinus Apfelbeck, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252879"
+    }
+,
+    {
+      "name": "Sitona bosnicus bosnicus Apfelbeck, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252878"
+    }
+,
+    {
+      "name": "Sitona cinnamomeus Allard, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13271"
+    }
+,
+    {
+      "name": "Sitona cylindricollis Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13305"
+    }
+,
+    {
+      "name": "Sitona alpinensis Tanner, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409640"
+    }
+,
+    {
+      "name": "Sitones procerus Casey, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409641"
+    }
+,
+    {
+      "name": "Sitona cylindricollis cylindricollis Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795777"
+    }
+,
+    {
+      "name": "Sitona discoideus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13311"
+    }
+,
+    {
+      "name": "Sitona allardi Chevrolat, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13308"
+    }
+,
+    {
+      "name": "Sitona kraussei Formanek, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409644"
+    }
+,
+    {
+      "name": "Sitona maculatus Motschulsky, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409643"
+    }
+,
+    {
+      "name": "Sitones biseriatus Allard, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409642"
+    }
+,
+    {
+      "name": "Sitona gemellatus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13266"
+    }
+,
+    {
+      "name": "Sitona giraudi Hoffmann, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13287"
+    }
+,
+    {
+      "name": "Sitona hirsutus Desbrochers des Loges, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242629"
+    }
+,
+    {
+      "name": "Sitona hirustus Desbrochers, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13297"
+    }
+,
+    {
+      "name": "Sitona hispidulus (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13301"
+    }
+,
+    {
+      "name": "Curculio geoffroaei Gmelin, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951319"
+    }
+,
+    {
+      "name": "Curculio griseus Goeze, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951317"
+    }
+,
+    {
+      "name": "Curculio hirtus Gmelin, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951320"
+    }
+,
+    {
+      "name": "Curculio hispidulus Fabricius, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803645"
+    }
+,
+    {
+      "name": "Curculio modestus Geoffroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951318"
+    }
+,
+    {
+      "name": "Sitona foedus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/432362"
+    }
+,
+    {
+      "name": "Sitona hispidula (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829503"
+    }
+,
+    {
+      "name": "Sitona humeralis Stephens, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13307"
+    }
+,
+    {
+      "name": "Sitona attritus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409646"
+    }
+,
+    {
+      "name": "Sitona pisi Stephens, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409645"
+    }
+,
+    {
+      "name": "Sitona promptus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409647"
+    }
+,
+    {
+      "name": "Sitones inops Desbrochers, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409648"
+    }
+,
+    {
+      "name": "Sitona inops Schönherr, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/793064"
+    }
+,
+    {
+      "name": "Sitona inops Gyllenhal, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13250"
+    }
+,
+    {
+      "name": "Sitona languidus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13295"
+    }
+,
+    {
+      "name": "Sitona flecki Csiki, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13296"
+    }
+,
+    {
+      "name": "Sitona lateralis Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242630"
+    }
+,
+    {
+      "name": "Sitona ononidis Sharp, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13254"
+    }
+,
+    {
+      "name": "Sitones ononidis Sharp, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409649"
+    }
+,
+    {
+      "name": "Sitona lineatus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13243"
+    }
+,
+    {
+      "name": "Curculio lineatus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803646"
+    }
+,
+    {
+      "name": "Sitona lineata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829502"
+    }
+,
+    {
+      "name": "Sitona lineellus (Bonsdorff, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13286"
+    }
+,
+    {
+      "name": "Curculio lineellus Bonsdorff, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803647"
+    }
+,
+    {
+      "name": "Sitona lineellus lineellus (Bonsdorff, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252880"
+    }
+,
+    {
+      "name": "Sitona decipiens Lindberg, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409650"
+    }
+,
+    {
+      "name": "Sitona lividipes Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13256"
+    }
+,
+    {
+      "name": "Sitona lividipes lividipes Fåhraeus, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795756"
+    }
+,
+    {
+      "name": "Sitona longulus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13278"
+    }
+,
+    {
+      "name": "Sitona bucephalus Apfelbeck, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409651"
+    }
+,
+    {
+      "name": "Sitona macularius (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242631"
+    }
+,
+    {
+      "name": "Curculio macularius Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803648"
+    }
+,
+    {
+      "name": "Sitona macularis Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13289"
+    }
+,
+    {
+      "name": "Sitona macularius macularius (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795757"
+    }
+,
+    {
+      "name": "Curculio crinitus Herbst, 1795",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409652"
+    }
+,
+    {
+      "name": "Sitona obsoletus (Gmelin, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795250"
+    }
+,
+    {
+      "name": "Curculio obsoletus Gmelin, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803649"
+    }
+,
+    {
+      "name": "Sitona obsoletus obsoletus (Gmelin, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795758"
+    }
+,
+    {
+      "name": "Ceutorhynchus (Hadroplontus) lepidus Gyllenhal, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/15263"
+    }
+,
+    {
+      "name": "Ceutorhynchus lepidus Gyllenhal, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/15261"
+    }
+,
+    {
+      "name": "Curculio flavescens Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/431691"
+    }
+,
+    {
+      "name": "Sitona flavescens Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13270"
+    }
+,
+    {
+      "name": "Sitona lepidus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/327584"
+    }
+,
+    {
+      "name": "Sitona ophtalmicus Desbrochers des Loges, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13259"
+    }
+,
+    {
+      "name": "Sitona puncticollis Stephens, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13267"
+    }
+,
+    {
+      "name": "Sitona fuscopilosus Apfelbeck, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409655"
+    }
+,
+    {
+      "name": "Sitona striatellus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242633"
+    }
+,
+    {
+      "name": "Curculio tibialis Herbst, 1795",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409656"
+    }
+,
+    {
+      "name": "Sitona tibialis (Herbst, 1795)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845197"
+    }
+,
+    {
+      "name": "Sitones hispanicus Tournier, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409657"
+    }
+,
+    {
+      "name": "Sitona sulcifrons (Thunberg, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13261"
+    }
+,
+    {
+      "name": "Curculio sulcifrons Thunberg, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803650"
+    }
+,
+    {
+      "name": "Sitones sulcifrons (Thunberg, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975070"
+    }
+,
+    {
+      "name": "Sitona sulcifrons argutulus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/327596"
+    }
+,
+    {
+      "name": "Sitona angustifrons Reitter, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/432360"
+    }
+,
+    {
+      "name": "Sitona sulcifrons sulcifrons (Thunberg, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/327598"
+    }
+,
+    {
+      "name": "Sitona breviculus Hoffmann, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/432361"
+    }
+,
+    {
+      "name": "Sitona suturalis Stephens, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13252"
+    }
+,
+    {
+      "name": "Sitona tenuis Rosenhauer, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13280"
+    }
+,
+    {
+      "name": "Sitona montanus Smreczynski, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409658"
+    }
+,
+    {
+      "name": "Sitona verecundus (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13257"
+    }
+,
+    {
+      "name": "Curculio verecundus Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803651"
+    }
+,
+    {
+      "name": "Sitona waterhousei Walton, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/13299"
+    }
+,
+    {
+      "name": "Sitona waterhousei schaeferi Ruter, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252882"
+    }
+,
+    {
+      "name": "Sitona waterhousei waterhousei Walton, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252881"
+    }
+
+  ]
+}

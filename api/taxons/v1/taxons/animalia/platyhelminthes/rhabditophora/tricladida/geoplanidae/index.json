@@ -1,0 +1,37 @@
+
+{
+  "name": "geoplanidae",
+  "children": [
+
+    {
+      "name": "Geoplanidae Stimpson, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Terricola Hallez, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "bipaliinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/geoplanidae/bipaliinae/"
+    }
+,
+    {
+      "name": "geoplaninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/geoplanidae/geoplaninae/"
+    }
+,
+    {
+      "name": "microplaninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/geoplanidae/microplaninae/"
+    }
+,
+    {
+      "name": "rhynchodeminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/geoplanidae/rhynchodeminae/"
+    }
+
+  ]
+}

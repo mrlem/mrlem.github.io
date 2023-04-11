@@ -1,0 +1,47 @@
+
+{
+  "name": "otoplanidae",
+  "children": [
+
+    {
+      "name": "Otoplanidae Hallez, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "archotoplaninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/proseriata/otoplanidae/archotoplaninae/"
+    }
+,
+    {
+      "name": "Otoplana Du Plessis, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Otoplana intermedia Du Plessis, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993316"
+    }
+,
+    {
+      "name": "Postbursoplana Ax, 1956",
+      "url": ""
+    }
+,
+    {
+      "name": "Postbursoplana fibulata Ax, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001353"
+    }
+,
+    {
+      "name": "otoplaninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/proseriata/otoplanidae/otoplaninae/"
+    }
+,
+    {
+      "name": "parotoplaninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/proseriata/otoplanidae/parotoplaninae/"
+    }
+
+  ]
+}

@@ -1,0 +1,987 @@
+
+{
+  "name": "ixodidae",
+  "children": [
+
+    {
+      "name": "Ixodidae Koch, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Amblyomma Koch, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Amblyomma aureolatum Pallas, 1772",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440046"
+    }
+,
+    {
+      "name": "Amblyomma auricularium Conil, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440023"
+    }
+,
+    {
+      "name": "Amblyomma cajennense (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440025"
+    }
+,
+    {
+      "name": "Acarus cajennensis Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009700"
+    }
+,
+    {
+      "name": "Amblyomma mixtum Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009713"
+    }
+,
+    {
+      "name": "Amblyomma tenellum Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009714"
+    }
+,
+    {
+      "name": "Amblyomna cayennense (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009701"
+    }
+,
+    {
+      "name": "Ixodes cajennensis (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009712"
+    }
+,
+    {
+      "name": "Ixodes crenatus Say, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009715"
+    }
+,
+    {
+      "name": "Amblyomma calcaratum Neumann, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440036"
+    }
+,
+    {
+      "name": "Amblyomma coelebs Neumann, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440037"
+    }
+,
+    {
+      "name": "Amblyomma dissimile Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440028"
+    }
+,
+    {
+      "name": "Amblyomma extraoculatum Neumann, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440038"
+    }
+,
+    {
+      "name": "Amblyomma fulvum Neumann, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440039"
+    }
+,
+    {
+      "name": "Amblyomma geayi Neumann, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440040"
+    }
+,
+    {
+      "name": "Amblyomma goeldii Neumann, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440041"
+    }
+,
+    {
+      "name": "Amblyomma humerale Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440029"
+    }
+,
+    {
+      "name": "Amblyomma incisum Neumann, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440042"
+    }
+,
+    {
+      "name": "Amblyomma laticaudae Warburton, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016079"
+    }
+,
+    {
+      "name": "Amblyomma laticaudae Rageau & Vervent, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018782"
+    }
+,
+    {
+      "name": "Amblyomma longirostre Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440030"
+    }
+,
+    {
+      "name": "Amblyomma naponense Packard, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440045"
+    }
+,
+    {
+      "name": "Amblyomma oblongoguttatum Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440031"
+    }
+,
+    {
+      "name": "Amblyomma ovale Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440032"
+    }
+,
+    {
+      "name": "Amblyomma parvum Aragão, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440020"
+    }
+,
+    {
+      "name": "Amblyomma pictum Neumann, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440043"
+    }
+,
+    {
+      "name": "Amblyomma pseudoconcolor Aragão, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440021"
+    }
+,
+    {
+      "name": "Amblyomma rotundatum Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440033"
+    }
+,
+    {
+      "name": "Amblyomma scalpturatum Neumann, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440044"
+    }
+,
+    {
+      "name": "Amblyomma variegatum Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440026"
+    }
+,
+    {
+      "name": "Amblyomma varium Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/271493"
+    }
+,
+    {
+      "name": "Ceratixodes Neumann, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Ceratixodes uriae (White, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221453"
+    }
+,
+    {
+      "name": "Ceratixodes borealis Banks, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393255"
+    }
+,
+    {
+      "name": "Hyalomma puta Pickard-Cambridge, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393257"
+    }
+,
+    {
+      "name": "Ixodes hirsutus Birula, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393256"
+    }
+,
+    {
+      "name": "Ixodes procellariae Schulze, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393258"
+    }
+,
+    {
+      "name": "Ixodes uriae White, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820453"
+    }
+,
+    {
+      "name": "Eschatocephalus Frauenfeld, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Eschatocephalus simplex (Neumann, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221451"
+    }
+,
+    {
+      "name": "Ixodes simplex Neumann, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885229"
+    }
+,
+    {
+      "name": "Eschatocephalus vespertilionis (Koch, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221452"
+    }
+,
+    {
+      "name": "Eschatocephalus exaratus Neumann, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393246"
+    }
+,
+    {
+      "name": "Eschatocephalus frauenfeldi Koch, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393248"
+    }
+,
+    {
+      "name": "Eschatocephalus gracilipes Frauenfeld, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393249"
+    }
+,
+    {
+      "name": "Eschatocephalus seidlitzi Neumann, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393252"
+    }
+,
+    {
+      "name": "Eschatocephalus seidlitzii Koch, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393253"
+    }
+,
+    {
+      "name": "Ixodes brevipes Kolenati, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393245"
+    }
+,
+    {
+      "name": "Ixodes flavipes Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393247"
+    }
+,
+    {
+      "name": "Ixodes kochi Kolenati, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393250"
+    }
+,
+    {
+      "name": "Ixodes longipes Lucas, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393251"
+    }
+,
+    {
+      "name": "Ixodes siculifer Mégnin, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393254"
+    }
+,
+    {
+      "name": "Ixodes vespertilionis Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885230"
+    }
+,
+    {
+      "name": "Spinturnix vespertilionis (Koch, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885283"
+    }
+,
+    {
+      "name": "Ixodes Latreille, 1795",
+      "url": ""
+    }
+,
+    {
+      "name": "Ixodes acuminatus Neumann, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221437"
+    }
+,
+    {
+      "name": "Ixodes guernseyensis Arthur, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393187"
+    }
+,
+    {
+      "name": "Ixodes redikorzevi Olenev, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393188"
+    }
+,
+    {
+      "name": "Ixodes theodori Warburton, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393189"
+    }
+,
+    {
+      "name": "Ixodes festai Rondelli, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221438"
+    }
+,
+    {
+      "name": "Ixodes kerguelenensis André & Colas-Belcour, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/929812"
+    }
+,
+    {
+      "name": "Ixodes luciae Sénevet, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440048"
+    }
+,
+    {
+      "name": "Ixodes ricinus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221439"
+    }
+,
+    {
+      "name": "Acarus ambulantium Gmelin, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393190"
+    }
+,
+    {
+      "name": "Acarus caraborum Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393193"
+    }
+,
+    {
+      "name": "Acarus collurionis Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393194"
+    }
+,
+    {
+      "name": "Acarus fuscus Vallot, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393196"
+    }
+,
+    {
+      "name": "Acarus hirudo Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393197"
+    }
+,
+    {
+      "name": "Acarus holsatus Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393198"
+    }
+,
+    {
+      "name": "Acarus lipsiensis Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393200"
+    }
+,
+    {
+      "name": "Acarus reduvius Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393207"
+    }
+,
+    {
+      "name": "Acarus ricinoides De Geer, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393208"
+    }
+,
+    {
+      "name": "Acarus ricinus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820457"
+    }
+,
+    {
+      "name": "Acarus sanguisugus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393211"
+    }
+,
+    {
+      "name": "Acarus tristriatus Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393215"
+    }
+,
+    {
+      "name": "Acarus vulgaris Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393216"
+    }
+,
+    {
+      "name": "Ixodes areolaris Olenev, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393191"
+    }
+,
+    {
+      "name": "Ixodes bipunctatus Risso, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393192"
+    }
+,
+    {
+      "name": "Ixodes fuscus Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393195"
+    }
+,
+    {
+      "name": "Ixodes lacertae Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393199"
+    }
+,
+    {
+      "name": "Ixodes marginatus Burmeister, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393201"
+    }
+,
+    {
+      "name": "Ixodes megathyreus Leach, 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393202"
+    }
+,
+    {
+      "name": "Ixodes nigricans Neumann, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393203"
+    }
+,
+    {
+      "name": "Ixodes obscurus Neumann, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393204"
+    }
+,
+    {
+      "name": "Ixodes oncorhyncha Schulze, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393205"
+    }
+,
+    {
+      "name": "Ixodes reduvius Latreille, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393206"
+    }
+,
+    {
+      "name": "Ixodes rufus Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393209"
+    }
+,
+    {
+      "name": "Ixodes sanguisugus Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393210"
+    }
+,
+    {
+      "name": "Ixodes sciuri Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393212"
+    }
+,
+    {
+      "name": "Ixodes sulcatus Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393213"
+    }
+,
+    {
+      "name": "Ixodes trabeatus Audouin, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393214"
+    }
+,
+    {
+      "name": "Ixodes trianguliceps Birula, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221436"
+    }
+,
+    {
+      "name": "Exopalpiger trianguliceps (Birula, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016076"
+    }
+,
+    {
+      "name": "Ixodes heroldi Schulze, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393183"
+    }
+,
+    {
+      "name": "Ixodes nivalis Rondelli, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393184"
+    }
+,
+    {
+      "name": "Ixodes suecicus Schulze, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393185"
+    }
+,
+    {
+      "name": "Ixodes tenuirostris Neumann, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393186"
+    }
+,
+    {
+      "name": "Ixodes ventalloi Gil Collado, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221440"
+    }
+,
+    {
+      "name": "Ixodes thompsoni Arthur, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393217"
+    }
+,
+    {
+      "name": "Pholeoixodes Morel & Perez, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Pholeoixodes arboricola (Schulze & Schlottke, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221446"
+    }
+,
+    {
+      "name": "Ixodes arboricola Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954946"
+    }
+,
+    {
+      "name": "Ixodes domesticus Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393223"
+    }
+,
+    {
+      "name": "Ixodes dryadis Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393225"
+    }
+,
+    {
+      "name": "Ixodes muscicapae Schulze, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393224"
+    }
+,
+    {
+      "name": "Ixodes passericola Schulze, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393226"
+    }
+,
+    {
+      "name": "Ixodes strigicola Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393227"
+    }
+,
+    {
+      "name": "Pholeoixodes canisuga (Johnston, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221447"
+    }
+,
+    {
+      "name": "Ixodes barbarossae Schulze, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393228"
+    }
+,
+    {
+      "name": "Ixodes canisuga Johnson, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885225"
+    }
+,
+    {
+      "name": "Ixodes crenulatus Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393229"
+    }
+,
+    {
+      "name": "Ixodes inermis Neumann, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393230"
+    }
+,
+    {
+      "name": "Ixodes latirostris Schulze, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393231"
+    }
+,
+    {
+      "name": "Ixodes mammulatus Feider & Mironescu, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885226"
+    }
+,
+    {
+      "name": "Ixodes melicola Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393232"
+    }
+,
+    {
+      "name": "Ixodes sciuricola Schulze, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393233"
+    }
+,
+    {
+      "name": "Ixodes vulpicola Schulze, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393234"
+    }
+,
+    {
+      "name": "Ixodes vulpinus Schulze, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393235"
+    }
+,
+    {
+      "name": "Ixodes vulpis Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393236"
+    }
+,
+    {
+      "name": "Pholeoixodes hexagonus (Leach, 1815)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221448"
+    }
+,
+    {
+      "name": "Ixodes auricularis Robineau-Desvoidy, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393237"
+    }
+,
+    {
+      "name": "Ixodes autumnalis Leach, 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393238"
+    }
+,
+    {
+      "name": "Ixodes erinacei Audouin, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393239"
+    }
+,
+    {
+      "name": "Ixodes hexagonus Leach, 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885220"
+    }
+,
+    {
+      "name": "Ixodes pacata Schulze, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393240"
+    }
+,
+    {
+      "name": "Ixodes sexpunctatus Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393241"
+    }
+,
+    {
+      "name": "Pholeoixodes lividus (Koch, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221449"
+    }
+,
+    {
+      "name": "Ixodes bavaricus Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393243"
+    }
+,
+    {
+      "name": "Ixodes hirundinicola Schulze, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393242"
+    }
+,
+    {
+      "name": "Ixodes lividus Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954947"
+    }
+,
+    {
+      "name": "Ixodes plumbeus Leach, 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393244"
+    }
+,
+    {
+      "name": "Pholeoixodes rugicollis (Schulze & Schlottke, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221450"
+    }
+,
+    {
+      "name": "Ixodes rugicollis Schulze & Schlottke, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954948"
+    }
+,
+    {
+      "name": "Rhipicephalus Koch, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhipicephalus annulatus (Say, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778640"
+    }
+,
+    {
+      "name": "Boophilus annulatus (Say, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221429"
+    }
+,
+    {
+      "name": "Boophilus balcanicus Minning, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393154"
+    }
+,
+    {
+      "name": "Boophilus congolensis Minning, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393158"
+    }
+,
+    {
+      "name": "Boophilus hispanicus Minning, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393155"
+    }
+,
+    {
+      "name": "Boophilus palestinensis Minning, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393156"
+    }
+,
+    {
+      "name": "Boophilus persicus Minning, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393157"
+    }
+,
+    {
+      "name": "Boophilus schulzei Minning, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393162"
+    }
+,
+    {
+      "name": "Haemaphysalis rosea Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393161"
+    }
+,
+    {
+      "name": "Ixodes annulatus Say, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954942"
+    }
+,
+    {
+      "name": "Ixodes bovis Riley, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393152"
+    }
+,
+    {
+      "name": "Ixodes calcaratus Birula, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393153"
+    }
+,
+    {
+      "name": "Ixodes dugesi Mégnin, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393159"
+    }
+,
+    {
+      "name": "Ixodes indentatus Gamgee, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393160"
+    }
+,
+    {
+      "name": "Rhipicephalus bursa Canestrini & Fanzago, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221413"
+    }
+,
+    {
+      "name": "Ixodes scapularis Mégnin, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393080"
+    }
+,
+    {
+      "name": "Ixodes scapulatus Mégnin, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393081"
+    }
+,
+    {
+      "name": "Rhipicephalus lundbladi Schulze, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393079"
+    }
+,
+    {
+      "name": "Rhipicephalus pusillus Gil Collado, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221414"
+    }
+,
+    {
+      "name": "Rhipicephalus sanguineus (Latreille, 1806)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221415"
+    }
+,
+    {
+      "name": "Boophilus dugesi Dönitz, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393088"
+    }
+,
+    {
+      "name": "Eurhipicephalus sanguineus Stephens & Christophers, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393098"
+    }
+,
+    {
+      "name": "Ixodes dugesi Gervais, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393089"
+    }
+,
+    {
+      "name": "Ixodes linnaei Audouin, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393092"
+    }
+,
+    {
+      "name": "Ixodes plumbeus Dugès, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393095"
+    }
+,
+    {
+      "name": "Ixodes sanguineus Latreille, 1806",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954954"
+    }
+,
+    {
+      "name": "Rhipicephalus beccarii Pavesi, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393082"
+    }
+,
+    {
+      "name": "Rhipicephalus bhamensis Supino, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393083"
+    }
+,
+    {
+      "name": "Rhipicephalus breviceps Warburton, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393084"
+    }
+,
+    {
+      "name": "Rhipicephalus brevicollis Neumann, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393085"
+    }
+,
+    {
+      "name": "Rhipicephalus carinatus Frauenfeld, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393086"
+    }
+,
+    {
+      "name": "Rhipicephalus dugesi Neumann, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393087"
+    }
+,
+    {
+      "name": "Rhipicephalus flavus Supino, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393090"
+    }
+,
+    {
+      "name": "Rhipicephalus limbatus Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393091"
+    }
+,
+    {
+      "name": "Rhipicephalus linnei Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393093"
+    }
+,
+    {
+      "name": "Rhipicephalus macropis Schulze, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393094"
+    }
+,
+    {
+      "name": "Rhipicephalus rubicundus Frauenfeld, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393096"
+    }
+,
+    {
+      "name": "Rhipicephalus rutilus Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393097"
+    }
+,
+    {
+      "name": "Rhipicephalus siculus Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393099"
+    }
+,
+    {
+      "name": "Rhipicephalus stigmaticus Gerstäcker, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393100"
+    }
+,
+    {
+      "name": "Rhipicephalus texanus Banks, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393101"
+    }
+,
+    {
+      "name": "Rhipicephalus turanicus (Pomerantseu, Matikasvili & Lototzki, 1940)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221416"
+    }
+,
+    {
+      "name": "Rhipicephalus secundus Feldman-Muhsam, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393102"
+    }
+,
+    {
+      "name": "Rhipicephalus turamicus Uzakov, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393103"
+    }
+,
+    {
+      "name": "Scaphixodes Schulze, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Scaphixodes berlesei (Birula, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221442"
+    }
+,
+    {
+      "name": "Ixodes berlesei Birula, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954956"
+    }
+,
+    {
+      "name": "Scaphixodes caledonicus (Nuttall, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221443"
+    }
+,
+    {
+      "name": "Ixodes caledonicus Nuttall, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954957"
+    }
+,
+    {
+      "name": "Ixodes gussevi Reznik, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393219"
+    }
+,
+    {
+      "name": "Ixodes sculpturatus Schulze, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393218"
+    }
+,
+    {
+      "name": "Ixodes sculpturatus Zumpt, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393220"
+    }
+,
+    {
+      "name": "Scaphixodes frontalis (Panzer, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221445"
+    }
+,
+    {
+      "name": "Acarus frontalis Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954959"
+    }
+,
+    {
+      "name": "Ixodes pallipes Koch, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393221"
+    }
+,
+    {
+      "name": "Ixodes pari Leach, 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/393222"
+    }
+,
+    {
+      "name": "Scaphixodes rothschildi (Nuttall & Warburton, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221441"
+    }
+,
+    {
+      "name": "Ixodes rothschildi Nuttall & Warburton, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954960"
+    }
+,
+    {
+      "name": "Scaphixodes unicavatus (Neumann, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/221444"
+    }
+,
+    {
+      "name": "Ixodes unicavatus Neumann, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/954962"
+    }
+
+  ]
+}

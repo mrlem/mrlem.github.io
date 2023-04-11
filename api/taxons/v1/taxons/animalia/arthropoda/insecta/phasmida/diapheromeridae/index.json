@@ -1,0 +1,22 @@
+
+{
+  "name": "diapheromeridae",
+  "children": [
+
+    {
+      "name": "Diapheromeridae Kirby, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "diapheromerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/phasmida/diapheromeridae/diapheromerinae/"
+    }
+,
+    {
+      "name": "pachymorphinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/phasmida/diapheromeridae/pachymorphinae/"
+    }
+
+  ]
+}

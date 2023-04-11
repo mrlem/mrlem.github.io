@@ -1,0 +1,32 @@
+
+{
+  "name": "chlamydodontidae",
+  "children": [
+
+    {
+      "name": "Chlamydodontidae Stein, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Chlamydodon Ehrenberg, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Chlamydodon mnemosyne Ehrenberg, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958881"
+    }
+,
+    {
+      "name": "Chlamydodon obliquus Kahl, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958882"
+    }
+,
+    {
+      "name": "Chlamydodon exocellatus Ozaki & Yagiu, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975703"
+    }
+
+  ]
+}

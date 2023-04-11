@@ -1,0 +1,547 @@
+
+{
+  "name": "hydrophorinae",
+  "children": [
+
+    {
+      "name": "Hydrophorinae Lioy, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphrosylus Haliday, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphrosylus celtiber Haliday, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23593"
+    }
+,
+    {
+      "name": "Aphrosylus ferox Haliday in Walker, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23594"
+    }
+,
+    {
+      "name": "Aphrosylus mitis Verrall, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225193"
+    }
+,
+    {
+      "name": "Aphrosylus raptor Haliday in Walker, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225194"
+    }
+,
+    {
+      "name": "Aphrosylus venator Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225195"
+    }
+,
+    {
+      "name": "Cymatopus Kertész, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Cymatopus flavipes Evenhuis, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890126"
+    }
+,
+    {
+      "name": "Cymatopus neocaledonicus Evenhuis, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890128"
+    }
+,
+    {
+      "name": "Diostracus Loew, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Diostracus lemavajulorum Pusch, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939956"
+    }
+,
+    {
+      "name": "Diostracus leucostomus (Loew, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225226"
+    }
+,
+    {
+      "name": "Asphyrotarsus leucostomus (Loew, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939953"
+    }
+,
+    {
+      "name": "Diostracus nigripes (Strobl, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939954"
+    }
+,
+    {
+      "name": "Liancalus leucostomus Loew, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939952"
+    }
+,
+    {
+      "name": "Thinophilus nigripes Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398839"
+    }
+,
+    {
+      "name": "Diostracus Loew, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Epithalassius Mik, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Epithalassius corsicanus Becker, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225293"
+    }
+,
+    {
+      "name": "Epithalassius elegantulus Villeneuve, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979909"
+    }
+,
+    {
+      "name": "Epithalassius elegantula Villeneuve, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225294"
+    }
+,
+    {
+      "name": "Epithalassius gloagueni Grichanov, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001325"
+    }
+,
+    {
+      "name": "Epithalassius sanctimarci Mik, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225295"
+    }
+,
+    {
+      "name": "Epithalassius czernyi Strobl, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398904"
+    }
+,
+    {
+      "name": "Eucoryphus Mik, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Eucoryphus coeruleus Becker, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225296"
+    }
+,
+    {
+      "name": "Eucoryphus piscariviverus Pusch, Stark & Pollet, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959750"
+    }
+,
+    {
+      "name": "Hydrophorus Fallen, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Hydrophorus alpinus Wahlberg, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225333"
+    }
+,
+    {
+      "name": "Hydrophorus antarcticus Schiner, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974220"
+    }
+,
+    {
+      "name": "Hydrophorus balticus (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23598"
+    }
+,
+    {
+      "name": "Medeterus balticus Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944676"
+    }
+,
+    {
+      "name": "Medeterus chloropus von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398939"
+    }
+,
+    {
+      "name": "Hydrophorus bipunctatus (Lehmann, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23599"
+    }
+,
+    {
+      "name": "Dolichopus bipunctatus Lehmann, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944677"
+    }
+,
+    {
+      "name": "Hydrophorus binotatus Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398940"
+    }
+,
+    {
+      "name": "Hydrophorus borealis Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225334"
+    }
+,
+    {
+      "name": "Hydrophorus litoreus Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23600"
+    }
+,
+    {
+      "name": "Medeterus aquaticus Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398941"
+    }
+,
+    {
+      "name": "Medeterus chloropus Zetterstedt, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398942"
+    }
+,
+    {
+      "name": "Hydrophorus nebulosus Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23601"
+    }
+,
+    {
+      "name": "Medeterus conspersus Haliday, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398943"
+    }
+,
+    {
+      "name": "Hydrophorus oceanus (Macquart, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23602"
+    }
+,
+    {
+      "name": "Hydrophorus bisetus Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23603"
+    }
+,
+    {
+      "name": "Medeterus oceanus Macquart, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944678"
+    }
+,
+    {
+      "name": "Hydrophorus praecox (Lehmann, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23605"
+    }
+,
+    {
+      "name": "Aphrozeta cinereus Perris, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398944"
+    }
+,
+    {
+      "name": "Dolichopus praecox Lehmann, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944679"
+    }
+,
+    {
+      "name": "Hydrochus schonherri Zetterstedt, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398946"
+    }
+,
+    {
+      "name": "Medeterus inaequalipes Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398945"
+    }
+,
+    {
+      "name": "Hydrophorus rogenhoferi Mik, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225335"
+    }
+,
+    {
+      "name": "Hydrophorus viridis (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23607"
+    }
+,
+    {
+      "name": "Aphrozeta semiglaucus Perris, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398949"
+    }
+,
+    {
+      "name": "Hydrophorus beckeri Oldenberg, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398947"
+    }
+,
+    {
+      "name": "Hydrophorus paulosetosus Becker, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398948"
+    }
+,
+    {
+      "name": "Medeterus viridis Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944680"
+    }
+,
+    {
+      "name": "Liancalus Loew, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Liancalus virens (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23609"
+    }
+,
+    {
+      "name": "Dolichopus regius Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398955"
+    }
+,
+    {
+      "name": "Musca virens Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944681"
+    }
+,
+    {
+      "name": "Machaerium Haliday, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "Machaerium maritimae Haliday, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23611"
+    }
+,
+    {
+      "name": "Machaerium maritimum Walker, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398957"
+    }
+,
+    {
+      "name": "Orthoceratium Schrank, 1803",
+      "url": ""
+    }
+,
+    {
+      "name": "Orthoceratium lacustre (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23613"
+    }
+,
+    {
+      "name": "Medeterus viridipes Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398988"
+    }
+,
+    {
+      "name": "Musca lacustris Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944682"
+    }
+,
+    {
+      "name": "Orthoceratium sabulosum (Becker, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899498"
+    }
+,
+    {
+      "name": "Alloeoneurus sabulosus Becker, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944683"
+    }
+,
+    {
+      "name": "Scellus Loew, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Scellus gallicanus Becker, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225365"
+    }
+,
+    {
+      "name": "Scellus notatus (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23615"
+    }
+,
+    {
+      "name": "Hydrophorus armiger Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399030"
+    }
+,
+    {
+      "name": "Musca notata Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944684"
+    }
+,
+    {
+      "name": "Schoenophilus Mik, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Schoenophilus versutus (Haliday in Walker, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225366"
+    }
+,
+    {
+      "name": "Pseudacropsilus maculipennis Strobl, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399031"
+    }
+,
+    {
+      "name": "Thinophilus versutus Haliday in Walker, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944608"
+    }
+,
+    {
+      "name": "Sphyrotarsus Mik, 1874",
+      "url": ""
+    }
+,
+    {
+      "name": "Sphyrotarsus argyrostomus Mik, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225376"
+    }
+,
+    {
+      "name": "Sphyrotarsus hervibazini Parent, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225377"
+    }
+,
+    {
+      "name": "Sphyrotarsus hessei Parent, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225378"
+    }
+,
+    {
+      "name": "Sphyrotarsus hygrophilus Becker, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225379"
+    }
+,
+    {
+      "name": "Sphyrotarsus parenti Hesse, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225380"
+    }
+,
+    {
+      "name": "Sybistroma Meigen, 1824",
+      "url": ""
+    }
+,
+    {
+      "name": "Sybistroma crinipes Stæger, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225381"
+    }
+,
+    {
+      "name": "Dolichopus pectinifer Zeller, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399053"
+    }
+,
+    {
+      "name": "Sybistroma discipes (Germar, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225382"
+    }
+,
+    {
+      "name": "Dolichopus discipes Germar, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944609"
+    }
+,
+    {
+      "name": "Dolichopus patellatum Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399054"
+    }
+,
+    {
+      "name": "Dolichopus ventralis Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399056"
+    }
+,
+    {
+      "name": "Sybistroma patellipes Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399055"
+    }
+,
+    {
+      "name": "Sybistroma obscurellum (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225383"
+    }
+,
+    {
+      "name": "Dolichopus obscurellus Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944610"
+    }
+,
+    {
+      "name": "Dolichopus xanthogaster Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399058"
+    }
+,
+    {
+      "name": "Medeterus appendiculatum Macquart, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399057"
+    }
+,
+    {
+      "name": "Sybistroma sphenopterum (Loew, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225384"
+    }
+,
+    {
+      "name": "Hypophyllus sphenopterus Loew, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944611"
+    }
+,
+    {
+      "name": "Thinophilus Wahlberg, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Thinophilus flavipalpis (Zetterstedt, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225409"
+    }
+,
+    {
+      "name": "Rhaphium flavipalpis Zetterstedt, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812961"
+    }
+,
+    {
+      "name": "Thinophilus (Thinophilus) flavipalpis (Zetterstedt, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23620"
+    }
+,
+    {
+      "name": "Thinophilus neptunus Frey, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399098"
+    }
+,
+    {
+      "name": "Thinophilus ruficornis (Haliday, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225410"
+    }
+,
+    {
+      "name": "Medeterus ruficornis Haliday, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944685"
+    }
+,
+    {
+      "name": "Rhaphium maculicornis Zetterstedt, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399099"
+    }
+,
+    {
+      "name": "Thinophilus (Thinophilus) ruficornis (Haliday, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23621"
+    }
+
+  ]
+}

@@ -1,0 +1,682 @@
+
+{
+  "name": "opiini",
+  "children": [
+
+    {
+      "name": "Opiini Blanchard, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Bitomoides van Achterberg, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Bitomoides rugosus (Wesmael, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228138"
+    }
+,
+    {
+      "name": "Bitomus Szépligeti, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Coleopius Fischer, 1964",
+      "url": ""
+    }
+,
+    {
+      "name": "Bitomus grangeri (Fischer, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827026"
+    }
+,
+    {
+      "name": "Coleopius grangeri Fischer, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228136"
+    }
+,
+    {
+      "name": "Desmiostoma Förster, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Desmiostoma parvulum (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228135"
+    }
+,
+    {
+      "name": "Diachasmimorpha Viereck, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Diachasmimorpha fullawayi (Silvestri, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/289944"
+    }
+,
+    {
+      "name": "Diachasma fullawayi Silvestri, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008256"
+    }
+,
+    {
+      "name": "Diachasmimorpha kraussii (Fullaway, 1951)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965192"
+    }
+,
+    {
+      "name": "Diachasmimorpha longicaudata (Ashmead, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589842"
+    }
+,
+    {
+      "name": "Diachasmimorpha tryoni (Cameron, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847911"
+    }
+,
+    {
+      "name": "Doryctobracon Enderlein, 1920",
+      "url": ""
+    }
+,
+    {
+      "name": "Doryctobracon areolatus (Szépligeti, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011292"
+    }
+,
+    {
+      "name": "Biosteres areolatus Szépligeti, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011269"
+    }
+,
+    {
+      "name": "Euopius Fischer, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Euopius milvus Papp, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792604"
+    }
+,
+    {
+      "name": "Eurytenes Förster, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Eurytenes leptostigma (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827071"
+    }
+,
+    {
+      "name": "Opiostomus leptostigma (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228131"
+    }
+,
+    {
+      "name": "Eurytenes macrocerus (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228132"
+    }
+,
+    {
+      "name": "Fopius Wharton, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Fopius arisanus (Sonan, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714889"
+    }
+,
+    {
+      "name": "Opius Wesmael, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Apodesmia Förster, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Opiostomus Fischer, 1972",
+      "url": ""
+    }
+,
+    {
+      "name": "Opius ambiguus Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228109"
+    }
+,
+    {
+      "name": "Apodesmia phytomyzae (Fischer, 1957)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228152"
+    }
+,
+    {
+      "name": "Opius bellus Gahan, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011293"
+    }
+,
+    {
+      "name": "Opius caricivorae Fischer, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228110"
+    }
+,
+    {
+      "name": "Opius caudifer Fischer, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228111"
+    }
+,
+    {
+      "name": "Opius circulator (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827007"
+    }
+,
+    {
+      "name": "Apodesmia circulator (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228149"
+    }
+,
+    {
+      "name": "Opius coriacitergum Fischer, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836584"
+    }
+,
+    {
+      "name": "Opius dissitus Muesebeck, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720950"
+    }
+,
+    {
+      "name": "Opius dureseaui Fischer, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228112"
+    }
+,
+    {
+      "name": "Opius funebris Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228113"
+    }
+,
+    {
+      "name": "Opius gracilis Fischer, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228114"
+    }
+,
+    {
+      "name": "Opius instabilis Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/289881"
+    }
+,
+    {
+      "name": "Opius irregularis Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827006"
+    }
+,
+    {
+      "name": "Apodesmia bipustulata (Fischer, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/289977"
+    }
+,
+    {
+      "name": "Apodesmia irregularis (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228150"
+    }
+,
+    {
+      "name": "Opius karlmayi Fischer, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836585"
+    }
+,
+    {
+      "name": "Opius lareunionensis Fischer, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836586"
+    }
+,
+    {
+      "name": "Opius laticrenis Fischer, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836587"
+    }
+,
+    {
+      "name": "Opius levis Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228115"
+    }
+,
+    {
+      "name": "Opius longicornis Thomson, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228116"
+    }
+,
+    {
+      "name": "Opius lonicerae Fischer, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228117"
+    }
+,
+    {
+      "name": "Opius lucidus Szépligeti, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228118"
+    }
+,
+    {
+      "name": "Opius lugens Haliday, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228119"
+    }
+,
+    {
+      "name": "Opius mirabilis Fischer, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228120"
+    }
+,
+    {
+      "name": "Opius nigricolor Fischer, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228121"
+    }
+,
+    {
+      "name": "Opius nitidulator (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228122"
+    }
+,
+    {
+      "name": "Opius ocellatus Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827011"
+    }
+,
+    {
+      "name": "Apodesmia ocellata (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228151"
+    }
+,
+    {
+      "name": "Opius ochrogaster Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228123"
+    }
+,
+    {
+      "name": "Opius oophilus (Fullaway, 1951)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589862"
+    }
+,
+    {
+      "name": "Opius pallipes Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228124"
+    }
+,
+    {
+      "name": "Opius pendulus Haliday, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228125"
+    }
+,
+    {
+      "name": "Opius propodealis Fischer, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228126"
+    }
+,
+    {
+      "name": "Opius pygmaeus Fischer, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228127"
+    }
+,
+    {
+      "name": "Opius raoiformis Fischer, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836588"
+    }
+,
+    {
+      "name": "Opius rufipes Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827012"
+    }
+,
+    {
+      "name": "Apodesmia rufipes (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228153"
+    }
+,
+    {
+      "name": "Opius saevulus Fischer, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827013"
+    }
+,
+    {
+      "name": "Apodesmia saevula (Fischer, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228154"
+    }
+,
+    {
+      "name": "Opius semipilosus Fischer, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836589"
+    }
+,
+    {
+      "name": "Opius similis Szépligeti, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827014"
+    }
+,
+    {
+      "name": "Apodesmia similis (Szépligeti, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228155"
+    }
+,
+    {
+      "name": "Opius similoides Fischer, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827017"
+    }
+,
+    {
+      "name": "Apodesmia similoides (Fischer, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228156"
+    }
+,
+    {
+      "name": "Opius singularis Wesmael, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228128"
+    }
+,
+    {
+      "name": "Opius tersus (Foerster, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228129"
+    }
+,
+    {
+      "name": "Opius tuberculatus Fischer, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827018"
+    }
+,
+    {
+      "name": "Apodesmia tuberculata (Fischer, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228157"
+    }
+,
+    {
+      "name": "Opius turcicus Fischer, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228130"
+    }
+,
+    {
+      "name": "Opius waterloti Granger, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720057"
+    }
+,
+    {
+      "name": "Phaedrotoma Förster, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Phaedrotoma aethiops (Haliday, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228089"
+    }
+,
+    {
+      "name": "Phaedrotoma caesa (Haliday, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228090"
+    }
+,
+    {
+      "name": "Phaedrotoma cingulata (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228091"
+    }
+,
+    {
+      "name": "Phaedrotoma cyclogaster (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228092"
+    }
+,
+    {
+      "name": "Phaedrotoma depeculator Foerster, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228093"
+    }
+,
+    {
+      "name": "Phaedrotoma difficillimus (Fischer, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228094"
+    }
+,
+    {
+      "name": "Phaedrotoma diversus (Szépligeti, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228095"
+    }
+,
+    {
+      "name": "Phaedrotoma exigua (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228096"
+    }
+,
+    {
+      "name": "Phaedrotoma lindbergi (Fischer, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228097"
+    }
+,
+    {
+      "name": "Phaedrotoma monticola (Szépligeti, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228098"
+    }
+,
+    {
+      "name": "Phaedrotoma pulchriceps (Szépligeti, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228099"
+    }
+,
+    {
+      "name": "Phaedrotoma pumilio (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228100"
+    }
+,
+    {
+      "name": "Phaedrotoma reconditor (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228101"
+    }
+,
+    {
+      "name": "Phaedrotoma reptantis (Fischer, 1957)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228102"
+    }
+,
+    {
+      "name": "Phaedrotoma rex (Fischer, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228103"
+    }
+,
+    {
+      "name": "Phaedrotoma rudiformis (Fischer, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228104"
+    }
+,
+    {
+      "name": "Phaedrotoma rudis (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228105"
+    }
+,
+    {
+      "name": "Phaedrotoma speciosa (Fischer, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228106"
+    }
+,
+    {
+      "name": "Phaedrotoma variegata (Szépligeti, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228107"
+    }
+,
+    {
+      "name": "Phaedrotoma viennensis (Fischer, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228108"
+    }
+,
+    {
+      "name": "Psyttalia Walker, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Psyttalia carinata (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228087"
+    }
+,
+    {
+      "name": "Psyttalia concolor (Szépligeti, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228088"
+    }
+,
+    {
+      "name": "Psyttalia cosyrae (Wilkinson, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720058"
+    }
+,
+    {
+      "name": "Psyttalia distinguenda (Granger, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720059"
+    }
+,
+    {
+      "name": "Psyttalia fijiensis (Fullaway, 1936)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792617"
+    }
+,
+    {
+      "name": "Psyttalia fletcheri (Silvestri, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720060"
+    }
+,
+    {
+      "name": "Bracon fletcheri Silvestri, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008258"
+    }
+,
+    {
+      "name": "Psyttalia insignipennis (Granger, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720061"
+    }
+,
+    {
+      "name": "Psyttalia muesebecki (Fischer, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792618"
+    }
+,
+    {
+      "name": "Austroopius muesebecki Fischer, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965191"
+    }
+,
+    {
+      "name": "Psyttalia phaeostigma (Wilkinson, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720062"
+    }
+,
+    {
+      "name": "Opius phaeostigma Wilkinson, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008259"
+    }
+,
+    {
+      "name": "Psyttalia sanctamariana (Fischer, 1980)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720063"
+    }
+,
+    {
+      "name": "Psyttalia subsulcata (Granger, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720064"
+    }
+,
+    {
+      "name": "Utetes Förster, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Utetes aemulus (Haliday, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827005"
+    }
+,
+    {
+      "name": "Apodesmia aemula (Haliday, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228148"
+    }
+,
+    {
+      "name": "Utetes anastrephae (Viereck, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011298"
+    }
+,
+    {
+      "name": "Opius anastrephae Viereck, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011297"
+    }
+,
+    {
+      "name": "Utetes caudatus (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228080"
+    }
+,
+    {
+      "name": "Utetes coracinus (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228081"
+    }
+,
+    {
+      "name": "Utetes froggatti (Fullaway, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792622"
+    }
+,
+    {
+      "name": "Utetes rotundiventris (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228082"
+    }
+,
+    {
+      "name": "Utetes ruficeps (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228083"
+    }
+,
+    {
+      "name": "Utetes testaceus (Wesmael, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228084"
+    }
+,
+    {
+      "name": "Utetes trisulcus (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228085"
+    }
+,
+    {
+      "name": "Utetes zelotes (Marshall, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228086"
+    }
+,
+    {
+      "name": "Xynobius Förster, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Xynobius aciculatus (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228075"
+    }
+,
+    {
+      "name": "Xynobius comatus (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228076"
+    }
+,
+    {
+      "name": "Xynobius geniculatus (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228077"
+    }
+,
+    {
+      "name": "Xynobius polyzonius (Wesmael, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228078"
+    }
+,
+    {
+      "name": "Xynobius thomsoni (Fischer, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228079"
+    }
+
+  ]
+}

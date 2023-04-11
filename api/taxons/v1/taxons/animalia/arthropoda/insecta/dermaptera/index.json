@@ -1,0 +1,42 @@
+
+{
+  "name": "dermaptera",
+  "children": [
+
+    {
+      "name": "Dermaptera De Geer, 1773",
+      "url": ""
+    }
+,
+    {
+      "name": "anisolabididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/anisolabididae/"
+    }
+,
+    {
+      "name": "chelisochidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/chelisochidae/"
+    }
+,
+    {
+      "name": "forficulidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/forficulidae/"
+    }
+,
+    {
+      "name": "labiduridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/labiduridae/"
+    }
+,
+    {
+      "name": "pygidicranidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/pygidicranidae/"
+    }
+,
+    {
+      "name": "spongiphoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/spongiphoridae/"
+    }
+
+  ]
+}

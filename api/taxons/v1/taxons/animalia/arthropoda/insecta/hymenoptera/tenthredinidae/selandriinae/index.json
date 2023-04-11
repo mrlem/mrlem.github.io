@@ -1,0 +1,37 @@
+
+{
+  "name": "selandriinae",
+  "children": [
+
+    {
+      "name": "Selandriinae C.G. Thomson, 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "aneugmenini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/selandriinae/aneugmenini/"
+    }
+,
+    {
+      "name": "dolerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/selandriinae/dolerini/"
+    }
+,
+    {
+      "name": "dulophanini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/selandriinae/dulophanini/"
+    }
+,
+    {
+      "name": "selandriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/selandriinae/selandriini/"
+    }
+,
+    {
+      "name": "strongylogasterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/selandriinae/strongylogasterini/"
+    }
+
+  ]
+}

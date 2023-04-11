@@ -1,0 +1,27 @@
+
+{
+  "name": "stenochiinae",
+  "children": [
+
+    {
+      "name": "Stenochiinae Kirby, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "cnodalonini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/stenochiinae/cnodalonini/"
+    }
+,
+    {
+      "name": "stenochiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/stenochiinae/stenochiini/"
+    }
+,
+    {
+      "name": "talanini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/stenochiinae/talanini/"
+    }
+
+  ]
+}

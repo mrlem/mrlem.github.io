@@ -1,0 +1,67 @@
+
+{
+  "name": "chrysopetalidae",
+  "children": [
+
+    {
+      "name": "Chrysopetalidae Ehlers, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "calamyzinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/phyllodocida/chrysopetalidae/calamyzinae/"
+    }
+,
+    {
+      "name": "chrysopetalinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/phyllodocida/chrysopetalidae/chrysopetalinae/"
+    }
+,
+    {
+      "name": "dysponetinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/phyllodocida/chrysopetalidae/dysponetinae/"
+    }
+,
+    {
+      "name": "Arichlidon Watson Russell, 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "Arichlidon gathofi Watson Russell, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776906"
+    }
+,
+    {
+      "name": "Arichlidon hanneloreae Watson Russell, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949062"
+    }
+,
+    {
+      "name": "Bhawania Schmarda, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Bhawania cryptocephala Gravier, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669064"
+    }
+,
+    {
+      "name": "Bhawania goodei Webster, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/375518"
+    }
+,
+    {
+      "name": "Chrysopetalum elegans Bush in Verrill, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566788"
+    }
+,
+    {
+      "name": "Palmyra elongata Grube, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566789"
+    }
+
+  ]
+}

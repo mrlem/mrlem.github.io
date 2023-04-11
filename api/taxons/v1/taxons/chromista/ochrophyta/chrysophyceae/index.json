@@ -1,0 +1,37 @@
+
+{
+  "name": "chrysophyceae",
+  "children": [
+
+    {
+      "name": "Chrysophyceae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Chrysophyta ",
+      "url": ""
+    }
+,
+    {
+      "name": "chromulinales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ochrophyta/chrysophyceae/chromulinales/"
+    }
+,
+    {
+      "name": "hibberdiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ochrophyta/chrysophyceae/hibberdiales/"
+    }
+,
+    {
+      "name": "hydrurales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ochrophyta/chrysophyceae/hydrurales/"
+    }
+,
+    {
+      "name": "parmales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ochrophyta/chrysophyceae/parmales/"
+    }
+
+  ]
+}

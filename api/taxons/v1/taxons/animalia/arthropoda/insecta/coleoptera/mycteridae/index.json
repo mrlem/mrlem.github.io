@@ -1,0 +1,32 @@
+
+{
+  "name": "mycteridae",
+  "children": [
+
+    {
+      "name": "Mycteridae Perty, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycteridae Oken, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Physcius Champion, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Physcius fasciatus Pic, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641198"
+    }
+,
+    {
+      "name": "mycterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/mycteridae/mycterinae/"
+    }
+
+  ]
+}

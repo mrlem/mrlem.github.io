@@ -1,0 +1,62 @@
+
+{
+  "name": "cnidaria",
+  "children": [
+
+    {
+      "name": "Cnidaria Hatscheck, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Coelenterata ",
+      "url": ""
+    }
+,
+    {
+      "name": "anthozoa",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/anthozoa/"
+    }
+,
+    {
+      "name": "cubozoa",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/cubozoa/"
+    }
+,
+    {
+      "name": "hydrozoa",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/hydrozoa/"
+    }
+,
+    {
+      "name": "malacosporea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/malacosporea/"
+    }
+,
+    {
+      "name": "myxosporea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/myxosporea/"
+    }
+,
+    {
+      "name": "Myxozoa Grassé, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Myxospora L.Lombard. & Crous, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "scyphozoa",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/"
+    }
+,
+    {
+      "name": "staurozoa",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/staurozoa/"
+    }
+
+  ]
+}

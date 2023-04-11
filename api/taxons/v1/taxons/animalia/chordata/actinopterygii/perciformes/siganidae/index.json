@@ -1,0 +1,862 @@
+
+{
+  "name": "siganidae",
+  "children": [
+
+    {
+      "name": "Siganidae Richardson, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Siganus Forsskål, 1775",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphacanthus Bloch & Schneider, 1801",
+      "url": ""
+    }
+,
+    {
+      "name": "Siganus argenteus (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425657"
+    }
+,
+    {
+      "name": "Amphacanthus argenteus Quoy & Gaimard, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564540"
+    }
+,
+    {
+      "name": "Amphacanthus mertensii Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564561"
+    }
+,
+    {
+      "name": "Amphacanthus rostratus Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564570"
+    }
+,
+    {
+      "name": "Siganas rostrata (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588705"
+    }
+,
+    {
+      "name": "Siganus argebteys (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558206"
+    }
+,
+    {
+      "name": "Siganus rostratus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551117"
+    }
+,
+    {
+      "name": "Siganus vitianus (Sauvage, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558228"
+    }
+,
+    {
+      "name": "Teuthis argentea (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565561"
+    }
+,
+    {
+      "name": "Teuthis oligosticta Kner, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565598"
+    }
+,
+    {
+      "name": "Teuthis rostrata (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565606"
+    }
+,
+    {
+      "name": "Teuthis rostratus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565607"
+    }
+,
+    {
+      "name": "Teuthis vitianus Sauvage, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565624"
+    }
+,
+    {
+      "name": "Siganus canaliculatus (Park, 1797)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425658"
+    }
+,
+    {
+      "name": "Amphacanthus dorsalis Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564548"
+    }
+,
+    {
+      "name": "Amphacanthus guttatus oramin Bloch & Schneider, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566347"
+    }
+,
+    {
+      "name": "Chaetodon canaliculatus Park, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557192"
+    }
+,
+    {
+      "name": "Siganus oramin (Bloch & Schneider, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551116"
+    }
+,
+    {
+      "name": "Teuthis dorsalis (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565575"
+    }
+,
+    {
+      "name": "Teuthis oramin (Bloch & Schneider, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565600"
+    }
+,
+    {
+      "name": "Theutis dorsalis (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588706"
+    }
+,
+    {
+      "name": "Siganus corallinus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425659"
+    }
+,
+    {
+      "name": "Amphacanthus corallinus Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564545"
+    }
+,
+    {
+      "name": "Amphacanthus tetrazona Bleeker, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564577"
+    }
+,
+    {
+      "name": "Siganus corallins (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588707"
+    }
+,
+    {
+      "name": "Siganus tetrazona (Bleeker, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558226"
+    }
+,
+    {
+      "name": "Siganus tetrazonus (Bleeker, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558227"
+    }
+,
+    {
+      "name": "Teuthis corallina (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565570"
+    }
+,
+    {
+      "name": "Teuthis corallinus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565571"
+    }
+,
+    {
+      "name": "Teuthis studeri Peters, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565613"
+    }
+,
+    {
+      "name": "Teuthis tetrazona (Bleeker, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565614"
+    }
+,
+    {
+      "name": "Teuthis teuthopsis De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565615"
+    }
+,
+    {
+      "name": "Siganus doliatus Guérin-Méneville, 1829-38",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425660"
+    }
+,
+    {
+      "name": "Amphacanthus doliatus (Guérin-Méneville, 1829-38)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564547"
+    }
+,
+    {
+      "name": "Teuthis doliata (Guérin-Méneville, 1829-38)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565573"
+    }
+,
+    {
+      "name": "Teuthis doliatus (Guérin-Méneville, 1829-38)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565574"
+    }
+,
+    {
+      "name": "Siganus fuscescens (Houttuyn, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425661"
+    }
+,
+    {
+      "name": "Amphacanthus albopunctatus Temminck & Schlegel, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564539"
+    }
+,
+    {
+      "name": "Amphacanthus aurantiacus Temminck & Schlegel, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564541"
+    }
+,
+    {
+      "name": "Amphacanthus concavocephalus (Paradice, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564544"
+    }
+,
+    {
+      "name": "Amphacanthus fuscescens (Houttuyn, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564549"
+    }
+,
+    {
+      "name": "Amphacanthus gymnopareius Richardson, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564551"
+    }
+,
+    {
+      "name": "Amphacanthus kopsii Bleeker, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564555"
+    }
+,
+    {
+      "name": "Amphacanthus maculosus Quoy & Gaimard, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564557"
+    }
+,
+    {
+      "name": "Amphacanthus margaritiferus Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564558"
+    }
+,
+    {
+      "name": "Amphacanthus nebulosus Quoy & Gaimard, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564562"
+    }
+,
+    {
+      "name": "Amphacanthus ovatus Marion de Procé, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564566"
+    }
+,
+    {
+      "name": "Amphacanthus tumifrons Valenciennes, 1835 p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588710"
+    }
+,
+    {
+      "name": "Centrogaster fuscescens Houttuyn, 1782",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561995"
+    }
+,
+    {
+      "name": "Siganus albopunctatus (Temminck & Schlegel, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558205"
+    }
+,
+    {
+      "name": "Siganus concavocephalus Paradice, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558211"
+    }
+,
+    {
+      "name": "Siganus consobrinus Ogilby, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558212"
+    }
+,
+    {
+      "name": "Siganus fuscenaus (Houttuyn, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588708"
+    }
+,
+    {
+      "name": "Siganus kopsii (Bleeker, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558216"
+    }
+,
+    {
+      "name": "Siganus margaritiferus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558218"
+    }
+,
+    {
+      "name": "Siganus nebulosus (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558221"
+    }
+,
+    {
+      "name": "Siganus tumifrons (Valenciennes, 1835) p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588711"
+    }
+,
+    {
+      "name": "Teuthis albopunctata (Temminck & Schlegel, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565560"
+    }
+,
+    {
+      "name": "Teuthis fuscescens (Houttuyn, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565579"
+    }
+,
+    {
+      "name": "Teuthis gibbosus De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565580"
+    }
+,
+    {
+      "name": "Teuthis kopsii (Bleeker, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565589"
+    }
+,
+    {
+      "name": "Teuthis nebulosa (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565597"
+    }
+,
+    {
+      "name": "Teuthis tumifrons (Valenciennes, 1835) p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588712"
+    }
+,
+    {
+      "name": "Teuthys nebulosa (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588709"
+    }
+,
+    {
+      "name": "Theutis margaritifera (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565634"
+    }
+,
+    {
+      "name": "Siganus javus (Linnaeus, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425662"
+    }
+,
+    {
+      "name": "Amphacanthus Javanus (Linnaeus, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588715"
+    }
+,
+    {
+      "name": "Amphacanthus javus (Linnaeus, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564554"
+    }
+,
+    {
+      "name": "Siganus java (Linnaeus, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588714"
+    }
+,
+    {
+      "name": "Teuthis brevirostris Gronow, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565567"
+    }
+,
+    {
+      "name": "Teuthis javus Linnaeus, 1766",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565588"
+    }
+,
+    {
+      "name": "Theutis java Linnaeus, 1766",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588713"
+    }
+,
+    {
+      "name": "Siganus lineatus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425663"
+    }
+,
+    {
+      "name": "Amphacanthus lineatus Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564556"
+    }
+,
+    {
+      "name": "Siganus aurolineatus Ogilby, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558207"
+    }
+,
+    {
+      "name": "Teuthis flava De Vis, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565578"
+    }
+,
+    {
+      "name": "Teuthis lineata (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565591"
+    }
+,
+    {
+      "name": "Teuthis lineatus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588716"
+    }
+,
+    {
+      "name": "Siganus luridus (Rüppell, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/70329"
+    }
+,
+    {
+      "name": "Amphacanthus abhortani Valenciennes, 1835 p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588717"
+    }
+,
+    {
+      "name": "Amphacanthus luridus Rüppell, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/70331"
+    }
+,
+    {
+      "name": "Teuthis lurida (Rüppell, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565594"
+    }
+,
+    {
+      "name": "Siganus puellus (Schlegel, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425531"
+    }
+,
+    {
+      "name": "Amphacanthus cyanotaenia Bleeker, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564546"
+    }
+,
+    {
+      "name": "Amphacanthus hexacanthus (Barton, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564552"
+    }
+,
+    {
+      "name": "Amphacanthus ocularis Thiollière, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564564"
+    }
+,
+    {
+      "name": "Amphacanthus puellus Schlegel, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564567"
+    }
+,
+    {
+      "name": "Siganus hexacanthus Barton, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558214"
+    }
+,
+    {
+      "name": "Siganus sevenlineatus Borodin, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558222"
+    }
+,
+    {
+      "name": "Siganus zoniceps Seale, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558229"
+    }
+,
+    {
+      "name": "Teuthis puella (Schlegel, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565601"
+    }
+,
+    {
+      "name": "Siganus punctatus (Schneider & Forster, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425532"
+    }
+,
+    {
+      "name": "Amphacanthus capricornensis (Whitley, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564542"
+    }
+,
+    {
+      "name": "Amphacanthus chrysospilos Bleeker, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564543"
+    }
+,
+    {
+      "name": "Amphacanthus hexagonatus Bleeker, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564553"
+    }
+,
+    {
+      "name": "Amphacanthus melanospilos Bleeker, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564560"
+    }
+,
+    {
+      "name": "Amphacanthus punctatus Schneider & Forster, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564568"
+    }
+,
+    {
+      "name": "Harpurus inermis Forster, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563952"
+    }
+,
+    {
+      "name": "Siganas hexagonata (Bleeker, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588718"
+    }
+,
+    {
+      "name": "Siganus capricornensis Whitley, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558208"
+    }
+,
+    {
+      "name": "Siganus chrysospilos (Bleeker, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558209"
+    }
+,
+    {
+      "name": "Siganus chrysospilus (Bleeker, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558210"
+    }
+,
+    {
+      "name": "Siganus fuscus Griffith & Smith, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558213"
+    }
+,
+    {
+      "name": "Siganus hexagonata (Bleeker, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558215"
+    }
+,
+    {
+      "name": "Teuthis chrysospilus (Bleeker, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565568"
+    }
+,
+    {
+      "name": "Teuthis hexagonata (Bleeker, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565586"
+    }
+,
+    {
+      "name": "Teuthis hexagonatus (Bleeker, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565587"
+    }
+,
+    {
+      "name": "Teuthis melanospilus (Bleeker, 1954)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588719"
+    }
+,
+    {
+      "name": "Teuthis punctata (Schneider & Forster, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565602"
+    }
+,
+    {
+      "name": "Teuthis punctatus (Schneider & Forster, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565603"
+    }
+,
+    {
+      "name": "Siganus rivulatus Forsskål & Niebuhr, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/70332"
+    }
+,
+    {
+      "name": "Amphacanthus rivulata (Forsskål & Niebuhr, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564569"
+    }
+,
+    {
+      "name": "Amphacanthus sigan Klunzinger, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/70334"
+    }
+,
+    {
+      "name": "Amphacanthus siganus (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564573"
+    }
+,
+    {
+      "name": "Scarus rivulatus (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553368"
+    }
+,
+    {
+      "name": "Scarus siganus Forsskål, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561730"
+    }
+,
+    {
+      "name": "Siganus siganus (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558224"
+    }
+,
+    {
+      "name": "Teuthis rivulata (Forrskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565604"
+    }
+,
+    {
+      "name": "Teuthis rivulatus (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565605"
+    }
+,
+    {
+      "name": "Teuthis sigana (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565609"
+    }
+,
+    {
+      "name": "Teuthis sigan (Klunzinger, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/70335"
+    }
+,
+    {
+      "name": "Teuthis siganus (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565610"
+    }
+,
+    {
+      "name": "Siganus spinus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/419265"
+    }
+,
+    {
+      "name": "Amphacanthus guamensis Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564550"
+    }
+,
+    {
+      "name": "Amphacanthus marmoratus Quoy & Gaimard, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564559"
+    }
+,
+    {
+      "name": "Amphacanthus scaroides Bleeker, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564572"
+    }
+,
+    {
+      "name": "Amphacanthus striolatus (Günther, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564575"
+    }
+,
+    {
+      "name": "Amphacanthus tumifrons Valenciennes, 1835 p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588721"
+    }
+,
+    {
+      "name": "Sigamus spinus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588720"
+    }
+,
+    {
+      "name": "Siganus marmorata (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558219"
+    }
+,
+    {
+      "name": "Siganus marmoratus (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558220"
+    }
+,
+    {
+      "name": "Siganus striolatus (Günther, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558225"
+    }
+,
+    {
+      "name": "Siganus tumifrons (Valenciennes, 1835) p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588723"
+    }
+,
+    {
+      "name": "Sparus spinus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/560074"
+    }
+,
+    {
+      "name": "Sparus spinus Osbeck, 1757",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/560073"
+    }
+,
+    {
+      "name": "Teuthis marmorata (Quoy & Gaimard, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565595"
+    }
+,
+    {
+      "name": "Teuthis striolata Günther, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565612"
+    }
+,
+    {
+      "name": "Teuthis tumifrons (Valenciennes, 1835) p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588722"
+    }
+,
+    {
+      "name": "Siganus stellatus (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425689"
+    }
+,
+    {
+      "name": "Amphacanthus nuchalis Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564563"
+    }
+,
+    {
+      "name": "Amphacanthus stellatus (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564574"
+    }
+,
+    {
+      "name": "Scarus stellatus Forsskål, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561735"
+    }
+,
+    {
+      "name": "Siganus laqueus von Bonde, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558217"
+    }
+,
+    {
+      "name": "Siganus stellatus laqueus von Bonde, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565659"
+    }
+,
+    {
+      "name": "Teuthis stellata (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565611"
+    }
+,
+    {
+      "name": "Theutis stellata (Forsskål, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588724"
+    }
+,
+    {
+      "name": "Siganus sutor (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425690"
+    }
+,
+    {
+      "name": "Amphacanthus abhortani Valenciennes, 1835 p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588725"
+    }
+,
+    {
+      "name": "Amphacanthus olivaceus Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564565"
+    }
+,
+    {
+      "name": "Amphacanthus sutor Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564576"
+    }
+,
+    {
+      "name": "Buro brunneus Lacepède, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563156"
+    }
+,
+    {
+      "name": "Teuthis abhortani (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565558"
+    }
+,
+    {
+      "name": "Siganus uspi Gawel & Woodland, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425691"
+    }
+,
+    {
+      "name": "Lo uspi (Gawel & Woodland, 1974)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565155"
+    }
+,
+    {
+      "name": "Siganus uspae Gawel & Woodland, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588726"
+    }
+,
+    {
+      "name": "Siganus vermiculatus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425692"
+    }
+,
+    {
+      "name": "Amphacanthus russelii Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564571"
+    }
+,
+    {
+      "name": "Amphacanthus vermiculatus Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564578"
+    }
+,
+    {
+      "name": "Siganus shortlandensis Seale, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/558223"
+    }
+,
+    {
+      "name": "Teuthis vermiculata (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565622"
+    }
+,
+    {
+      "name": "Teuthis vermiculatus (Valenciennes, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565623"
+    }
+,
+    {
+      "name": "Siganus vulpinus (Schlegel & Müller, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425693"
+    }
+,
+    {
+      "name": "Amphacanthus vulpinus Schlegel & Müller, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564672"
+    }
+,
+    {
+      "name": "Lo vulpinus (Schlegel & Müller, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565156"
+    }
+,
+    {
+      "name": "Teuthis tubulosa Gronow, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565620"
+    }
+,
+    {
+      "name": "Teuthis vulpina (Schlegel & Müller, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565625"
+    }
+,
+    {
+      "name": "Teuthis vulpinus (Schlegel & Müller, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565626"
+    }
+,
+    {
+      "name": "Siganus woodlandi Randall & Kulbicki, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439265"
+    }
+
+  ]
+}

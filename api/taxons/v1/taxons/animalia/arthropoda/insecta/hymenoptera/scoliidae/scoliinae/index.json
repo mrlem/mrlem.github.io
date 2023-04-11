@@ -1,0 +1,22 @@
+
+{
+  "name": "scoliinae",
+  "children": [
+
+    {
+      "name": "Scoliinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "campsomerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/scoliidae/scoliinae/campsomerini/"
+    }
+,
+    {
+      "name": "scoliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/scoliidae/scoliinae/scoliini/"
+    }
+
+  ]
+}

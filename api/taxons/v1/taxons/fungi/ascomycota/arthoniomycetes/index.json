@@ -1,0 +1,62 @@
+
+{
+  "name": "arthoniomycetes",
+  "children": [
+
+    {
+      "name": "Arthoniomycetes O.E.Erikss. & Winka, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "arthoniales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/arthoniomycetes/arthoniales/"
+    }
+,
+    {
+      "name": "Naevia Fr., 1824",
+      "url": ""
+    }
+,
+    {
+      "name": "Naevia callorioides (Sacc. & Briard) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/862752"
+    }
+,
+    {
+      "name": "Habrostictis callorioides Sacc. & Briard, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879662"
+    }
+,
+    {
+      "name": "Naevia laetissima (Ces.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/862753"
+    }
+,
+    {
+      "name": "Peziza laetissima Ces., 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879663"
+    }
+,
+    {
+      "name": "Phragmonaevia laetissima (Ces.) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883482"
+    }
+,
+    {
+      "name": "Naevia tiliae (Kleb.) Nannf., 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48760"
+    }
+,
+    {
+      "name": "Pseudopeziza tiliae Kleb., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926867"
+    }
+,
+    {
+      "name": "Naevia viciae Fautrey",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/862754"
+    }
+
+  ]
+}

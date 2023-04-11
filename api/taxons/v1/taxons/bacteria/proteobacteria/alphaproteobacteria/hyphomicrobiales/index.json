@@ -1,0 +1,42 @@
+
+{
+  "name": "hyphomicrobiales",
+  "children": [
+
+    {
+      "name": "Hyphomicrobiales Douglas, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "cohaesibacteraceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/hyphomicrobiales/cohaesibacteraceae/"
+    }
+,
+    {
+      "name": "kaistiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/hyphomicrobiales/kaistiaceae/"
+    }
+,
+    {
+      "name": "parvibaculaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/hyphomicrobiales/parvibaculaceae/"
+    }
+,
+    {
+      "name": "pleomorphomonadaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/hyphomicrobiales/pleomorphomonadaceae/"
+    }
+,
+    {
+      "name": "rhizobiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/hyphomicrobiales/rhizobiaceae/"
+    }
+,
+    {
+      "name": "xanthobacteraceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/proteobacteria/alphaproteobacteria/hyphomicrobiales/xanthobacteraceae/"
+    }
+
+  ]
+}

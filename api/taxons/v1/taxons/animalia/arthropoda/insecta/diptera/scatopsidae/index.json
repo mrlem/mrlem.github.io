@@ -1,0 +1,787 @@
+
+{
+  "name": "scatopsidae",
+  "children": [
+
+    {
+      "name": "Scatopsidae Newman, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Anapausis Enderlein, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Anapausis aratrix Haenni & Brunhes, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235469"
+    }
+,
+    {
+      "name": "Anapausis baueri Fritz, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235470"
+    }
+,
+    {
+      "name": "Anapausis conica Haenni, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/307402"
+    }
+,
+    {
+      "name": "Anapausis cookiana Haenni, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235471"
+    }
+,
+    {
+      "name": "Anapausis dalmatina Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235472"
+    }
+,
+    {
+      "name": "Anapausis dufourella Haenni, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235473"
+    }
+,
+    {
+      "name": "Anapausis floricola Chandler, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/307404"
+    }
+,
+    {
+      "name": "Anapausis foveolata Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235474"
+    }
+,
+    {
+      "name": "Anapausis haemorrhoidalis Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235475"
+    }
+,
+    {
+      "name": "Anapausis helvetica Haenni, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235476"
+    }
+,
+    {
+      "name": "Anapausis inermis (Ruthé, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21363"
+    }
+,
+    {
+      "name": "Aspistes inermis Ruthé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949941"
+    }
+,
+    {
+      "name": "Anapausis nigripes (Zetterstedt, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235477"
+    }
+,
+    {
+      "name": "Aspistes nigripes Zetterstedt, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949942"
+    }
+,
+    {
+      "name": "Psectrosciara palustris Edwards, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405228"
+    }
+,
+    {
+      "name": "Anapausis pastoralis Haenni, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235478"
+    }
+,
+    {
+      "name": "Anapausis pollicata Chandler, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235479"
+    }
+,
+    {
+      "name": "Anapausis rectinervis Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235480"
+    }
+,
+    {
+      "name": "Anapausis soluta (Loew, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21364"
+    }
+,
+    {
+      "name": "Anapausis tenuicauda Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21365"
+    }
+,
+    {
+      "name": "Scatopse soluta Loew, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949943"
+    }
+,
+    {
+      "name": "Anapausis talpae (Verrall, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21366"
+    }
+,
+    {
+      "name": "Scatopse talpae Verrall, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949944"
+    }
+,
+    {
+      "name": "Apiloscatopse Cook, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "Apiloscatopse bifilata (Haliday in Walker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235465"
+    }
+,
+    {
+      "name": "Scatopse bifilata Haliday in Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949945"
+    }
+,
+    {
+      "name": "Apiloscatopse filamentosa (Duda, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235466"
+    }
+,
+    {
+      "name": "Apiloscatopse hennigi Cook, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405226"
+    }
+,
+    {
+      "name": "Scatopse filamentosa Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949946"
+    }
+,
+    {
+      "name": "Apiloscatopse flavicollis (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21368"
+    }
+,
+    {
+      "name": "Scatopse flavicollis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949947"
+    }
+,
+    {
+      "name": "Scatopse ochracea Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949948"
+    }
+,
+    {
+      "name": "Apiloscatopse flavocincta (Duda, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235467"
+    }
+,
+    {
+      "name": "Scatopse flavocincta Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949949"
+    }
+,
+    {
+      "name": "Apiloscatopse fuscohalterata (Duda, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/307393"
+    }
+,
+    {
+      "name": "Scatopse fuscohalterata Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949950"
+    }
+,
+    {
+      "name": "Apiloscatopse mattheyi Haenni, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235468"
+    }
+,
+    {
+      "name": "Apiloscatopse picea (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21370"
+    }
+,
+    {
+      "name": "Scatopse picea Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949951"
+    }
+,
+    {
+      "name": "Apiloscatopse scutellata (Loew, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21371"
+    }
+,
+    {
+      "name": "Scatopse cochleata Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405227"
+    }
+,
+    {
+      "name": "Scatopse scutellata Loew, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949952"
+    }
+,
+    {
+      "name": "Aspistes Meigen, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Aspistes berolinensis Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21358"
+    }
+,
+    {
+      "name": "Aspistes pullus Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405229"
+    }
+,
+    {
+      "name": "Coboldia Melander, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Coboldia fuscipes (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21375"
+    }
+,
+    {
+      "name": "Scatopse flavitarsis Zetterstedt, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405224"
+    }
+,
+    {
+      "name": "Scatopse fuscipes Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949953"
+    }
+,
+    {
+      "name": "Scatopse recurva Loew, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405223"
+    }
+,
+    {
+      "name": "Scatopse simplex Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405225"
+    }
+,
+    {
+      "name": "Colobostema Enderlein, 1926",
+      "url": ""
+    }
+,
+    {
+      "name": "Colobostema flavimanum (Strobl, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235462"
+    }
+,
+    {
+      "name": "Scatopse flavimanum Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949954"
+    }
+,
+    {
+      "name": "Colobostema griseinerve (Duda, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235463"
+    }
+,
+    {
+      "name": "Scatopse griseinerve Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949955"
+    }
+,
+    {
+      "name": "Colobostema infumatum (Haliday, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/307391"
+    }
+,
+    {
+      "name": "Scatopse infumatum Haliday, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949956"
+    }
+,
+    {
+      "name": "Colobostema nigripenne (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21377"
+    }
+,
+    {
+      "name": "Colobostema stackelbergi Krivosheina, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405220"
+    }
+,
+    {
+      "name": "Scatopse annulipes von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405218"
+    }
+,
+    {
+      "name": "Scatopse bureschiana Enderlein, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405219"
+    }
+,
+    {
+      "name": "Scatopse nigripennis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949957"
+    }
+,
+    {
+      "name": "Colobostema obscuritarse (Strobl, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235464"
+    }
+,
+    {
+      "name": "Scatopse obscuritarse Strobl, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949958"
+    }
+,
+    {
+      "name": "Colobostema triste (Zetterstedt, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21378"
+    }
+,
+    {
+      "name": "Colobostema oldenbergi Enderlein, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405221"
+    }
+,
+    {
+      "name": "Scatopse sziladyi Zilahi-Sebess, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405222"
+    }
+,
+    {
+      "name": "Scatopse triste Zetterstedt, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949959"
+    }
+,
+    {
+      "name": "Ectaetia Enderlein, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Ectaetia clavipes (Loew, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21360"
+    }
+,
+    {
+      "name": "Scatopse clavipes Loew, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949960"
+    }
+,
+    {
+      "name": "Ectaetia platyscelis (Loew, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235481"
+    }
+,
+    {
+      "name": "Scatopse platyscelis Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949961"
+    }
+,
+    {
+      "name": "Efcookella Haenni, 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "Efcookella albitarsis (Zetterstedt, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235461"
+    }
+,
+    {
+      "name": "Cookella albitarsis (Zetterstedt, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21380"
+    }
+,
+    {
+      "name": "Scatopse albitarsis Zetterstedt, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949962"
+    }
+,
+    {
+      "name": "Ferneiella Cook in Freeman, 1985",
+      "url": ""
+    }
+,
+    {
+      "name": "Ferneiella brevifurca (Enderlein, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21382"
+    }
+,
+    {
+      "name": "Reichertella brevifurca Enderlein, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949963"
+    }
+,
+    {
+      "name": "Ferneiella incompleta (Verrall, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21383"
+    }
+,
+    {
+      "name": "Scatopse incompleta Verrall, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949964"
+    }
+,
+    {
+      "name": "Holoplagia Enderlein, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Holoplagia lucifuga (Loew, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235459"
+    }
+,
+    {
+      "name": "Scatopse lucifuga Loew, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949965"
+    }
+,
+    {
+      "name": "Holoplagia richardsi (Edwards, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235460"
+    }
+,
+    {
+      "name": "Scatopse richardsi Edwards, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949966"
+    }
+,
+    {
+      "name": "Holoplagia transversalis (Loew, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21386"
+    }
+,
+    {
+      "name": "Scatopse transversalis Loew, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949967"
+    }
+,
+    {
+      "name": "Parascatopse Cook, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Parascatopse minutissima (Verrall, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235458"
+    }
+,
+    {
+      "name": "Scatopse cingulipes Strobl, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405217"
+    }
+,
+    {
+      "name": "Scatopse minutissima Verrall, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949968"
+    }
+,
+    {
+      "name": "Reichertella Enderlein, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Reichertella geniculata (Zetterstedt, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235455"
+    }
+,
+    {
+      "name": "Reichertella (Reichertella) geniculata (Zetterstedt, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21391"
+    }
+,
+    {
+      "name": "Scatopse clavinervis Lundström, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405214"
+    }
+,
+    {
+      "name": "Scatopse consimilis Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405213"
+    }
+,
+    {
+      "name": "Scatopse geniculata Zetterstedt, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949969"
+    }
+,
+    {
+      "name": "Reichertella nigra (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235456"
+    }
+,
+    {
+      "name": "Reichertella (Reichertella) nigra (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21392"
+    }
+,
+    {
+      "name": "Reichertella pedicella Enderlein, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405215"
+    }
+,
+    {
+      "name": "Scatopse nigra Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949970"
+    }
+,
+    {
+      "name": "Reichertella pulicaria (Loew, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235457"
+    }
+,
+    {
+      "name": "Reichertella (Reichertella) pulicaria (H. Loew, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21393"
+    }
+,
+    {
+      "name": "Scatopse integrata Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405216"
+    }
+,
+    {
+      "name": "Scatopse pulicaria Loew, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949971"
+    }
+,
+    {
+      "name": "Rhexoza Enderlein, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhexosa ",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhexoza lydiae Withers, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647203"
+    }
+,
+    {
+      "name": "Rhexosa lydiae Withers, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/443440"
+    }
+,
+    {
+      "name": "Rhexoza subnitens (Verrall, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235454"
+    }
+,
+    {
+      "name": "Rhexosa subnitens (Verrall, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21404"
+    }
+,
+    {
+      "name": "Scatopse subnitens Verrall, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949972"
+    }
+,
+    {
+      "name": "Scatopse Geoffroy, 1762",
+      "url": ""
+    }
+,
+    {
+      "name": "Scatopse globulicauda Lastovka & Haenni, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235453"
+    }
+,
+    {
+      "name": "Scatopse notata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21407"
+    }
+,
+    {
+      "name": "Ceria decemnodia Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405203"
+    }
+,
+    {
+      "name": "Musca nectarea Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405204"
+    }
+,
+    {
+      "name": "Scathopse nigra Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821017"
+    }
+,
+    {
+      "name": "Scatopse dubia Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405208"
+    }
+,
+    {
+      "name": "Scatopse femoralis Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405212"
+    }
+,
+    {
+      "name": "Scatopse glabra Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405211"
+    }
+,
+    {
+      "name": "Scatopse minuta Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405210"
+    }
+,
+    {
+      "name": "Scatopse punctata Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405209"
+    }
+,
+    {
+      "name": "Tipula albipennis Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405207"
+    }
+,
+    {
+      "name": "Tipula latrinarum De Geer, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405205"
+    }
+,
+    {
+      "name": "Tipula notata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850407"
+    }
+,
+    {
+      "name": "Tipula scathopse Schrank, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405206"
+    }
+,
+    {
+      "name": "Swammerdamella Enderlein, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Swammerdamella acuta Cook, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235450"
+    }
+,
+    {
+      "name": "Swammerdamella adercotris Cook, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235451"
+    }
+,
+    {
+      "name": "Swammerdamella brevicornis (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21411"
+    }
+,
+    {
+      "name": "Aldrovandiella brevicornis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949974"
+    }
+,
+    {
+      "name": "Scatopse brevicornis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949973"
+    }
+,
+    {
+      "name": "Swammerdamella genypodis Cook, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235452"
+    }
+,
+    {
+      "name": "Thripomorpha Enderlein, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Thripomorpha bifida (Zilahi-Sebess, 1956)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235444"
+    }
+,
+    {
+      "name": "Aldrovandiella bifida Zilahi-Sebess, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949975"
+    }
+,
+    {
+      "name": "Rhegmoclema collini Cook, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405199"
+    }
+,
+    {
+      "name": "Thripomorpha coxendix (Verrall, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235445"
+    }
+,
+    {
+      "name": "Scatopse coxendix Verrall, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949976"
+    }
+,
+    {
+      "name": "Thripomorpha freyi (Cook, 1969)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235446"
+    }
+,
+    {
+      "name": "Rhegmoclema freyi Cook, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949977"
+    }
+,
+    {
+      "name": "Thripomorpha halteratum (Meigen, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235447"
+    }
+,
+    {
+      "name": "Aldrovandiella winthemi Duda, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405200"
+    }
+,
+    {
+      "name": "Rhegmoclema halteratum (Meigen, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21401"
+    }
+,
+    {
+      "name": "Rhegmoclema winthemi (Duda, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21402"
+    }
+,
+    {
+      "name": "Scatopse halterata Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949978"
+    }
+,
+    {
+      "name": "Thripomorpha paludicola Enderlein, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235448"
+    }
+,
+    {
+      "name": "Aldrovandiella edwardsi Collin, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/405202"
+    }
+,
+    {
+      "name": "Thripomorpha verralli (Edwards, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235449"
+    }
+,
+    {
+      "name": "Aldrovandiella verralli Edwards, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949982"
+    }
+
+  ]
+}

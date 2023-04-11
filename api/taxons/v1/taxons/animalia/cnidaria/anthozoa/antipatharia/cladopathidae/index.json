@@ -1,0 +1,27 @@
+
+{
+  "name": "cladopathidae",
+  "children": [
+
+    {
+      "name": "Cladopathidae Kinoshita, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "cladopathinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/anthozoa/antipatharia/cladopathidae/cladopathinae/"
+    }
+,
+    {
+      "name": "hexapathinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/anthozoa/antipatharia/cladopathidae/hexapathinae/"
+    }
+,
+    {
+      "name": "sibopathinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/anthozoa/antipatharia/cladopathidae/sibopathinae/"
+    }
+
+  ]
+}

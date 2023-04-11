@@ -1,0 +1,452 @@
+
+{
+  "name": "anthribidae",
+  "children": [
+
+    {
+      "name": "Anthribidae Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "anthribinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/anthribidae/anthribinae/"
+    }
+,
+    {
+      "name": "choraginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/anthribidae/choraginae/"
+    }
+,
+    {
+      "name": "Aethessa Jordan, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Aethessa adamsoni Jordan, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645715"
+    }
+,
+    {
+      "name": "Aethessa mumfordi Jordan, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645714"
+    }
+,
+    {
+      "name": "Araeocerodes Blackburn, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Araeocerodes rapaae (Zimmerman, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775890"
+    }
+,
+    {
+      "name": "Melanopsacus rapaae Zimmerman, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920488"
+    }
+,
+    {
+      "name": "Brevibarra Jordan, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Brevibarra scotosagis Jordan, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852639"
+    }
+,
+    {
+      "name": "Cisanthribus Zimmerman, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Cisanthribus convexus Zimmerman, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775891"
+    }
+,
+    {
+      "name": "Corynaecia Jordan, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Corynaecia albosquamulatus (Frieser, 2000)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848819"
+    }
+,
+    {
+      "name": "Megatermis albosquamulatus Frieser, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006557"
+    }
+,
+    {
+      "name": "Corynaecia difficilis (Frieser, 1980)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711088"
+    }
+,
+    {
+      "name": "Megatermis difficilis Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006539"
+    }
+,
+    {
+      "name": "Corynaecia mameti (Jordan, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711089"
+    }
+,
+    {
+      "name": "Heniocera mameti Jordan, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006560"
+    }
+,
+    {
+      "name": "Corynaecia proximus (Jordan, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711090"
+    }
+,
+    {
+      "name": "Eucorynus Schönherr, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Eucorynus crassicornis (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711098"
+    }
+,
+    {
+      "name": "Anthribus crassicornis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006561"
+    }
+,
+    {
+      "name": "Eugonodes Jordan, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Eugonodes marmoreus Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852641"
+    }
+,
+    {
+      "name": "Euxuthus Jordan, 1937",
+      "url": ""
+    }
+,
+    {
+      "name": "Euxuthus homochrous Jordan, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852644"
+    }
+,
+    {
+      "name": "Gomyaccudus Frieser, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "Gomyaccudus silphoides Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711080"
+    }
+,
+    {
+      "name": "Jordanthribus Zimmerman, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Jordanthribus planifacietus Zimmerman, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775893"
+    }
+,
+    {
+      "name": "Mauia Blackburn, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Mauia subnotata (Boheman, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645530"
+    }
+,
+    {
+      "name": "Araecerus subnotatus Boheman, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774905"
+    }
+,
+    {
+      "name": "Mesidiotropis Jordan, 1937",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesidiotropis scabrosus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711092"
+    }
+,
+    {
+      "name": "Monocloeus Jordan, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Monocloeus albarius Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852625"
+    }
+,
+    {
+      "name": "Monocloeus basalis Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852632"
+    }
+,
+    {
+      "name": "Monocloeus brulei Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852627"
+    }
+,
+    {
+      "name": "Monocloeus centralis Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852633"
+    }
+,
+    {
+      "name": "Monocloeus cleroides Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852628"
+    }
+,
+    {
+      "name": "Monocloeus costatus Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852634"
+    }
+,
+    {
+      "name": "Monocloeus furvus Jordan, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852635"
+    }
+,
+    {
+      "name": "Monocloeus insularis (Frieser, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918260"
+    }
+,
+    {
+      "name": "Homocloeus insularis (Frieser, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640580"
+    }
+,
+    {
+      "name": "Piezocorynus insularis Frieser, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934110"
+    }
+,
+    {
+      "name": "Monocloeus moraguesi Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852629"
+    }
+,
+    {
+      "name": "Monocloeus or Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852636"
+    }
+,
+    {
+      "name": "Monocloeus ramoides Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852630"
+    }
+,
+    {
+      "name": "Monocloeus rhombifer Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852637"
+    }
+,
+    {
+      "name": "Monocloeus stellatus Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852631"
+    }
+,
+    {
+      "name": "Neseonos ",
+      "url": ""
+    }
+,
+    {
+      "name": "Neseonos brunneus Zimmerman, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775894"
+    }
+,
+    {
+      "name": "Phloeobius Schönherr, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Phloeobius alternans (Wiedemann, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711099"
+    }
+,
+    {
+      "name": "Phloeobius gigas (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645708"
+    }
+,
+    {
+      "name": "Anthribus gigas Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006562"
+    }
+,
+    {
+      "name": "Phloeobius gigas horaeus Jordan, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645710"
+    }
+,
+    {
+      "name": "Phloeobius longicornis (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711100"
+    }
+,
+    {
+      "name": "Anthribus longicornis Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006563"
+    }
+,
+    {
+      "name": "Phloeobius tuberculosus (Gerstaecker, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966856"
+    }
+,
+    {
+      "name": "Rhinobrachys ",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhinobrachys asperulus Fairmaire, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775895"
+    }
+,
+    {
+      "name": "Strabus Jordan, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Strabus annulipes (Jordan, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852611"
+    }
+,
+    {
+      "name": "Monocloeus annulipes Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852612"
+    }
+,
+    {
+      "name": "Strabus brunneus Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852605"
+    }
+,
+    {
+      "name": "Strabus bullatocollis Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852607"
+    }
+,
+    {
+      "name": "Strabus capucinus (Jordan, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852613"
+    }
+,
+    {
+      "name": "Goniocloeus capucinus Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852614"
+    }
+,
+    {
+      "name": "Strabus cerberus Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852608"
+    }
+,
+    {
+      "name": "Strabus insignis (Jordan, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852615"
+    }
+,
+    {
+      "name": "Goniocloeus insignis Jordan, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852616"
+    }
+,
+    {
+      "name": "Strabus insignoides Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852609"
+    }
+,
+    {
+      "name": "Strabus minor (Jordan, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852617"
+    }
+,
+    {
+      "name": "Goniocloeus minor Jordan, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758197"
+    }
+,
+    {
+      "name": "Strabus morulus (Jordan, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852618"
+    }
+,
+    {
+      "name": "Goniocloeus morulus Jordan, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852619"
+    }
+,
+    {
+      "name": "Strabus planipennis (Kirsch, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852620"
+    }
+,
+    {
+      "name": "Straboscopus planipennis Kirsch, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852621"
+    }
+,
+    {
+      "name": "Strabus strix Rheinheimer, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852610"
+    }
+,
+    {
+      "name": "Strabus subaequalis (Frieser, 1983)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852622"
+    }
+,
+    {
+      "name": "Goniocloeus subaequalis Frieser, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852623"
+    }
+,
+    {
+      "name": "Valenfriesia Alonso-Zarazaga & Lyal, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Valenfriesia cylindrica (Jordan, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775896"
+    }
+,
+    {
+      "name": "Notioxenus cylindricus Jordan, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645532"
+    }
+,
+    {
+      "name": "urodontinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/anthribidae/urodontinae/"
+    }
+
+  ]
+}

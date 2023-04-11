@@ -1,0 +1,52 @@
+
+{
+  "name": "syngamidae",
+  "children": [
+
+    {
+      "name": "Syngamidae Leiper, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyathostoma Blanchard, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyathostoma lari Blanchard, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238834"
+    }
+,
+    {
+      "name": "Stephanurus Diesing, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "Stephanurus dentatus Diesing, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/947942"
+    }
+,
+    {
+      "name": "Syngamus Siebold, 1836",
+      "url": ""
+    }
+,
+    {
+      "name": "Syngamus trachea (Montagu, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982708"
+    }
+,
+    {
+      "name": "Fasciola trachea Montagu, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982710"
+    }
+,
+    {
+      "name": "syngaminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/rhabditida/syngamidae/syngaminae/"
+    }
+
+  ]
+}

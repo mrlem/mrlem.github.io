@@ -1,0 +1,22 @@
+
+{
+  "name": "ypsolophidae",
+  "children": [
+
+    {
+      "name": "Ypsolophidae Guenée, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "ochsenheimeriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/ypsolophidae/ochsenheimeriinae/"
+    }
+,
+    {
+      "name": "ypsolophinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/ypsolophidae/ypsolophinae/"
+    }
+
+  ]
+}

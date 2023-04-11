@@ -1,0 +1,647 @@
+
+{
+  "name": "sterrhinae",
+  "children": [
+
+    {
+      "name": "Sterrhinae Meyrick, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "cosymbiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/cosymbiini/"
+    }
+,
+    {
+      "name": "cyllopodini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/cyllopodini/"
+    }
+,
+    {
+      "name": "Acratodes Guenée, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Acratodes noctuata Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641814"
+    }
+,
+    {
+      "name": "Acratodes praepeditaria (Möschler, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641815"
+    }
+,
+    {
+      "name": "Xystrota praepeditaria Möschler, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/986060"
+    }
+,
+    {
+      "name": "Aphanophleps Warren, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphanophleps rubricolor (Thierry-Mieg, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784490"
+    }
+,
+    {
+      "name": "Acidalia rubricolor Thierry-Mieg, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784491"
+    }
+,
+    {
+      "name": "Aphanophleps vinosaria Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784492"
+    }
+,
+    {
+      "name": "Aphanophleps vulpina Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784493"
+    }
+,
+    {
+      "name": "Eumacrodes Warren, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Eumacrodes excilinea Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784483"
+    }
+,
+    {
+      "name": "Eumacrodes yponomeutaria (Guenée, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812885"
+    }
+,
+    {
+      "name": "Gnamptoloma Warren, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Gnamptoloma rubra Holloway, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833309"
+    }
+,
+    {
+      "name": "Haemalea Hübner, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Haemalea delotaria Hübner, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784479"
+    }
+,
+    {
+      "name": "Acidalia ustaria Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784480"
+    }
+,
+    {
+      "name": "Haemalea ustaria (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784481"
+    }
+,
+    {
+      "name": "Hemipterodes Warren, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemipterodes curviplena (Warren, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784475"
+    }
+,
+    {
+      "name": "Lipomelia (?) curviplena Warren, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784476"
+    }
+,
+    {
+      "name": "Hemipterodes curviplena subvinacea Prout, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784477"
+    }
+,
+    {
+      "name": "Hemipterodes rotundata Dognin, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784474"
+    }
+,
+    {
+      "name": "Hemipterodes selaostigma Prout, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784473"
+    }
+,
+    {
+      "name": "Hemipterodes subnigrata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783516"
+    }
+,
+    {
+      "name": "Leptostales Möschler, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptostales desmogramma (Dyar, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783648"
+    }
+,
+    {
+      "name": "Calyptocome desmogramma Dyar, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783650"
+    }
+,
+    {
+      "name": "Leptostales gerocoma (Dyar, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783653"
+    }
+,
+    {
+      "name": "Calyptocome gerocoma Dyar, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783655"
+    }
+,
+    {
+      "name": "Leptostales hegeter (Dyar, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783657"
+    }
+,
+    {
+      "name": "Calyptocome hegeter Dyar, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783658"
+    }
+,
+    {
+      "name": "Leptostales nycteis (Druce, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783659"
+    }
+,
+    {
+      "name": "Acidalia nycteis Druce, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783660"
+    }
+,
+    {
+      "name": "Leptostales nycteis ignifera (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783662"
+    }
+,
+    {
+      "name": "Crypsityla ignifera Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783663"
+    }
+,
+    {
+      "name": "Leptostales subroseata (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783664"
+    }
+,
+    {
+      "name": "Acidalia subroseata Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783665"
+    }
+,
+    {
+      "name": "Leptostales subrubella (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783666"
+    }
+,
+    {
+      "name": "Crypsityla subrubella Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783667"
+    }
+,
+    {
+      "name": "Leptostales vitticostata (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783669"
+    }
+,
+    {
+      "name": "Ptychopoda vitticostata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783670"
+    }
+,
+    {
+      "name": "Leptostales vitticostata vitticostata (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783671"
+    }
+,
+    {
+      "name": "Lipotaxia Prout, 1918",
+      "url": ""
+    }
+,
+    {
+      "name": "Lipotaxia irregularis Prout, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783646"
+    }
+,
+    {
+      "name": "Lobocleta Warren, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Lobocleta indecora Warren, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641854"
+    }
+,
+    {
+      "name": "Lobocleta martinicensis Herbulot, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648515"
+    }
+,
+    {
+      "name": "Lobocleta spoliataria (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783642"
+    }
+,
+    {
+      "name": "Cleta spoliataria Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783643"
+    }
+,
+    {
+      "name": "Lobocleta translineata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783644"
+    }
+,
+    {
+      "name": "Lobocleta tricuspida Herbulot, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648516"
+    }
+,
+    {
+      "name": "Neothysanis Dognin, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Neothysanis toulgoeti Herbulot, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783632"
+    }
+,
+    {
+      "name": "Odontoptila Warren, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Odontoptila elaeoides Prout, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783628"
+    }
+,
+    {
+      "name": "Pleuroprucha Möschler, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Pleuroprucha molitaria Möschler, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641888"
+    }
+,
+    {
+      "name": "Pleuroprucha molitaria guadelupa Herbulot, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641890"
+    }
+,
+    {
+      "name": "Pleuroprucha protopages Prout, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783619"
+    }
+,
+    {
+      "name": "Pleuroprucha rubescens (Dognin, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783622"
+    }
+,
+    {
+      "name": "Deptalia rubescens Dognin, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783623"
+    }
+,
+    {
+      "name": "Pseudasellodes Warren, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Asellodes Guenée, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudasellodes fenestraria (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783607"
+    }
+,
+    {
+      "name": "Asellodes daphnites Oberthür, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783612"
+    }
+,
+    {
+      "name": "Asellodes fenestraria Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783608"
+    }
+,
+    {
+      "name": "Pseudasellodes daphnites (Oberthür, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783610"
+    }
+,
+    {
+      "name": "Pseudasellodes hebetior (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783614"
+    }
+,
+    {
+      "name": "Asellodes daulias Oberthür, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783617"
+    }
+,
+    {
+      "name": "Asellodes hebetior Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783615"
+    }
+,
+    {
+      "name": "Pseudasellodes daulias (Oberthür, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783616"
+    }
+,
+    {
+      "name": "Ptychamalia Prout, 1932",
+      "url": ""
+    }
+,
+    {
+      "name": "Ptychamalia immunda (Dognin, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783599"
+    }
+,
+    {
+      "name": "Haemalea immunda Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783600"
+    }
+,
+    {
+      "name": "Ptychamalia perlata (Warren, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641952"
+    }
+,
+    {
+      "name": "Haemalea perlata Warren, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783597"
+    }
+,
+    {
+      "name": "Ptychamalia perlata nigricostata (Warren, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641953"
+    }
+,
+    {
+      "name": "Ptychamalia reducta (Dognin, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783601"
+    }
+,
+    {
+      "name": "Haemalea reducta Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783602"
+    }
+,
+    {
+      "name": "Scelolophia Hulst, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Scelolophia terminata Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641955"
+    }
+,
+    {
+      "name": "Leptostales terminata (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998524"
+    }
+,
+    {
+      "name": "Scelolophia terminata fragmentata (Warren, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641956"
+    }
+,
+    {
+      "name": "Tricentra Warren, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Tricentra acuta Herbulot, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783525"
+    }
+,
+    {
+      "name": "Tricentra aequilobata Herbulot, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783526"
+    }
+,
+    {
+      "name": "Tricentra albiguttata (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783527"
+    }
+,
+    {
+      "name": "Pammeris albiguttata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783528"
+    }
+,
+    {
+      "name": "Tricentra amibomena Prout, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783529"
+    }
+,
+    {
+      "name": "Tricentra angulisigna Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783530"
+    }
+,
+    {
+      "name": "Tricentra angulisigna angulisigna Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783531"
+    }
+,
+    {
+      "name": "Tricentra auctidisca Prout, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783532"
+    }
+,
+    {
+      "name": "Tricentra aurata (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783533"
+    }
+,
+    {
+      "name": "Heterephyra aurata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783534"
+    }
+,
+    {
+      "name": "Tricentra aurilimbata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783535"
+    }
+,
+    {
+      "name": "Tricentra biguttata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783536"
+    }
+,
+    {
+      "name": "Tricentra brunneomarginata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783537"
+    }
+,
+    {
+      "name": "Tricentra concava Herbulot, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783538"
+    }
+,
+    {
+      "name": "Tricentra consequens Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783539"
+    }
+,
+    {
+      "name": "Tricentra debilis Dognin, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783540"
+    }
+,
+    {
+      "name": "Tricentra flavitornata Prout, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783541"
+    }
+,
+    {
+      "name": "Tricentra fulvifera Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783542"
+    }
+,
+    {
+      "name": "Tricentra fumata (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783543"
+    }
+,
+    {
+      "name": "Pammeris fumata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783544"
+    }
+,
+    {
+      "name": "Tricentra gibbimargo Prout, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783545"
+    }
+,
+    {
+      "name": "Tricentra ignefumosa Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783546"
+    }
+,
+    {
+      "name": "Tricentra kindli Herbulot, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783547"
+    }
+,
+    {
+      "name": "Tricentra lalannei Herbulot, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783548"
+    }
+,
+    {
+      "name": "Tricentra navatteae Herbulot, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783549"
+    }
+,
+    {
+      "name": "Tricentra percrocea Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783550"
+    }
+,
+    {
+      "name": "Tricentra percrocea percrocea Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783551"
+    }
+,
+    {
+      "name": "Tricentra subnexa Prout, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783552"
+    }
+,
+    {
+      "name": "Tricentra unimacula Dognin, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783553"
+    }
+,
+    {
+      "name": "Tricentra vinosata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783554"
+    }
+,
+    {
+      "name": "Tricentra vinosata vinosata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783555"
+    }
+,
+    {
+      "name": "Zalissolepis Warren, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Zalissolepis subviolaria Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783517"
+    }
+,
+    {
+      "name": "Amaurinia subviolaria Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783523"
+    }
+,
+    {
+      "name": "lythriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/lythriini/"
+    }
+,
+    {
+      "name": "rhodometrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/rhodometrini/"
+    }
+,
+    {
+      "name": "rhodostrophiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/rhodostrophiini/"
+    }
+,
+    {
+      "name": "scopulini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/scopulini/"
+    }
+,
+    {
+      "name": "sterrhini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/sterrhini/"
+    }
+,
+    {
+      "name": "timandrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/timandrini/"
+    }
+
+  ]
+}

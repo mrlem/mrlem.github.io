@@ -1,0 +1,22 @@
+
+{
+  "name": "nemestrinidae",
+  "children": [
+
+    {
+      "name": "Nemestrinidae Macquart, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "nemestrininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/nemestrinidae/nemestrininae/"
+    }
+,
+    {
+      "name": "trichopsideinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/nemestrinidae/trichopsideinae/"
+    }
+
+  ]
+}

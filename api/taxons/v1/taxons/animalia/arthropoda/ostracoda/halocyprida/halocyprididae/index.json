@@ -1,0 +1,27 @@
+
+{
+  "name": "halocyprididae",
+  "children": [
+
+    {
+      "name": "Halocyprididae Dana, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "archiconchoeciinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/halocyprida/halocyprididae/archiconchoeciinae/"
+    }
+,
+    {
+      "name": "conchoeciinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/halocyprida/halocyprididae/conchoeciinae/"
+    }
+,
+    {
+      "name": "euconchoeciinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/halocyprida/halocyprididae/euconchoeciinae/"
+    }
+
+  ]
+}

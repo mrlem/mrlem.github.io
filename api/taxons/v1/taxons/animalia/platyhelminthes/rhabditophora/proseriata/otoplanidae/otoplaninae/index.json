@@ -1,0 +1,62 @@
+
+{
+  "name": "otoplaninae",
+  "children": [
+
+    {
+      "name": "Otoplaninae Hallez, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Bothriomolus Hallez, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Bothriomolus balticus Meixner, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/269051"
+    }
+,
+    {
+      "name": "Notocaryoplana Steinböck, 1935",
+      "url": ""
+    }
+,
+    {
+      "name": "Notocaryoplana arctica Steinböck, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892311"
+    }
+,
+    {
+      "name": "Notocaryoplanella glandulosa (Ax, 1951)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892312"
+    }
+,
+    {
+      "name": "Otoplanella Ax, 1956",
+      "url": ""
+    }
+,
+    {
+      "name": "Otoplanella baltica (Meixner, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368405"
+    }
+,
+    {
+      "name": "Otoplana baltica Meixner, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388742"
+    }
+,
+    {
+      "name": "Otoplanella schulzi (Ax, 1951)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892313"
+    }
+,
+    {
+      "name": "Otoplana schulzi Ax, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892314"
+    }
+
+  ]
+}

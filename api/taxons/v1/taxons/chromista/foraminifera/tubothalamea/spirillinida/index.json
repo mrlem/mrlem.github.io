@@ -1,0 +1,47 @@
+
+{
+  "name": "spirillinida",
+  "children": [
+
+    {
+      "name": "Spirillinida Hohenegger & Piller, 1975",
+      "url": ""
+    }
+,
+    {
+      "name": "ammodiscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/tubothalamea/spirillinida/ammodiscidae/"
+    }
+,
+    {
+      "name": "Ammodiscina Mikhalevich, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "Ammodiscoidea Reuss, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "patellinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/tubothalamea/spirillinida/patellinidae/"
+    }
+,
+    {
+      "name": "planispirillinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/tubothalamea/spirillinida/planispirillinidae/"
+    }
+,
+    {
+      "name": "spirillinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/tubothalamea/spirillinida/spirillinidae/"
+    }
+,
+    {
+      "name": "Spirillinina Ehrenberg, 1843",
+      "url": ""
+    }
+
+  ]
+}

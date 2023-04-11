@@ -1,0 +1,37 @@
+
+{
+  "name": "apidae",
+  "children": [
+
+    {
+      "name": "Apidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "anthophorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/anthophorinae/"
+    }
+,
+    {
+      "name": "apinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/apinae/"
+    }
+,
+    {
+      "name": "eucerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/eucerinae/"
+    }
+,
+    {
+      "name": "nomadinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/nomadinae/"
+    }
+,
+    {
+      "name": "xylocopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/xylocopinae/"
+    }
+
+  ]
+}

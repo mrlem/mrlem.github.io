@@ -1,0 +1,27 @@
+
+{
+  "name": "psittaciformes",
+  "children": [
+
+    {
+      "name": "Psittaciformes Wagler, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "cacatuidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/psittaciformes/cacatuidae/"
+    }
+,
+    {
+      "name": "psittacidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/psittaciformes/psittacidae/"
+    }
+,
+    {
+      "name": "psittaculidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/psittaciformes/psittaculidae/"
+    }
+
+  ]
+}

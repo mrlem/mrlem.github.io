@@ -1,0 +1,27 @@
+
+{
+  "name": "lyctinae",
+  "children": [
+
+    {
+      "name": "Lyctinae Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "Lyctidae Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "lyctini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/lyctinae/lyctini/"
+    }
+,
+    {
+      "name": "trogoxylini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/lyctinae/trogoxylini/"
+    }
+
+  ]
+}

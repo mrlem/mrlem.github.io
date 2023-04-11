@@ -1,0 +1,907 @@
+
+{
+  "name": "scathophagidae",
+  "children": [
+
+    {
+      "name": "Scathophagidae Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthocnema Becker, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthocnema glaucescens (Loew, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226549"
+    }
+,
+    {
+      "name": "Acanthocnema latipennis Becker, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399674"
+    }
+,
+    {
+      "name": "Acanthocnema nigripes Ringdahl, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399673"
+    }
+,
+    {
+      "name": "Cordylura glaucescens Loew, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948665"
+    }
+,
+    {
+      "name": "Acanthocnema nigrimana (Zetterstedt, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969436"
+    }
+,
+    {
+      "name": "Cordylura nigrimana Zetterstedt, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969438"
+    }
+,
+    {
+      "name": "Acanthocnema Becker, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Clinoceroides Hendel, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetosa Coquillett, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetosa punctipes (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26789"
+    }
+,
+    {
+      "name": "Cordylura punctipes Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948666"
+    }
+,
+    {
+      "name": "Cleigastra Macquart, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Cleigastra apicalis (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26781"
+    }
+,
+    {
+      "name": "Cordylura apicalis Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948667"
+    }
+,
+    {
+      "name": "Conisternum Strobl, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Conisternum decipiens (Haliday in Curtis, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226550"
+    }
+,
+    {
+      "name": "Scatophaga decipiens Haliday in Curtis, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948668"
+    }
+,
+    {
+      "name": "Conisternum obscurum (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226551"
+    }
+,
+    {
+      "name": "Cordylura obscura Fallén, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948669"
+    }
+,
+    {
+      "name": "Cordilura Fallén, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "Cordilura aemula Collin, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285874"
+    }
+,
+    {
+      "name": "Cordylura aemula Collin, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969449"
+    }
+,
+    {
+      "name": "Cordilura albilabris (Fabricius, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002787"
+    }
+,
+    {
+      "name": "Ocyptera albilabris Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948688"
+    }
+,
+    {
+      "name": "Phrosia albilabris (Fabricius, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26827"
+    }
+,
+    {
+      "name": "Phrosia scirpi Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399703"
+    }
+,
+    {
+      "name": "Cordilura albipes (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226559"
+    }
+,
+    {
+      "name": "Cordilura (Cordilurina) albipes (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26766"
+    }
+,
+    {
+      "name": "Cordylura albipes Fallén, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967948"
+    }
+,
+    {
+      "name": "Cordylura bilineata Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399678"
+    }
+,
+    {
+      "name": "Parallelomma albipes (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967947"
+    }
+,
+    {
+      "name": "Parallelomma hispanica Czerny in Strobl, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399679"
+    }
+,
+    {
+      "name": "Cordilura atrata Zetterstedt, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26758"
+    }
+,
+    {
+      "name": "Cordilura ciliata (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226553"
+    }
+,
+    {
+      "name": "Cordylura ciliata Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969456"
+    }
+,
+    {
+      "name": "Cordilura fuscipes Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002789"
+    }
+,
+    {
+      "name": "Cordilura fuscitibia Rondani, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226560"
+    }
+,
+    {
+      "name": "Cordylura fuscipes Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002790"
+    }
+,
+    {
+      "name": "Cordylura fuscitibia Rondani, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969474"
+    }
+,
+    {
+      "name": "Cordilura impudica (Rondani, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285878"
+    }
+,
+    {
+      "name": "Cordilura umbrosa (Loew, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26764"
+    }
+,
+    {
+      "name": "Cordylura impudica Rondani, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969457"
+    }
+,
+    {
+      "name": "Cordylura umbrosa Loew, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969470"
+    }
+,
+    {
+      "name": "Cordilura picipes (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226554"
+    }
+,
+    {
+      "name": "Cordylura picipes Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969460"
+    }
+,
+    {
+      "name": "Cordilura pudica (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26763"
+    }
+,
+    {
+      "name": "Cordylura pudica Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969466"
+    }
+,
+    {
+      "name": "Cordilura rufimana (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226557"
+    }
+,
+    {
+      "name": "Cordylura rufimana Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969468"
+    }
+,
+    {
+      "name": "Cordilura rufipes Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002793"
+    }
+,
+    {
+      "name": "Cordilura pubera sensu Fallén, 1810 non (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226555"
+    }
+,
+    {
+      "name": "Cordylura rufipes Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002796"
+    }
+,
+    {
+      "name": "Musca pubera Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850556"
+    }
+,
+    {
+      "name": "Cordilura ustulata (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26768"
+    }
+,
+    {
+      "name": "Cordylura ustulata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969477"
+    }
+,
+    {
+      "name": "Cordilura Fallén, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "Cordilurina James, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Scoliaphleps Becker, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Delina Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Delina bicolor (Macquart, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226561"
+    }
+,
+    {
+      "name": "Cleigastra bicolor Macquart, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948670"
+    }
+,
+    {
+      "name": "Delina nigrita (Fallen, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967384"
+    }
+,
+    {
+      "name": "Cordylura nigrita Fallen, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967385"
+    }
+,
+    {
+      "name": "Gimnomera Rondani, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Gimnomera dorsata (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002799"
+    }
+,
+    {
+      "name": "Cordylura dorsata Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002795"
+    }
+,
+    {
+      "name": "Gimnomera tarsea (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/285900"
+    }
+,
+    {
+      "name": "Cordylura tarsea Fallén, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948672"
+    }
+,
+    {
+      "name": "Gymnomera tarsea (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26817"
+    }
+,
+    {
+      "name": "Gonatherus Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Gonatherus planiceps (Fallen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967440"
+    }
+,
+    {
+      "name": "Cordilura planiceps Fallen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967441"
+    }
+,
+    {
+      "name": "Hexamitocera ",
+      "url": ""
+    }
+,
+    {
+      "name": "Hexamitocera loxocerata (Fallén, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969479"
+    }
+,
+    {
+      "name": "Cordilura loxocerata Fallén, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969480"
+    }
+,
+    {
+      "name": "Hydromyza Fallen, 1813",
+      "url": ""
+    }
+,
+    {
+      "name": "Hydromyza confluens Loew, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781667"
+    }
+,
+    {
+      "name": "Hydromyza livens (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26819"
+    }
+,
+    {
+      "name": "Musca livens Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914646"
+    }
+,
+    {
+      "name": "Nupharia rivularis Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399680"
+    }
+,
+    {
+      "name": "Leptopa Zetterstedt, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptopa filiformis Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26831"
+    }
+,
+    {
+      "name": "Cordylura flaveola Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399681"
+    }
+,
+    {
+      "name": "Megaphthalma Becker, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Megaphthalma pallida (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26783"
+    }
+,
+    {
+      "name": "Cordylura pallida Fallén, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948673"
+    }
+,
+    {
+      "name": "Microprosopa Becker, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Microprosopa haemorrhoidalis (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969487"
+    }
+,
+    {
+      "name": "Cordylura haemorrhoidalis Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969488"
+    }
+,
+    {
+      "name": "Micropselapha Becker, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Micropselapha filiformis (Zetterstedt, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969489"
+    }
+,
+    {
+      "name": "Cordylura filiformis Zetterstedt, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969490"
+    }
+,
+    {
+      "name": "Nanna Strobl, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Nanna armillata (Zetterstedt, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967767"
+    }
+,
+    {
+      "name": "Cordylura armillata Zetterstedt, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967768"
+    }
+,
+    {
+      "name": "Nanna articulata (Becker, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26771"
+    }
+,
+    {
+      "name": "Amaurosoma articulata Becker, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948674"
+    }
+,
+    {
+      "name": "Nanna brevifrons (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967769"
+    }
+,
+    {
+      "name": "Cordylura brevifrons Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967770"
+    }
+,
+    {
+      "name": "Nanna fasciata (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26772"
+    }
+,
+    {
+      "name": "Cordylura cinerella Zetterstedt, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399682"
+    }
+,
+    {
+      "name": "Cordylura fasciata Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948675"
+    }
+,
+    {
+      "name": "Nanna flavipes (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26774"
+    }
+,
+    {
+      "name": "Amaurosoma multisetosa Hackman, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399685"
+    }
+,
+    {
+      "name": "Cleigastra frontalis Macquart, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399683"
+    }
+,
+    {
+      "name": "Cordylura flavipes Fallén, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948676"
+    }
+,
+    {
+      "name": "Cordylura trilineata Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399684"
+    }
+,
+    {
+      "name": "Nanna inermis (Becker, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967771"
+    }
+,
+    {
+      "name": "Amaurosoma inermis Becker, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967772"
+    }
+,
+    {
+      "name": "Nanna tibiella (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26778"
+    }
+,
+    {
+      "name": "Cordylura nigripes Zetterstedt, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948679"
+    }
+,
+    {
+      "name": "Cordylura tibiella Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948677"
+    }
+,
+    {
+      "name": "Neochirosia Malloch, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Neochirosia anthrax (Schiner, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969426"
+    }
+,
+    {
+      "name": "Cleigastra anthrax Schiner, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967380"
+    }
+,
+    {
+      "name": "Delina anthrax (Schiner, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967379"
+    }
+,
+    {
+      "name": "Mirekiana anthrax (Schiner, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969429"
+    }
+,
+    {
+      "name": "Neochirosia veratri (Hendel, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969432"
+    }
+,
+    {
+      "name": "Clidogastra veratri Hendel, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967388"
+    }
+,
+    {
+      "name": "Delina veratri (Hendel, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967387"
+    }
+,
+    {
+      "name": "Norellia Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Norellia spinipes (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226562"
+    }
+,
+    {
+      "name": "Acantholena longipennis Séguy, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399689"
+    }
+,
+    {
+      "name": "Achantholena maculipennis Rondani, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399687"
+    }
+,
+    {
+      "name": "Cordylura melaleuca Loew, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399688"
+    }
+,
+    {
+      "name": "Cordylura spinipes Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948680"
+    }
+,
+    {
+      "name": "Norellia (Norellia) spinipes (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26747"
+    }
+,
+    {
+      "name": "Norellia pseudonarcissi Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399686"
+    }
+,
+    {
+      "name": "Norellia tipularia (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226563"
+    }
+,
+    {
+      "name": "Musca tipularia Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914647"
+    }
+,
+    {
+      "name": "Norellisoma Wahlgren, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Norellisoma alpestre (Schiner, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226564"
+    }
+,
+    {
+      "name": "Norellia alpestre Schiner, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948681"
+    }
+,
+    {
+      "name": "Norellia bertei Rondani, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399690"
+    }
+,
+    {
+      "name": "Norellisoma armipes (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226565"
+    }
+,
+    {
+      "name": "Cordylura armipes Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948682"
+    }
+,
+    {
+      "name": "Cordylura flava von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399692"
+    }
+,
+    {
+      "name": "Cordylura flavicauda Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399691"
+    }
+,
+    {
+      "name": "Norellia (Norellisoma) armipes (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26749"
+    }
+,
+    {
+      "name": "Norellia roserii Rondani, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399693"
+    }
+,
+    {
+      "name": "Norellisoma flavicorne (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969491"
+    }
+,
+    {
+      "name": "Cordylura flavicorne Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399694"
+    }
+,
+    {
+      "name": "Norellisoma lituratum (Wiedemann in Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226566"
+    }
+,
+    {
+      "name": "Cordylura lituratum Wiedemann in Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948683"
+    }
+,
+    {
+      "name": "Cordylura spinigera Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399695"
+    }
+,
+    {
+      "name": "Norellia (Norellisoma) liturata (Wiedemann, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26751"
+    }
+,
+    {
+      "name": "Norellisoma nervosum (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226567"
+    }
+,
+    {
+      "name": "Clidogastra flaviceps Vimmer, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399696"
+    }
+,
+    {
+      "name": "Cordylura nervosum Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948684"
+    }
+,
+    {
+      "name": "Norellia (Norellisoma) nervosa (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26753"
+    }
+,
+    {
+      "name": "Norellisoma spinimanum (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226568"
+    }
+,
+    {
+      "name": "Cordylura spinimanum Fallén, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948685"
+    }
+,
+    {
+      "name": "Norellia (Norellisoma) spinimana (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26754"
+    }
+,
+    {
+      "name": "Norellisoma septentrionale Hendel, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399697"
+    }
+,
+    {
+      "name": "Norellisoma striolatum (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226569"
+    }
+,
+    {
+      "name": "Cordylura striolatum Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948686"
+    }
+,
+    {
+      "name": "Norellia (Norellisoma) striolata (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26755"
+    }
+,
+    {
+      "name": "Norellisoma vockerothi Ozerov, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969493"
+    }
+,
+    {
+      "name": "Parallelomma Strobl, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Parallelomma medium Becker, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226570"
+    }
+,
+    {
+      "name": "Parallelomma vittatum (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226571"
+    }
+,
+    {
+      "name": "Chylizosoma beckeri Séguy, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399700"
+    }
+,
+    {
+      "name": "Chylizosoma hostae Hering, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399698"
+    }
+,
+    {
+      "name": "Chylizosoma paucheti Séguy, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399701"
+    }
+,
+    {
+      "name": "Chylizosoma sasakawae Hering, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399699"
+    }
+,
+    {
+      "name": "Cordylura convallariae Kaltenbach, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399702"
+    }
+,
+    {
+      "name": "Cordylura vittatum Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948687"
+    }
+,
+    {
+      "name": "Parallelomma beckeri (Séguy, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26823"
+    }
+,
+    {
+      "name": "Parallelomma paridis Hering, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26824"
+    }
+,
+    {
+      "name": "Parallelomma vittata (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26825"
+    }
+,
+    {
+      "name": "Spaziphora Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Spaziphora hydromyzina (Fallén, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969501"
+    }
+,
+    {
+      "name": "Cordylura hydromyzina Fallén, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969503"
+    }
+,
+    {
+      "name": "Trichopalpus Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichopalpus fraternus (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/226574"
+    }
+,
+    {
+      "name": "Cordylura fraterna Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948689"
+    }
+,
+    {
+      "name": "Trichopalpus fraterna (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/26787"
+    }
+,
+    {
+      "name": "scathophaginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/scathophagidae/scathophaginae/"
+    }
+
+  ]
+}

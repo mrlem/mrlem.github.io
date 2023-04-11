@@ -1,0 +1,22 @@
+
+{
+  "name": "halictinae",
+  "children": [
+
+    {
+      "name": "Halictinae Thomson, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "augochlorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/halictidae/halictinae/augochlorini/"
+    }
+,
+    {
+      "name": "halictini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/halictidae/halictinae/halictini/"
+    }
+
+  ]
+}

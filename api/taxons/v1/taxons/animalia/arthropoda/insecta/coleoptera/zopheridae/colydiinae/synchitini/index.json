@@ -1,0 +1,442 @@
+
+{
+  "name": "synchitini",
+  "children": [
+
+    {
+      "name": "Synchitini L. Redtenbacher, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Synchitini Erichson, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Ablabus Broun, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Ablabus bimaculatus Grouvelle, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910142"
+    }
+,
+    {
+      "name": "Bitoma Herbst, 1793",
+      "url": ""
+    }
+,
+    {
+      "name": "Ditoma Illiger, 1807",
+      "url": ""
+    }
+,
+    {
+      "name": "Bitoma australis Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923340"
+    }
+,
+    {
+      "name": "Bitoma crenata (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224176"
+    }
+,
+    {
+      "name": "Ditoma crenata (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11082"
+    }
+,
+    {
+      "name": "Tritoma crenata Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802013"
+    }
+,
+    {
+      "name": "Bitoma discicollis Sharp, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775837"
+    }
+,
+    {
+      "name": "Bitoma fauveli Grouvelle, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910147"
+    }
+,
+    {
+      "name": "Bitoma fossicollis Grouvelle, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910144"
+    }
+,
+    {
+      "name": "Bitoma insularis White, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910143"
+    }
+,
+    {
+      "name": "Bitoma kanalensis Grouvelle, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910146"
+    }
+,
+    {
+      "name": "Bitoma longior (Grouvelle in Grouvelle & Raffray, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640289"
+    }
+,
+    {
+      "name": "Ditoma longior Grouvelle, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641071"
+    }
+,
+    {
+      "name": "Bitoma obsoleta Grouvelle, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910145"
+    }
+,
+    {
+      "name": "Bitoma parallela (Sharp, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998898"
+    }
+,
+    {
+      "name": "Xuthia parallela Sharp, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998899"
+    }
+,
+    {
+      "name": "Bitoma quadricollis (Horn, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640290"
+    }
+,
+    {
+      "name": "Bitoma siccana (Pascoe, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/710557"
+    }
+,
+    {
+      "name": "Xuthia maura Pascoe, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910149"
+    }
+,
+    {
+      "name": "Xuthia siccana Pascoe, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910150"
+    }
+,
+    {
+      "name": "Bitoma terrulenta (Fairmaire, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775838"
+    }
+,
+    {
+      "name": "Colobicus Latreille, 1807",
+      "url": ""
+    }
+,
+    {
+      "name": "Colobicus hirtus (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224174"
+    }
+,
+    {
+      "name": "Colobicus marginatus Latreille, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/7687"
+    }
+,
+    {
+      "name": "Nitidula hirta Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802014"
+    }
+,
+    {
+      "name": "Colobicus latiusculus Motschulsky, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/710561"
+    }
+,
+    {
+      "name": "Colobicus parilis Pascoe, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224175"
+    }
+,
+    {
+      "name": "Coxelus Dejean, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Coxelus insularis Grouvelle, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/710565"
+    }
+,
+    {
+      "name": "Coxelus pictus (Sturm, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11075"
+    }
+,
+    {
+      "name": "Bolitophagus pictus Sturm, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802015"
+    }
+,
+    {
+      "name": "Diodesma Latreille, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Diodesma denticincta Abeille de Perrin, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699742"
+    }
+,
+    {
+      "name": "Diodesma denticinta Abeille de Perrin, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224188"
+    }
+,
+    {
+      "name": "Diodesma subterranea Latreille, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224189"
+    }
+,
+    {
+      "name": "Endophloeus Dejean, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Endophloeus markovichianus (Piller & Mitterpacher, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224187"
+    }
+,
+    {
+      "name": "Silpha markovichiana Piller & Mitterpacher, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/894852"
+    }
+,
+    {
+      "name": "Isotarphius Heller, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Isotarphius reitteri Heller, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910133"
+    }
+,
+    {
+      "name": "Langelandia Aubé, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Langelandia anophtalma Aubé, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224183"
+    }
+,
+    {
+      "name": "Langelandia excavata Reitter, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224184"
+    }
+,
+    {
+      "name": "Langelandia exigua Perris, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224185"
+    }
+,
+    {
+      "name": "Langelandia incostata Perris, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794768"
+    }
+,
+    {
+      "name": "Langelandia reitteri Belon, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224186"
+    }
+,
+    {
+      "name": "Lobogestoria Reitter, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Lobogestoria gibbicollis Reitter, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908907"
+    }
+,
+    {
+      "name": "Lyreus Aubé, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Lyreus subterraneus Aubé, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224182"
+    }
+,
+    {
+      "name": "Paxillobitoma Lord & Ivie, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "Paxillobitoma clinei Lord & Ivie, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839880"
+    }
+,
+    {
+      "name": "Pristoderus Hope, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Ulonotus Erichson, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Pristoderus auriculatus (Grouvelle, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910140"
+    }
+,
+    {
+      "name": "Ulonotus auriculatus Grouvelle, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910139"
+    }
+,
+    {
+      "name": "Pristoderus crebripennis Perroud & Montrouzier, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910135"
+    }
+,
+    {
+      "name": "Rechodes Erichson, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Rechodes humblotii Fairmaire, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813992"
+    }
+,
+    {
+      "name": "Synchita Hellwig, 1792",
+      "url": ""
+    }
+,
+    {
+      "name": "Synchita amoena (Fairmaire, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775839"
+    }
+,
+    {
+      "name": "Synchita comorensis Dajoz, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853704"
+    }
+,
+    {
+      "name": "Synchita fallax Schuh, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224178"
+    }
+,
+    {
+      "name": "Synchita humeralis (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11077"
+    }
+,
+    {
+      "name": "Elophorus humeralis Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802016"
+    }
+,
+    {
+      "name": "Synchita impressa Wollaston, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848600"
+    }
+,
+    {
+      "name": "Synchita laticollis (LeConte, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640329"
+    }
+,
+    {
+      "name": "Synchita mediolanensis A. Villa & G.B. Villa, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224179"
+    }
+,
+    {
+      "name": "Synchita multimaculata (Grouvelle, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/840179"
+    }
+,
+    {
+      "name": "Catolaemus multimaculatus Grouvelle, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640294"
+    }
+,
+    {
+      "name": "Synchita picta Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794769"
+    }
+,
+    {
+      "name": "Synchita separanda (Reitter, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224177"
+    }
+,
+    {
+      "name": "Ditoma separanda Reitter, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802017"
+    }
+,
+    {
+      "name": "Synchita undata Guérin-Méneville, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224180"
+    }
+,
+    {
+      "name": "Cicones pictus Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/844735"
+    }
+,
+    {
+      "name": "Cicones undatus (Guérin-Méneville, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/844736"
+    }
+,
+    {
+      "name": "Synchita variegata Hellwig, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224181"
+    }
+,
+    {
+      "name": "Cicones variegatus Hellwig, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11080"
+    }
+,
+    {
+      "name": "Tarphiomimus Wollaston, 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "Tarphiomimus indentatus Wollaston, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910137"
+    }
+,
+    {
+      "name": "Xylolaemus Dejean, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Xylolaemus fasciculosus (Gyllenhal, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224169"
+    }
+,
+    {
+      "name": "Lyctus fasciculosus Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802018"
+    }
+
+  ]
+}

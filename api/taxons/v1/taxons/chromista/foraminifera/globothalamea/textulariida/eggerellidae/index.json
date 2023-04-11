@@ -1,0 +1,27 @@
+
+{
+  "name": "eggerellidae",
+  "children": [
+
+    {
+      "name": "Eggerellidae Cushman, 1937",
+      "url": ""
+    }
+,
+    {
+      "name": "dorothiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/textulariida/eggerellidae/dorothiinae/"
+    }
+,
+    {
+      "name": "eggerellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/textulariida/eggerellidae/eggerellinae/"
+    }
+,
+    {
+      "name": "tritaxilininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/textulariida/eggerellidae/tritaxilininae/"
+    }
+
+  ]
+}

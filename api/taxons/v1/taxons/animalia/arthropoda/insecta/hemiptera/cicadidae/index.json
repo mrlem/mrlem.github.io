@@ -1,0 +1,62 @@
+
+{
+  "name": "cicadidae",
+  "children": [
+
+    {
+      "name": "Cicadidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Tibicinidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "cicadettinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/cicadidae/cicadettinae/"
+    }
+,
+    {
+      "name": "cicadinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/cicadidae/cicadinae/"
+    }
+,
+    {
+      "name": "Cracenpsaltria Sanborn, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "Cracenpsaltria brasilianorum (Kirkaldy, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932322"
+    }
+,
+    {
+      "name": "Ariasa brasilianorum Kirkaldy, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915720"
+    }
+,
+    {
+      "name": "Ariasa marginata (Olivier, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755600"
+    }
+,
+    {
+      "name": "Cicada marginata Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915719"
+    }
+,
+    {
+      "name": "Tettigonia viridis Fabricius, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915721"
+    }
+,
+    {
+      "name": "tettigadinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/cicadidae/tettigadinae/"
+    }
+
+  ]
+}

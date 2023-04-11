@@ -1,0 +1,62 @@
+
+{
+  "name": "pimeliinae",
+  "children": [
+
+    {
+      "name": "Pimeliinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "akidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/akidini/"
+    }
+,
+    {
+      "name": "asidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/asidini/"
+    }
+,
+    {
+      "name": "cnemeplatiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/cnemeplatiini/"
+    }
+,
+    {
+      "name": "edrotini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/edrotini/"
+    }
+,
+    {
+      "name": "elenophorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/elenophorini/"
+    }
+,
+    {
+      "name": "epitragini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/epitragini/"
+    }
+,
+    {
+      "name": "pimeliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/pimeliini/"
+    }
+,
+    {
+      "name": "stenosini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/stenosini/"
+    }
+,
+    {
+      "name": "tentyriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/tentyriini/"
+    }
+,
+    {
+      "name": "zophosini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/pimeliinae/zophosini/"
+    }
+
+  ]
+}

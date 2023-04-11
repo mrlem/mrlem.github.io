@@ -1,0 +1,32 @@
+
+{
+  "name": "microcanthinae",
+  "children": [
+
+    {
+      "name": "Microcanthinae Bleeker, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Microcanthus Swainson, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "Microcanthus strigatus (Cuvier, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424834"
+    }
+,
+    {
+      "name": "Chaetodon strigatus Cuvier, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/557398"
+    }
+,
+    {
+      "name": "Micrognathus strigatus (Cuvier, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561609"
+    }
+
+  ]
+}

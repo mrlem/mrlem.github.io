@@ -1,0 +1,17 @@
+
+{
+  "name": "mycoplasmatales",
+  "children": [
+
+    {
+      "name": "Mycoplasmatales Freundt, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "mycoplasmataceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/tenericutes/mollicutes/mycoplasmatales/mycoplasmataceae/"
+    }
+
+  ]
+}

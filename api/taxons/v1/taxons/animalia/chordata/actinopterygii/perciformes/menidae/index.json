@@ -1,0 +1,32 @@
+
+{
+  "name": "menidae",
+  "children": [
+
+    {
+      "name": "Menidae Fitzinger, 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "Mene Lacepède, 1803",
+      "url": ""
+    }
+,
+    {
+      "name": "Mene maculata (Bloch & Schneider, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424826"
+    }
+,
+    {
+      "name": "Mene maculate (Bloch & Schneider, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587127"
+    }
+,
+    {
+      "name": "Zeus maculatus Bloch & Schneider, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559374"
+    }
+
+  ]
+}

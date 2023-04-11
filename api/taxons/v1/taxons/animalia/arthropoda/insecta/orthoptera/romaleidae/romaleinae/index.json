@@ -1,0 +1,42 @@
+
+{
+  "name": "romaleinae",
+  "children": [
+
+    {
+      "name": "Romaleinae Brunner von Wattenwyl, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "eurostacrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/romaleidae/romaleinae/eurostacrini/"
+    }
+,
+    {
+      "name": "phaeopariini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/romaleidae/romaleinae/phaeopariini/"
+    }
+,
+    {
+      "name": "procolpini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/romaleidae/romaleinae/procolpini/"
+    }
+,
+    {
+      "name": "romaleini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/romaleidae/romaleinae/romaleini/"
+    }
+,
+    {
+      "name": "tropidacrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/romaleidae/romaleinae/tropidacrini/"
+    }
+,
+    {
+      "name": "trybliophorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/romaleidae/romaleinae/trybliophorini/"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "latridiinae",
+  "children": [
+
+    {
+      "name": "Latridiinae Erichson, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Eufallia Muttkowski, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Eufallia seminivea (Motschulsky, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848590"
+    }
+,
+    {
+      "name": "latridiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/latridiidae/latridiinae/latridiini/"
+    }
+
+  ]
+}

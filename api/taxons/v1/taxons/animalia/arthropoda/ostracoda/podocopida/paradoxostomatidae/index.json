@@ -1,0 +1,377 @@
+
+{
+  "name": "paradoxostomatidae",
+  "children": [
+
+    {
+      "name": "Paradoxostomatidae Brady & Norman, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Boreostoma Schornikov, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Boreostoma variabile (Baird, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827257"
+    }
+,
+    {
+      "name": "Paradoxostoma variabile (Baird, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18316"
+    }
+,
+    {
+      "name": "Brunneostoma Schornikov, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Brunneostoma breve (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898108"
+    }
+,
+    {
+      "name": "Paradoxostoma breve Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18297"
+    }
+,
+    {
+      "name": "Brunneostoma incongruens (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898107"
+    }
+,
+    {
+      "name": "Paradoxostoma incongruens Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18303"
+    }
+,
+    {
+      "name": "Brunneostoma porlockense (Horne & Whittaker, 1985)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994672"
+    }
+,
+    {
+      "name": "Paradoxostoma porlockense Horne & Whittaker, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363177"
+    }
+,
+    {
+      "name": "Cytherois Mueller, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Cytherois fischeri (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18319"
+    }
+,
+    {
+      "name": "Cytherois frequens Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18320"
+    }
+,
+    {
+      "name": "Cytherois ovalis Mueller, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843246"
+    }
+,
+    {
+      "name": "Cytherois paratubipensifora Whatley & Keeler, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837762"
+    }
+,
+    {
+      "name": "Cytherois pusilla Sars, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18323"
+    }
+,
+    {
+      "name": "Cytherois stephanidesi Klie, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361041"
+    }
+,
+    {
+      "name": "Cytherois succinea Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18324"
+    }
+,
+    {
+      "name": "Cytherois vitrea (Sars, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18325"
+    }
+,
+    {
+      "name": "Obesostoma Schornikov, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Obesostoma maculatum (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898104"
+    }
+,
+    {
+      "name": "Paradoxostoma maculatum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18305"
+    }
+,
+    {
+      "name": "Obesostoma normani (Brady, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898103"
+    }
+,
+    {
+      "name": "Paradoxostoma normani Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18307"
+    }
+,
+    {
+      "name": "Paracytherois Mueller, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Paracytherois arcuata (Brady, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18327"
+    }
+,
+    {
+      "name": "Paradoxostoma arcuatum Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899785"
+    }
+,
+    {
+      "name": "Paracytherois ensiforme (Brady, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529535"
+    }
+,
+    {
+      "name": "Paradoxostoma ensiforme Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18300"
+    }
+,
+    {
+      "name": "Paracytherois flexuosa (Brady, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18328"
+    }
+,
+    {
+      "name": "Paracytherois oblonga Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994659"
+    }
+,
+    {
+      "name": "Paracythereis oblonga ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17993"
+    }
+,
+    {
+      "name": "Paracytherois striata Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18329"
+    }
+,
+    {
+      "name": "Paradoxostoma Fischer, 1855",
+      "url": ""
+    }
+,
+    {
+      "name": "Paradoxostoma abbreviata Sars, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/538710"
+    }
+,
+    {
+      "name": "Paradoxostoma abbreviatum Sars, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18292"
+    }
+,
+    {
+      "name": "Paradoxostoma acuminatum Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18293"
+    }
+,
+    {
+      "name": "Paradoxostoma amygdaloides (Brady, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363170"
+    }
+,
+    {
+      "name": "Paradoxostoma angustum Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18295"
+    }
+,
+    {
+      "name": "Paradoxostoma atra Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18296"
+    }
+,
+    {
+      "name": "Paradoxostoma bradyi Sars, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18291"
+    }
+,
+    {
+      "name": "Paradoxostoma caecum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18298"
+    }
+,
+    {
+      "name": "Paradoxostoma chamberlaini Rome, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18299"
+    }
+,
+    {
+      "name": "Paradoxostoma devaneyi Hartmann, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891849"
+    }
+,
+    {
+      "name": "Paradoxostoma fleetense Horne & Whittaker, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363179"
+    }
+,
+    {
+      "name": "Paradoxostoma fuscum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780377"
+    }
+,
+    {
+      "name": "Paradoxostoma gaini Daday, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843254"
+    }
+,
+    {
+      "name": "Paradoxostoma hibernicum Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18302"
+    }
+,
+    {
+      "name": "Paradoxostoma hypselum Mueller, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843255"
+    }
+,
+    {
+      "name": "Paradoxostoma intermedium Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18304"
+    }
+,
+    {
+      "name": "Paradoxostoma limbaughi Allison & Holden, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891850"
+    }
+,
+    {
+      "name": "Paradoxostoma lizardense Behrens, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827255"
+    }
+,
+    {
+      "name": "Paradoxostoma lizardensis Behrens, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654326"
+    }
+,
+    {
+      "name": "Paradoxostoma mediterraneum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18306"
+    }
+,
+    {
+      "name": "Paradoxostoma nealei Horne & Whittaker, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363161"
+    }
+,
+    {
+      "name": "Paradoxostoma novaecaledoniae Brady, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654327"
+    }
+,
+    {
+      "name": "Paradoxostoma ornata Hartmann, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18308"
+    }
+,
+    {
+      "name": "Paradoxostoma parabradyi Whatley & Keeler, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837766"
+    }
+,
+    {
+      "name": "Paradoxostoma parallelum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18309"
+    }
+,
+    {
+      "name": "Paradoxostoma planum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363178"
+    }
+,
+    {
+      "name": "Paradoxostoma ponticum Klie, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18310"
+    }
+,
+    {
+      "name": "Paradoxostoma pulchellum Sars, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363176"
+    }
+,
+    {
+      "name": "Paradoxostoma rarum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18311"
+    }
+,
+    {
+      "name": "Paradoxostoma robinhoodi Horne & Whittaker, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363175"
+    }
+,
+    {
+      "name": "Paradoxostoma rostratum Sars, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363174"
+    }
+,
+    {
+      "name": "Paradoxostoma rotundatum G.W. Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18312"
+    }
+,
+    {
+      "name": "Paradoxostoma sarniense Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363169"
+    }
+,
+    {
+      "name": "Paradoxostoma striatum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18314"
+    }
+,
+    {
+      "name": "Paradoxostoma taeniatum Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18315"
+    }
+,
+    {
+      "name": "Paradoxostoma trieri Horne & Whittaker, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363167"
+    }
+,
+    {
+      "name": "Paradoxostoma versicolor Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18317"
+    }
+,
+    {
+      "name": "Redekea De Vos, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Redekea perpusilla de Vos, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18001"
+    }
+
+  ]
+}

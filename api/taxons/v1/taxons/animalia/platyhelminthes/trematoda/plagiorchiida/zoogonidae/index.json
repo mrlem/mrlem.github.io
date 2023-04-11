@@ -1,0 +1,32 @@
+
+{
+  "name": "zoogonidae",
+  "children": [
+
+    {
+      "name": "Zoogonidae Odhner, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Steganodermatidae Yamaguti, 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "lecithostaphylinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/zoogonidae/lecithostaphylinae/"
+    }
+,
+    {
+      "name": "lepidophyllinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/zoogonidae/lepidophyllinae/"
+    }
+,
+    {
+      "name": "zoogoninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/zoogonidae/zoogoninae/"
+    }
+
+  ]
+}

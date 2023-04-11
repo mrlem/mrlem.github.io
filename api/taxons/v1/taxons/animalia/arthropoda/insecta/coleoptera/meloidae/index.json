@@ -1,0 +1,22 @@
+
+{
+  "name": "meloidae",
+  "children": [
+
+    {
+      "name": "Meloidae Gyllenhal, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "meloinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/meloidae/meloinae/"
+    }
+,
+    {
+      "name": "nemognathinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/meloidae/nemognathinae/"
+    }
+
+  ]
+}

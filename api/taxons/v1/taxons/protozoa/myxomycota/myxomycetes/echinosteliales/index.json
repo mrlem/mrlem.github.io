@@ -1,0 +1,22 @@
+
+{
+  "name": "echinosteliales",
+  "children": [
+
+    {
+      "name": "Echinosteliales G.W.Martin, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "clastodermataceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/echinosteliales/clastodermataceae/"
+    }
+,
+    {
+      "name": "echinosteliaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/myxomycota/myxomycetes/echinosteliales/echinosteliaceae/"
+    }
+
+  ]
+}

@@ -1,0 +1,42 @@
+
+{
+  "name": "brachiopoda",
+  "children": [
+
+    {
+      "name": "Brachiopoda Duméril, 1805",
+      "url": ""
+    }
+,
+    {
+      "name": "craniata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/brachiopoda/craniata/"
+    }
+,
+    {
+      "name": "Craniiformea Popov, Basset, Holmer & Laurie, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "lingulata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/brachiopoda/lingulata/"
+    }
+,
+    {
+      "name": "Linguliformea Williams, Carlson, Brunton, Holmer & Popov, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "rhynchonellata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/brachiopoda/rhynchonellata/"
+    }
+,
+    {
+      "name": "Rhynchonelliformea Williams, Carlson, Brunton, Holmer & Popov, 1996",
+      "url": ""
+    }
+
+  ]
+}

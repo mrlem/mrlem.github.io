@@ -1,0 +1,37 @@
+
+{
+  "name": "helicarionidae",
+  "children": [
+
+    {
+      "name": "Helicarionidae Bourguignat, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "helicarioninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/helicarionidae/helicarioninae/"
+    }
+,
+    {
+      "name": "Ovachlamys Habe, 1946",
+      "url": ""
+    }
+,
+    {
+      "name": "Ovachlamys fulgens (Gude, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/598723"
+    }
+,
+    {
+      "name": "Lamprocystis fulgida Godwin-Austen, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908830"
+    }
+,
+    {
+      "name": "Macrochlamys fulgens Gude, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/652803"
+    }
+
+  ]
+}

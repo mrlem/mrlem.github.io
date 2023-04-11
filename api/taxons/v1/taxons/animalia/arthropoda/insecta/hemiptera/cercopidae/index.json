@@ -1,0 +1,277 @@
+
+{
+  "name": "cercopidae",
+  "children": [
+
+    {
+      "name": "Cercopidae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "cercopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/cercopidae/cercopinae/"
+    }
+,
+    {
+      "name": "Aeneolamia Fennah, 1949",
+      "url": ""
+    }
+,
+    {
+      "name": "Aeneolamia flavilatera (Urich, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937021"
+    }
+,
+    {
+      "name": "Tomaspis flavilatera Urich, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989567"
+    }
+,
+    {
+      "name": "Aeneolamia varia (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758820"
+    }
+,
+    {
+      "name": "Cercopis varia Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915702"
+    }
+,
+    {
+      "name": "Aufidus Stål, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Aufidus samoanus Lallemand, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836325"
+    }
+,
+    {
+      "name": "Aufidus samoanus wallisanus Lallemand, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836327"
+    }
+,
+    {
+      "name": "Baetkia Schmidt, 1920",
+      "url": ""
+    }
+,
+    {
+      "name": "Baetkia compressa (Lepeletier de Saint-Fargeau & Audinet-Serville, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758822"
+    }
+,
+    {
+      "name": "Cercopis compressa Lepeletier de Saint-Fargeau & Audinet-Serville, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915703"
+    }
+,
+    {
+      "name": "Baetkia distanti (Lallemand, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758823"
+    }
+,
+    {
+      "name": "Tomaspis compressa distanti Lallemand, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915704"
+    }
+,
+    {
+      "name": "Baetkia maroniensis Lallemand, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758824"
+    }
+,
+    {
+      "name": "Haematoloma Haupt, 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "Haematoloma dorsata (Ahrens, 1812)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/241089"
+    }
+,
+    {
+      "name": "Cercopis dorsata Ahrens, 1812",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001482"
+    }
+,
+    {
+      "name": "Cercopis quinquemaculata Germar, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/51920"
+    }
+,
+    {
+      "name": "Triecphora dorsata (Ahrens, 1812)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001481"
+    }
+,
+    {
+      "name": "Laccogrypota Schmidt, 1920",
+      "url": ""
+    }
+,
+    {
+      "name": "Laccogrypota valida (Distant, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758810"
+    }
+,
+    {
+      "name": "Ischnorhina valida Distant, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915709"
+    }
+,
+    {
+      "name": "Mahanarva Distant, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Mahanarva tristis (Fabricius, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937047"
+    }
+,
+    {
+      "name": "Cercopis tristis Fabricius, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915705"
+    }
+,
+    {
+      "name": "Delassor tristis (Fabricius, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758744"
+    }
+,
+    {
+      "name": "Sphenorhina duodecimpunctata Walker, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915706"
+    }
+,
+    {
+      "name": "Sphenorhina semifascia Walker, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915707"
+    }
+,
+    {
+      "name": "Sphenorhina stellata Walker, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915708"
+    }
+,
+    {
+      "name": "Tomaspis tristis (Fabricius, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937048"
+    }
+,
+    {
+      "name": "Maxantonia Schmidt, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Maxantonia diversa Nast, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760764"
+    }
+,
+    {
+      "name": "Maxantonia lineola (Fabricius, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758812"
+    }
+,
+    {
+      "name": "Cercopis lineola Fabricius, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978013"
+    }
+,
+    {
+      "name": "Monecphora Amyot & Audinet-Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Monecphora longitudinalis Lallemand, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760765"
+    }
+,
+    {
+      "name": "Monecphora pallida Lallemand, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760766"
+    }
+,
+    {
+      "name": "Neomonecphora Distant, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Neomonecphora laurentana Lallemand, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760767"
+    }
+,
+    {
+      "name": "Neomonecphora obtusa Nast, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760768"
+    }
+,
+    {
+      "name": "Neomonecphora robusta Nast, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760769"
+    }
+,
+    {
+      "name": "ischnorhininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/cercopidae/ischnorhininae/"
+    }
+,
+    {
+      "name": "Sphenorhina Amyot & Audinet-Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Sphenorhina rubra (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758818"
+    }
+,
+    {
+      "name": "Cercopis cruenta Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915711"
+    }
+,
+    {
+      "name": "Cercopis cruentata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915712"
+    }
+,
+    {
+      "name": "Cercopis tricolor Guérin-Méneville, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915713"
+    }
+,
+    {
+      "name": "Cicada rubra Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915710"
+    }
+,
+    {
+      "name": "Tomaspis Amyot & Audinet-Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Tomaspis apicalis (Lepeletier de Saint Fargeau & Audinet-Serville, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758819"
+    }
+,
+    {
+      "name": "Cercopis apicalis Lepeletier de Saint Fargeau & Audinet-Serville, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915714"
+    }
+,
+    {
+      "name": "Tomaspis curvata Melichar, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760770"
+    }
+
+  ]
+}

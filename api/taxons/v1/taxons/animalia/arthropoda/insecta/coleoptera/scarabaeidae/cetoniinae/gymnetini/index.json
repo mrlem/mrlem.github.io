@@ -1,0 +1,437 @@
+
+{
+  "name": "gymnetini",
+  "children": [
+
+    {
+      "name": "Gymnetini Kirby, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Allorrhina Burmeister, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Allorrhina carmelita (Burmeister, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937157"
+    }
+,
+    {
+      "name": "Cotinis amazonica J. Thomson, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937159"
+    }
+,
+    {
+      "name": "Cotinis carmelita Burmeister, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937158"
+    }
+,
+    {
+      "name": "Allorrhina nigerrima (Burmeister, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757671"
+    }
+,
+    {
+      "name": "Cotinis nigerrima Burmeister, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921024"
+    }
+,
+    {
+      "name": "Gymnetis lugubris Thomson, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921023"
+    }
+,
+    {
+      "name": "Hoplopyga lugubris (J. Thomson, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757750"
+    }
+,
+    {
+      "name": "Allorrhina scabriuscula (Swederus, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757672"
+    }
+,
+    {
+      "name": "Cetonia scabriuscula Swederus, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921025"
+    }
+,
+    {
+      "name": "Gymnetis concolor Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921026"
+    }
+,
+    {
+      "name": "Desicasta J. Thomson, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Desicasta lobata (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599683"
+    }
+,
+    {
+      "name": "Cetonia coracina Herbst, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921027"
+    }
+,
+    {
+      "name": "Cetonia lobata Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921032"
+    }
+,
+    {
+      "name": "Desicasta sculptilis Thomson, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921028"
+    }
+,
+    {
+      "name": "Moscheuma costatum Neervoort Van De Poll, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921029"
+    }
+,
+    {
+      "name": "Moscheuma opaca Kraatz, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921030"
+    }
+,
+    {
+      "name": "Moscheuma sebosum Neervoort Van De Poll, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921031"
+    }
+,
+    {
+      "name": "Gymnetis MacLeay, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Gymnetis aurantivittae Ratcliffe, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912882"
+    }
+,
+    {
+      "name": "Gymnetis bajula (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599703"
+    }
+,
+    {
+      "name": "Cetonia bajula Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912880"
+    }
+,
+    {
+      "name": "Gymnetis bajula bajula (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912881"
+    }
+,
+    {
+      "name": "Gymnetis cerdai Antoine, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599685"
+    }
+,
+    {
+      "name": "Gymnetis flaveola (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643529"
+    }
+,
+    {
+      "name": "Cetonia flaveola Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912883"
+    }
+,
+    {
+      "name": "Gymnetis guadalupiensis Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912885"
+    }
+,
+    {
+      "name": "Gymnetis lanius guadalupiensis Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639814"
+    }
+,
+    {
+      "name": "Gymnetis hebraica (Drapiez, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757673"
+    }
+,
+    {
+      "name": "Cetonia hebraica Drapiez, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921034"
+    }
+,
+    {
+      "name": "Gymnetis depauperata Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921033"
+    }
+,
+    {
+      "name": "Gymnetis holosericea (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912887"
+    }
+,
+    {
+      "name": "Cetonia holosericea Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912888"
+    }
+,
+    {
+      "name": "Gymnetis holosericea (Voet, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599687"
+    }
+,
+    {
+      "name": "Gymnetis xanthospila Schaum, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757674"
+    }
+,
+    {
+      "name": "Scarabaeus holosericeus Voet, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912886"
+    }
+,
+    {
+      "name": "Gymnetis immunda Schaum, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599686"
+    }
+,
+    {
+      "name": "Gymnetis lanius (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639813"
+    }
+,
+    {
+      "name": "Scarabaeus lanius Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933652"
+    }
+,
+    {
+      "name": "Gymnetis lanius rudolphi (Frölich, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761521"
+    }
+,
+    {
+      "name": "Gymnetis margineguttata Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599702"
+    }
+,
+    {
+      "name": "Gymnetis pardalis Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599704"
+    }
+,
+    {
+      "name": "Gymnetis rhaegali Ratcliffe, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912889"
+    }
+,
+    {
+      "name": "Gymnetis strigosa (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937214"
+    }
+,
+    {
+      "name": "Cetonia strigosa Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937215"
+    }
+,
+    {
+      "name": "Gymnetis undata (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912890"
+    }
+,
+    {
+      "name": "Cetonia undata Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933653"
+    }
+,
+    {
+      "name": "Hoplopyga J. Thomson, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Hoplopyga albiventris (Gory & Percheron, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757748"
+    }
+,
+    {
+      "name": "Gymnetis albiventris Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921035"
+    }
+,
+    {
+      "name": "Hoplopyga brasiliensis (Gory & Percheron, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814784"
+    }
+,
+    {
+      "name": "Gymnetis brasiliensis Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921036"
+    }
+,
+    {
+      "name": "Hoplopyga cerdani Antoine, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757749"
+    }
+,
+    {
+      "name": "Hoplopyga liturata (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599743"
+    }
+,
+    {
+      "name": "Cetonia liturata Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921037"
+    }
+,
+    {
+      "name": "Gymnetis hamata Fauvel, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921038"
+    }
+,
+    {
+      "name": "Gymnetis spinosa Fischer von Waldheim, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921039"
+    }
+,
+    {
+      "name": "Gymnetis spurca Janson, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921040"
+    }
+,
+    {
+      "name": "Scarabaeus pennicrusta Voet, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921041"
+    }
+,
+    {
+      "name": "Hoplopyga marginesignata (Gory & Percheron, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757751"
+    }
+,
+    {
+      "name": "Gymnetis fumata Janson, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921081"
+    }
+,
+    {
+      "name": "Gymnetis marginesignata Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921083"
+    }
+,
+    {
+      "name": "Hoplopyga ocellata (Gory & Percheron, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757752"
+    }
+,
+    {
+      "name": "Gymnetis ocellata Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921084"
+    }
+,
+    {
+      "name": "Hoplopyga singularis (Gory & Percheron, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757753"
+    }
+,
+    {
+      "name": "Gymnetis monacha Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921086"
+    }
+,
+    {
+      "name": "Gymnetis rubida Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921087"
+    }
+,
+    {
+      "name": "Gymnetis singularis Gory & Percheron, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921085"
+    }
+,
+    {
+      "name": "Hoplopyga corumbana Schürhoff, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921088"
+    }
+,
+    {
+      "name": "Jansonia Schürhoff, 1937",
+      "url": ""
+    }
+,
+    {
+      "name": "Jansonella Blackwelder, 1944",
+      "url": ""
+    }
+,
+    {
+      "name": "Jansonia anceps (Janson, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782580"
+    }
+,
+    {
+      "name": "Gymnetis anceps Janson, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921090"
+    }
+,
+    {
+      "name": "Jansonella anceps (Janson, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760489"
+    }
+,
+    {
+      "name": "Madiana Ratcliffe & Romé, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Madiana brigitteae Ratcliffe & Romé, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/913637"
+    }
+,
+    {
+      "name": "Marmarina Kirby, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Marmarina maculosa (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599745"
+    }
+,
+    {
+      "name": "Cetonia graculus Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921093"
+    }
+,
+    {
+      "name": "Cetonia maculosa Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921092"
+    }
+,
+    {
+      "name": "Gymnetis apiata Burmeister, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921094"
+    }
+,
+    {
+      "name": "Gymnetis meticulosa Thomson, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921095"
+    }
+,
+    {
+      "name": "Gymnetis punctatissima Burmeister, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921096"
+    }
+,
+    {
+      "name": "Gymnetis submaculosa Thomson, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921097"
+    }
+
+  ]
+}

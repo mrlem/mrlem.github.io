@@ -1,0 +1,47 @@
+
+{
+  "name": "cimbicidae",
+  "children": [
+
+    {
+      "name": "Cimbicidae W. Kirby, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "abiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cimbicidae/abiinae/"
+    }
+,
+    {
+      "name": "cimbicinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cimbicidae/cimbicinae/"
+    }
+,
+    {
+      "name": "corynidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cimbicidae/corynidinae/"
+    }
+,
+    {
+      "name": "Pachylosticta Klug, 1824",
+      "url": ""
+    }
+,
+    {
+      "name": "Pachylosticta apicalis (Westwood, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006418"
+    }
+,
+    {
+      "name": "Plagiocera apicalis Westwood, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006420"
+    }
+,
+    {
+      "name": "Plagiocera leachii Spinola, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006419"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "bombycidae",
+  "children": [
+
+    {
+      "name": "Bombycidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "epiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/bombycidae/epiinae/"
+    }
+,
+    {
+      "name": "Bombyx Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "Bombyx mori Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939402"
+    }
+
+  ]
+}

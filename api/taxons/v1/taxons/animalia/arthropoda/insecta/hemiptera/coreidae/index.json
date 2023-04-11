@@ -1,0 +1,67 @@
+
+{
+  "name": "coreidae",
+  "children": [
+
+    {
+      "name": "Coreidae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "coreinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/coreidae/coreinae/"
+    }
+,
+    {
+      "name": "hydarinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/coreidae/hydarinae/"
+    }
+,
+    {
+      "name": "Merocoris Perty, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Merocoris elevatus (Spinola, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964728"
+    }
+,
+    {
+      "name": "Corynocoris elevatus Spinola, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964729"
+    }
+,
+    {
+      "name": "Merocoris tristis Perty, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964730"
+    }
+,
+    {
+      "name": "Spathophora Amyot & Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Spathophora biclavata (Fabricius, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984291"
+    }
+,
+    {
+      "name": "Lygaeus biclavatus Fabricius, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984292"
+    }
+,
+    {
+      "name": "meropachyinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/coreidae/meropachyinae/"
+    }
+,
+    {
+      "name": "pseudophloeinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/coreidae/pseudophloeinae/"
+    }
+
+  ]
+}

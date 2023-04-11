@@ -1,0 +1,1197 @@
+
+{
+  "name": "calliphoridae",
+  "children": [
+
+    {
+      "name": "Calliphoridae Brauer & Bergenstamm, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "calliphorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/calliphoridae/calliphorinae/"
+    }
+,
+    {
+      "name": "chrysomyinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/calliphoridae/chrysomyinae/"
+    }
+,
+    {
+      "name": "Angioneura Brauer & Bergenstamm, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Angioneura cyrtoneurina (Zetterstedt, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224819"
+    }
+,
+    {
+      "name": "Angioneura enigmatica Villeneuve, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979905"
+    }
+,
+    {
+      "name": "Melanomya cyrtoneurina (Zetterstedt, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009679"
+    }
+,
+    {
+      "name": "Tachina cyrtoneurina Zetterstedt, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936297"
+    }
+,
+    {
+      "name": "Bellardia Robineau-Desvoidy, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Bellardia bayeri (Jacentkovsky, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224820"
+    }
+,
+    {
+      "name": "Bellardia osetica Khitsova, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398295"
+    }
+,
+    {
+      "name": "Onesia bayeri Jacentkovsky, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936298"
+    }
+,
+    {
+      "name": "Onesia townsendi Hall, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398296"
+    }
+,
+    {
+      "name": "Bellardia corsicana (Villeneuve, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224821"
+    }
+,
+    {
+      "name": "Onesia corsicana Villeneuve, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936299"
+    }
+,
+    {
+      "name": "Bellardia obsoleta (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27435"
+    }
+,
+    {
+      "name": "Tachina obsoleta Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936300"
+    }
+,
+    {
+      "name": "Bellardia pandia (Walker, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27437"
+    }
+,
+    {
+      "name": "Musca pandia Walker, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936301"
+    }
+,
+    {
+      "name": "Musca unxia Walker, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398298"
+    }
+,
+    {
+      "name": "Onesia biseta Kramer, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398297"
+    }
+,
+    {
+      "name": "Bellardia pubescens (Macquart, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963156"
+    }
+,
+    {
+      "name": "Calliphora pubescens Macquart, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438601"
+    }
+,
+    {
+      "name": "Calliphora pusilla Macquart, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964328"
+    }
+,
+    {
+      "name": "Onesia pubescens (Macquart, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828393"
+    }
+,
+    {
+      "name": "Bellardia vespillo (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/282529"
+    }
+,
+    {
+      "name": "Musca vespillo Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914650"
+    }
+,
+    {
+      "name": "Pollenia vespillo (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27494"
+    }
+,
+    {
+      "name": "Bellardia viarum (Robineau-Desvoidy, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224822"
+    }
+,
+    {
+      "name": "Bellardia pusilla (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27439"
+    }
+,
+    {
+      "name": "Calliphora aculeata Pandellé, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398299"
+    }
+,
+    {
+      "name": "Musca pusilla Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398300"
+    }
+,
+    {
+      "name": "Onesia viarum Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936302"
+    }
+,
+    {
+      "name": "Bellardia vulgaris (Robineau-Desvoidy, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224823"
+    }
+,
+    {
+      "name": "Bellardia agilis (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27434"
+    }
+,
+    {
+      "name": "Musca agilis Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398301"
+    }
+,
+    {
+      "name": "Onesia bisetosa Hall, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398302"
+    }
+,
+    {
+      "name": "Onesia vulgaris Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936303"
+    }
+,
+    {
+      "name": "Chrysomya Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Chrysomyia Robineau Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Chrysomya albiceps (Wiedemann, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224827"
+    }
+,
+    {
+      "name": "Musca albiceps Wiedemann, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936305"
+    }
+,
+    {
+      "name": "Chrysomya annulipes Thomson, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438853"
+    }
+,
+    {
+      "name": "Chrysomya bezziana Villeneuve, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714799"
+    }
+,
+    {
+      "name": "Chrysomya chloropyga (Wiedemann, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/282537"
+    }
+,
+    {
+      "name": "Musca chloropyga Wiedemann, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936306"
+    }
+,
+    {
+      "name": "Chrysomya megacephala (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/282538"
+    }
+,
+    {
+      "name": "Musca megacephala Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936307"
+    }
+,
+    {
+      "name": "Chrysomya pachymera (Seguy, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958302"
+    }
+,
+    {
+      "name": "Chrysomya putoria (Wiedemann, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836647"
+    }
+,
+    {
+      "name": "Musca putoria Wiedemann, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936308"
+    }
+,
+    {
+      "name": "Chrysomya rufifacies (Macquart, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589729"
+    }
+,
+    {
+      "name": "Lucilia rufifacies Macquart, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911939"
+    }
+,
+    {
+      "name": "Chrysomya saffranea (Bigot, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828400"
+    }
+,
+    {
+      "name": "Somomya saffranea Bigot, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438249"
+    }
+,
+    {
+      "name": "Chrysomya varipes (Macquart, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828398"
+    }
+,
+    {
+      "name": "Lucilia varipes Macquart, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438605"
+    }
+,
+    {
+      "name": "Microcalliphora varipes (Macquart, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969408"
+    }
+,
+    {
+      "name": "Cynomya Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Cynomya cadaverina Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781672"
+    }
+,
+    {
+      "name": "Cynomya mortuorum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224828"
+    }
+,
+    {
+      "name": "Cynomya gregorpovolnyi Cepelak & Cepelak, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398308"
+    }
+,
+    {
+      "name": "Cynomya hirta Hough, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398309"
+    }
+,
+    {
+      "name": "Cynomyia mortuorum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27453"
+    }
+,
+    {
+      "name": "Musca mortuorum Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936309"
+    }
+,
+    {
+      "name": "Eggisops Rondani, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Eggisops pecchiolii Rondani, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224829"
+    }
+,
+    {
+      "name": "Eurychaeta Brauer & Bergenstamm, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Eurychaeta muscaria (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27501"
+    }
+,
+    {
+      "name": "Sarcophaga muscaria Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936310"
+    }
+,
+    {
+      "name": "Eurychaeta palpalis (Robineau-Desvoidy, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224830"
+    }
+,
+    {
+      "name": "Helicobosca distinguenda Villeneuve, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398310"
+    }
+,
+    {
+      "name": "Theria palpalis Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936311"
+    }
+,
+    {
+      "name": "Hemipyrellia Townsend, 1918",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemipyrellia germana (Robineau-Desvoidy, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958305"
+    }
+,
+    {
+      "name": "Lucilia Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Lucilia albofusca Whitworth, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/779102"
+    }
+,
+    {
+      "name": "Lucilia ampullacea Villeneuve, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224831"
+    }
+,
+    {
+      "name": "Lucilia bufonivora Moniez, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224832"
+    }
+,
+    {
+      "name": "Lucilia (Bufolucilia) bufonivora Moniez, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27456"
+    }
+,
+    {
+      "name": "Lucilia caesar (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224833"
+    }
+,
+    {
+      "name": "Lucilia (Bufolucilia) caesar (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27460"
+    }
+,
+    {
+      "name": "Musca caesar Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821028"
+    }
+,
+    {
+      "name": "Lucilia calviceps Bezzi, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438190"
+    }
+,
+    {
+      "name": "Lucilia cuprina (Wiedemann, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/282540"
+    }
+,
+    {
+      "name": "Lucilia pallescens Shannon, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/427577"
+    }
+,
+    {
+      "name": "Musca cuprina Wiedemann, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911937"
+    }
+,
+    {
+      "name": "Lucilia eximia (Wiedemann, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642203"
+    }
+,
+    {
+      "name": "Lucilia hirtiforceps Shannon, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919383"
+    }
+,
+    {
+      "name": "Lucilia mera Shannon & Ponte, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919384"
+    }
+,
+    {
+      "name": "Lucilia paraensis Macquart, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919385"
+    }
+,
+    {
+      "name": "Lucilia primaveris Shannon & Ponte, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919386"
+    }
+,
+    {
+      "name": "Lucilia punctipennis Macquart, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919387"
+    }
+,
+    {
+      "name": "Lucilia ruficornis Macquart, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919388"
+    }
+,
+    {
+      "name": "Lucilia smaragdula Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919389"
+    }
+,
+    {
+      "name": "Lucilia subrectineuris Macquart, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919390"
+    }
+,
+    {
+      "name": "Musca eximia Wiedemann, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919382"
+    }
+,
+    {
+      "name": "Musca insularis Walker, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919391"
+    }
+,
+    {
+      "name": "Musca putrida Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919392"
+    }
+,
+    {
+      "name": "Somomya amazona Bigot, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919393"
+    }
+,
+    {
+      "name": "Somomya mutabilis Bigot, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919394"
+    }
+,
+    {
+      "name": "Somomya oreoquina Bigot, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919395"
+    }
+,
+    {
+      "name": "Somomya pueblensis Bigot, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919396"
+    }
+,
+    {
+      "name": "Somomyia sylphida Bigot, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919397"
+    }
+,
+    {
+      "name": "Lucilia illustris (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224834"
+    }
+,
+    {
+      "name": "Calliphora simulatrix Pandellé, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398311"
+    }
+,
+    {
+      "name": "Lucilia (Lucilia) illustris (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27462"
+    }
+,
+    {
+      "name": "Musca illustris Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936313"
+    }
+,
+    {
+      "name": "Lucilia nigrocoerulea Macquart, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438582"
+    }
+,
+    {
+      "name": "Lucilia papuensis Macquart, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969484"
+    }
+,
+    {
+      "name": "Lucilia metilia (Walker, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969486"
+    }
+,
+    {
+      "name": "Lucilia pilosiventris Kramer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224835"
+    }
+,
+    {
+      "name": "Lucilia (Phaenicia) pilosiventris Kramer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27465"
+    }
+,
+    {
+      "name": "Lucilia regalis (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224836"
+    }
+,
+    {
+      "name": "Calliphora longilobata Pandellé, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398312"
+    }
+,
+    {
+      "name": "Musca regalis Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936314"
+    }
+,
+    {
+      "name": "Lucilia rica Shannon, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642205"
+    }
+,
+    {
+      "name": "Lucilia richardsi Collin, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224837"
+    }
+,
+    {
+      "name": "Lucilia pilosa Baranov, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398313"
+    }
+,
+    {
+      "name": "Lucilia sericata (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224838"
+    }
+,
+    {
+      "name": "Lucilia (Phaenicia) sericata (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27466"
+    }
+,
+    {
+      "name": "Musca sericata Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911938"
+    }
+,
+    {
+      "name": "Lucilia silvarum (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224839"
+    }
+,
+    {
+      "name": "Lucilia (Bufolucilia) silvarum (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27458"
+    }
+,
+    {
+      "name": "Lucilia sylvarum ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27459"
+    }
+,
+    {
+      "name": "Musca silvarum Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936315"
+    }
+,
+    {
+      "name": "Melanomya Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Melanomya nana (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224840"
+    }
+,
+    {
+      "name": "Dexia nana Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936316"
+    }
+,
+    {
+      "name": "Melanomyia nana (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27670"
+    }
+,
+    {
+      "name": "Musca minima Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398314"
+    }
+,
+    {
+      "name": "Melinda Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Melinda gentilis Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27472"
+    }
+,
+    {
+      "name": "Melinda caerulea (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009678"
+    }
+,
+    {
+      "name": "Melinda cognata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27469"
+    }
+,
+    {
+      "name": "Musca caerulea Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398315"
+    }
+,
+    {
+      "name": "Musca cognata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398316"
+    }
+,
+    {
+      "name": "Melinda viridicyanea (Robineau-Desvoidy, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224841"
+    }
+,
+    {
+      "name": "Musca anthracina Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398317"
+    }
+,
+    {
+      "name": "Onesia viridicyanea Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936318"
+    }
+,
+    {
+      "name": "Morinia Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Morinia doronici (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224842"
+    }
+,
+    {
+      "name": "Calobataemyia melanoptera (Fallén, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970876"
+    }
+,
+    {
+      "name": "Musca doronici Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936319"
+    }
+,
+    {
+      "name": "Musca melanoptera Fallén, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398318"
+    }
+,
+    {
+      "name": "Nesodexia Villeneuve, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Nesodexia corsicana Villeneuve, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224843"
+    }
+,
+    {
+      "name": "Nitellia ",
+      "url": ""
+    }
+,
+    {
+      "name": "Nitellia ospedaliana Lehrer, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/444420"
+    }
+,
+    {
+      "name": "Onesia Robineau Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Onesia canescens Villeneuve, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224844"
+    }
+,
+    {
+      "name": "Onesia currani Kurahashi, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828396"
+    }
+,
+    {
+      "name": "Melinda minuta Curran, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828395"
+    }
+,
+    {
+      "name": "Onesia minula (Curran, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828394"
+    }
+,
+    {
+      "name": "Onesia floralis Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224845"
+    }
+,
+    {
+      "name": "Calliphora retrocurva Pandellé, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398319"
+    }
+,
+    {
+      "name": "Musca sepulcralis Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398320"
+    }
+,
+    {
+      "name": "Onesia (Onesia) floralis Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27478"
+    }
+,
+    {
+      "name": "Onesia (Onesia) sepulcralis (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27477"
+    }
+,
+    {
+      "name": "Onesia subapeninna Rondani, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398321"
+    }
+,
+    {
+      "name": "Onesia gonideci Kurahashi & Fauran, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438528"
+    }
+,
+    {
+      "name": "Onesia melinda (Curran, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828397"
+    }
+,
+    {
+      "name": "Calliphora melinda Curran, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438399"
+    }
+,
+    {
+      "name": "Onesia noumea (Curran, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828392"
+    }
+,
+    {
+      "name": "Calliphora noumea Curran, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438400"
+    }
+,
+    {
+      "name": "Onesia zumpti Schumann, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224846"
+    }
+,
+    {
+      "name": "Phormia Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Phormia regina (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27481"
+    }
+,
+    {
+      "name": "Musca regina Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936322"
+    }
+,
+    {
+      "name": "Somomya lucens Rondani, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989078"
+    }
+,
+    {
+      "name": "Pollenia Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Pollenia amentaria (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224847"
+    }
+,
+    {
+      "name": "Musca amentaria Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936325"
+    }
+,
+    {
+      "name": "Pollenia angustigena Wainwright, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224848"
+    }
+,
+    {
+      "name": "Pollenia atramentaria (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27488"
+    }
+,
+    {
+      "name": "Musca atramentaria Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936326"
+    }
+,
+    {
+      "name": "Pollenia levis Rondani, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398322"
+    }
+,
+    {
+      "name": "Pollenia bicolor Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224849"
+    }
+,
+    {
+      "name": "Pollenia contempta Robineau-Desvoidy, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224850"
+    }
+,
+    {
+      "name": "Pollenia fulvipalpis Macquart, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224851"
+    }
+,
+    {
+      "name": "Pollenia bisulca Pandellé, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398323"
+    }
+,
+    {
+      "name": "Pollenia griseotomentosa (Jacentkovsky, 1944)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224852"
+    }
+,
+    {
+      "name": "Polleniella griseotomentosa Jacentkovsky, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936328"
+    }
+,
+    {
+      "name": "Pollenia hungarica Rognes, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224853"
+    }
+,
+    {
+      "name": "Pollenia labialis Robineau-Desvoidy, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224854"
+    }
+,
+    {
+      "name": "Pollenia excarinata Wainwright, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398324"
+    }
+,
+    {
+      "name": "Pollenia leclercqiana (Lehrer, 1978)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224855"
+    }
+,
+    {
+      "name": "Nitellia leclercqiana Lehrer, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936329"
+    }
+,
+    {
+      "name": "Pollenia paupera Rondani, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224856"
+    }
+,
+    {
+      "name": "Pollenia longitheca Rognes, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398325"
+    }
+,
+    {
+      "name": "Pollenia pediculata Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224857"
+    }
+,
+    {
+      "name": "Pollenia obscura Bigot, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398326"
+    }
+,
+    {
+      "name": "Pollenia pseudorudis Rognes, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398327"
+    }
+,
+    {
+      "name": "Pollenia rudis (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27489"
+    }
+,
+    {
+      "name": "Musca rudis Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914651"
+    }
+,
+    {
+      "name": "Musca varia Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398328"
+    }
+,
+    {
+      "name": "Pollenia varia (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27493"
+    }
+,
+    {
+      "name": "Pollenia ruficrura Rondani, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224858"
+    }
+,
+    {
+      "name": "Pollenia tenuiforceps Séguy, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224859"
+    }
+,
+    {
+      "name": "Dasypollenia angustifrons Jacentkovsky, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398329"
+    }
+,
+    {
+      "name": "Pollenia vagabunda (Meigen, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27492"
+    }
+,
+    {
+      "name": "Musca vagabunda Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936327"
+    }
+,
+    {
+      "name": "Pollenia venturii Zumpt, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224860"
+    }
+,
+    {
+      "name": "Pollenia solitaria Grunin, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398330"
+    }
+,
+    {
+      "name": "Pollenia vera Jacentkovsky, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224861"
+    }
+,
+    {
+      "name": "Pollenia viatica Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224862"
+    }
+,
+    {
+      "name": "Pollenia carinata Wainwright, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398331"
+    }
+,
+    {
+      "name": "Pollenia pallida Rohdendorf, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398332"
+    }
+,
+    {
+      "name": "Protocalliphora Hough, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Protocalliphora azurea (Fallén, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27483"
+    }
+,
+    {
+      "name": "Musca azurea Fallén, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936332"
+    }
+,
+    {
+      "name": "Protocalliphora falcozi Séguy, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224863"
+    }
+,
+    {
+      "name": "Protocalliphora rognesi Thompson & Pont, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224864"
+    }
+,
+    {
+      "name": "Musca chrysorrhoea Meigen, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398333"
+    }
+,
+    {
+      "name": "Musca sordida Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398334"
+    }
+,
+    {
+      "name": "Protophormia Townsend, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Protophormia terraenovae (Robineau-Desvoidy, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/27486"
+    }
+,
+    {
+      "name": "Phormia terraenovae Robineau-Desvoidy, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936333"
+    }
+,
+    {
+      "name": "Rhyncomya Robineau-Desvoidy, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhyncomya columbina (Meigen, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224865"
+    }
+,
+    {
+      "name": "Rhyncomyia perisi Lehrer, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398335"
+    }
+,
+    {
+      "name": "Tachina columbina Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936334"
+    }
+,
+    {
+      "name": "Rhyncomya felina (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224866"
+    }
+,
+    {
+      "name": "Musca felina Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914652"
+    }
+,
+    {
+      "name": "Musca ruficeps Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398336"
+    }
+,
+    {
+      "name": "Rhyncomya impavida (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224867"
+    }
+,
+    {
+      "name": "Musca impavida Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898980"
+    }
+,
+    {
+      "name": "Rhyncomya speciosa (Loew, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224868"
+    }
+,
+    {
+      "name": "Idia speciosa Loew, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936336"
+    }
+,
+    {
+      "name": "Trypocalliphora Peus, 1960",
+      "url": ""
+    }
+,
+    {
+      "name": "Trypocalliphora braueri (Hendel, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224869"
+    }
+,
+    {
+      "name": "Avihospita braueri Hendel, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936339"
+    }
+,
+    {
+      "name": "Phormia aurisquama Villeneuve, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398338"
+    }
+,
+    {
+      "name": "Protocalliphora hirudo Shannon & Dobroscky, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398339"
+    }
+,
+    {
+      "name": "Trypocalliphora compacta Grunin, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398341"
+    }
+,
+    {
+      "name": "Trypocalliphora lindneri Peus, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398340"
+    }
+,
+    {
+      "name": "laneellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/calliphoridae/laneellinae/"
+    }
+,
+    {
+      "name": "mesembrinellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/calliphoridae/mesembrinellinae/"
+    }
+
+  ]
+}

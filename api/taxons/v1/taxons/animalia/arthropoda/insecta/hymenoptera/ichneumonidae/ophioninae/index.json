@@ -1,0 +1,87 @@
+
+{
+  "name": "ophioninae",
+  "children": [
+
+    {
+      "name": "Ophioninae Shuckard, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "enicospilini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/ichneumonidae/ophioninae/enicospilini/"
+    }
+,
+    {
+      "name": "Eremotylus Förster, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Eremotylus curvinervis (Kriechbaumer, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/229450"
+    }
+,
+    {
+      "name": "Eremotylus dryobotae Seyrig, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995948"
+    }
+,
+    {
+      "name": "Eremotylus hungaricus Szépligeti, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995943"
+    }
+,
+    {
+      "name": "Ophion curvinervis Kriechbaumer, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995947"
+    }
+,
+    {
+      "name": "Eremotylus divisor (Aubert, 1980)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/229451"
+    }
+,
+    {
+      "name": "Eremotylus marginatus (Jurine, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/229452"
+    }
+,
+    {
+      "name": "Leptophion Cameron, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptophion anici Gauld, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792662"
+    }
+,
+    {
+      "name": "Leptophion kus Gauld & Mitchell, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792663"
+    }
+,
+    {
+      "name": "Stauropoctonus Brauns, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Stauropoctonus bombycivorus (Gravenhorst, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/229437"
+    }
+,
+    {
+      "name": "ophionini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/ichneumonidae/ophioninae/ophionini/"
+    }
+,
+    {
+      "name": "thyreodonini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/ichneumonidae/ophioninae/thyreodonini/"
+    }
+
+  ]
+}

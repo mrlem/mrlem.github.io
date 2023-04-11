@@ -1,0 +1,47 @@
+
+{
+  "name": "onygenales",
+  "children": [
+
+    {
+      "name": "Onygenales Cif. ex Benny & Kimbr., 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "Arachnomycetales Gibas, Sigler & Currah, 2002",
+      "url": ""
+    }
+,
+    {
+      "name": "Ascosphaerales Gäum. ex Skou",
+      "url": ""
+    }
+,
+    {
+      "name": "arachnomycetaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/onygenales/arachnomycetaceae/"
+    }
+,
+    {
+      "name": "arthrodermataceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/onygenales/arthrodermataceae/"
+    }
+,
+    {
+      "name": "ascosphaeraceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/onygenales/ascosphaeraceae/"
+    }
+,
+    {
+      "name": "gymnoascaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/onygenales/gymnoascaceae/"
+    }
+,
+    {
+      "name": "onygenaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/onygenales/onygenaceae/"
+    }
+
+  ]
+}

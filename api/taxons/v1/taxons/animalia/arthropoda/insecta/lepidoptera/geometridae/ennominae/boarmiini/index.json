@@ -1,0 +1,2627 @@
+
+{
+  "name": "boarmiini",
+  "children": [
+
+    {
+      "name": "Boarmiini Duponchel, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Adactylotis Hübner, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Adactylotis contaminaria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248866"
+    }
+,
+    {
+      "name": "Cabera contaminaria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808153"
+    }
+,
+    {
+      "name": "Geometra contaminaria Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915324"
+    }
+,
+    {
+      "name": "Itame contaminaria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988370"
+    }
+,
+    {
+      "name": "Thamnonoma contaminaria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784079"
+    }
+,
+    {
+      "name": "Adactylotis gesticularia (Hübner, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248865"
+    }
+,
+    {
+      "name": "Geometra gesticularia Hübner, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915325"
+    }
+,
+    {
+      "name": "Adactylotis gesticularia gesticularia (Hübner, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931893"
+    }
+,
+    {
+      "name": "Aethalura McDunnough, 1920",
+      "url": ""
+    }
+,
+    {
+      "name": "Aethalura punctulata (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248868"
+    }
+,
+    {
+      "name": "Geometra punctulata Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916659"
+    }
+,
+    {
+      "name": "Phalaena punctularia Hübner, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822263"
+    }
+,
+    {
+      "name": "Tephrosia punctularia (Hübner, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822264"
+    }
+,
+    {
+      "name": "Afriberina Wehrli, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Afriberina tenietaria (Staudinger, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839785"
+    }
+,
+    {
+      "name": "Boarmia tenietaria Staudinger, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917497"
+    }
+,
+    {
+      "name": "Agriopis Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Agriopis leucophaearia (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248847"
+    }
+,
+    {
+      "name": "Geometra leucophaearia Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916666"
+    }
+,
+    {
+      "name": "Hibernia leucophaearia (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808093"
+    }
+,
+    {
+      "name": "Hybernia leucophaearia (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784055"
+    }
+,
+    {
+      "name": "Alcis Curtis, 1826",
+      "url": ""
+    }
+,
+    {
+      "name": "Alcis deversata (Staudinger, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836763"
+    }
+,
+    {
+      "name": "Alcis bastelbergeri (Hirschke, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248881"
+    }
+,
+    {
+      "name": "Boarmia maculata Staudinger, 1892 non Moore, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416423"
+    }
+,
+    {
+      "name": "Boarmia repandata bastelbergeri Hirschke, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931902"
+    }
+,
+    {
+      "name": "Boarmia repandata deversata Staudinger, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917499"
+    }
+,
+    {
+      "name": "Boarmia repandata maculata Staudinger, 1892 non Moore, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931903"
+    }
+,
+    {
+      "name": "Alcis deversata deversata (Staudinger, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931901"
+    }
+,
+    {
+      "name": "Alcis jubata (Thunberg, 1788)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248882"
+    }
+,
+    {
+      "name": "Boarmia semiothisata Lentz, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931885"
+    }
+,
+    {
+      "name": "Cleora glabraria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777984"
+    }
+,
+    {
+      "name": "Phalaena jubata Thunberg, 1788",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917527"
+    }
+,
+    {
+      "name": "Alcis jubata jubata (Thunberg, 1788)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931899"
+    }
+,
+    {
+      "name": "Alcis repandata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248880"
+    }
+,
+    {
+      "name": "Alcis repandaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821090"
+    }
+,
+    {
+      "name": "Boarmia repandaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777985"
+    }
+,
+    {
+      "name": "Boarmia repandata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784064"
+    }
+,
+    {
+      "name": "Geometra repandaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821091"
+    }
+,
+    {
+      "name": "Phalaena repandata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824856"
+    }
+,
+    {
+      "name": "Alcis repandata repandata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931900"
+    }
+,
+    {
+      "name": "Amblychia Guenée in Boisduval & Guenée, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Elphos Guenée in Boisduval & Guenée, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Amblychia subrubida (Warren, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833432"
+    }
+,
+    {
+      "name": "Elphos subrubida Warren, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833430"
+    }
+,
+    {
+      "name": "Amblychia subrubida aoupiniensis (Holloway, 1979)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833434"
+    }
+,
+    {
+      "name": "Elphos subrubida aoupiniensis Holloway, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833431"
+    }
+,
+    {
+      "name": "Apocheima Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Apocheima hispidaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248860"
+    }
+,
+    {
+      "name": "Apocheima hispidaria cottei (Oberthür, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931460"
+    }
+,
+    {
+      "name": "Biston hispidaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784059"
+    }
+,
+    {
+      "name": "Geometra hispidaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916667"
+    }
+,
+    {
+      "name": "Nyssia hispidaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827453"
+    }
+,
+    {
+      "name": "Arichanna Moore, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Arichanna melanaria (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248879"
+    }
+,
+    {
+      "name": "Phalaena melanaria Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849589"
+    }
+,
+    {
+      "name": "Arichanna melanaria melanaria (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931898"
+    }
+,
+    {
+      "name": "Ascotis Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Ascotis selenaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248872"
+    }
+,
+    {
+      "name": "Ascotis selenaria dianaria (Hübner, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836761"
+    }
+,
+    {
+      "name": "Ascotis turcaria Vives, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416418"
+    }
+,
+    {
+      "name": "Boarmia selenaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784068"
+    }
+,
+    {
+      "name": "Geometra selenaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916668"
+    }
+,
+    {
+      "name": "Ascotis selenaria selenaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931895"
+    }
+,
+    {
+      "name": "Ascotis terebraria (Guenée, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458072"
+    }
+,
+    {
+      "name": "Hypopalpis perforaria Guenée, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985569"
+    }
+,
+    {
+      "name": "Hypopalpis terebraria Guenée, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985567"
+    }
+,
+    {
+      "name": "Ascotis terebraria terebraria (Guenée, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458473"
+    }
+,
+    {
+      "name": "Athroolopha Lederer, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Athroolopha pennigeraria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248907"
+    }
+,
+    {
+      "name": "Fidonia pennigeraria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777658"
+    }
+,
+    {
+      "name": "Geometra pennigeraria Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915326"
+    }
+,
+    {
+      "name": "Athroolopha pennigeraria pennigeraria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931905"
+    }
+,
+    {
+      "name": "Biston Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphidasis Treitschke, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Biston betularia (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248853"
+    }
+,
+    {
+      "name": "Amphidasis betularia (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808097"
+    }
+,
+    {
+      "name": "Amphidasis betularius (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825436"
+    }
+,
+    {
+      "name": "Amphidasys betularia (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822253"
+    }
+,
+    {
+      "name": "Phalaena betularia Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824853"
+    }
+,
+    {
+      "name": "Biston betularia betularia (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931570"
+    }
+,
+    {
+      "name": "Biston betularia cognataria (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931571"
+    }
+,
+    {
+      "name": "Biston strataria (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248852"
+    }
+,
+    {
+      "name": "Amphidasis prodromaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808098"
+    }
+,
+    {
+      "name": "Amphidasys stratarius (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016327"
+    }
+,
+    {
+      "name": "Geometra prodromaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808099"
+    }
+,
+    {
+      "name": "Phalaena prodromaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952838"
+    }
+,
+    {
+      "name": "Phalaena strataria Hufnagel, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824852"
+    }
+,
+    {
+      "name": "Phalaena vernalis Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931568"
+    }
+,
+    {
+      "name": "Biston strataria strataria (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931565"
+    }
+,
+    {
+      "name": "Amphidasis prodromaria meridionalis Oberthür, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931566"
+    }
+,
+    {
+      "name": "Biston strataria meridionalis (Oberthür, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931564"
+    }
+,
+    {
+      "name": "Bryoptera Guenée, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Bryoptera albiplaga Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784684"
+    }
+,
+    {
+      "name": "Bupalus Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Bupalus piniaria (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248911"
+    }
+,
+    {
+      "name": "Bupalus flavescens White, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416442"
+    }
+,
+    {
+      "name": "Bupalus mughusaria Gumppenberg, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416441"
+    }
+,
+    {
+      "name": "Bupalus piniaria bernieri Lajonquière, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836759"
+    }
+,
+    {
+      "name": "Bupalus piniaria flavescens White, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836757"
+    }
+,
+    {
+      "name": "Bupalus piniaria mughusaria (Gumppenberg, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836758"
+    }
+,
+    {
+      "name": "Bupalus piniarius (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825440"
+    }
+,
+    {
+      "name": "Fidonia piniaria (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822268"
+    }
+,
+    {
+      "name": "Phalaena piniaria Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849588"
+    }
+,
+    {
+      "name": "Calamodes Guenée, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Calamodes occitanaria (Duponchel, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248897"
+    }
+,
+    {
+      "name": "Boarmia occitanaria Duponchel, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770399"
+    }
+,
+    {
+      "name": "Calamodes occitanaria submelanaria (Zerny, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931599"
+    }
+,
+    {
+      "name": "Catoria Moore, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Catoria camelaria (Guenée, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833389"
+    }
+,
+    {
+      "name": "Catoria camelaria carbonata (Warren, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833391"
+    }
+,
+    {
+      "name": "Chemerina Boisduval, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Chemerina caliginearia (Rambur, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248851"
+    }
+,
+    {
+      "name": "Ligia caliginearia Rambur, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917537"
+    }
+,
+    {
+      "name": "Chemerina caliginearia caliginearia (Rambur, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931904"
+    }
+,
+    {
+      "name": "Cleora Curtis, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Cleora acaciaria (Boisduval, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458135"
+    }
+,
+    {
+      "name": "Boarmia acaciaria Boisduval, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985561"
+    }
+,
+    {
+      "name": "Cleora acacicola Holloway, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833392"
+    }
+,
+    {
+      "name": "Cleora albipuncta Orhant, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776772"
+    }
+,
+    {
+      "name": "Cleora caliginosa Orhant, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776773"
+    }
+,
+    {
+      "name": "Cleora cinctaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248884"
+    }
+,
+    {
+      "name": "Boarmia cinctaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825437"
+    }
+,
+    {
+      "name": "Geometra cinctaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916669"
+    }
+,
+    {
+      "name": "Cleora cinctaria cinctaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931896"
+    }
+,
+    {
+      "name": "Cleora collenettei Prout, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645823"
+    }
+,
+    {
+      "name": "Cleora dodonaeae Prout, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643580"
+    }
+,
+    {
+      "name": "Cleora dothionis Holloway, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833393"
+    }
+,
+    {
+      "name": "Cleora esoterica Prout, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645824"
+    }
+,
+    {
+      "name": "Cleora esoterica f. pusillanimis Prout, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645825"
+    }
+,
+    {
+      "name": "Cleora illustraria (Walker, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833395"
+    }
+,
+    {
+      "name": "Cleora illustraria caledonica Holloway, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833397"
+    }
+,
+    {
+      "name": "Cleora immemorata (Walker, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829656"
+    }
+,
+    {
+      "name": "Boarmia lichenina Butler, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829658"
+    }
+,
+    {
+      "name": "Cleora injectaria (Walker, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833399"
+    }
+,
+    {
+      "name": "Cleora lacteata (Warren, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829779"
+    }
+,
+    {
+      "name": "Chogada lacteata Warren, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962998"
+    }
+,
+    {
+      "name": "Cleora decisaria ecdees Prout, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829778"
+    }
+,
+    {
+      "name": "Cleora ecdees Prout, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962999"
+    }
+,
+    {
+      "name": "Cleora leucostigma Prout, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645826"
+    }
+,
+    {
+      "name": "Cleora licornaria (Guenée, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776774"
+    }
+,
+    {
+      "name": "Cleora longipectina Orhant, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776775"
+    }
+,
+    {
+      "name": "Cleora myrmidonaria (Guenée, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776776"
+    }
+,
+    {
+      "name": "Cleora nitidula Orhant, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776777"
+    }
+,
+    {
+      "name": "Cleora rothkirchi (Strand, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781421"
+    }
+,
+    {
+      "name": "Cleora rothkirchi insularum Fletcher, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781423"
+    }
+,
+    {
+      "name": "Cleora stenoglypta Prout, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643579"
+    }
+,
+    {
+      "name": "Cleora transversaria (Pagenstecher, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781420"
+    }
+,
+    {
+      "name": "Cryopega Dumont, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryopega bajaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785891"
+    }
+,
+    {
+      "name": "Agriopis bajaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248848"
+    }
+,
+    {
+      "name": "Cryopega aerugaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780126"
+    }
+,
+    {
+      "name": "Cryopega legrasi Dumont, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931580"
+    }
+,
+    {
+      "name": "Erannis bajaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988407"
+    }
+,
+    {
+      "name": "Geometra aerugaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416413"
+    }
+,
+    {
+      "name": "Geometra bajaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916670"
+    }
+,
+    {
+      "name": "Hibernia bajaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822251"
+    }
+,
+    {
+      "name": "Hybernia bajaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784054"
+    }
+,
+    {
+      "name": "Cryopega bajaria bajaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931578"
+    }
+,
+    {
+      "name": "Agriopis bajaria bajaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931579"
+    }
+,
+    {
+      "name": "Deileptenia Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Deileptenia ribeata (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248883"
+    }
+,
+    {
+      "name": "Phalaena ribeata Clerck, 1759",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917545"
+    }
+,
+    {
+      "name": "Ecleora Wehrli, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Ecleora solieraria (Rambur, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248899"
+    }
+,
+    {
+      "name": "Boarmia solieraria Rambur, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770419"
+    }
+,
+    {
+      "name": "Ectropis Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Tephrosia Boisduval, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Ectropis crepuscularia (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248871"
+    }
+,
+    {
+      "name": "Boarmia bistortata (Goeze, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007523"
+    }
+,
+    {
+      "name": "Boarmia crepuscularia (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825438"
+    }
+,
+    {
+      "name": "Ectropis bistortata (Goeze, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810220"
+    }
+,
+    {
+      "name": "Geometra crepuscularia Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916671"
+    }
+,
+    {
+      "name": "Phalaena bistortata Goeze, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416417"
+    }
+,
+    {
+      "name": "Tephrosia crepuscularia (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/805047"
+    }
+,
+    {
+      "name": "Ectropis crepuscularia crepuscularia (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931897"
+    }
+,
+    {
+      "name": "Ectropis herbuloti Orhant, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713268"
+    }
+,
+    {
+      "name": "Ectropis herbuloti Orhant, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458189"
+    }
+,
+    {
+      "name": "Ekboarmia Wehrli, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Ekboarmia atlanticaria (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344909"
+    }
+,
+    {
+      "name": "Boarmia atlanticaria Staudinger, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917645"
+    }
+,
+    {
+      "name": "Ekboarmia fascinataria (Staudinger, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248876"
+    }
+,
+    {
+      "name": "Ekboarmia sagnesi Dufay, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248875"
+    }
+,
+    {
+      "name": "Ematurga Lederer, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Ematurga atomaria (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248867"
+    }
+,
+    {
+      "name": "Fidonia atomaria (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777476"
+    }
+,
+    {
+      "name": "Phalaena atomaria Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849591"
+    }
+,
+    {
+      "name": "Ematurga atomaria atomaria (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931494"
+    }
+,
+    {
+      "name": "Ematurga atomaria alpicolaria Vorbrodt & Müller-Rutz, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931490"
+    }
+,
+    {
+      "name": "Ematurga atomaria isoscelata (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931492"
+    }
+,
+    {
+      "name": "Ematurga atomaria microcosma (Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931495"
+    }
+,
+    {
+      "name": "Phalaena picta Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931499"
+    }
+,
+    {
+      "name": "Epimecis Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Epimecis detexta (Walker, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648523"
+    }
+,
+    {
+      "name": "Epimecis matronaria (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784685"
+    }
+,
+    {
+      "name": "Bronchelia matronaria Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784686"
+    }
+,
+    {
+      "name": "Epimecis puellaria (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784688"
+    }
+,
+    {
+      "name": "Bronchelia puellaria Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784689"
+    }
+,
+    {
+      "name": "Erannis Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Hybernia Berthold, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Erannis defoliaria (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248846"
+    }
+,
+    {
+      "name": "Hibernia defoliaria (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827459"
+    }
+,
+    {
+      "name": "Hybernia defoliaria (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784058"
+    }
+,
+    {
+      "name": "Phalaena defoliaria Clerck, 1759",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824855"
+    }
+,
+    {
+      "name": "Eumannia Fletcher, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Eumannia oranaria (Staudinger, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931618"
+    }
+,
+    {
+      "name": "Tephronia oranaria Staudinger, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248864"
+    }
+,
+    {
+      "name": "Eumannia oranaria alpinaria (Leraut, 2009)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931807"
+    }
+,
+    {
+      "name": "Tephronia oranaria alpinaria Leraut, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931806"
+    }
+,
+    {
+      "name": "Eumannia oranaria castiliaria (Staudinger, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931808"
+    }
+,
+    {
+      "name": "Tephronia castiliaria Staudinger, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931809"
+    }
+,
+    {
+      "name": "Tephronia oranaria castiliaria Staudinger, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931810"
+    }
+,
+    {
+      "name": "Eumannia oranaria cebennaria (Chrétien, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931798"
+    }
+,
+    {
+      "name": "Mannia cebennaria ab. luminosaria Cleu, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931805"
+    }
+,
+    {
+      "name": "Mannia cebennaria stephaniaria Lhomme, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931804"
+    }
+,
+    {
+      "name": "Mannia oranaria cebennaria (Chrétien, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770424"
+    }
+,
+    {
+      "name": "Tephronia cebennaria Chrétien, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931799"
+    }
+,
+    {
+      "name": "Tephronia oranaria cebennaria Chrétien, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931802"
+    }
+,
+    {
+      "name": "Tephronia oranaria hubertcleui Leraut, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931803"
+    }
+,
+    {
+      "name": "Eurranthis Hübner, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Eurranthis plummistaria (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248906"
+    }
+,
+    {
+      "name": "Eurranthis plumistaria (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822762"
+    }
+,
+    {
+      "name": "Fidonia acronevadaria Wehrli, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416439"
+    }
+,
+    {
+      "name": "Fidonia plumistaria (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774041"
+    }
+,
+    {
+      "name": "Phalaena plummistaria Villers, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917671"
+    }
+,
+    {
+      "name": "Eurranthis plummistaria plummistaria (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344980"
+    }
+,
+    {
+      "name": "Eutomopepla Warren, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Eutomopepla annulipes (Felder & Rogenhofer, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782199"
+    }
+,
+    {
+      "name": "Fagivorina Wehrli, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Fagivorina arenaria (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248873"
+    }
+,
+    {
+      "name": "Boarmia arenaria (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810175"
+    }
+,
+    {
+      "name": "Cleora angularia (Thunberg, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018555"
+    }
+,
+    {
+      "name": "Phalaena arenaria Hufnagel, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917590"
+    }
+,
+    {
+      "name": "Glena Hulst, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Glena bipennaria (Guenée, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784709"
+    }
+,
+    {
+      "name": "Boarmia bipennaria Guenée, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784710"
+    }
+,
+    {
+      "name": "Glena bipennaria demissa Rindge, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784711"
+    }
+,
+    {
+      "name": "Glena demissaria (Walker, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834107"
+    }
+,
+    {
+      "name": "Glena quadrata Rindge, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784712"
+    }
+,
+    {
+      "name": "Glena unipennaria (Guenée, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834105"
+    }
+,
+    {
+      "name": "Glena unipennaria cosmeta Rindge, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834106"
+    }
+,
+    {
+      "name": "Hypomecis Hübner, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Boarmia Treitschke, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypomecis punctinalis (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248878"
+    }
+,
+    {
+      "name": "Boarmia consortaria (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784065"
+    }
+,
+    {
+      "name": "Boarmia grisearia Bastelberger, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416419"
+    }
+,
+    {
+      "name": "Boarmia magyarica Wehrli, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416420"
+    }
+,
+    {
+      "name": "Boarmia punctinalis (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810176"
+    }
+,
+    {
+      "name": "Hypomecis punctinalis grisearia (Bastelberger, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931473"
+    }
+,
+    {
+      "name": "Phalaena bandevillaea Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931475"
+    }
+,
+    {
+      "name": "Phalaena consortaria Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808100"
+    }
+,
+    {
+      "name": "Phalaena griseonigra Goeze, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931478"
+    }
+,
+    {
+      "name": "Phalaena punctinalis Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917681"
+    }
+,
+    {
+      "name": "Hypomecis roboraria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248877"
+    }
+,
+    {
+      "name": "Boarmia roboraria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810174"
+    }
+,
+    {
+      "name": "Geometra roboraria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916672"
+    }
+,
+    {
+      "name": "Lycia Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Amorphogynia Warren, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Harrisonodes Leraut, 2009",
+      "url": ""
+    }
+,
+    {
+      "name": "Nyssia Duponchel, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Poecilopsis Harrison, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Lycia alpina (Sulzer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248855"
+    }
+,
+    {
+      "name": "Harrisonodes alpina (Sulzer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931559"
+    }
+,
+    {
+      "name": "Phalaena alpina Sulzer, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918192"
+    }
+,
+    {
+      "name": "Lycia alpina alpina (Sulzer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931558"
+    }
+,
+    {
+      "name": "Lycia florentina (Stefanelli, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344859"
+    }
+,
+    {
+      "name": "Biston graecarius var. florentina Stefanelli, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918194"
+    }
+,
+    {
+      "name": "Harrisonodes florentina (Stefanelli, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931560"
+    }
+,
+    {
+      "name": "Ithysia italica Harrison, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918195"
+    }
+,
+    {
+      "name": "Lycia florentina italica (Harrison, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896816"
+    }
+,
+    {
+      "name": "Lycia hirtaria (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248854"
+    }
+,
+    {
+      "name": "Amphidasis hirtaria (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827452"
+    }
+,
+    {
+      "name": "Biston hirtaria (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784060"
+    }
+,
+    {
+      "name": "Biston hirtarius (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825435"
+    }
+,
+    {
+      "name": "Phalaena hirtaria Clerck, 1759",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917546"
+    }
+,
+    {
+      "name": "Lycia hirtaria hirtaria (Clerck, 1759)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931552"
+    }
+,
+    {
+      "name": "Lycia hirtaria diniensis (Oberthür, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931553"
+    }
+,
+    {
+      "name": "Lycia isabellae (Harrison, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248856"
+    }
+,
+    {
+      "name": "Lycia isabellae strobinoi Dujardin, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699743"
+    }
+,
+    {
+      "name": "Poecilopsis isabellae Harrison, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918196"
+    }
+,
+    {
+      "name": "Lycia pomonaria (Hübner, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248858"
+    }
+,
+    {
+      "name": "Cidaria pomonaria (Hübner, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008248"
+    }
+,
+    {
+      "name": "Nyssia pomonaria (Hübner, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827454"
+    }
+,
+    {
+      "name": "Phalaena pomonaria Hübner, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915442"
+    }
+,
+    {
+      "name": "Lycia pomonaria pomonaria (Hübner, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931556"
+    }
+,
+    {
+      "name": "Lycia zonaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248857"
+    }
+,
+    {
+      "name": "Geometra zonaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916673"
+    }
+,
+    {
+      "name": "Nyssia zonaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827455"
+    }
+,
+    {
+      "name": "Melanchroia Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Melanchroia aterea (Stoll, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728251"
+    }
+,
+    {
+      "name": "Melanchroia chephise (Stoll, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641863"
+    }
+,
+    {
+      "name": "Melanolophia Hulst, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Melanolophia divergens (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784791"
+    }
+,
+    {
+      "name": "Cymatophora divergens Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784792"
+    }
+,
+    {
+      "name": "Melanolophia lalanneae Herbulot, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641860"
+    }
+,
+    {
+      "name": "Melanolophia lalannei Herbulot, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648524"
+    }
+,
+    {
+      "name": "Melanolophia ludovici Herbulot, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641861"
+    }
+,
+    {
+      "name": "Melanolophia rufimontis Herbulot, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648525"
+    }
+,
+    {
+      "name": "Minyolophia Rindge, 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "Minyolophia azenioides (Herbulot, 1988)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834103"
+    }
+,
+    {
+      "name": "Melanolophia azenioides Herbulot, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834104"
+    }
+,
+    {
+      "name": "Neoblasta Dognin, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoblasta sublimbata Dognin, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784784"
+    }
+,
+    {
+      "name": "Neofidonia Warren, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Neofidonia signata Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784781"
+    }
+,
+    {
+      "name": "Neogyne Warren, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Neogyne elongata Warren, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833451"
+    }
+,
+    {
+      "name": "Nychiodes Lederer, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Nychiodes andalusiaria Millière, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344969"
+    }
+,
+    {
+      "name": "Nychiodes lividaria andalusiaria Millière, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931914"
+    }
+,
+    {
+      "name": "Nychiodes mauretanica Wehrli, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781761"
+    }
+,
+    {
+      "name": "Nychiodes notarioi Expósito, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/721715"
+    }
+,
+    {
+      "name": "Nychiodes obscuraria (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248905"
+    }
+,
+    {
+      "name": "Nychiodes lividaria coloxaria Constantini, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931918"
+    }
+,
+    {
+      "name": "Nychiodes obscuraria coloxaria Constantini, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344967"
+    }
+,
+    {
+      "name": "Nychiodes obscuraria obscuraria (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344965"
+    }
+,
+    {
+      "name": "Nychiodes obscuraria teriolensis Wagner, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344966"
+    }
+,
+    {
+      "name": "Nychiodes obscuraria ticina Wehrli, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344968"
+    }
+,
+    {
+      "name": "Phalaena obscuraria Villers, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917673"
+    }
+,
+    {
+      "name": "Odysia Guenée, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Odysia subnigrata (Warren, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836830"
+    }
+,
+    {
+      "name": "Hymenomima subnigrata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782205"
+    }
+,
+    {
+      "name": "Paraboarmia Krampl, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "Paraboarmia viertlii (Bohatsch, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248898"
+    }
+,
+    {
+      "name": "Boarmia viertlii Bohatsch, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918241"
+    }
+,
+    {
+      "name": "Paradarisa Warren, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Paradarisa consonaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248870"
+    }
+,
+    {
+      "name": "Ectropis consonaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/459044"
+    }
+,
+    {
+      "name": "Geometra consonaria Hübner, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827518"
+    }
+,
+    {
+      "name": "Tephrosia consonaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827519"
+    }
+,
+    {
+      "name": "Parectropis Sato, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "Parectropis similaria (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248869"
+    }
+,
+    {
+      "name": "Boarmia extersaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988368"
+    }
+,
+    {
+      "name": "Boarmia luridata (Borkhausen, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784069"
+    }
+,
+    {
+      "name": "Ectropis extersaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816620"
+    }
+,
+    {
+      "name": "Geometra extersaria Hübner, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416415"
+    }
+,
+    {
+      "name": "Phalaena luridata Borkhausen, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416416"
+    }
+,
+    {
+      "name": "Phalaena similaria Hufnagel, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917591"
+    }
+,
+    {
+      "name": "Tephrosia extersaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827521"
+    }
+,
+    {
+      "name": "Parectropis similaria similaria (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931894"
+    }
+,
+    {
+      "name": "Peribatodes Wehrli, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Peribatodes ilicaria (Geyer, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248894"
+    }
+,
+    {
+      "name": "Boarmia ilicaria (Geyer, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932805"
+    }
+,
+    {
+      "name": "Geometra ilicaria Geyer, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918228"
+    }
+,
+    {
+      "name": "Peribatodes ilicaria ilicaria (Geyer, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344935"
+    }
+,
+    {
+      "name": "Boarmia ilicaria marinaria Cleu, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932804"
+    }
+,
+    {
+      "name": "Boarmia manuelaria Herrich-Schäffer, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416435"
+    }
+,
+    {
+      "name": "Boarmia marinaria Cleu, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416434"
+    }
+,
+    {
+      "name": "Peribatodes ilicaria manuelaria (Herrich-Schäffer, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836036"
+    }
+,
+    {
+      "name": "Peribatodes ilicaria marinaria (Cleu, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836037"
+    }
+,
+    {
+      "name": "Peribatodes manuelaria (Herrich-Schäffer, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810173"
+    }
+,
+    {
+      "name": "Peribatodes perversaria (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248891"
+    }
+,
+    {
+      "name": "Boarmia abstersaria Boisduval, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918243"
+    }
+,
+    {
+      "name": "Boarmia buxicolaria Mabille, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932823"
+    }
+,
+    {
+      "name": "Boarmia perversaria galliberia Wehrli, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932827"
+    }
+,
+    {
+      "name": "Boarmia perversaria Boisduval, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918242"
+    }
+,
+    {
+      "name": "Boarmia subflavaria Millière, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918254"
+    }
+,
+    {
+      "name": "Peribatodes abstersaria montserrata Wehrli, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416429"
+    }
+,
+    {
+      "name": "Peribatodes abstersaria subflavaria (Millière, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781807"
+    }
+,
+    {
+      "name": "Peribatodes abstersaria (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248889"
+    }
+,
+    {
+      "name": "Peribatodes buxicolaria (Mabille, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248890"
+    }
+,
+    {
+      "name": "Peribatodes perversaria abstersaria (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781808"
+    }
+,
+    {
+      "name": "Peribatodes perversaria buxicolaria (Mabille, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781809"
+    }
+,
+    {
+      "name": "Peribatodes perversaria galliberia (Wehrli, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344929"
+    }
+,
+    {
+      "name": "Peribatodes perversaria perversaria (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836025"
+    }
+,
+    {
+      "name": "Peribatodes perversaria subflavaria (Millière, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781806"
+    }
+,
+    {
+      "name": "Peribatodes subflavaria (Millière, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248888"
+    }
+,
+    {
+      "name": "Peribatodes rhomboidaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248887"
+    }
+,
+    {
+      "name": "Boarmia rhomboidaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785649"
+    }
+,
+    {
+      "name": "Geometra rhomboidaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916674"
+    }
+,
+    {
+      "name": "Peribatodes rhomboidaria ichnusaria (Ghiliani, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836021"
+    }
+,
+    {
+      "name": "Boarmia corsicaria Schawerda, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416427"
+    }
+,
+    {
+      "name": "Boarmia ichnusaria Ghiliani, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918257"
+    }
+,
+    {
+      "name": "Boarmia rhomboidaria corsicaria Schawerda, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932801"
+    }
+,
+    {
+      "name": "Peribatodes rhomboidaria corsicaria (Schawerda, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836019"
+    }
+,
+    {
+      "name": "Peribatodes rhomboidaria rhomboidaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344926"
+    }
+,
+    {
+      "name": "Boarmia gemmaria (Brahm, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784062"
+    }
+,
+    {
+      "name": "Boarmia psoralaria Millière, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416425"
+    }
+,
+    {
+      "name": "Boarmia psoraliaria Millière, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836017"
+    }
+,
+    {
+      "name": "Boarmia rhomboidaria defloraria Dannehl, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416426"
+    }
+,
+    {
+      "name": "Peribatodes rhomboidaria defloraria (Dannehl, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836018"
+    }
+,
+    {
+      "name": "Peribatodes secundaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248893"
+    }
+,
+    {
+      "name": "Geometra secundaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916675"
+    }
+,
+    {
+      "name": "Peribatodes dragone de Laever & Parenzan, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416424"
+    }
+,
+    {
+      "name": "Peribatodes secundaria secundaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836032"
+    }
+,
+    {
+      "name": "Boarmia druentiaria Cleu, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416433"
+    }
+,
+    {
+      "name": "Boarmia secundaria druentiaria Cleu, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923454"
+    }
+,
+    {
+      "name": "Boarmia secundaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784063"
+    }
+,
+    {
+      "name": "Peribatodes secundaria druentiaria (Cleu, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836033"
+    }
+,
+    {
+      "name": "Peribatodes umbraria (Hübner, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248892"
+    }
+,
+    {
+      "name": "Boarmia umbraria (Hübner, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932802"
+    }
+,
+    {
+      "name": "Geometra umbraria Hübner, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915360"
+    }
+,
+    {
+      "name": "Peribatodes umbraria perumbraria Leraut, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836031"
+    }
+,
+    {
+      "name": "Peribatodes umbraria umbraria (Hübner, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836028"
+    }
+,
+    {
+      "name": "Boarmia decosteraria Oberthür, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416430"
+    }
+,
+    {
+      "name": "Boarmia umbraria decosteraria Oberthür, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932803"
+    }
+,
+    {
+      "name": "Boarmia umbraria matrensis Vojnits, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416431"
+    }
+,
+    {
+      "name": "Boarmia umbraria panorma Wehrli, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416432"
+    }
+,
+    {
+      "name": "Perigramma Guenée, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Genussa Walker, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Perigramma albivena Dognin, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836799"
+    }
+,
+    {
+      "name": "Perigramma famulata (Felder & Rogenhofer, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836794"
+    }
+,
+    {
+      "name": "Genussa famulata Felder & Rogenhofer, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836795"
+    }
+,
+    {
+      "name": "Perigramma famulata pallida Dognin, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836797"
+    }
+,
+    {
+      "name": "Phigalia Duponchel, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Phigalia pilosaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248859"
+    }
+,
+    {
+      "name": "Apocheima pilosaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972636"
+    }
+,
+    {
+      "name": "Geometra pilosaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824851"
+    }
+,
+    {
+      "name": "Hibernia pilosaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808095"
+    }
+,
+    {
+      "name": "Phalaena pedaria Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825433"
+    }
+,
+    {
+      "name": "Phigalia pedaria (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825434"
+    }
+,
+    {
+      "name": "Phigalia pilosaria prostae Leraut, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836765"
+    }
+,
+    {
+      "name": "Phigaliohybernia Inoue, 1942",
+      "url": ""
+    }
+,
+    {
+      "name": "Phigaliohybernia aurantiaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781852"
+    }
+,
+    {
+      "name": "Agriopis aurantiaria aurantiaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836769"
+    }
+,
+    {
+      "name": "Agriopis aurantiaria cleui Leraut, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836770"
+    }
+,
+    {
+      "name": "Agriopis aurantiaria lariciaria (Scholz, 1947)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836771"
+    }
+,
+    {
+      "name": "Agriopis aurantiaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248849"
+    }
+,
+    {
+      "name": "Geometra aurantiaria Hübner, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824854"
+    }
+,
+    {
+      "name": "Hibernia aurantiaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808096"
+    }
+,
+    {
+      "name": "Hybernia aurantiaria lariciaria Scholz, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918258"
+    }
+,
+    {
+      "name": "Hybernia aurantiaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784056"
+    }
+,
+    {
+      "name": "Larerannis aurantiaria aurantiaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836767"
+    }
+,
+    {
+      "name": "Larerannis aurantiaria cleui (Leraut, 1994)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836768"
+    }
+,
+    {
+      "name": "Larerannis aurantiaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820164"
+    }
+,
+    {
+      "name": "Phigaliohybernia aurantiaria aurantiaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781853"
+    }
+,
+    {
+      "name": "Phigaliohybernia aurantiaria cleui (Leraut, 1994)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781854"
+    }
+,
+    {
+      "name": "Phigaliohybernia aurantiaria lariciaria (Scholz, 1947)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781855"
+    }
+,
+    {
+      "name": "Phigaliohybernia marginaria (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781849"
+    }
+,
+    {
+      "name": "Agriopis marginaria marginaria (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344843"
+    }
+,
+    {
+      "name": "Agriopis marginaria pallidata (Turati, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836773"
+    }
+,
+    {
+      "name": "Agriopis marginaria (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248850"
+    }
+,
+    {
+      "name": "Geometra progemmaria Hübner, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808092"
+    }
+,
+    {
+      "name": "Hibernia marginaria (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980229"
+    }
+,
+    {
+      "name": "Hibernia progemmaria (Hübner, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808091"
+    }
+,
+    {
+      "name": "Hybernia marginaria pallidata Turati, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931597"
+    }
+,
+    {
+      "name": "Hybernia marginaria (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784057"
+    }
+,
+    {
+      "name": "Larerannis marginaria marginaria (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836775"
+    }
+,
+    {
+      "name": "Larerannis marginaria pallidata (Turati, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836774"
+    }
+,
+    {
+      "name": "Larerannis marginaria (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780139"
+    }
+,
+    {
+      "name": "Phalaena marginaria Fabricius, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781810"
+    }
+,
+    {
+      "name": "Phigaliohybernia marginaria marginaria (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781850"
+    }
+,
+    {
+      "name": "Phigaliohybernia marginaria pallidata (Turati, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781851"
+    }
+,
+    {
+      "name": "Phyllometra Boisduval, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Phyllometra gracilaria Boisduval, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920769"
+    }
+,
+    {
+      "name": "Tephronia gracilaria (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920770"
+    }
+,
+    {
+      "name": "Physocleora Warren, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenalcidia Warren, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Physocleora albibrunnea Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784764"
+    }
+,
+    {
+      "name": "Physocleora fulgurata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784765"
+    }
+,
+    {
+      "name": "Physocleora nubilata Warren, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784766"
+    }
+,
+    {
+      "name": "Physocleora plexilinea (Dognin, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784768"
+    }
+,
+    {
+      "name": "Stenalcidia plexilinea Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784769"
+    }
+,
+    {
+      "name": "Polyacme Warren, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Polyacme dentata Warren, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833460"
+    }
+,
+    {
+      "name": "Racotis Moore, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Racotis incompletaria (Guenée, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458396"
+    }
+,
+    {
+      "name": "Boarmia incompletaria Guenée, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985562"
+    }
+,
+    {
+      "name": "Sardocyrnia Wehrli, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Sardocyrnia bastelicaria (Bellier, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248896"
+    }
+,
+    {
+      "name": "Boarmia bastelicaria Bellier, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918259"
+    }
+,
+    {
+      "name": "Peribatodes bastelicaria (Bellier, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836039"
+    }
+,
+    {
+      "name": "Selidosema Hübner, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Selidosema brunnearia (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248885"
+    }
+,
+    {
+      "name": "Fidonia plumaria auct. non (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827531"
+    }
+,
+    {
+      "name": "Phalaena brunnearia Villers, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917674"
+    }
+,
+    {
+      "name": "Selidosema plumaria auct. non (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770400"
+    }
+,
+    {
+      "name": "Selidosema brunnearia brunnearia (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344913"
+    }
+,
+    {
+      "name": "Phalaena ericetaria Villers, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931906"
+    }
+,
+    {
+      "name": "Selidosema ericetaria (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784076"
+    }
+,
+    {
+      "name": "Selidosema brunnearia scandinaviaria Staudinger, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931907"
+    }
+,
+    {
+      "name": "Selidosema ericetaria scandinaviaria Staudinger, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931908"
+    }
+,
+    {
+      "name": "Selidosema plumaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344920"
+    }
+,
+    {
+      "name": "Geometra plumaria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916676"
+    }
+,
+    {
+      "name": "Phalaena limbata Rambur, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919359"
+    }
+,
+    {
+      "name": "Selidosema plumaria plumaria (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931909"
+    }
+,
+    {
+      "name": "Selidosema pyrenaearia (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784259"
+    }
+,
+    {
+      "name": "Fidonia pyrenaearia Boisduval, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784261"
+    }
+,
+    {
+      "name": "Selidosema brunnearia pyrenaearia (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344917"
+    }
+,
+    {
+      "name": "Selidosema plumaria pyrenaearia (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931910"
+    }
+,
+    {
+      "name": "Selidosema taeniolaria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248886"
+    }
+,
+    {
+      "name": "Geometra taeniolaria Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915361"
+    }
+,
+    {
+      "name": "Selidosema taeniolaria extensaria Turati, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931912"
+    }
+,
+    {
+      "name": "Selidosema taeniolaria taeniolaria (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931911"
+    }
+,
+    {
+      "name": "Symmetroctena Warren, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Symmetroctena variegata Holloway, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833464"
+    }
+,
+    {
+      "name": "Syneora Turner, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Syneora strixoides Holloway, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833466"
+    }
+,
+    {
+      "name": "Tephronia Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Mniophila Boisduval, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Tephronia cyrnea (Schawerda, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781699"
+    }
+,
+    {
+      "name": "Mannia codetaria cyrnea Schawerda, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781700"
+    }
+,
+    {
+      "name": "Tephronia codetaria cyrnea (Schawerda, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344886"
+    }
+,
+    {
+      "name": "Tephronia tonnara Tautel, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795797"
+    }
+,
+    {
+      "name": "Tephronia espaniola (Schawerda, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344879"
+    }
+,
+    {
+      "name": "Mannia oranaria espaniola Schawerda, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918433"
+    }
+,
+    {
+      "name": "Tephronia lhommaria (Cleu, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896915"
+    }
+,
+    {
+      "name": "Mannia codetaria lhommaria Cleu, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923455"
+    }
+,
+    {
+      "name": "Tephronia codetaria lhommaria (Cleu, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931611"
+    }
+,
+    {
+      "name": "Tephronia codetaria lhommearia (Cleu, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/344883"
+    }
+,
+    {
+      "name": "Tephronia codetaria auct. non (Oberthür, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248863"
+    }
+,
+    {
+      "name": "Tephronia lhommaria cleui Wehrli, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931613"
+    }
+,
+    {
+      "name": "Tephronia codetaria cleui Wehrli, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931614"
+    }
+,
+    {
+      "name": "Tephronia lhommaria diniensis Leraut, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931615"
+    }
+,
+    {
+      "name": "Tephronia lhommaria lhommaria (Cleu, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931612"
+    }
+,
+    {
+      "name": "Tephronia lhommaria melaleucaria (Schwingenschuss, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931616"
+    }
+,
+    {
+      "name": "Mannia codetaria melaleucaria Schwingenschuss, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931617"
+    }
+,
+    {
+      "name": "Tephronia nuragica Fiumi, Flamigni, Zilli & Hausmann, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/779003"
+    }
+,
+    {
+      "name": "Tephronia sepiaria (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248861"
+    }
+,
+    {
+      "name": "Boarmia corticaria Duponchel, 1829 [non Denis & Schiffermüller, 1775]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931601"
+    }
+,
+    {
+      "name": "Boarmia cremiaria Freyer, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931603"
+    }
+,
+    {
+      "name": "Geometra cineraria Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416414"
+    }
+,
+    {
+      "name": "Mniophila carieraria Herrich-Shäffer, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931605"
+    }
+,
+    {
+      "name": "Mniophila corticaria auct. non (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808104"
+    }
+,
+    {
+      "name": "Mniophila fingalata Millière, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931607"
+    }
+,
+    {
+      "name": "Phalaena sepiaria Hufnagel, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917592"
+    }
+,
+    {
+      "name": "Tephronia cremiaria (Freyer, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/248862"
+    }
+,
+    {
+      "name": "Tephronia fingalata (Millière, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931608"
+    }
+,
+    {
+      "name": "Tephronia sepiaria carieraria (Herrich-Shäffer, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931606"
+    }
+,
+    {
+      "name": "Tephronia sepiaria cremiaria (Freyer, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781698"
+    }
+,
+    {
+      "name": "Tephronia sepiaria sepiaria (Hufnagel, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931604"
+    }
+,
+    {
+      "name": "Tephronia theophilaria Hausmann, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931609"
+    }
+
+  ]
+}

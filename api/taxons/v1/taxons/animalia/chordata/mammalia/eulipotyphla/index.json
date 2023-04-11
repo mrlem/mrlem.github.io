@@ -1,0 +1,37 @@
+
+{
+  "name": "eulipotyphla",
+  "children": [
+
+    {
+      "name": "Eulipotyphla Waddell, Okada & Hasegawa, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Erinaceomorpha Gregory, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Soricomorpha Gregory, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "erinaceidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/eulipotyphla/erinaceidae/"
+    }
+,
+    {
+      "name": "soricidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/eulipotyphla/soricidae/"
+    }
+,
+    {
+      "name": "talpidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/eulipotyphla/talpidae/"
+    }
+
+  ]
+}

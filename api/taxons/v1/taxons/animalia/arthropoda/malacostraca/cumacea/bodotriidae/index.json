@@ -1,0 +1,22 @@
+
+{
+  "name": "bodotriidae",
+  "children": [
+
+    {
+      "name": "Bodotriidae T. Scott, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "bodotriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/bodotriidae/bodotriinae/"
+    }
+,
+    {
+      "name": "vaunthompsoniinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/bodotriidae/vaunthompsoniinae/"
+    }
+
+  ]
+}

@@ -1,0 +1,687 @@
+
+{
+  "name": "haminoeidae",
+  "children": [
+
+    {
+      "name": "Haminoeidae Pilsbry, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Atydidae Thiele, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Atydinae Thiele, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Bullactidae Thiele, 1926",
+      "url": ""
+    }
+,
+    {
+      "name": "Smaragdinellidae Thiele, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Aliculastrum Pilsbry, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Aliculastrum cylindricum (Helbling, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778450"
+    }
+,
+    {
+      "name": "Atys cylindraeus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/692108"
+    }
+,
+    {
+      "name": "Atys cylindrica [sic]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536382"
+    }
+,
+    {
+      "name": "Atys cylindricus (Helbling, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528265"
+    }
+,
+    {
+      "name": "Bulla cylindrica Helbling, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549660"
+    }
+,
+    {
+      "name": "Aliculastrum debile (Pease, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826056"
+    }
+,
+    {
+      "name": "Atys debilis Pease, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527191"
+    }
+,
+    {
+      "name": "Limulatys debilis (Pease, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670475"
+    }
+,
+    {
+      "name": "Aliculastrum solidum (Bruguière, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727104"
+    }
+,
+    {
+      "name": "Bulla solida Bruguière, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727105"
+    }
+,
+    {
+      "name": "Atys Montfort, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "Atys blainvillianus (Récluz, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/63141"
+    }
+,
+    {
+      "name": "Atys caribaeus (d'Orbigny, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605266"
+    }
+,
+    {
+      "name": "Atys guildingi Sowerby II, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712785"
+    }
+,
+    {
+      "name": "Atys naucum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526788"
+    }
+,
+    {
+      "name": "Atys cymbulus Montfort, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/692376"
+    }
+,
+    {
+      "name": "Bulla naucum Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549662"
+    }
+,
+    {
+      "name": "Haminoea ferruginosa (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536377"
+    }
+,
+    {
+      "name": "Atys ooformis Habe, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528267"
+    }
+,
+    {
+      "name": "Atys parallela (A.A. Gould, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528268"
+    }
+,
+    {
+      "name": "Atys riiseanus Mörch, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605265"
+    }
+,
+    {
+      "name": "Atys semistriatus Pease, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971982"
+    }
+,
+    {
+      "name": "Atys semistriata Pease, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527003"
+    }
+,
+    {
+      "name": "Atys sharpi Vanatta, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762198"
+    }
+,
+    {
+      "name": "Diniatys Iredale, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Diniatys dentifer (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528269"
+    }
+,
+    {
+      "name": "Dinia dentifera (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678917"
+    }
+,
+    {
+      "name": "Diniatys dubius (Schepman, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771227"
+    }
+,
+    {
+      "name": "Diniatys monodonta (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780104"
+    }
+,
+    {
+      "name": "Bulla monodonta A. Adams, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900674"
+    }
+,
+    {
+      "name": "Diniatys truncatulus (Schepman, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791697"
+    }
+,
+    {
+      "name": "Relichna truncatula (Schepman, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/729262"
+    }
+,
+    {
+      "name": "Haloa Pilsbry, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Haloa crocata (Pease, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972124"
+    }
+,
+    {
+      "name": "Haminoea crocata Pease, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528273"
+    }
+,
+    {
+      "name": "Haminoea galba Pease, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775136"
+    }
+,
+    {
+      "name": "Haloa japonica (Pilsbry, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972128"
+    }
+,
+    {
+      "name": "Bulla flavescens A. Adams, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549661"
+    }
+,
+    {
+      "name": "Haloa flavescens (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528270"
+    }
+,
+    {
+      "name": "Haminaea callidegenita Gibson & Chia, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837053"
+    }
+,
+    {
+      "name": "Haminea binotata var. japonica Pilsbry, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837054"
+    }
+,
+    {
+      "name": "Haminea flavescens (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549546"
+    }
+,
+    {
+      "name": "Haminoea callidegenita Gibson & Chia, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837055"
+    }
+,
+    {
+      "name": "Haminoea flavescens (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536376"
+    }
+,
+    {
+      "name": "Haminoea japonica Pilsbry, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837052"
+    }
+,
+    {
+      "name": "Haloa nigropunctata (Pease, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528271"
+    }
+,
+    {
+      "name": "Haminoea nigropunctata Pease, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782814"
+    }
+,
+    {
+      "name": "Haloa pemphis (Philippi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018517"
+    }
+,
+    {
+      "name": "Bulla pemphis Philippi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018518"
+    }
+,
+    {
+      "name": "Bulla tenella A. Adams, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018519"
+    }
+,
+    {
+      "name": "Haminoea pemphis (Philippi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018520"
+    }
+,
+    {
+      "name": "Haminoea tenella (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775061"
+    }
+,
+    {
+      "name": "Haminoea Turton & Kingston in Carrington, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Haminoea antillarum (d'Orbigny, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605735"
+    }
+,
+    {
+      "name": "Bulla antillarum d'Orbigny, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896630"
+    }
+,
+    {
+      "name": "Haminoea aperta Pease, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528272"
+    }
+,
+    {
+      "name": "Haminoea elegans (Gray, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369687"
+    }
+,
+    {
+      "name": "Bulla diaphana Gould, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684400"
+    }
+,
+    {
+      "name": "Bulla elegans Gray, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684399"
+    }
+,
+    {
+      "name": "Bulla guildingii Swainson, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684401"
+    }
+,
+    {
+      "name": "Haminoea taylorae Petuch, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684402"
+    }
+,
+    {
+      "name": "Haminoea exigua (Schaefer, 1992)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966188"
+    }
+,
+    {
+      "name": "Haminaea exigua Schaefer, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966189"
+    }
+,
+    {
+      "name": "Haminoea hydatis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369692"
+    }
+,
+    {
+      "name": "Bulla hydatis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545944"
+    }
+,
+    {
+      "name": "Haminoea cymoelium Monterosato, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369690"
+    }
+,
+    {
+      "name": "Haminoea natalensis (F. Krauss, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771234"
+    }
+,
+    {
+      "name": "Bulla natalensis F. Krauss, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972130"
+    }
+,
+    {
+      "name": "Haloa natalensis (F. Krauss, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972129"
+    }
+,
+    {
+      "name": "Haminoea navicula (da Costa, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369689"
+    }
+,
+    {
+      "name": "Haminaea navicula da Costa, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/63147"
+    }
+,
+    {
+      "name": "Haminoea cornea (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546074"
+    }
+,
+    {
+      "name": "Haminoea orbignyana (Férussac, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369688"
+    }
+,
+    {
+      "name": "Haminoea orteai Talavera, Murillo & Templado, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001696"
+    }
+,
+    {
+      "name": "Haminoea petitii (d'Orbigny, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605947"
+    }
+,
+    {
+      "name": "Haminoea regularis (Gould, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528275"
+    }
+,
+    {
+      "name": "Haminoea succinea (Conrad, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605736"
+    }
+,
+    {
+      "name": "Lamprohaminoea Habe, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Lamprohaminoea cymbalum (Quoy & Gaimard, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972126"
+    }
+,
+    {
+      "name": "Bulla cymbalum Quoy & Gaimard, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549659"
+    }
+,
+    {
+      "name": "Haminea cymbalum (Quoy & Gaimard, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549545"
+    }
+,
+    {
+      "name": "Haminoea cymbalum (Quoy & Gaimard, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/625847"
+    }
+,
+    {
+      "name": "Haminoea simillima Pease, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775078"
+    }
+,
+    {
+      "name": "Lamprohaminoea ovalis (Pease, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972132"
+    }
+,
+    {
+      "name": "Haminoea ovalis Pease, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528274"
+    }
+,
+    {
+      "name": "Liloa Pilsbry, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Liloa mongii (Audouin, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826102"
+    }
+,
+    {
+      "name": "Liloa curta (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528276"
+    }
+,
+    {
+      "name": "Micratys Habe, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Micratys wareni Valdés, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/626006"
+    }
+,
+    {
+      "name": "Phanerophthalmus A. Adams, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Phanerophthalmus albocollaris Heller & Thompson, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771243"
+    }
+,
+    {
+      "name": "Phanerophthalmus anettae Austin, Gosliner & Malaquias, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921921"
+    }
+,
+    {
+      "name": "Phanerophthalmus cylindricus (Pease, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528277"
+    }
+,
+    {
+      "name": "Cryptophthalmus cylindricus Pease, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921919"
+    }
+,
+    {
+      "name": "Phanerophthalmus minikoiensis (E. A. Smith, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957242"
+    }
+,
+    {
+      "name": "Cryptophthalmus minikoiensis E. A. Smith, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957243"
+    }
+,
+    {
+      "name": "Phanerophthalmus olivaceus (Ehrenberg, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699209"
+    }
+,
+    {
+      "name": "Bulla smaragdina Rüppell & Leuckart, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018427"
+    }
+,
+    {
+      "name": "Cryptophthalmus olivaceus Ehrenberg, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018426"
+    }
+,
+    {
+      "name": "Phanerophthalmus smaragdinus (Rüppell & Leuckart, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528278"
+    }
+,
+    {
+      "name": "Phanerophthalmus paulayi Austin, Gosliner & Malaquias, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921918"
+    }
+,
+    {
+      "name": "Phanerophthalmus perpallidus Risbec, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921920"
+    }
+,
+    {
+      "name": "Roxaniella Monterosato, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Roxaniella jeffreysi (Weinkauff, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966411"
+    }
+,
+    {
+      "name": "Atys jeffreysi (Weinkauff, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/63134"
+    }
+,
+    {
+      "name": "Bulla (Cylichna) jeffreysi Weinkauff, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966412"
+    }
+,
+    {
+      "name": "Smaragdinella A. Adams, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Smaragdinella calyculata (Broderip & G. B. Sowerby I, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528279"
+    }
+,
+    {
+      "name": "Bulla viridis Quoy & Gaimard, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949674"
+    }
+,
+    {
+      "name": "Smaragdinella canaliculata (Broderip & Sowerby)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590749"
+    }
+,
+    {
+      "name": "Vellicolla Oskars, Too, Rees, P. M. Mikkelsen, Willassen & Malaquias, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Vellicolla muscaria (Gould, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971300"
+    }
+,
+    {
+      "name": "Atys muscaria Gould, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528266"
+    }
+,
+    {
+      "name": "Limulatys muscarius (Gould, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898485"
+    }
+,
+    {
+      "name": "Vellicolla okamotoi (Habe, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971301"
+    }
+,
+    {
+      "name": "Limulatys okamotoi Habe, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699493"
+    }
+,
+    {
+      "name": "Vellicolla ooformis (Habe, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970618"
+    }
+,
+    {
+      "name": "Limulatys ooformis Habe, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970619"
+    }
+,
+    {
+      "name": "Vellicolla tortuosa (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971303"
+    }
+,
+    {
+      "name": "Bulla tortuosa A. Adams, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971304"
+    }
+,
+    {
+      "name": "Limulatys tortuosus (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898052"
+    }
+,
+    {
+      "name": "Weinkauffia Weinkauff, 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "Limulatys Iredale, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Weinkauffia macandrewii (E. A. Smith, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971980"
+    }
+,
+    {
+      "name": "Atys macandrewii E. A. Smith, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360214"
+    }
+,
+    {
+      "name": "Weinkauffia perforata (Thiele, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971302"
+    }
+,
+    {
+      "name": "Limulatys perforatus (Thiele, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780089"
+    }
+,
+    {
+      "name": "Weinkauffia turgidula (Forbes, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918163"
+    }
+,
+    {
+      "name": "Bulla turgidula Forbes, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/63129"
+    }
+
+  ]
+}

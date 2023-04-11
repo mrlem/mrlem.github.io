@@ -1,0 +1,37 @@
+
+{
+  "name": "cypridininae",
+  "children": [
+
+    {
+      "name": "Cypridininae Baird, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "cypridinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/myodocopida/cypridinidae/cypridininae/cypridinini/"
+    }
+,
+    {
+      "name": "gigantocypridinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/myodocopida/cypridinidae/cypridininae/gigantocypridinini/"
+    }
+,
+    {
+      "name": "Enewton Cohen & Morin, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Enewton harveyi (Kornicker & King, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930330"
+    }
+,
+    {
+      "name": "Vargula harveyi Kornicker & King, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930331"
+    }
+
+  ]
+}

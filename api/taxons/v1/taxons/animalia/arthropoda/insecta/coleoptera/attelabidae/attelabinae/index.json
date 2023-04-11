@@ -1,0 +1,37 @@
+
+{
+  "name": "attelabinae",
+  "children": [
+
+    {
+      "name": "Attelabinae Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "attelabini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/attelabidae/attelabinae/attelabini/"
+    }
+,
+    {
+      "name": "Madagasocycnelus Legalov, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Madagasocycnelus humeralis Olivier, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013909"
+    }
+,
+    {
+      "name": "Trachelophorus Jekel, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Trachelophorus humeralis (Olivier, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853770"
+    }
+
+  ]
+}

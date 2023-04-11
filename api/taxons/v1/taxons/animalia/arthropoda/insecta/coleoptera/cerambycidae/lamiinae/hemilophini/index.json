@@ -1,0 +1,562 @@
+
+{
+  "name": "hemilophini",
+  "children": [
+
+    {
+      "name": "Hemilophini Thomson, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Adesmus Lepeletier de Saint Fargeau & Audinet-Serville, in Latreille, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Adesmus chalumeaui Touroult, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439118"
+    }
+,
+    {
+      "name": "Adesmus diana (Thomson, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757778"
+    }
+,
+    {
+      "name": "Amphionycha diana Thomson, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909300"
+    }
+,
+    {
+      "name": "Adesmus dignus Melzer, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/598304"
+    }
+,
+    {
+      "name": "Adesmus divus (Chabrillac, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/598305"
+    }
+,
+    {
+      "name": "Hemilophus divus Chabrillac, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909301"
+    }
+,
+    {
+      "name": "Adesmus monnei Galileo & Martins, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760492"
+    }
+,
+    {
+      "name": "Adesmus nigriventris (Fleutiaux & Sallé, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/439043"
+    }
+,
+    {
+      "name": "Amphionycha nigriventris Fleutiaux & Sallé, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012557"
+    }
+,
+    {
+      "name": "Adesmus turrialba Galileo & Martins, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757780"
+    }
+,
+    {
+      "name": "Amapanesia Martins & Galileo, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Amapanesia exotica (Galileo & Martins, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757781"
+    }
+,
+    {
+      "name": "Eulachnesia exotica Galileo & Martins, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909302"
+    }
+,
+    {
+      "name": "Apagomerina Gilmour, 1962",
+      "url": ""
+    }
+,
+    {
+      "name": "Apagomerina faceta Martins & Galileo, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760493"
+    }
+,
+    {
+      "name": "Apagomerina lampyroides Martins & Galileo, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757783"
+    }
+,
+    {
+      "name": "Apagomerina martinsi Audureau & Morvan, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912990"
+    }
+,
+    {
+      "name": "Apagomerina odettae Martins & Galileo, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760494"
+    }
+,
+    {
+      "name": "Cacupira Martins & Galileo, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Cacupira tucurui Martins & Galileo, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757785"
+    }
+,
+    {
+      "name": "Cendiunopsis Tavakilian & Santos-Silva, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Cendiunopsis garnieri Tavakilian & Santos-Silva, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/913011"
+    }
+,
+    {
+      "name": "Cuicirama Martins & Galileo, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Cuicirama cayennensis (Bates, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757786"
+    }
+,
+    {
+      "name": "Hemilophus cayennensis Bates, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909303"
+    }
+,
+    {
+      "name": "Cuicirama smithii (Bates, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757787"
+    }
+,
+    {
+      "name": "Hemilophus smithii Bates, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909304"
+    }
+,
+    {
+      "name": "Eranina Monné, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "Eranina bezarki Devesa & Santos-Silva, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999095"
+    }
+,
+    {
+      "name": "Eranina cincticornis (Bates, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757869"
+    }
+,
+    {
+      "name": "Erana cincticornis Bates, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909305"
+    }
+,
+    {
+      "name": "Eulachnesia Bates, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Eulachnesia humeralis (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757870"
+    }
+,
+    {
+      "name": "Saperda humeralis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909306"
+    }
+,
+    {
+      "name": "Frankluquetia Tavakilian, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Frankluquetia inexpectata Tavakilian, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760514"
+    }
+,
+    {
+      "name": "Fredlanea Martins & Galileo, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Fredlanea virginea (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/598323"
+    }
+,
+    {
+      "name": "Saperda virginea Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909307"
+    }
+,
+    {
+      "name": "Gagarinia Lane, 1956",
+      "url": ""
+    }
+,
+    {
+      "name": "Gagarinia beigeorum Audureau & Morvan, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912991"
+    }
+,
+    {
+      "name": "Gagarinia borgmeieri (Bondar, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757872"
+    }
+,
+    {
+      "name": "Adesmus borgmeieri Bondar, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909308"
+    }
+,
+    {
+      "name": "Guyarolea Tavakilian & Santos-Silva, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Guyarolea lalannecassoui Tavakilian & Santos-Silva, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/913009"
+    }
+,
+    {
+      "name": "Iarucanga Martins & Galileo, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Iarucanga mimica (Bates, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757873"
+    }
+,
+    {
+      "name": "Spathoptera mimica Bates, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909309"
+    }
+,
+    {
+      "name": "Icupima Martins & Galileo, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Icupima ampliata Martins, Galileo & Tavakilian, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760515"
+    }
+,
+    {
+      "name": "Isomerida Bates, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Isomerida albicollis (Castelnau, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757875"
+    }
+,
+    {
+      "name": "Hemilophus albicollis Castelnau, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909310"
+    }
+,
+    {
+      "name": "Isomerida fourneti Tavakilian & Santos-Silva, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/913012"
+    }
+,
+    {
+      "name": "Itaituba Lane, 1950",
+      "url": ""
+    }
+,
+    {
+      "name": "Itaituba pitanga Galileo & Martins, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757876"
+    }
+,
+    {
+      "name": "Ites Waterhouse, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Ites colasi Lepesme, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757877"
+    }
+,
+    {
+      "name": "Lapazina Lane, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Lapazina arnaudi Tavakilian & Santos-Silva, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/913014"
+    }
+,
+    {
+      "name": "Lycidola Thomson, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Lycidola flavofasciata Waterhouse, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757878"
+    }
+,
+    {
+      "name": "Lycidola simulatrix Bates, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757879"
+    }
+,
+    {
+      "name": "Lycomimus Melzer, 1931",
+      "url": ""
+    }
+,
+    {
+      "name": "Lycomimus albocinctus Melzer, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757880"
+    }
+,
+    {
+      "name": "Mariliana Lane, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Mariliana amazonica Galileo & Martins, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760516"
+    }
+,
+    {
+      "name": "Murupeaca Martins & Galileo, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Murupeaca pinimatinga Martins & Galileo, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757882"
+    }
+,
+    {
+      "name": "Murupeaca tavakiliani Galileo & Martins, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/598325"
+    }
+,
+    {
+      "name": "Ochromima Bates, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Ochromima marginicollis (Gahan, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757883"
+    }
+,
+    {
+      "name": "Amphionycha marginicollis Gahan, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909311"
+    }
+,
+    {
+      "name": "Ochromima pallipes (Olivier, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757884"
+    }
+,
+    {
+      "name": "Saperda pallipes Olivier, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909312"
+    }
+,
+    {
+      "name": "Olivensa Lane, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Olivensa cephalotes (Pascoe, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757885"
+    }
+,
+    {
+      "name": "Amphionycha cephalotes Pascoe, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909313"
+    }
+,
+    {
+      "name": "Olivensa megacephala (Bates, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757886"
+    }
+,
+    {
+      "name": "Amphionycha megacephala Bates, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909314"
+    }
+,
+    {
+      "name": "Olivensa sonzognii Dalens & Robin, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935241"
+    }
+,
+    {
+      "name": "Parauna Lane, 1972",
+      "url": ""
+    }
+,
+    {
+      "name": "Parauna zikani Lane, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757887"
+    }
+,
+    {
+      "name": "Phoebe Audinet-Serville, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Phoebe bicornis (Olivier, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757888"
+    }
+,
+    {
+      "name": "Saperda bicornis Olivier, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909315"
+    }
+,
+    {
+      "name": "Phoebe blanci Audureau & Morvan, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912992"
+    }
+,
+    {
+      "name": "Phoebe cornuta (Olivier, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757889"
+    }
+,
+    {
+      "name": "Saperda cornuta Olivier, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909316"
+    }
+,
+    {
+      "name": "Phoebe faurei Morvan & Audureau, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916750"
+    }
+,
+    {
+      "name": "Piampatara Martins & Galileo, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Piampatara antennata Galileo & Martins, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757976"
+    }
+,
+    {
+      "name": "Porangonycha Martins & Galileo, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "Porangonycha princeps (Bates, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757977"
+    }
+,
+    {
+      "name": "Amphionycha princeps Bates, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909318"
+    }
+,
+    {
+      "name": "Purusiella Dalens, Touroult & Tavakilian, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Purusiella hippomontanensis Dalens, Touroult & Tavakilian, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/598583"
+    }
+,
+    {
+      "name": "Sphallopatara Audureau & Morvan, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Sphallopatara cerdai Audureau & Morvan, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912994"
+    }
+,
+    {
+      "name": "Sybaguasu Martins & Galileo, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Sybaguasu thoracicum (Olivier, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757978"
+    }
+,
+    {
+      "name": "Saperda thoracica Olivier, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909319"
+    }
+,
+    {
+      "name": "Tyrinthia Bates, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Tyrinthia scissifrons Bates, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/757979"
+    }
+,
+    {
+      "name": "Ybyrarema Martins & Galileo, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Ybyrarema irundisa (Galileo & Martins, 2001)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912997"
+    }
+,
+    {
+      "name": "Sphallonycha irundisa Galileo & Martins, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912998"
+    }
+,
+    {
+      "name": "Zeale Pascoe, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Zeale granvillei Touroult & Dalens, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809520"
+    }
+
+  ]
+}

@@ -1,0 +1,22 @@
+
+{
+  "name": "trypanosomatida",
+  "children": [
+
+    {
+      "name": "Trypanosomatida Kent, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "trypanosomatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/euglenozoa/kinetoplastea/trypanosomatida/trypanosomatidae/"
+    }
+,
+    {
+      "name": "Trypanosomatina Kent, 1880",
+      "url": ""
+    }
+
+  ]
+}

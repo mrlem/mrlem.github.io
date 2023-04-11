@@ -1,0 +1,1822 @@
+
+{
+  "name": "nymphidiini",
+  "children": [
+
+    {
+      "name": "Nymphidiini Bates, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Adelotypa Warren, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Adelotypa borsippa (Hewitson, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753671"
+    }
+,
+    {
+      "name": "Adelotypa borsippa flagrans Brévignon, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761182"
+    }
+,
+    {
+      "name": "Lemonias borsippa Hewitson, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999359"
+    }
+,
+    {
+      "name": "Annulata Hall, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Annulata annulifera (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999378"
+    }
+,
+    {
+      "name": "Adelotypa annulifera (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753670"
+    }
+,
+    {
+      "name": "Lemonias annulifera Godman, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999376"
+    }
+,
+    {
+      "name": "Archaeonympha Hall, 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "Archaeonympha drepana (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753674"
+    }
+,
+    {
+      "name": "Archaeonympha urichi (Vane-Wright, 1994)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753675"
+    }
+,
+    {
+      "name": "Argyraspila Hall, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Argyraspila antonii (Brévignon, 1995)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999457"
+    }
+,
+    {
+      "name": "Calospila antonii Brévignon, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760011"
+    }
+,
+    {
+      "name": "Argyraspila maeonoides (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999460"
+    }
+,
+    {
+      "name": "Calospila maeonoides (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753777"
+    }
+,
+    {
+      "name": "Lemonias maeonoides Godman, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999459"
+    }
+,
+    {
+      "name": "Argyraspila rhesa (Hewitson, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999458"
+    }
+,
+    {
+      "name": "Calospila rhesa (Hewitson, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753779"
+    }
+,
+    {
+      "name": "Lemonias rhesa Hewitson, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999373"
+    }
+,
+    {
+      "name": "Argyraspila tavakiliani (Brévignon & Gallard, 1995)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999471"
+    }
+,
+    {
+      "name": "Calospila gyges auct. non (Stichel, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753772"
+    }
+,
+    {
+      "name": "Calospila tavakiliani Brévignon & Gallard, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999472"
+    }
+,
+    {
+      "name": "Argyraspila thara (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999463"
+    }
+,
+    {
+      "name": "Calospila thara desiderabilis Brévignon, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761572"
+    }
+,
+    {
+      "name": "Calospila thara nomia (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883806"
+    }
+,
+    {
+      "name": "Calospila thara (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753784"
+    }
+,
+    {
+      "name": "Lemonias nomia Godman, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999466"
+    }
+,
+    {
+      "name": "Lemonias thara Stoll, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999461"
+    }
+,
+    {
+      "name": "Argyraspila urichi (May, 1972)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999464"
+    }
+,
+    {
+      "name": "Calospila urichi complementaris Brévignon, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761573"
+    }
+,
+    {
+      "name": "Calospila urichi (May, 1972)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753785"
+    }
+,
+    {
+      "name": "Lemonias urichi May, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999462"
+    }
+,
+    {
+      "name": "Argyraspila zeanger (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999470"
+    }
+,
+    {
+      "name": "Calospila zeanger (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753787"
+    }
+,
+    {
+      "name": "Papilio zeanger Stoll, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999465"
+    }
+,
+    {
+      "name": "Aricoris Westwood, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Aricoris epulus (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753676"
+    }
+,
+    {
+      "name": "Aricoris zachaeus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002415"
+    }
+,
+    {
+      "name": "Calospila Geyer, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "Calospila parthaon (Dalman, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753778"
+    }
+,
+    {
+      "name": "Papilio parthaon Dalman, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999451"
+    }
+,
+    {
+      "name": "Calospila parthaon parthaon (Dalman, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999449"
+    }
+,
+    {
+      "name": "Calospila rhodope (Hewitson, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753780"
+    }
+,
+    {
+      "name": "Lemonias rhodope Hewitson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999453"
+    }
+,
+    {
+      "name": "Calospila rhodope rhodope (Hewitson, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999454"
+    }
+,
+    {
+      "name": "Calospila rhodope wayanai Brévignon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761571"
+    }
+,
+    {
+      "name": "Calospila tauaensis Jauffret & De Sousa, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883805"
+    }
+,
+    {
+      "name": "Catocyclotis Stichel, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Catocyclotis aemulius (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883802"
+    }
+,
+    {
+      "name": "Catocyclotis curulis (Hewitson, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999486"
+    }
+,
+    {
+      "name": "Adelotypa curulis (Hewitson, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883804"
+    }
+,
+    {
+      "name": "Lemonias curulis Hewitson, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999372"
+    }
+,
+    {
+      "name": "Diminutiva Hall, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Diminutiva glaucina (Stichel, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999379"
+    }
+,
+    {
+      "name": "Dysmathia glaucina Stichel, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753791"
+    }
+,
+    {
+      "name": "Dysmathia Bates, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Dysmathia portia H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753792"
+    }
+,
+    {
+      "name": "Hallonympha Penz & Devries, 2006",
+      "url": ""
+    }
+,
+    {
+      "name": "Hallonympha eudocia Godman & Salvin, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753793"
+    }
+,
+    {
+      "name": "Hallonympha maculosa (Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999520"
+    }
+,
+    {
+      "name": "Callistium maculosa (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753247"
+    }
+,
+    {
+      "name": "Calydna maculosa H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964353"
+    }
+,
+    {
+      "name": "Juditha Hemming, 1964",
+      "url": ""
+    }
+,
+    {
+      "name": "Juditha azan (Westwood, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753796"
+    }
+,
+    {
+      "name": "Juditha azan majorina Brévignon & Gallard, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761576"
+    }
+,
+    {
+      "name": "Juditha molpe (Hübner, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753797"
+    }
+,
+    {
+      "name": "Juditha odites (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753798"
+    }
+,
+    {
+      "name": "Juditha odites odites (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761187"
+    }
+,
+    {
+      "name": "Lemonias Hübner, 1807",
+      "url": ""
+    }
+,
+    {
+      "name": "Lemonias egaensis (Butler, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753906"
+    }
+,
+    {
+      "name": "Lemonias zygia Hübner, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753907"
+    }
+,
+    {
+      "name": "Lemonias zygia zygia Hübner, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761189"
+    }
+,
+    {
+      "name": "Livendula Hall, 2007",
+      "url": ""
+    }
+,
+    {
+      "name": "Livendula aminias (Hewitson, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753909"
+    }
+,
+    {
+      "name": "Adelotypa aminias (Hewitson, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964336"
+    }
+,
+    {
+      "name": "Lemonias aminias aminias Hewitson, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999370"
+    }
+,
+    {
+      "name": "Lemonias aminias Hewitson, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964337"
+    }
+,
+    {
+      "name": "Livendula aminias aminias (Hewitson, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761190"
+    }
+,
+    {
+      "name": "Livendula aminias florosa Brévignon, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002301"
+    }
+,
+    {
+      "name": "Livendula aristus (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753910"
+    }
+,
+    {
+      "name": "Adelotypa aristus (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964334"
+    }
+,
+    {
+      "name": "Livendula aristus aristus (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761191"
+    }
+,
+    {
+      "name": "Papilio aristus Stoll, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964335"
+    }
+,
+    {
+      "name": "Livendula balista (Hewitson, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753911"
+    }
+,
+    {
+      "name": "Lemonias balista Hewitson, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999369"
+    }
+,
+    {
+      "name": "Livendula balista augustalis Brévignon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761192"
+    }
+,
+    {
+      "name": "Livendula brunescens Brévignon, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753912"
+    }
+,
+    {
+      "name": "Livendula huebneri (Butler, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753913"
+    }
+,
+    {
+      "name": "Echenais sordida Butler, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999493"
+    }
+,
+    {
+      "name": "Lemonias huebneri Butler, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999492"
+    }
+,
+    {
+      "name": "Livendula huebneri sordida (Butler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761193"
+    }
+,
+    {
+      "name": "Livendula jasonhalli Brévignon & Gallard, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760020"
+    }
+,
+    {
+      "name": "Livendula leucocyana (Geyer, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753916"
+    }
+,
+    {
+      "name": "Livendula leucophaea (Hübner, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753917"
+    }
+,
+    {
+      "name": "Nymphidium Fabricius, 1807",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycastor Callaghan, 1983",
+      "url": ""
+    }
+,
+    {
+      "name": "Nymphidium acherois (Boisduval, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753926"
+    }
+,
+    {
+      "name": "Desmozona acherois Boisduval, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999502"
+    }
+,
+    {
+      "name": "Nymphidium acherois acherois (Boisduval, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761198"
+    }
+,
+    {
+      "name": "Nymphidium aurum Callaghan, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753927"
+    }
+,
+    {
+      "name": "Nymphidium azanoides Butler, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753929"
+    }
+,
+    {
+      "name": "Nymphidium azanoides amazonensis Callaghan, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761199"
+    }
+,
+    {
+      "name": "Nymphidium azanoides azanoides sensu Gallard, 2017 non Butler, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002233"
+    }
+,
+    {
+      "name": "Nymphidium baeotia Hewitson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753930"
+    }
+,
+    {
+      "name": "Nymphidium cachrus (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754009"
+    }
+,
+    {
+      "name": "Nymphidium callaghani Brévignon, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760022"
+    }
+,
+    {
+      "name": "Nymphidium caricae (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754011"
+    }
+,
+    {
+      "name": "Papilio caricae Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849039"
+    }
+,
+    {
+      "name": "Nymphidium caricae caricae (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761203"
+    }
+,
+    {
+      "name": "Nymphidium colleti Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760023"
+    }
+,
+    {
+      "name": "Nymphidium fulminans H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754014"
+    }
+,
+    {
+      "name": "Nymphidium fulminans fulminans H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761204"
+    }
+,
+    {
+      "name": "Nymphidium guyanensis Gallard & Brévignon, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760024"
+    }
+,
+    {
+      "name": "Nymphidium hermieri Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760025"
+    }
+,
+    {
+      "name": "Nymphidium lisimon (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754019"
+    }
+,
+    {
+      "name": "Nymphidium lisimon lisimon (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761205"
+    }
+,
+    {
+      "name": "Nymphidium manicorensis Callaghan, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754020"
+    }
+,
+    {
+      "name": "Nymphidium manicorensis caoensis Brévignon, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761578"
+    }
+,
+    {
+      "name": "Nymphidium mantus (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754021"
+    }
+,
+    {
+      "name": "Nymphidium menalcus (Stoll, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754022"
+    }
+,
+    {
+      "name": "Nymphidium minuta Druce, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883800"
+    }
+,
+    {
+      "name": "Nymphidium nealces Hewitson, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883799"
+    }
+,
+    {
+      "name": "Mycastor nealces (Hewitson, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883798"
+    }
+,
+    {
+      "name": "Nymphidium olinda H.W. Bates, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754023"
+    }
+,
+    {
+      "name": "Nymphidium omois Hewitson, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754024"
+    }
+,
+    {
+      "name": "Nymphidium robiginosum Stichel, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999503"
+    }
+,
+    {
+      "name": "Nymphidium latibrunis Callaghan, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754018"
+    }
+,
+    {
+      "name": "Nymphidium velatum Stichel, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999504"
+    }
+,
+    {
+      "name": "Nymphidium derufata Callaghan, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754013"
+    }
+,
+    {
+      "name": "Pachythone Bates, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Pachythone conspersa Stichel, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753342"
+    }
+,
+    {
+      "name": "Pachythone crepusculi Gallard & Fernandez, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890787"
+    }
+,
+    {
+      "name": "Pachythone lateritia H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753343"
+    }
+,
+    {
+      "name": "Pachythone lateritia lateritia H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761150"
+    }
+,
+    {
+      "name": "Pachythone lateritia bourda Gallard, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761564"
+    }
+,
+    {
+      "name": "Pachythone xanthe H. W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002243"
+    }
+,
+    {
+      "name": "Pachythone xanthe thaumaria (Stichel, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002244"
+    }
+,
+    {
+      "name": "Pachythone thaumaria Stichel, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753345"
+    }
+,
+    {
+      "name": "Pandemos Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Pandemos pasiphae (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754025"
+    }
+,
+    {
+      "name": "Parvospila Hall, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Parvospila emylius (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999473"
+    }
+,
+    {
+      "name": "Calospila emylius emylius (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761184"
+    }
+,
+    {
+      "name": "Calospila emylius (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753679"
+    }
+,
+    {
+      "name": "Papilio emylius Cramer, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999474"
+    }
+,
+    {
+      "name": "Parvospila lucetia (Hübner, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999469"
+    }
+,
+    {
+      "name": "Calospila lucetia (Hübner, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753774"
+    }
+,
+    {
+      "name": "Echenais lucetia Hübner, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999476"
+    }
+,
+    {
+      "name": "Parvospila lucianus (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989394"
+    }
+,
+    {
+      "name": "Calospila lucianus lucianus (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761186"
+    }
+,
+    {
+      "name": "Calospila lucianus (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753776"
+    }
+,
+    {
+      "name": "Hesperia lucianus Fabricius, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989396"
+    }
+,
+    {
+      "name": "Periplacis Geyer, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Menander Hemming, 1939",
+      "url": ""
+    }
+,
+    {
+      "name": "Periplacis apotheta (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999477"
+    }
+,
+    {
+      "name": "Calospila apotheta (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753678"
+    }
+,
+    {
+      "name": "Lemonias apotheta H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989438"
+    }
+,
+    {
+      "name": "Periplacis cicuta (Hewitson, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989439"
+    }
+,
+    {
+      "name": "Lemonias cicuta Hewitson, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989440"
+    }
+,
+    {
+      "name": "Menander cicuta cicuta (Hewitson, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761194"
+    }
+,
+    {
+      "name": "Menander cicuta (Hewitson, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753918"
+    }
+,
+    {
+      "name": "Periplacis clotho (Stichel, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989443"
+    }
+,
+    {
+      "name": "Menander clotho (Stichel, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753919"
+    }
+,
+    {
+      "name": "Tharops clotho Stichel, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989442"
+    }
+,
+    {
+      "name": "Periplacis coruscans (Butler, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989445"
+    }
+,
+    {
+      "name": "Menander coruscans exsultans Brévignon, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761577"
+    }
+,
+    {
+      "name": "Menander coruscans (Butler, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753920"
+    }
+,
+    {
+      "name": "Tharops coruscans Butler, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989444"
+    }
+,
+    {
+      "name": "Periplacis hebrus (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989446"
+    }
+,
+    {
+      "name": "Menander hebrus hebrus (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761195"
+    }
+,
+    {
+      "name": "Menander hebrus (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753921"
+    }
+,
+    {
+      "name": "Papilio hebrus Cramer, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989447"
+    }
+,
+    {
+      "name": "Periplacis menander (Stoll, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002179"
+    }
+,
+    {
+      "name": "Menander menander menander (Stoll, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761196"
+    }
+,
+    {
+      "name": "Menander menander (Stoll, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753923"
+    }
+,
+    {
+      "name": "Papilio menander Stoll, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002178"
+    }
+,
+    {
+      "name": "Periplacis pretus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002180"
+    }
+,
+    {
+      "name": "Menander pretus pretus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761197"
+    }
+,
+    {
+      "name": "Menander pretus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753924"
+    }
+,
+    {
+      "name": "Papilio pretus Cramer, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002181"
+    }
+,
+    {
+      "name": "Periplacis splendida (Butler, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999495"
+    }
+,
+    {
+      "name": "Periplacis glaucoma splendida (Butler, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761207"
+    }
+,
+    {
+      "name": "Tharops splendida Butler, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999494"
+    }
+,
+    {
+      "name": "Periplacis thalassicus (Brévignon & Gallard, 1992)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002182"
+    }
+,
+    {
+      "name": "Menander thalassicus Brévignon & Gallard, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760021"
+    }
+,
+    {
+      "name": "Pseudolivendula Hall, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudolivendula byzeres (Hewitson, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999478"
+    }
+,
+    {
+      "name": "Calospila gallardi Brévignon, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760012"
+    }
+,
+    {
+      "name": "Lemonias byzeres Hewitson, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999480"
+    }
+,
+    {
+      "name": "Pseudolivendula hemileuca (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999481"
+    }
+,
+    {
+      "name": "Calospila hemileuca hemileuca (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883807"
+    }
+,
+    {
+      "name": "Calospila hemileuca (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753773"
+    }
+,
+    {
+      "name": "Lemonias hemileuca H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999482"
+    }
+,
+    {
+      "name": "Pseudolivendula hemileuca hemileuca (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999484"
+    }
+,
+    {
+      "name": "Pseudolivendula hemileuca sagittaria (Brévignon, 2012)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999483"
+    }
+,
+    {
+      "name": "Calospila hemileuca sagittaria Brévignon, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761570"
+    }
+,
+    {
+      "name": "Pseudolivendula subtilis (Brévignon, 2012)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999479"
+    }
+,
+    {
+      "name": "Calospila subtilis Brévignon, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753782"
+    }
+,
+    {
+      "name": "Pseudolivendula temperans (Brévignon, 2012)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999485"
+    }
+,
+    {
+      "name": "Calospila temperans Brévignon, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753783"
+    }
+,
+    {
+      "name": "Pseudolivendula tenuis Brévignon, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/932707"
+    }
+,
+    {
+      "name": "Pseudolivendula wia (Brévignon & Gallard, 1992)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999475"
+    }
+,
+    {
+      "name": "Calospila wia Brévignon & Gallard, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760013"
+    }
+,
+    {
+      "name": "Rodinia Westwood, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Rodinia calphurnia (Saunders, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754027"
+    }
+,
+    {
+      "name": "Rodinia calphurnia ariana Brévignon & Gallard, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761579"
+    }
+,
+    {
+      "name": "Rodinia justinia Gallard, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883777"
+    }
+,
+    {
+      "name": "Roeberella Strand, 1932",
+      "url": ""
+    }
+,
+    {
+      "name": "Roeberella flocculus Brévignon & Gallard, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759990"
+    }
+,
+    {
+      "name": "Roeberella floccus Brevignon, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759991"
+    }
+,
+    {
+      "name": "Setabis Westwood, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Setabis epitus (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754029"
+    }
+,
+    {
+      "name": "Papilio epitus Cramer, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999501"
+    }
+,
+    {
+      "name": "Setabis epitus epitus (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761208"
+    }
+,
+    {
+      "name": "Setabis lagus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754030"
+    }
+,
+    {
+      "name": "Setabis lagus lagus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761209"
+    }
+,
+    {
+      "name": "Setabis myrtis (Westwood, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754031"
+    }
+,
+    {
+      "name": "Aricoris myrtis Westwood, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999500"
+    }
+,
+    {
+      "name": "Setabis myrtis myrtis (Westwood, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761210"
+    }
+,
+    {
+      "name": "Stalachtis Hübner, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Stalachtis calliope (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754704"
+    }
+,
+    {
+      "name": "Papilio calliope Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849010"
+    }
+,
+    {
+      "name": "Stalachtis calliope calliope (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761266"
+    }
+,
+    {
+      "name": "Stalachtis eugenia (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809929"
+    }
+,
+    {
+      "name": "Papilio eugenia Cramer, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809931"
+    }
+,
+    {
+      "name": "Stalachtis eugenia terpsichore Seitz, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809930"
+    }
+,
+    {
+      "name": "Stalachtis euterpe (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754705"
+    }
+,
+    {
+      "name": "Papilio euterpe Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849012"
+    }
+,
+    {
+      "name": "Stalachtis euterpe euterpe (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761267"
+    }
+,
+    {
+      "name": "Stalachtis phaedusa (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754707"
+    }
+,
+    {
+      "name": "Stalachtis phaedusa zephyritis (Dalman, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761268"
+    }
+,
+    {
+      "name": "Stalachtis phaedusa exul Seitz, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964345"
+    }
+,
+    {
+      "name": "Stalachtis phlegia (Cramer, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754708"
+    }
+,
+    {
+      "name": "Stalachtis phlegia phlegia (Cramer, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761269"
+    }
+,
+    {
+      "name": "Synargis Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Synargis abaris (Cramer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754032"
+    }
+,
+    {
+      "name": "Synargis agle (Hewitson, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754033"
+    }
+,
+    {
+      "name": "Nymphidium agle Hewitson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999364"
+    }
+,
+    {
+      "name": "Synargis agle menalcidas (Seitz, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883808"
+    }
+,
+    {
+      "name": "Nymphidium agle menalcidas Seitz, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883809"
+    }
+,
+    {
+      "name": "Synargis calyce (C. Felder& R. Felder, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754121"
+    }
+,
+    {
+      "name": "Synargis chaonia (Hewitson, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754122"
+    }
+,
+    {
+      "name": "Nymphidium chaonia Hewitson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999366"
+    }
+,
+    {
+      "name": "Synargis fenestrella (Lathy, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754123"
+    }
+,
+    {
+      "name": "Synargis galena (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754124"
+    }
+,
+    {
+      "name": "Synargis gela (Hewitson, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754125"
+    }
+,
+    {
+      "name": "Nymphidium gela Hewitson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999365"
+    }
+,
+    {
+      "name": "Synargis orestessa Hübner, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754126"
+    }
+,
+    {
+      "name": "Synargis phliasus (Clerck, 1764)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754127"
+    }
+,
+    {
+      "name": "Synargis phliasus phliasus (Clerck, 1764)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761213"
+    }
+,
+    {
+      "name": "Synargis pittheus (Hoffmannsegg, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754128"
+    }
+,
+    {
+      "name": "Synargis regulus (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754129"
+    }
+,
+    {
+      "name": "Synargis soranus (Stoll, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754131"
+    }
+,
+    {
+      "name": "Synargis tytia (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754132"
+    }
+,
+    {
+      "name": "Synargis victrix (Rebel, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883810"
+    }
+,
+    {
+      "name": "Teenie Grishin, 2021",
+      "url": ""
+    }
+,
+    {
+      "name": "Teenie argiella (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999516"
+    }
+,
+    {
+      "name": "Adelotypa argiella (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883803"
+    }
+,
+    {
+      "name": "Calydna argiella H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999491"
+    }
+,
+    {
+      "name": "Zabuella argiella (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999490"
+    }
+,
+    {
+      "name": "Teenie tinea (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999514"
+    }
+,
+    {
+      "name": "Calydna tinea H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999489"
+    }
+,
+    {
+      "name": "Harveyope tinea (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753794"
+    }
+,
+    {
+      "name": "Zabuella tinea (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999488"
+    }
+,
+    {
+      "name": "Thenpea Hall, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Thenpea penthea (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999375"
+    }
+,
+    {
+      "name": "Adelotypa penthea penthea (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761183"
+    }
+,
+    {
+      "name": "Adelotypa penthea (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753672"
+    }
+,
+    {
+      "name": "Papilio penthea Cramer, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999371"
+    }
+,
+    {
+      "name": "Theope Doubleday, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Theope amicitiae J.Hall, Gallard & Brévignon, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760030"
+    }
+,
+    {
+      "name": "Theope archimedes (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754134"
+    }
+,
+    {
+      "name": "Theope archimedes archimedes (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761214"
+    }
+,
+    {
+      "name": "Theope aureonitens H. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754135"
+    }
+,
+    {
+      "name": "Theope aureonitens gratilis Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761580"
+    }
+,
+    {
+      "name": "Theope barea Godman & Salvin, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754136"
+    }
+,
+    {
+      "name": "Theope batesi J. Hall, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754137"
+    }
+,
+    {
+      "name": "Theope batesi yiyi Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761216"
+    }
+,
+    {
+      "name": "Theope brevignoni (Gallard, 1996)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754138"
+    }
+,
+    {
+      "name": "Theope campinensis Jauffret & Corêcha-Jauffret, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883796"
+    }
+,
+    {
+      "name": "Theope ernestinae Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754143"
+    }
+,
+    {
+      "name": "Theope caroli Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754139"
+    }
+,
+    {
+      "name": "Theope atima auct. non H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883795"
+    }
+,
+    {
+      "name": "Theope christophi P. Jauffret & J. Jauffret, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754140"
+    }
+,
+    {
+      "name": "Theope christophi rorota Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761217"
+    }
+,
+    {
+      "name": "Theope discus H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754141"
+    }
+,
+    {
+      "name": "Theope ebara Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760031"
+    }
+,
+    {
+      "name": "Theope eudocia Westwood, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754144"
+    }
+,
+    {
+      "name": "Theope eurygonina H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754145"
+    }
+,
+    {
+      "name": "Theope excelsa H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754147"
+    }
+,
+    {
+      "name": "Theope fayneli Gallard, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754148"
+    }
+,
+    {
+      "name": "Theope fayneli minimus Gallard, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761581"
+    }
+,
+    {
+      "name": "Theope fernandezi Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760032"
+    }
+,
+    {
+      "name": "Theope foliolum Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760033"
+    }
+,
+    {
+      "name": "Theope foliorum H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754151"
+    }
+,
+    {
+      "name": "Theope francisi Brévignon, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760034"
+    }
+,
+    {
+      "name": "Theope galionicus Gallard & Brévignon, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760035"
+    }
+,
+    {
+      "name": "Theope guillaumei Gallard, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754242"
+    }
+,
+    {
+      "name": "Theope guillaumei guillaumei Gallard, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761218"
+    }
+,
+    {
+      "name": "Theope janus H.W. Bates, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754243"
+    }
+,
+    {
+      "name": "Theope johannispetreus Brévignon, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754244"
+    }
+,
+    {
+      "name": "Theope lampropteryx H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754245"
+    }
+,
+    {
+      "name": "Theope leucanthe H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754246"
+    }
+,
+    {
+      "name": "Theope lycaenina H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754247"
+    }
+,
+    {
+      "name": "Theope lychyi Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760037"
+    }
+,
+    {
+      "name": "Theope martinae Brévignon, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760038"
+    }
+,
+    {
+      "name": "Theope minialba Gallard, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760039"
+    }
+,
+    {
+      "name": "Theope mundula Stichel, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754251"
+    }
+,
+    {
+      "name": "Theope nobilis H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754252"
+    }
+,
+    {
+      "name": "Theope nycteis (Westwood, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754254"
+    }
+,
+    {
+      "name": "Theope orphana (Stichel, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754255"
+    }
+,
+    {
+      "name": "Theope palambala Gallard, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760040"
+    }
+,
+    {
+      "name": "Theope pedias Herrich-Schäffer, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754257"
+    }
+,
+    {
+      "name": "Theope phaeo Prittwitz, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754258"
+    }
+,
+    {
+      "name": "Theope philotes (Westwood, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754259"
+    }
+,
+    {
+      "name": "Theope pieridoides C. Felder & R. Felder, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754260"
+    }
+,
+    {
+      "name": "Theope rochambellus Brévignon, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760041"
+    }
+,
+    {
+      "name": "Theope sericea H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754262"
+    }
+,
+    {
+      "name": "Theope shaphir Brévignon, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760042"
+    }
+,
+    {
+      "name": "Theope sobrina H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754266"
+    }
+,
+    {
+      "name": "Theope sticheli J. Hall, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754267"
+    }
+,
+    {
+      "name": "Theope sticheli reductor Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761583"
+    }
+,
+    {
+      "name": "Theope syngenes H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754268"
+    }
+,
+    {
+      "name": "Theope terambus (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754269"
+    }
+,
+    {
+      "name": "Theope tetrastigmoides Hall, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754270"
+    }
+,
+    {
+      "name": "Theope thootes Hewitson, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754271"
+    }
+,
+    {
+      "name": "Theope virgilius (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754272"
+    }
+,
+    {
+      "name": "Theope wallacei J.Hall, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754273"
+    }
+,
+    {
+      "name": "Theope zafaran Brévignon, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760043"
+    }
+,
+    {
+      "name": "Thisbe Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Thisbe irenea (Stoll, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754276"
+    }
+,
+    {
+      "name": "Thisbe molela Hewitson, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754277"
+    }
+,
+    {
+      "name": "Nymphidium molela Hewitson, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999368"
+    }
+,
+    {
+      "name": "Uraneis Bates, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Uraneis hyalina (Butler, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999443"
+    }
+,
+    {
+      "name": "Tharops hyalina Butler, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999440"
+    }
+,
+    {
+      "name": "Thisbe hyalina (Butler, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754275"
+    }
+,
+    {
+      "name": "Zelotaea Bates, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Zelotaea acuta (Brévignon & Gallard, 1999)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002278"
+    }
+,
+    {
+      "name": "Dysmathia cindra acuta Brévignon & Gallard, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761574"
+    }
+,
+    {
+      "name": "Dysmathia cindra sensu Brévignon & Gallard, 1999, non Staudinger, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753789"
+    }
+,
+    {
+      "name": "Zelotaea cindra sensu Hall, 2018 non (Staudinger, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999382"
+    }
+,
+    {
+      "name": "Zelotaea anushkae Brévignon, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002290"
+    }
+,
+    {
+      "name": "Zelotaea costalis (Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999432"
+    }
+,
+    {
+      "name": "Dysmathia costalis Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753790"
+    }
+,
+    {
+      "name": "Zelotaea costalis gwiyanensis (Brévignon, 1999)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002276"
+    }
+,
+    {
+      "name": "Dysmathia costalis gwiyanensis Brévignon, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761575"
+    }
+,
+    {
+      "name": "Zelotaea lya Lathy, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999445"
+    }
+,
+    {
+      "name": "Zelotaea alba Gallard & Brévignon, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760046"
+    }
+,
+    {
+      "name": "Zelotaea phasma H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754357"
+    }
+,
+    {
+      "name": "Zelotaea phasma dubia H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761230"
+    }
+,
+    {
+      "name": "Zelotaea phasma serena Brevignon, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011458"
+    }
+,
+    {
+      "name": "Zelotaea suffusca Brévignon & Gallard, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760047"
+    }
+,
+    {
+      "name": "Lemoniadina ",
+      "url": ""
+    }
+,
+    {
+      "name": "Nymphidiina Bates, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Pachythonina Seraphim, Freitas & Kaminski, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Pandemina Seraphim, Freitas & Kaminski, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Stalachtina Bates, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Stalachtini Bates, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Theopina Clench, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Zabuellina Seraphim, Freitas & Kaminski, 2018",
+      "url": ""
+    }
+
+  ]
+}

@@ -1,0 +1,47 @@
+
+{
+  "name": "cumacea",
+  "children": [
+
+    {
+      "name": "Cumacea Krøyer, 1846",
+      "url": ""
+    }
+,
+    {
+      "name": "bodotriidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/bodotriidae/"
+    }
+,
+    {
+      "name": "ceratocumatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/ceratocumatidae/"
+    }
+,
+    {
+      "name": "diastylidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/diastylidae/"
+    }
+,
+    {
+      "name": "lampropidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/lampropidae/"
+    }
+,
+    {
+      "name": "leuconidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/leuconidae/"
+    }
+,
+    {
+      "name": "nannastacidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/nannastacidae/"
+    }
+,
+    {
+      "name": "pseudocumatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/cumacea/pseudocumatidae/"
+    }
+
+  ]
+}

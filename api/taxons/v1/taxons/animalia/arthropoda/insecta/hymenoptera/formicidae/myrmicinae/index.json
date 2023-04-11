@@ -1,0 +1,42 @@
+
+{
+  "name": "myrmicinae",
+  "children": [
+
+    {
+      "name": "Myrmicinae Lepeletier de Saint-Fargeau, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "attini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/myrmicinae/attini/"
+    }
+,
+    {
+      "name": "crematogastrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/myrmicinae/crematogastrini/"
+    }
+,
+    {
+      "name": "myrmicini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/myrmicinae/myrmicini/"
+    }
+,
+    {
+      "name": "pogonomyrmecini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/myrmicinae/pogonomyrmecini/"
+    }
+,
+    {
+      "name": "solenopsidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/myrmicinae/solenopsidini/"
+    }
+,
+    {
+      "name": "stenammini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/myrmicinae/stenammini/"
+    }
+
+  ]
+}

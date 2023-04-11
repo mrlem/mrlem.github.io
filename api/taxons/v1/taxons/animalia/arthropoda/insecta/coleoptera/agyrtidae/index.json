@@ -1,0 +1,22 @@
+
+{
+  "name": "agyrtidae",
+  "children": [
+
+    {
+      "name": "Agyrtidae Thomson, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "agyrtinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/agyrtidae/agyrtinae/"
+    }
+,
+    {
+      "name": "necrophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/agyrtidae/necrophilinae/"
+    }
+
+  ]
+}

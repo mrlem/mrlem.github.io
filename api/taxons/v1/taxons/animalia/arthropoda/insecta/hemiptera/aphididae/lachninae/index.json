@@ -1,0 +1,37 @@
+
+{
+  "name": "lachninae",
+  "children": [
+
+    {
+      "name": "Lachninae Herrich-Schaeffer, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "eulachnini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/aphididae/lachninae/eulachnini/"
+    }
+,
+    {
+      "name": "lachnini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/aphididae/lachninae/lachnini/"
+    }
+,
+    {
+      "name": "stomaphidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/aphididae/lachninae/stomaphidini/"
+    }
+,
+    {
+      "name": "tramini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/aphididae/lachninae/tramini/"
+    }
+,
+    {
+      "name": "tuberolachnini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/aphididae/lachninae/tuberolachnini/"
+    }
+
+  ]
+}

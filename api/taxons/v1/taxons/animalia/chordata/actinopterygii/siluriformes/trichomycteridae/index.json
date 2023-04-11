@@ -1,0 +1,22 @@
+
+{
+  "name": "trichomycteridae",
+  "children": [
+
+    {
+      "name": "Trichomycteridae Bleeker, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "stegophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/trichomycteridae/stegophilinae/"
+    }
+,
+    {
+      "name": "trichomycterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/trichomycteridae/trichomycterinae/"
+    }
+
+  ]
+}

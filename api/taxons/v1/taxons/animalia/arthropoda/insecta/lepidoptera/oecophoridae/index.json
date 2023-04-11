@@ -1,0 +1,22 @@
+
+{
+  "name": "oecophoridae",
+  "children": [
+
+    {
+      "name": "Oecophoridae Bruand, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "oecophorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/oecophoridae/oecophorinae/"
+    }
+,
+    {
+      "name": "pleurotinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/oecophoridae/pleurotinae/"
+    }
+
+  ]
+}

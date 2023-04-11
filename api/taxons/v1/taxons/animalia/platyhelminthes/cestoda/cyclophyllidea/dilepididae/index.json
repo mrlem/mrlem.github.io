@@ -1,0 +1,642 @@
+
+{
+  "name": "dilepididae",
+  "children": [
+
+    {
+      "name": "Dilepididae Railliet & Henry, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthocirrus Fuhrmann, 1907",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthocirrus retirostris (Krabbe, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234250"
+    }
+,
+    {
+      "name": "Taenia retirostris Krabbe, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958468"
+    }
+,
+    {
+      "name": "Alcataenia Spasskaya, 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Alcataenia dominicana (Railliet & Henry, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815162"
+    }
+,
+    {
+      "name": "Anomotaenia antarctica Fuhrmann, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815164"
+    }
+,
+    {
+      "name": "Anomotaenia dominicana Railliet & Henry, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815165"
+    }
+,
+    {
+      "name": "Anomotaenia micracantha dominicana (Railliet & Henry, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815163"
+    }
+,
+    {
+      "name": "Choanotaenia dominicana (Railliet & Henry, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815166"
+    }
+,
+    {
+      "name": "Amoebotaenia Cohn, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Amoebotaenia cuneata (von Linstow, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234251"
+    }
+,
+    {
+      "name": "Taenia cuneata von Linstow, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958470"
+    }
+,
+    {
+      "name": "Taenia sphenoides Railliet, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402495"
+    }
+,
+    {
+      "name": "Angularella Strand, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Angularella beema (Clerc, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234252"
+    }
+,
+    {
+      "name": "Angularia beema Clerc, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958471"
+    }
+,
+    {
+      "name": "Angularella hirundina Spasskaja & Spasskii, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234253"
+    }
+,
+    {
+      "name": "Anomotaenia Cohn, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Anomotaenia caledonica Fuhrmann, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822355"
+    }
+,
+    {
+      "name": "Anomotaenia citrus (Krabbe, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234256"
+    }
+,
+    {
+      "name": "Taenia citrus Krabbe, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958473"
+    }
+,
+    {
+      "name": "Anomotaenia ericetorum (Krabbe, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234257"
+    }
+,
+    {
+      "name": "Taenia ericetorum Krabbe, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958474"
+    }
+,
+    {
+      "name": "Anomotaenia globulus (Wedl, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234258"
+    }
+,
+    {
+      "name": "Taenia globulus Wedl, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958476"
+    }
+,
+    {
+      "name": "Anomotaenia heterocoronata Fuhrmann, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822356"
+    }
+,
+    {
+      "name": "Anomotaenia hirundina Fuhrmann, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234259"
+    }
+,
+    {
+      "name": "Anomotaenia rhinocheti Johnston, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822335"
+    }
+,
+    {
+      "name": "Anomotaenia ridibunda (Deblock, Capron & Rosé, 1960)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234254"
+    }
+,
+    {
+      "name": "Choanotaenia ridibunda Deblock, Capron & Rosé, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958477"
+    }
+,
+    {
+      "name": "Anomotaenia stentorea (Frolich, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234255"
+    }
+,
+    {
+      "name": "Taenia stentorea Frolich, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958478"
+    }
+,
+    {
+      "name": "Choanotaenia Railliet, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Choanotaenia infundibulum (Bloch, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234260"
+    }
+,
+    {
+      "name": "Taenia infundibulum Bloch, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958658"
+    }
+,
+    {
+      "name": "Choanotaenia orioli Joyeux & Baer, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234261"
+    }
+,
+    {
+      "name": "Choanotaenia rostrata (Fuhrmann, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961596"
+    }
+,
+    {
+      "name": "Choanotaenia strigium Joyeux & Timon-David, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234262"
+    }
+,
+    {
+      "name": "Choanotaenia uncinata Fuhrmann, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822344"
+    }
+,
+    {
+      "name": "Dilepis Weinland, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Dilepis undula (Schrank, 1788)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234266"
+    }
+,
+    {
+      "name": "Dilepis vulpis Petrov & Janchev, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402500"
+    }
+,
+    {
+      "name": "Malika daviesi Mathevossian, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402501"
+    }
+,
+    {
+      "name": "Taenia undula Schrank, 1788",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958659"
+    }
+,
+    {
+      "name": "Taenia undulata Rudolphi, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402502"
+    }
+,
+    {
+      "name": "Eurycestus Clark, 1954",
+      "url": ""
+    }
+,
+    {
+      "name": "Eurycestus avoceti Clark, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234267"
+    }
+,
+    {
+      "name": "Fuhrmannolepis Spasskii & Spasskaya, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Fuhrmannolepis scolopacina (Lopez-Neyra, 1944)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234268"
+    }
+,
+    {
+      "name": "Choanotaenia joyeuxibaeri Lopez-Neyra, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402503"
+    }
+,
+    {
+      "name": "Choanotaenia scolopacina Lopez-Neyra, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958660"
+    }
+,
+    {
+      "name": "Fuhrmannolepis slesvicensis (Krabbe, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234269"
+    }
+,
+    {
+      "name": "Taenia slesvicensis Krabbe, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958661"
+    }
+,
+    {
+      "name": "Hirundinicola Birova-Volosinovicova, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Hirundinicola chelidonariae (Spasskaja, 1957)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234270"
+    }
+,
+    {
+      "name": "Anomotaenia chelidonariae Spasskaja, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958662"
+    }
+,
+    {
+      "name": "Hirundinicola parvirostris (Krabbe, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234271"
+    }
+,
+    {
+      "name": "Pseudanomotaenia parachelidonariae Jaron, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402504"
+    }
+,
+    {
+      "name": "Taenia parvirostris Krabbe, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958663"
+    }
+,
+    {
+      "name": "Lateriporus Fuhrmann, 1907",
+      "url": ""
+    }
+,
+    {
+      "name": "Lateriporus mawsoni Prudhoe, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815049"
+    }
+,
+    {
+      "name": "Liga Weinland, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Liga brevis (Clerc, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234272"
+    }
+,
+    {
+      "name": "Choanotaenia brevis Clerc, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958664"
+    }
+,
+    {
+      "name": "Monopylidium Fuhrmann, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Monopylidium attenuata (Dujardin, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234273"
+    }
+,
+    {
+      "name": "Taenia attenuata Dujardin, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958665"
+    }
+,
+    {
+      "name": "Monopylidium exiguum (Dujardin, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234274"
+    }
+,
+    {
+      "name": "Paricterotaenia albani Mettrick, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402505"
+    }
+,
+    {
+      "name": "Taenia exiguum Dujardin, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958666"
+    }
+,
+    {
+      "name": "Monopylidium galbulae (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234275"
+    }
+,
+    {
+      "name": "Taenia galbulae Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936155"
+    }
+,
+    {
+      "name": "Monopylidium musculosum (Fuhrmann, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234276"
+    }
+,
+    {
+      "name": "Davainea musculosum Fuhrmann, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958667"
+    }
+,
+    {
+      "name": "Monopylidium passerinum Fuhrmann, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234277"
+    }
+,
+    {
+      "name": "Monopylidium praecox (Krabbe, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234278"
+    }
+,
+    {
+      "name": "Taenia praecox Krabbe, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958668"
+    }
+,
+    {
+      "name": "Monopylidium rostratum Fuhrmann, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822343"
+    }
+,
+    {
+      "name": "Monosertum Bona, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "Monosertum parinum (Dujardin, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234279"
+    }
+,
+    {
+      "name": "Taenia parinum Dujardin, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958669"
+    }
+,
+    {
+      "name": "Neogryporhynchus Baer & Bona, 1960",
+      "url": ""
+    }
+,
+    {
+      "name": "Neogryporhynchus cheilancristrotus (Wedl, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234280"
+    }
+,
+    {
+      "name": "Gryporhynchus tetrorchis Hill, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402506"
+    }
+,
+    {
+      "name": "Taenia cheilancristrotus Wedl, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958670"
+    }
+,
+    {
+      "name": "Neogryporhynchus lasiopeius Baer & Bona, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234281"
+    }
+,
+    {
+      "name": "Neoliga Singh, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoliga depressa (von Siebold, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234282"
+    }
+,
+    {
+      "name": "Taenia depressa von Siebold, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958671"
+    }
+,
+    {
+      "name": "Paraliga Belopolskaya & Kulachkova, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Paraliga celermatus (Deblock & Rosé, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234283"
+    }
+,
+    {
+      "name": "Liga celermatus Deblock & Rosé, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958672"
+    }
+,
+    {
+      "name": "Paricterotaenia Fuhrmann, 1932",
+      "url": ""
+    }
+,
+    {
+      "name": "Paricterotaenia chionis (Fuhrmann, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815344"
+    }
+,
+    {
+      "name": "Choanotaenia chionis Fuhrmann, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815345"
+    }
+,
+    {
+      "name": "Icterotaenia chionis (Fuhrmann, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815346"
+    }
+,
+    {
+      "name": "Paricterotaenia porosa (Rudolphi, 1810)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234284"
+    }
+,
+    {
+      "name": "Taenia porosa Rudolphi, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958673"
+    }
+,
+    {
+      "name": "Paricterotaenia ransomi (Linton, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234285"
+    }
+,
+    {
+      "name": "Choanotaenia ransomi Linton, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958674"
+    }
+,
+    {
+      "name": "Polycercus Villot, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "Polycercus embryo (Krabbe, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234286"
+    }
+,
+    {
+      "name": "Taenia embryo Krabbe, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958675"
+    }
+,
+    {
+      "name": "Polycercus lumbrici Villot, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234287"
+    }
+,
+    {
+      "name": "Prochoanotaenia Meggitt, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Prochoanotaenia marchali (Mola, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234288"
+    }
+,
+    {
+      "name": "Taenia marchali Mola, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958676"
+    }
+,
+    {
+      "name": "Rallitaenia Spasskii & Spasskaya, 1975",
+      "url": ""
+    }
+,
+    {
+      "name": "Rallitaenia gallinulae (van Beneden, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234289"
+    }
+,
+    {
+      "name": "Taenia gallinulae van Beneden, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958677"
+    }
+,
+    {
+      "name": "Sacciuterina Matevosyan, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Sacciuterina paradoxa (Rudolphi, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234290"
+    }
+,
+    {
+      "name": "Taenia paradoxa Rudolphi, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958678"
+    }
+,
+    {
+      "name": "Sobolevitaenia Spasskaya & Makarenko, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Sobolevitaenia spinosocapite (Joyeux & Baer, 1955)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234291"
+    }
+,
+    {
+      "name": "Choanotaenia spinosocapite Joyeux & Baer, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958679"
+    }
+,
+    {
+      "name": "Spasspasskya Bona, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "Spasspasskya passerum (Joyeux & Timon-David, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234292"
+    }
+,
+    {
+      "name": "Anomotaenia passerum Joyeux & Timon-David, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958680"
+    }
+,
+    {
+      "name": "Spiniglans Yamaguti, 1959",
+      "url": ""
+    }
+,
+    {
+      "name": "Spiniglans constricta (Molin, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234293"
+    }
+,
+    {
+      "name": "Taenia constricta Molin, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958681"
+    }
+,
+    {
+      "name": "Vitta Burt, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Vitta rustica (Neslobinsky, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234295"
+    }
+,
+    {
+      "name": "Anomotaenia rustica Neslobinsky, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/958682"
+    }
+,
+    {
+      "name": "Vitta tuwensis Mathevossian, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/402508"
+    }
+
+  ]
+}

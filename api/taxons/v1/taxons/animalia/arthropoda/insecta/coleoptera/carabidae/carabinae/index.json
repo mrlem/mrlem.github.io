@@ -1,0 +1,22 @@
+
+{
+  "name": "carabinae",
+  "children": [
+
+    {
+      "name": "Carabinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "carabini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/carabidae/carabinae/carabini/"
+    }
+,
+    {
+      "name": "cychrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/carabidae/carabinae/cychrini/"
+    }
+
+  ]
+}

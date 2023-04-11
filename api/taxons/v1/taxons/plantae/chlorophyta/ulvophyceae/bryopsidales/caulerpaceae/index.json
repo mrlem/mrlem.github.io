@@ -1,0 +1,987 @@
+
+{
+  "name": "caulerpaceae",
+  "children": [
+
+    {
+      "name": "Caulerpaceae Kütz., 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Caulerpa J.V.Lamour., 1809",
+      "url": ""
+    }
+,
+    {
+      "name": "Chauvinia Bory, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "Caulerpa ambigua Okamura, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648347"
+    }
+,
+    {
+      "name": "Bryopsis ambigua (Okamura) Okamura, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676831"
+    }
+,
+    {
+      "name": "Caulerpa ambigua var. luxurians (W.R.Taylor) Eubank, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676827"
+    }
+,
+    {
+      "name": "Caulerpa biloba Kempermann & Stegenga, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676830"
+    }
+,
+    {
+      "name": "Caulerpa vickersiae var. furcifolia W.R.Taylor, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676828"
+    }
+,
+    {
+      "name": "Caulerpa vickersiae var. luxurians W.R.Taylor, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676829"
+    }
+,
+    {
+      "name": "Caulerpa vickersiae Børgesen, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676832"
+    }
+,
+    {
+      "name": "Caulerpella ambigua (Okamura) Prud'homme van Reine & Lokhorst, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648302"
+    }
+,
+    {
+      "name": "Caulerpa ashmeadii Harv., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839114"
+    }
+,
+    {
+      "name": "Caulerpa bikinensis W.R.Taylor, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648207"
+    }
+,
+    {
+      "name": "Caulerpa biserrulata Sonder, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648216"
+    }
+,
+    {
+      "name": "Caulerpa brachypus Harv., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648018"
+    }
+,
+    {
+      "name": "Caulerpa anceps Harvey, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693157"
+    }
+,
+    {
+      "name": "Caulerpa brachypus f. exposita Børgesen, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693152"
+    }
+,
+    {
+      "name": "Caulerpa brachypus var. mauritiana (Børgesen) Børgesen, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693153"
+    }
+,
+    {
+      "name": "Caulerpa mauritiana Børgesen, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693156"
+    }
+,
+    {
+      "name": "Caulerpa simplex Levring, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693155"
+    }
+,
+    {
+      "name": "Caulerpa stahlii Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693154"
+    }
+,
+    {
+      "name": "Caulerpa brachypus f. parvifolia (Harv.) A.B.Cribb, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728203"
+    }
+,
+    {
+      "name": "Caulerpa parvifolia Harv., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839115"
+    }
+,
+    {
+      "name": "Caulerpa cactoides (Turner) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699005"
+    }
+,
+    {
+      "name": "Ahnfeldtia cactoides (Turner) Trevisan",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704028"
+    }
+,
+    {
+      "name": "Caulerpa cactoides var. gracilis G.Murray, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704026"
+    }
+,
+    {
+      "name": "Chauvinia cactoides (Turner) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704027"
+    }
+,
+    {
+      "name": "Fucus cactoides Turner, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704025"
+    }
+,
+    {
+      "name": "Caulerpa chemnitzia (Esper) J.V.Lamour., 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694031"
+    }
+,
+    {
+      "name": "Ahnfeldtia chemnitzia (Esper) Trevisan, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694032"
+    }
+,
+    {
+      "name": "Ahnfeltia peltata (J.V.Lamour.) Trevisan",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684306"
+    }
+,
+    {
+      "name": "Caulerpa chamnitzia var. occidentalis J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696539"
+    }
+,
+    {
+      "name": "Caulerpa imbricata G.Murray, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975569"
+    }
+,
+    {
+      "name": "Caulerpa laetevirens Mont., 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550300"
+    }
+,
+    {
+      "name": "Caulerpa peltata J.V.Lamour., 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368608"
+    }
+,
+    {
+      "name": "Caulerpa racemosa f. occidentalis (J.Agardh) Nizam., 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696540"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. chemnitzia (Esper) Weber-Van Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694035"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. laetevirens (Mont.) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551451"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. occidentalis (J.Agardh) Børgesen, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/627482"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. peltata (J.V.Lamour.) Eubank, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551452"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. turbinata (J.Agardh) Eubank, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648105"
+    }
+,
+    {
+      "name": "Chauvinia chemnitzia (Esper) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694034"
+    }
+,
+    {
+      "name": "Chauvinia laetevirens (Mont.) Trevisan, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684304"
+    }
+,
+    {
+      "name": "Chauvinia peltata (J.V.Lamour.) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684305"
+    }
+,
+    {
+      "name": "Fucus chemnitzia Esper, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694033"
+    }
+,
+    {
+      "name": "Caulerpa corynephora Mont., 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670230"
+    }
+,
+    {
+      "name": "Ahnfeldtia corynephora (Mont.) Trevisan",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689788"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. corynephora (Mont.) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648240"
+    }
+,
+    {
+      "name": "Caulerpa cupressoides (Vahl) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368613"
+    }
+,
+    {
+      "name": "Caulerpa triangularis Mazé & Schramm, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685346"
+    }
+,
+    {
+      "name": "Chauvinia cupressoides (M.Vahl) Trevisan, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685347"
+    }
+,
+    {
+      "name": "Chauvinia indica Sonder ex v, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571133"
+    }
+,
+    {
+      "name": "Fucus cupressoides Vahl, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/569933"
+    }
+,
+    {
+      "name": "Caulerpa cupressoides var. lycopodium Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648239"
+    }
+,
+    {
+      "name": "Caulerpa lycopodium J.Agardh, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/692932"
+    }
+,
+    {
+      "name": "Caulerpa cupressoides var. mamillosa (Mont.) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780129"
+    }
+,
+    {
+      "name": "Caulerpa mamillosa Mont., 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975558"
+    }
+,
+    {
+      "name": "Chauvinia mamillosa (Mont.) Trev., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975560"
+    }
+,
+    {
+      "name": "Caulerpa cylindracea Sonder, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/680102"
+    }
+,
+    {
+      "name": "Ahnfeldtia cylindracea (Sonder) Trevisan, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/680103"
+    }
+,
+    {
+      "name": "Caulerpa cylindracea var. macra Harvey, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/680098"
+    }
+,
+    {
+      "name": "Caulerpa racemosa f. cylindracea (Sonder) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/680101"
+    }
+,
+    {
+      "name": "Caulerpa racemosa f. macra ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/680099"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. cylindracea (Sonder) Verlaque, Huisman & Boudouresque, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647621"
+    }
+,
+    {
+      "name": "Chauvinia cylindracea (Sonder) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/680100"
+    }
+,
+    {
+      "name": "Caulerpa elongata Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803849"
+    }
+,
+    {
+      "name": "Caulerpa falcifolia Harvey & Bailey, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648223"
+    }
+,
+    {
+      "name": "Caulerpa taxifolia var. falcifolia (Harvey & Bailey) W.R.Taylor, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009965"
+    }
+,
+    {
+      "name": "Caulerpa fastigiata Mont., 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648009"
+    }
+,
+    {
+      "name": "Caulerpa fastigiata var. confervoides P.L.Crouan & H.M.Crouan ex Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694164"
+    }
+,
+    {
+      "name": "Herpochaeta fastigiata (Mont.) Mont.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694165"
+    }
+,
+    {
+      "name": "Caulerpa fergusonii G.Murray, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648153"
+    }
+,
+    {
+      "name": "Caulerpa filicoides Yamada, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648016"
+    }
+,
+    {
+      "name": "Caulerpa acuta (Yamada) Yamada, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694537"
+    }
+,
+    {
+      "name": "Caulerpa verticillata f. acuta Yamada, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694536"
+    }
+,
+    {
+      "name": "Caulerpa filiformis (Suhr) Hering, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998083"
+    }
+,
+    {
+      "name": "Amphibolis filiformis Suhr, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998090"
+    }
+,
+    {
+      "name": "Himandactylius filiformis (Suhr) Trev., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998091"
+    }
+,
+    {
+      "name": "Caulerpa hodkinsoniae J.Agardh, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670254"
+    }
+,
+    {
+      "name": "Caulerpa annulata Lucas, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648202"
+    }
+,
+    {
+      "name": "Caulerpa lamourouxii (Turner) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823059"
+    }
+,
+    {
+      "name": "Ahnfeldtia lamourouxii (Turner) Trev., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694038"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. lamourouxii (Turner) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648106"
+    }
+,
+    {
+      "name": "Chauvinia clavifera var. lamourouxii (Turner) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694037"
+    }
+,
+    {
+      "name": "Fucus lamourouxii Turner, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694036"
+    }
+,
+    {
+      "name": "Caulerpa lentillifera J.Agardh, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648010"
+    }
+,
+    {
+      "name": "Ahnfeldtia lentillifera (J.Agardh) Trevisan, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694171"
+    }
+,
+    {
+      "name": "Caulerpa kilneri J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694168"
+    }
+,
+    {
+      "name": "Caulerpa lentillifera var. kilneri (J.Agardh) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694166"
+    }
+,
+    {
+      "name": "Caulerpa lentillifera var. longistipitata Weber Bosse, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694167"
+    }
+,
+    {
+      "name": "Caulerpa longistipitata (Weber Bosse) Svedelius, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694169"
+    }
+,
+    {
+      "name": "Chauvinia lentillifera (J.Agardh) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694170"
+    }
+,
+    {
+      "name": "Chauvinia microphysa Kütz., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648713"
+    }
+,
+    {
+      "name": "Caulerpa lessonii Bory, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648188"
+    }
+,
+    {
+      "name": "Caulerpa fissidentoides Grev., 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676490"
+    }
+,
+    {
+      "name": "Caulerpa macra (Weber Bosse) Draisma & Prud'homme, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943849"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. macra Weber Bosse, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943850"
+    }
+,
+    {
+      "name": "Caulerpa macrodisca Decaisne, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698985"
+    }
+,
+    {
+      "name": "Ahnfeldtia macrodisca (Decaisne) Trev., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009973"
+    }
+,
+    {
+      "name": "Caulerpa peltata var. macrodisca (Decaisne) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698984"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. macrodisca (Decaisne) Weber-van Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009972"
+    }
+,
+    {
+      "name": "Chauvinia macrodisca (Decaisne) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009974"
+    }
+,
+    {
+      "name": "Caulerpa megadisca G.S.Belton & C.F.D.Gurgel, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943851"
+    }
+,
+    {
+      "name": "Caulerpa mexicana Sonder ex Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368617"
+    }
+,
+    {
+      "name": "Caulerpa crassifolia f. mexicana (Sonder ex Kütz.) J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685354"
+    }
+,
+    {
+      "name": "Caulerpa crassifolia (C.Agardh) J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/570307"
+    }
+,
+    {
+      "name": "Caulerpa harveyana ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685357"
+    }
+,
+    {
+      "name": "Caulerpa pinnata f. mexicana (Sonder ex Kütz.) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685355"
+    }
+,
+    {
+      "name": "Caulerpa taxifolia var. crassifolia C.Agardh, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685356"
+    }
+,
+    {
+      "name": "Caulerpa mexicana var. pluriseriata W.R.Taylor, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823060"
+    }
+,
+    {
+      "name": "Caulerpa microphysa (Weber Bosse) Feldmann, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648017"
+    }
+,
+    {
+      "name": "Caulerpa lentillifera f. parvula Børgesen, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693151"
+    }
+,
+    {
+      "name": "Caulerpa racemosa f. microphysa Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693150"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. microphysa (Weber Bosse) Reinke, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693149"
+    }
+,
+    {
+      "name": "Caulerpa nummularia Harvey ex J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648154"
+    }
+,
+    {
+      "name": "Caulerpa nummelaria Harvey ex J.Agardh",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693602"
+    }
+,
+    {
+      "name": "Caulerpa peltata var. nummularia (Harvey ex J.Agardh) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693600"
+    }
+,
+    {
+      "name": "Caulerpa peltata var. stellata (Harvey ex J.Agardh) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648250"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. nummularia (Harvey ex J.Agardh) D.Dixit, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693601"
+    }
+,
+    {
+      "name": "Caulerpa stellata Harvey ex J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693607"
+    }
+,
+    {
+      "name": "Caulerpa okamurae Weber Bosse, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648155"
+    }
+,
+    {
+      "name": "Caulerpa oligophylla Mont., 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943852"
+    }
+,
+    {
+      "name": "Ahnfeldtia oligophylla (Mont.) Trev., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943853"
+    }
+,
+    {
+      "name": "Caulerpa opposita Coppejans & Meinesz, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699006"
+    }
+,
+    {
+      "name": "Caulerpa prolifera (Forssk.) J.V. Lamour., 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368618"
+    }
+,
+    {
+      "name": "Caulerpa ollivieri Dostál, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368615"
+    }
+,
+    {
+      "name": "Fucus prolifera Forssk., 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577116"
+    }
+,
+    {
+      "name": "Caulerpa racemosa (Forssk.) J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368614"
+    }
+,
+    {
+      "name": "Caulerpa clavifera var. uvifera (C.Agardh) C.Agardh, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685350"
+    }
+,
+    {
+      "name": "Caulerpa clavifera (Turner) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550299"
+    }
+,
+    {
+      "name": "Caulerpa feldmannii Rayss & Edelstein, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/570499"
+    }
+,
+    {
+      "name": "Caulerpa obtusa J.V.Lamour., 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685352"
+    }
+,
+    {
+      "name": "Caulerpa racemosa f. requienii (Mont.) Weber van Bosse, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685349"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. clavifera (Turner) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551450"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. disticha V.J.Chapman, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685348"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. mucronata L.N.de Senerpont Domis, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898766"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. uvifera (C.Agardh) J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587707"
+    }
+,
+    {
+      "name": "Caulerpa uvifera (Roth) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550298"
+    }
+,
+    {
+      "name": "Chauvinia clavifera var. uvifera (C.Agardh) Kütz.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685351"
+    }
+,
+    {
+      "name": "Chauvinia clavifera (Turner) Bory, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571523"
+    }
+,
+    {
+      "name": "Fucus clavifer Turner, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571077"
+    }
+,
+    {
+      "name": "Fucus racemosus Forssk., 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568718"
+    }
+,
+    {
+      "name": "Fucus uvifer Turner, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571078"
+    }
+,
+    {
+      "name": "Caulerpa racemosa f. simplicissima Børgesen, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648251"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. macrophysa (Sonder ex Kütz.) W.R.Taylor, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649096"
+    }
+,
+    {
+      "name": "Caulerpa clavifera f. macrophysa (Sonder ex Kütz.) Svedelius, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694205"
+    }
+,
+    {
+      "name": "Caulerpa macrophysa (Sonder ex Kütz.) G.Murray, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649095"
+    }
+,
+    {
+      "name": "Caulerpa racemosa f. macrophysa (Sonder ex Kütz.) Svedelius, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694206"
+    }
+,
+    {
+      "name": "Caulerpa racemosa f. macrophysa (Sonder ex Kütz.) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694203"
+    }
+,
+    {
+      "name": "Chauvinia macrophysa Sonder ex Kütz., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694204"
+    }
+,
+    {
+      "name": "Caulerpa scalpelliformis (R.Brown ex Turner) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975564"
+    }
+,
+    {
+      "name": "Corradoria scalpelliformis (R.Brown ex Turner) Trev., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975566"
+    }
+,
+    {
+      "name": "Fucus scalpelliformis R.Brown ex Turner, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975565"
+    }
+,
+    {
+      "name": "Caulerpa sedoides C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648011"
+    }
+,
+    {
+      "name": "Chauvinia sedoides (C.Agardh) Bory, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694173"
+    }
+,
+    {
+      "name": "Fucus sedoides R.Br. ex Turner, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694172"
+    }
+,
+    {
+      "name": "Caulerpa sedoides f. crassicaulis (J.Agardh) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648341"
+    }
+,
+    {
+      "name": "Caulerpa sedoides var. crassicaulis J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/692966"
+    }
+,
+    {
+      "name": "Caulerpa selago (Turner) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993661"
+    }
+,
+    {
+      "name": "Chauvinia selago (Turner) Trev., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009977"
+    }
+,
+    {
+      "name": "Fucus selago Turner, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009976"
+    }
+,
+    {
+      "name": "Caulerpa serrulata (Forssk.) J.Agardh, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648015"
+    }
+,
+    {
+      "name": "Caulerpa freycinetii f. serrulata (Forssk.) Weber Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694534"
+    }
+,
+    {
+      "name": "Caulerpa freycinetii var. serrulata (Forssk.) Zanardini, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009978"
+    }
+,
+    {
+      "name": "Caulerpa freycinetii C.Agardh, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694533"
+    }
+,
+    {
+      "name": "Chauvinia freycinetti (C.Agardh) Trevisan, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694535"
+    }
+,
+    {
+      "name": "Fucus serrulatus Forssk., 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694532"
+    }
+,
+    {
+      "name": "Caulerpa serrulata f. spiralis (Weber Bosse) Gilbert, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823061"
+    }
+,
+    {
+      "name": "Caulerpa freycinetii f. spiralis Weber-van Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009975"
+    }
+,
+    {
+      "name": "Caulerpa serrulata var. hummii (Díaz-Pif.) Farghaly, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839117"
+    }
+,
+    {
+      "name": "Caulerpa hummii Díaz-Pif., 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839118"
+    }
+,
+    {
+      "name": "Caulerpa sertularioides (S.G.Gmelin) M.A.Howe, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368612"
+    }
+,
+    {
+      "name": "Caulerpa plumaris (Forssk.) C.Agardh, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685344"
+    }
+,
+    {
+      "name": "Corradoria plumaris (Forssk.) Trevisan",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685345"
+    }
+,
+    {
+      "name": "Fucus plumaris Forssk., 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571079"
+    }
+,
+    {
+      "name": "Fucus sertularioides S.G.Gmelin, 1768",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568727"
+    }
+,
+    {
+      "name": "Caulerpa sertularioides f. brevipes (J.Agardh) Svedelius, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648649"
+    }
+,
+    {
+      "name": "Caulerpa plumaris var. brevipes J.Agardh, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679244"
+    }
+,
+    {
+      "name": "Caulerpa sertularioides f. longiseta (Bory) Svedelius, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701481"
+    }
+,
+    {
+      "name": "Caulerpa plumaris var. longiseta Bory, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704032"
+    }
+,
+    {
+      "name": "Caulerpa seuratii Weber Bosse, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648208"
+    }
+,
+    {
+      "name": "Caulerpa taxifolia (M.Vahl) C.Agardh, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368610"
+    }
+,
+    {
+      "name": "Fucus taxifolius M.Vahl, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/568728"
+    }
+,
+    {
+      "name": "Caulerpa taxifolia f. tristichophylla Svedelius, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648252"
+    }
+,
+    {
+      "name": "Caulerpa urvilleana Mont., 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648012"
+    }
+,
+    {
+      "name": "Caulerpa cupressoides var. urvilleana (Mont.) L.J.Hodgson, Pham Huu Tri, Lewmanomont & McDermid, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669764"
+    }
+,
+    {
+      "name": "Chauvinia urvilleanea (Mont.) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/686951"
+    }
+,
+    {
+      "name": "Caulerpa verticillata J.Agardh, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648014"
+    }
+,
+    {
+      "name": "Stephanocoelium verticillatum (J.Agardh) Kütz., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694531"
+    }
+,
+    {
+      "name": "Caulerpa vieillardii Kütz., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648651"
+    }
+,
+    {
+      "name": "Caulerpa webbiana Mont., 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368616"
+    }
+,
+    {
+      "name": "Chauvinia webbiana (Mont.) Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685353"
+    }
+,
+    {
+      "name": "Caulerpa webbiana var. pickeringii (Harvey & Bailey) Eubank, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783467"
+    }
+,
+    {
+      "name": "Caulerpa pickeringii Harvey & Bailey, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/648013"
+    }
+,
+    {
+      "name": "Caulerpa zeyheri Kützing, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823062"
+    }
+,
+    {
+      "name": "Caulerpa racemosa var. zeyheri (Kütz.) Weber-van Bosse, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009980"
+    }
+
+  ]
+}

@@ -1,0 +1,47 @@
+
+{
+  "name": "ceramonematidae",
+  "children": [
+
+    {
+      "name": "Ceramonematidae Cobb, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "ceramonematinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/plectida/ceramonematidae/ceramonematinae/"
+    }
+,
+    {
+      "name": "Ceramonema Cobb, 1920",
+      "url": ""
+    }
+,
+    {
+      "name": "Ceramonema chitwoodi De Coninck, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987278"
+    }
+,
+    {
+      "name": "Ceramonema filipjevi De Coninck, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987282"
+    }
+,
+    {
+      "name": "Ceramonema salsicum Gerlach, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987021"
+    }
+,
+    {
+      "name": "Ceramonema undulatum De Coninck, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987283"
+    }
+,
+    {
+      "name": "pselionematinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/plectida/ceramonematidae/pselionematinae/"
+    }
+
+  ]
+}

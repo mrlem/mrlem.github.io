@@ -1,0 +1,432 @@
+
+{
+  "name": "erythropinae",
+  "children": [
+
+    {
+      "name": "Erythropinae Hansen, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Aberomysini Bacescu & Iliffe, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Erythropini Hansen, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "amblyopsini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/erythropinae/amblyopsini/"
+    }
+,
+    {
+      "name": "calyptommini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/erythropinae/calyptommini/"
+    }
+,
+    {
+      "name": "Amblyops G.O. Sars, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Amblyops abbreviatus (G.O. Sars, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366575"
+    }
+,
+    {
+      "name": "Amblyops abbreviatum (G.O. Sars, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366577"
+    }
+,
+    {
+      "name": "Amblyopsis abbreviata G.O. Sars, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578322"
+    }
+,
+    {
+      "name": "Amblyopsis abbreviatus G.O. Sars, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578323"
+    }
+,
+    {
+      "name": "Pseudomma abbreviatum Sars, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550542"
+    }
+,
+    {
+      "name": "Amblyops spiniferus Nouvel & Lagardère, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366581"
+    }
+,
+    {
+      "name": "Amblyops trisetosus Nouvel & Lagardère, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950363"
+    }
+,
+    {
+      "name": "Arachnomysis Chun, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Arachnomysis leuckartii Chun, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542205"
+    }
+,
+    {
+      "name": "Arachnomysis leuckarti Chun, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366567"
+    }
+,
+    {
+      "name": "Atlanterythrops Nouvel & Lagardère, 1976",
+      "url": ""
+    }
+,
+    {
+      "name": "Atlanterythrops crassipes Nouvel & Lagardère, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950362"
+    }
+,
+    {
+      "name": "Dactylamblyops Holt & Tattersall, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Dactylamblyops goniops W. Tattersall, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950367"
+    }
+,
+    {
+      "name": "Dactylamblyops hodgsoni Holt & Tattersall, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993391"
+    }
+,
+    {
+      "name": "Dactylamblyops thaumatops W. Tattersall, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950366"
+    }
+,
+    {
+      "name": "Dactylerythrops Holt & Tattersall, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Dactylerythrops dimorphus Nouvel & Lagardère, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950360"
+    }
+,
+    {
+      "name": "Erythrops G.O. Sars, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Nematopus G.O. Sars, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Erythrops elegans (G.O. Sars, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366692"
+    }
+,
+    {
+      "name": "Erythrops pygmaea (G.O. Sars, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366698"
+    }
+,
+    {
+      "name": "Erythrops pygmaeus (G.O. Sars, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827057"
+    }
+,
+    {
+      "name": "Nematopus elegans G.O. Sars, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366586"
+    }
+,
+    {
+      "name": "Nematopus pygmaeus G.O. Sars, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684253"
+    }
+,
+    {
+      "name": "Erythrops erythrophthalmus (Goës, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827056"
+    }
+,
+    {
+      "name": "Erythrops erythrophathalma (Goës, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550351"
+    }
+,
+    {
+      "name": "Erythrops erythrophthalma (Goës, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366693"
+    }
+,
+    {
+      "name": "Erythrops erythrophthalmus (Goës, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588871"
+    }
+,
+    {
+      "name": "Erythrops goësi G.O. Sars, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366689"
+    }
+,
+    {
+      "name": "Erythrops goësii G.O. Sars, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550371"
+    }
+,
+    {
+      "name": "Erythrops goesii Sars, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550370"
+    }
+,
+    {
+      "name": "Mysis erythrophthalma Goës, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550352"
+    }
+,
+    {
+      "name": "Nematopus goësii G.O. Sars, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545151"
+    }
+,
+    {
+      "name": "Erythrops neapolitanus Colosi, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950370"
+    }
+,
+    {
+      "name": "Erythrops neapolitana Colosi, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950371"
+    }
+,
+    {
+      "name": "Erythrops serratus (G.O. Sars, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827058"
+    }
+,
+    {
+      "name": "Erythrops serrata (G.O. Sars, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366697"
+    }
+,
+    {
+      "name": "Nematopus serratus G.O. Sars, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366589"
+    }
+,
+    {
+      "name": "Euchaetomera G.O. Sars, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "Brutomysis Chun, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Echaetomera G.O. Sars, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "Euchaetomera tenuis G.O. Sars, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366703"
+    }
+,
+    {
+      "name": "Brutomysis vogtii Chun, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366547"
+    }
+,
+    {
+      "name": "Echaetomera fowleri Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366687"
+    }
+,
+    {
+      "name": "Euchaetomera fowleri Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550366"
+    }
+,
+    {
+      "name": "Euchaetomera zurstrasseni (Illig, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821456"
+    }
+,
+    {
+      "name": "Euchaetomera pulchra Hansen, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821458"
+    }
+,
+    {
+      "name": "Mastigophthalmus zurstrasseni Illig, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821457"
+    }
+,
+    {
+      "name": "Mysis zurstrasseni (Illig, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821459"
+    }
+,
+    {
+      "name": "Hypererythrops Holt & Tattersall, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypererythrops richardi Bacesco, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366609"
+    }
+,
+    {
+      "name": "Hypererythrops serriventer Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950358"
+    }
+,
+    {
+      "name": "Longithorax Illig, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Longithorax fuscus Hansen, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366634"
+    }
+,
+    {
+      "name": "Meterythrops S.I. Smith, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "Meterythrops pictus Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542941"
+    }
+,
+    {
+      "name": "Meterythrops picta Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366745"
+    }
+,
+    {
+      "name": "Paramblyops Holt & Tattersall, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Paramblyops bidigitatus W. Tattersall, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943829"
+    }
+,
+    {
+      "name": "Paramblyops rostratus Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542942"
+    }
+,
+    {
+      "name": "Paramblyops rostrata Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366713"
+    }
+,
+    {
+      "name": "Parapseudomma Nouvel & Lagardère, 1976",
+      "url": ""
+    }
+,
+    {
+      "name": "Parapseudomma calloplura (Holt & Tattersall, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366712"
+    }
+,
+    {
+      "name": "Pseudomma calloplura Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366670"
+    }
+,
+    {
+      "name": "Parerythrops G.O. Sars, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Parerythrops bispinosus Nouvel & Lagardère, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950357"
+    }
+,
+    {
+      "name": "Parerythrops obesus (G.O.Sars, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950352"
+    }
+,
+    {
+      "name": "Parerythrops paucispinosus Nouvel & Lagardère, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827171"
+    }
+,
+    {
+      "name": "Parerythrops paucispinosa Nouvel & Lagardère, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366710"
+    }
+,
+    {
+      "name": "Parerythrops spectabilis G.O. Sars, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955724"
+    }
+,
+    {
+      "name": "Pseudomma G.O. Sars, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudomma affine G.O. Sars, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366669"
+    }
+,
+    {
+      "name": "Pseudomma affinis G.O. Sars, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950368"
+    }
+,
+    {
+      "name": "Pseudomma kruppi W. Tattersall, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366672"
+    }
+,
+    {
+      "name": "Pseudomma kryotroglodytum Wittmann & Chevaldonné, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1003156"
+    }
+,
+    {
+      "name": "Pseudomma magellanensis O. Tattersall, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993393"
+    }
+,
+    {
+      "name": "Pseudomma nanum Holt & Tattersall, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950369"
+    }
+,
+    {
+      "name": "Pseudomma sarsii G.O. Sars, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821453"
+    }
+
+  ]
+}

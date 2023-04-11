@@ -1,0 +1,57 @@
+
+{
+  "name": "cytophagales",
+  "children": [
+
+    {
+      "name": "Cytophagales Leadbetter, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "bernardetiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/bernardetiaceae/"
+    }
+,
+    {
+      "name": "catalimonadaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/catalimonadaceae/"
+    }
+,
+    {
+      "name": "cyclobacteriaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/cyclobacteriaceae/"
+    }
+,
+    {
+      "name": "cytophagaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/cytophagaceae/"
+    }
+,
+    {
+      "name": "flammeovirgaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/flammeovirgaceae/"
+    }
+,
+    {
+      "name": "hymenobacteraceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/hymenobacteraceae/"
+    }
+,
+    {
+      "name": "microscillaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/microscillaceae/"
+    }
+,
+    {
+      "name": "persicobacteraceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/persicobacteraceae/"
+    }
+,
+    {
+      "name": "reichenbachiellaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/bacteroidetes/cytophagia/cytophagales/reichenbachiellaceae/"
+    }
+
+  ]
+}

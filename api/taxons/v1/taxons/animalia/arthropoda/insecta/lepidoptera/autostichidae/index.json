@@ -1,0 +1,32 @@
+
+{
+  "name": "autostichidae",
+  "children": [
+
+    {
+      "name": "Autostichidae Le Marchand, 1947",
+      "url": ""
+    }
+,
+    {
+      "name": "autostichinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/autostichidae/autostichinae/"
+    }
+,
+    {
+      "name": "holcopogoninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/autostichidae/holcopogoninae/"
+    }
+,
+    {
+      "name": "oegoconiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/autostichidae/oegoconiinae/"
+    }
+,
+    {
+      "name": "symmocinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/autostichidae/symmocinae/"
+    }
+
+  ]
+}

@@ -1,0 +1,547 @@
+
+{
+  "name": "geotrupini",
+  "children": [
+
+    {
+      "name": "Geotrupini Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Anoplotrupes Jekel, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Anoplotrupes stercorosus (Hartmann in Scriba, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10539"
+    }
+,
+    {
+      "name": "Geotrupes amoethysticus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403668"
+    }
+,
+    {
+      "name": "Geotrupes juvenilis Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403669"
+    }
+,
+    {
+      "name": "Geotrupes monticola Heer, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403666"
+    }
+,
+    {
+      "name": "Geotrupes nigrinus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403667"
+    }
+,
+    {
+      "name": "Geotrupes prusicus Czwalina, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403670"
+    }
+,
+    {
+      "name": "Geotrupes stercorosus (Hartmann in Scriba, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951449"
+    }
+,
+    {
+      "name": "Geotrupes sylvaticus Panzer, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403665"
+    }
+,
+    {
+      "name": "Scarabaeus stercorosus Hartmann in Scriba, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800729"
+    }
+,
+    {
+      "name": "Geotrupes Latreille, 1797",
+      "url": ""
+    }
+,
+    {
+      "name": "Geotrupes balyi Jekel, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780712"
+    }
+,
+    {
+      "name": "Geotrupes mutator (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10544"
+    }
+,
+    {
+      "name": "Geotrupes aenescens Depoli, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403650"
+    }
+,
+    {
+      "name": "Geotrupes cyanescens Luigioni, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403649"
+    }
+,
+    {
+      "name": "Geotrupes incertus Tournier, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403648"
+    }
+,
+    {
+      "name": "Geotrupes violaceus Westhoff, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403647"
+    }
+,
+    {
+      "name": "Scarabaeus mutator Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800726"
+    }
+,
+    {
+      "name": "Scarabaeus politus Malinowsky, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403646"
+    }
+,
+    {
+      "name": "Geotrupes spiniger Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10552"
+    }
+,
+    {
+      "name": "Geotrupes mesoleilus Thomson, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403654"
+    }
+,
+    {
+      "name": "Geotrupes minor Erichson, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403653"
+    }
+,
+    {
+      "name": "Geotrupes puncticollis Malinowsky, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200451"
+    }
+,
+    {
+      "name": "Geotrupes sublaevigatus Stephens, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403652"
+    }
+,
+    {
+      "name": "Scarabaeus spiniger Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403651"
+    }
+,
+    {
+      "name": "Geotrupes stercorarius (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10548"
+    }
+,
+    {
+      "name": "Geotrupes bannani Bromfield, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403657"
+    }
+,
+    {
+      "name": "Geotrupes chalybaeus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403660"
+    }
+,
+    {
+      "name": "Geotrupes exaratus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403662"
+    }
+,
+    {
+      "name": "Geotrupes juvencus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403663"
+    }
+,
+    {
+      "name": "Geotrupes punstatostriatus Stephens, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403656"
+    }
+,
+    {
+      "name": "Geotrupes putridarius Erichson, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403664"
+    }
+,
+    {
+      "name": "Geotrupes subrugulosus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403658"
+    }
+,
+    {
+      "name": "Geotrupes subviolaceus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403659"
+    }
+,
+    {
+      "name": "Geotrupes virescens Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403661"
+    }
+,
+    {
+      "name": "Scarabaeus foveolatus Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403655"
+    }
+,
+    {
+      "name": "Scarabaeus stercorarius Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800727"
+    }
+,
+    {
+      "name": "Sericotrupes Zunino, 1984",
+      "url": ""
+    }
+,
+    {
+      "name": "Sericotrupes niger (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10554"
+    }
+,
+    {
+      "name": "Geotrupes hypocrita (Illiger, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820753"
+    }
+,
+    {
+      "name": "Geotrupes laevicollis Mulsant, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403643"
+    }
+,
+    {
+      "name": "Geotrupes niger Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10546"
+    }
+,
+    {
+      "name": "Geotrupes substriatus Mulsant, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403644"
+    }
+,
+    {
+      "name": "Geotrupes subvirescens Mulsant, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403645"
+    }
+,
+    {
+      "name": "Scarabaeus hypocrita Illiger, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403642"
+    }
+,
+    {
+      "name": "Thorectes Mulsant, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Thorectes albarracinus Wagner, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10560"
+    }
+,
+    {
+      "name": "Jekelius albarracinus (Wagner, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/253446"
+    }
+,
+    {
+      "name": "Jekelius chersinus (Delabie, 1954)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200470"
+    }
+,
+    {
+      "name": "Thorectes chersinus Delabie, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/798174"
+    }
+,
+    {
+      "name": "Thorectes geminatus (Gené, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10556"
+    }
+,
+    {
+      "name": "Baraudia geminata (Gené, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200389"
+    }
+,
+    {
+      "name": "Geotrupes geminatus Gené, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10557"
+    }
+,
+    {
+      "name": "Thorectes intermedius (O.G. Costa, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10562"
+    }
+,
+    {
+      "name": "Geotrupes areolatus Reitter, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403695"
+    }
+,
+    {
+      "name": "Geotrupes desjardinii Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403688"
+    }
+,
+    {
+      "name": "Geotrupes italicus Jekel, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403692"
+    }
+,
+    {
+      "name": "Geotrupes laevigatus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403686"
+    }
+,
+    {
+      "name": "Geotrupes lineicollis Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403687"
+    }
+,
+    {
+      "name": "Geotrupes romanus Reitter, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403694"
+    }
+,
+    {
+      "name": "Geotrupes simplicidens Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403690"
+    }
+,
+    {
+      "name": "Geotrupes subgeminalis Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403689"
+    }
+,
+    {
+      "name": "Geotrupes subrugulosus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403691"
+    }
+,
+    {
+      "name": "Jekelius intermedius (Costa, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200468"
+    }
+,
+    {
+      "name": "Scarabaeus intermedius O.G. Costa, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800732"
+    }
+,
+    {
+      "name": "Thorectes cheroni Croissandeau, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403693"
+    }
+,
+    {
+      "name": "Thorectes laevigatus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10563"
+    }
+,
+    {
+      "name": "Thorectes sardous Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/456408"
+    }
+,
+    {
+      "name": "Jekelius sardous (Erichson, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/306315"
+    }
+,
+    {
+      "name": "Thorectes sericeus (Jeckel, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10558"
+    }
+,
+    {
+      "name": "Geotrupes sericeus Jeckel, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800733"
+    }
+,
+    {
+      "name": "Jekelius sericeus (Jekel, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200469"
+    }
+,
+    {
+      "name": "Trypocopris Motschulsky, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Trypocopris alpinus (Sturm & Hagenbach, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10567"
+    }
+,
+    {
+      "name": "Geotrupes alpinus Sturm & Hagenbach, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/894011"
+    }
+,
+    {
+      "name": "Trypocopris alpinus marianii Löbl, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795530"
+    }
+,
+    {
+      "name": "Trypocopris alpinus opacus Mariani, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200631"
+    }
+,
+    {
+      "name": "Trypocopris pyrenaeus (Charpentier, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200629"
+    }
+,
+    {
+      "name": "Geotrupes pyrenaeus (Charpentier, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951641"
+    }
+,
+    {
+      "name": "Scarabaeus pyrenaeus Charpentier, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800730"
+    }
+,
+    {
+      "name": "Trypocopris pyranaeus (Charpentier, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10568"
+    }
+,
+    {
+      "name": "Trypocopris pyrenaeus pyrenaeus (Charpentier, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200636"
+    }
+,
+    {
+      "name": "Geotrupes corruscans Jekel, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403672"
+    }
+,
+    {
+      "name": "Geotrupes coruscans Chevrolat, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403671"
+    }
+,
+    {
+      "name": "Trypocopris vernalis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10569"
+    }
+,
+    {
+      "name": "Geotrupes vernalis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10550"
+    }
+,
+    {
+      "name": "Scarabaeus vernalis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800731"
+    }
+,
+    {
+      "name": "Trypocopris vernalis fauveli Bedel, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10572"
+    }
+,
+    {
+      "name": "Geotrypes fauveli Bedel, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403685"
+    }
+,
+    {
+      "name": "Geotrypes obscurus Fauvel, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797027"
+    }
+,
+    {
+      "name": "Trypocopris vernalis obscurus (Mulsant, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200633"
+    }
+,
+    {
+      "name": "Trypocopris vernalis manifestus (Reitter, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/200634"
+    }
+,
+    {
+      "name": "Geotrupes manifestus Reitter, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/894012"
+    }
+,
+    {
+      "name": "Trypocopris vernalis manifestus Reitt",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10571"
+    }
+,
+    {
+      "name": "Trypocopris vernalis vernalis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10570"
+    }
+,
+    {
+      "name": "Geotrupes autumnalis Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403678"
+    }
+,
+    {
+      "name": "Geotrupes balcanicus Reitter, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403682"
+    }
+,
+    {
+      "name": "Geotrupes caucasicus Schneider & Leder, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403681"
+    }
+,
+    {
+      "name": "Geotrupes insularis O. Schneider, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403683"
+    }
+,
+    {
+      "name": "Geotrupes laevis Haworth, 1812",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403673"
+    }
+,
+    {
+      "name": "Geotrupes politus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403677"
+    }
+,
+    {
+      "name": "Geotrupes splendens Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403676"
+    }
+,
+    {
+      "name": "Geotrupes sulzeri Gistl, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403679"
+    }
+,
+    {
+      "name": "Geotrupes timotheus Gistl, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403680"
+    }
+,
+    {
+      "name": "Geotrupes varians Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403675"
+    }
+,
+    {
+      "name": "Geotrupes violaceus Mulsant, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403674"
+    }
+,
+    {
+      "name": "Geotrupes viridissimus Miksic, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403684"
+    }
+
+  ]
+}

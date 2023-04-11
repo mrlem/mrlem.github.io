@@ -1,0 +1,42 @@
+
+{
+  "name": "scaritinae",
+  "children": [
+
+    {
+      "name": "Scaritinae Bonelli, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "clivinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/carabidae/scaritinae/clivinini/"
+    }
+,
+    {
+      "name": "dyschiriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/carabidae/scaritinae/dyschiriini/"
+    }
+,
+    {
+      "name": "Lophocoryza Alluaud, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Lophocoryza araticeps (Fairmaire, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853583"
+    }
+,
+    {
+      "name": "Coryza araticeps Fairmaire, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933070"
+    }
+,
+    {
+      "name": "scaritini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/carabidae/scaritinae/scaritini/"
+    }
+
+  ]
+}

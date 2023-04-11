@@ -1,0 +1,32 @@
+
+{
+  "name": "xylocopinae",
+  "children": [
+
+    {
+      "name": "Xylocopinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "allodapini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/xylocopinae/allodapini/"
+    }
+,
+    {
+      "name": "ceratinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/xylocopinae/ceratinini/"
+    }
+,
+    {
+      "name": "tetrapediini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/xylocopinae/tetrapediini/"
+    }
+,
+    {
+      "name": "xylocopini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/apidae/xylocopinae/xylocopini/"
+    }
+
+  ]
+}

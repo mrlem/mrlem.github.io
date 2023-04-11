@@ -1,0 +1,22 @@
+
+{
+  "name": "eumastacidae",
+  "children": [
+
+    {
+      "name": "Eumastacidae Burr, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "eumastacinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/eumastacidae/eumastacinae/"
+    }
+,
+    {
+      "name": "eumastacopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/eumastacidae/eumastacopinae/"
+    }
+
+  ]
+}

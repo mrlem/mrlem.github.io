@@ -1,0 +1,22 @@
+
+{
+  "name": "pseudogaudryinidae",
+  "children": [
+
+    {
+      "name": "Pseudogaudryinidae Loeblich & Tappan, 1985",
+      "url": ""
+    }
+,
+    {
+      "name": "pseudogaudryininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/textulariida/pseudogaudryinidae/pseudogaudryininae/"
+    }
+,
+    {
+      "name": "siphoniferoidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/textulariida/pseudogaudryinidae/siphoniferoidinae/"
+    }
+
+  ]
+}

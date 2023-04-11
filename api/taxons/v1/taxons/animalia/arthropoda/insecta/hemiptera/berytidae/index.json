@@ -1,0 +1,27 @@
+
+{
+  "name": "berytidae",
+  "children": [
+
+    {
+      "name": "Berytidae Fieber, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "berytinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/berytidae/berytinae/"
+    }
+,
+    {
+      "name": "gampsocorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/berytidae/gampsocorinae/"
+    }
+,
+    {
+      "name": "metacanthinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/berytidae/metacanthinae/"
+    }
+
+  ]
+}

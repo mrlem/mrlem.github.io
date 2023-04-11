@@ -1,0 +1,247 @@
+
+{
+  "name": "choraginae",
+  "children": [
+
+    {
+      "name": "Choraginae Kirby, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "araecerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/anthribidae/choraginae/araecerini/"
+    }
+,
+    {
+      "name": "choragini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/anthribidae/choraginae/choragini/"
+    }
+,
+    {
+      "name": "Agachoragus Frieser, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Agachoragus rugipennis Frieser, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848818"
+    }
+,
+    {
+      "name": "Caranistes Schönherr, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "Caranistes araneus (Coquerel, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711049"
+    }
+,
+    {
+      "name": "Caranistes arboreus Jordan, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711050"
+    }
+,
+    {
+      "name": "Caranistes brevitarsis Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711051"
+    }
+,
+    {
+      "name": "Caranistes circumcinctus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711052"
+    }
+,
+    {
+      "name": "Caranistes dyonysius Coquerel, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711053"
+    }
+,
+    {
+      "name": "Caranistes granulatus Frieser, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776862"
+    }
+,
+    {
+      "name": "Caranistes languidus Fahraeus, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711054"
+    }
+,
+    {
+      "name": "Caranistes poussereaui Frieser, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714818"
+    }
+,
+    {
+      "name": "Dinephrius Jordan, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Dinephrius dorsatus (Fairmaire, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711056"
+    }
+,
+    {
+      "name": "Dinephrius saphis Jordan, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776865"
+    }
+,
+    {
+      "name": "Icospermus Jordan, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Icospermus ovatus Jordan, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711075"
+    }
+,
+    {
+      "name": "Icospermus ovatus nitidicollis Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711077"
+    }
+,
+    {
+      "name": "Icospermus polesei Frieser, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776868"
+    }
+,
+    {
+      "name": "Icospermus zoiai Frieser, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776869"
+    }
+,
+    {
+      "name": "Matichoragus Rheinheimer, 2017",
+      "url": ""
+    }
+,
+    {
+      "name": "Matichoragus romei Rheinheimer, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852442"
+    }
+,
+    {
+      "name": "Pilitrogus Frieser, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "Pilitrogus bruchoides Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711072"
+    }
+,
+    {
+      "name": "Pilitrogus scabricollis Frieser, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776871"
+    }
+,
+    {
+      "name": "Pilitrogus thompsoni Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711073"
+    }
+,
+    {
+      "name": "Prototropis Jordan, 1937",
+      "url": ""
+    }
+,
+    {
+      "name": "Prototropis geminatus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776874"
+    }
+,
+    {
+      "name": "Prototropis nitidus Jordan, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776876"
+    }
+,
+    {
+      "name": "Prototropis pulicarius Jordan, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776877"
+    }
+,
+    {
+      "name": "Prototropis separatus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711094"
+    }
+,
+    {
+      "name": "Prototropis singularis Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711095"
+    }
+,
+    {
+      "name": "Prototropis xestus Jordan, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848820"
+    }
+,
+    {
+      "name": "Scirtetinus Jordan, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Scirtetinus coriaceus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776878"
+    }
+,
+    {
+      "name": "Scirtetinus furcatus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711060"
+    }
+,
+    {
+      "name": "Scirtetinus gomyi Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711061"
+    }
+,
+    {
+      "name": "Scirtetinus marginellus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711062"
+    }
+,
+    {
+      "name": "Scirtetinus obesus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711063"
+    }
+,
+    {
+      "name": "Scirtetinus schauenbergi Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711064"
+    }
+,
+    {
+      "name": "Scirtetinus subcarinatus Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711065"
+    }
+,
+    {
+      "name": "Talpella Jordan, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Talpella acalloides Frieser, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711068"
+    }
+,
+    {
+      "name": "Talpella atra Jordan, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776879"
+    }
+,
+    {
+      "name": "Talpella callosa Frieser, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776880"
+    }
+,
+    {
+      "name": "Talpella mauritiana (Jordan, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711069"
+    }
+
+  ]
+}

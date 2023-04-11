@@ -1,0 +1,17 @@
+
+{
+  "name": "geoglossomycetes",
+  "children": [
+
+    {
+      "name": "Geoglossomycetes Zheng Wang, C.L.Schoch & Spatafora, 2009",
+      "url": ""
+    }
+,
+    {
+      "name": "geoglossales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/geoglossomycetes/geoglossales/"
+    }
+
+  ]
+}

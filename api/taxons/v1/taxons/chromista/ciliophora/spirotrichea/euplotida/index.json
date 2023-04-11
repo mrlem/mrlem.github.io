@@ -1,0 +1,52 @@
+
+{
+  "name": "euplotida",
+  "children": [
+
+    {
+      "name": "Euplotida Small & Lynn, 1985",
+      "url": ""
+    }
+,
+    {
+      "name": "aspidiscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ciliophora/spirotrichea/euplotida/aspidiscidae/"
+    }
+,
+    {
+      "name": "certesiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ciliophora/spirotrichea/euplotida/certesiidae/"
+    }
+,
+    {
+      "name": "discocephalidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ciliophora/spirotrichea/euplotida/discocephalidae/"
+    }
+,
+    {
+      "name": "Discocephalina Wicklow, 1982",
+      "url": ""
+    }
+,
+    {
+      "name": "euplotidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ciliophora/spirotrichea/euplotida/euplotidae/"
+    }
+,
+    {
+      "name": "Euplotina Jankowksi, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "gastrocirrhidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ciliophora/spirotrichea/euplotida/gastrocirrhidae/"
+    }
+,
+    {
+      "name": "uronychiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ciliophora/spirotrichea/euplotida/uronychiidae/"
+    }
+
+  ]
+}

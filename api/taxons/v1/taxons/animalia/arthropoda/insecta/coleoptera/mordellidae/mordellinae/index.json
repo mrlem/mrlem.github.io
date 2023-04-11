@@ -1,0 +1,37 @@
+
+{
+  "name": "mordellinae",
+  "children": [
+
+    {
+      "name": "Mordellinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "conaliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/mordellidae/mordellinae/conaliini/"
+    }
+,
+    {
+      "name": "mordellini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/mordellidae/mordellinae/mordellini/"
+    }
+,
+    {
+      "name": "mordellistenini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/mordellidae/mordellinae/mordellistenini/"
+    }
+,
+    {
+      "name": "mordellochroini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/mordellidae/mordellinae/mordellochroini/"
+    }
+,
+    {
+      "name": "stenaliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/mordellidae/mordellinae/stenaliini/"
+    }
+
+  ]
+}

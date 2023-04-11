@@ -1,0 +1,22 @@
+
+{
+  "name": "megaspilidae",
+  "children": [
+
+    {
+      "name": "Megaspilidae Ashmead, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "lagynodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/megaspilidae/lagynodinae/"
+    }
+,
+    {
+      "name": "megaspilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/megaspilidae/megaspilinae/"
+    }
+
+  ]
+}

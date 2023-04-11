@@ -1,0 +1,32 @@
+
+{
+  "name": "carybdeida",
+  "children": [
+
+    {
+      "name": "Carybdeida Gegenbaur, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Cubomedusae ",
+      "url": ""
+    }
+,
+    {
+      "name": "alatinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/cubozoa/carybdeida/alatinidae/"
+    }
+,
+    {
+      "name": "carybdeidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/cubozoa/carybdeida/carybdeidae/"
+    }
+,
+    {
+      "name": "tripedaliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/cubozoa/carybdeida/tripedaliidae/"
+    }
+
+  ]
+}

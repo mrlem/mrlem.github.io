@@ -1,0 +1,32 @@
+
+{
+  "name": "siculodinae",
+  "children": [
+
+    {
+      "name": "Siculodinae Meyrick, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypolamprus Hampson, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypolamprus squalida Warren, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829751"
+    }
+,
+    {
+      "name": "rhodoneurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/thyrididae/siculodinae/rhodoneurini/"
+    }
+,
+    {
+      "name": "siculodini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/thyrididae/siculodinae/siculodini/"
+    }
+
+  ]
+}

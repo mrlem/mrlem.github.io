@@ -1,0 +1,37 @@
+
+{
+  "name": "lymexylidae",
+  "children": [
+
+    {
+      "name": "Lymexylidae Fleming, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Lymexylonidae Fleming, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "atractocerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/lymexylidae/atractocerinae/"
+    }
+,
+    {
+      "name": "hylecoetinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/lymexylidae/hylecoetinae/"
+    }
+,
+    {
+      "name": "lymexylinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/lymexylidae/lymexylinae/"
+    }
+,
+    {
+      "name": "melittommatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/lymexylidae/melittommatinae/"
+    }
+
+  ]
+}

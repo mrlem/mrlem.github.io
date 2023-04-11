@@ -1,0 +1,167 @@
+
+{
+  "name": "insecta",
+  "children": [
+
+    {
+      "name": "Insecta Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "archaeognatha",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/archaeognatha/"
+    }
+,
+    {
+      "name": "blattodea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/blattodea/"
+    }
+,
+    {
+      "name": "coleoptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/"
+    }
+,
+    {
+      "name": "dermaptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/"
+    }
+,
+    {
+      "name": "Dicondylia Hennig, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Dictyoptera ",
+      "url": ""
+    }
+,
+    {
+      "name": "diptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/"
+    }
+,
+    {
+      "name": "embioptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/embioptera/"
+    }
+,
+    {
+      "name": "ephemeroptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/ephemeroptera/"
+    }
+,
+    {
+      "name": "hemiptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/"
+    }
+,
+    {
+      "name": "hymenoptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/"
+    }
+,
+    {
+      "name": "lepidoptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/"
+    }
+,
+    {
+      "name": "mantodea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/"
+    }
+,
+    {
+      "name": "mecoptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mecoptera/"
+    }
+,
+    {
+      "name": "megaloptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/megaloptera/"
+    }
+,
+    {
+      "name": "Neoptera Martynov, 1923",
+      "url": ""
+    }
+,
+    {
+      "name": "neuroptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/neuroptera/"
+    }
+,
+    {
+      "name": "odonata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/odonata/"
+    }
+,
+    {
+      "name": "orthoptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/"
+    }
+,
+    {
+      "name": "Palaeoptera Martynov, 1923",
+      "url": ""
+    }
+,
+    {
+      "name": "phasmida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/phasmida/"
+    }
+,
+    {
+      "name": "plecoptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/plecoptera/"
+    }
+,
+    {
+      "name": "psocodea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/"
+    }
+,
+    {
+      "name": "Pterygota Brauer, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "raphidioptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/raphidioptera/"
+    }
+,
+    {
+      "name": "siphonaptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/siphonaptera/"
+    }
+,
+    {
+      "name": "strepsiptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/strepsiptera/"
+    }
+,
+    {
+      "name": "thysanoptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/thysanoptera/"
+    }
+,
+    {
+      "name": "trichoptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/trichoptera/"
+    }
+,
+    {
+      "name": "zoraptera",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/zoraptera/"
+    }
+,
+    {
+      "name": "zygentoma",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/zygentoma/"
+    }
+
+  ]
+}

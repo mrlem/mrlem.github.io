@@ -1,0 +1,932 @@
+
+{
+  "name": "cotesiini",
+  "children": [
+
+    {
+      "name": "Cotesiini Mason, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Cotesia Cameron, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Cotesia abjecta (Marshall, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972333"
+    }
+,
+    {
+      "name": "Apanteles abjecta Marshall, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972334"
+    }
+,
+    {
+      "name": "Cotesia acuminata (Reinhard, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972437"
+    }
+,
+    {
+      "name": "Apanteles acuminatus Reinhard, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007016"
+    }
+,
+    {
+      "name": "Cotesia affinis (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972438"
+    }
+,
+    {
+      "name": "Cotesia americana (Lepeletier de Saint-Fargeau, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641542"
+    }
+,
+    {
+      "name": "Apanteles americanus (Lepeletier de Saint-Fargeau, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641541"
+    }
+,
+    {
+      "name": "Microgaster americanus Lepeletier de Saint-Fargeau, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950829"
+    }
+,
+    {
+      "name": "Cotesia analis (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228674"
+    }
+,
+    {
+      "name": "Cotesia ancilla (Nixon, 1974)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972316"
+    }
+,
+    {
+      "name": "Apanteles ancilla Nixon, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972319"
+    }
+,
+    {
+      "name": "Cotesia arctica (C.G. Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228675"
+    }
+,
+    {
+      "name": "Microgaster arctica C.G. Thomson, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007013"
+    }
+,
+    {
+      "name": "Cotesia astraches (Marshall, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972439"
+    }
+,
+    {
+      "name": "Apanteles astraches Marshall, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007185"
+    }
+,
+    {
+      "name": "Cotesia bignellii (Marshall, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972440"
+    }
+,
+    {
+      "name": "Apanteles bignellii Marshall, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007017"
+    }
+,
+    {
+      "name": "Cotesia brevicornis (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228676"
+    }
+,
+    {
+      "name": "Cotesia cajae (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228677"
+    }
+,
+    {
+      "name": "Cotesia cheesmanae (Wilkinson, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950817"
+    }
+,
+    {
+      "name": "Apanteles cheesmanae Wilkinson, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950818"
+    }
+,
+    {
+      "name": "Cotesia cuprea (Lyle, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228678"
+    }
+,
+    {
+      "name": "Apanteles cupreus Lyle, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972341"
+    }
+,
+    {
+      "name": "Cotesia cynthiae (Nixon, 1974)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972441"
+    }
+,
+    {
+      "name": "Cotesia euchloevora Shaw, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972314"
+    }
+,
+    {
+      "name": "Cotesia euryale (Nixon, 1974)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228679"
+    }
+,
+    {
+      "name": "Apanteles euryale Nixon, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972320"
+    }
+,
+    {
+      "name": "Cotesia flavipes Cameron, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641544"
+    }
+,
+    {
+      "name": "Apanteles flavipes (Cameron, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641543"
+    }
+,
+    {
+      "name": "Cotesia gastropachae (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228680"
+    }
+,
+    {
+      "name": "Cotesia glomerata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228681"
+    }
+,
+    {
+      "name": "Apanteles glomeratus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838976"
+    }
+,
+    {
+      "name": "Ichneumon glomeratus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849864"
+    }
+,
+    {
+      "name": "Cotesia jucunda (Marshall, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972338"
+    }
+,
+    {
+      "name": "Apanteles jucundus Marshall, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972339"
+    }
+,
+    {
+      "name": "Cotesia juniperatae (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228682"
+    }
+,
+    {
+      "name": "Cotesia limbata (Marshall, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972442"
+    }
+,
+    {
+      "name": "Apanteles limbatus Marshall, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007022"
+    }
+,
+    {
+      "name": "Cotesia lineola (Curtis, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972443"
+    }
+,
+    {
+      "name": "Apanteles gabrielis Gautier & Riel, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979906"
+    }
+,
+    {
+      "name": "Cotesia lycophron (Nixon, 1974)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228683"
+    }
+,
+    {
+      "name": "Apanteles lycophron Nixon, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972331"
+    }
+,
+    {
+      "name": "Cotesia marginiventris (Cresson, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838895"
+    }
+,
+    {
+      "name": "Apanteles marginiventris (Cresson, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917957"
+    }
+,
+    {
+      "name": "Microgaster marginiventris Cresson, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971597"
+    }
+,
+    {
+      "name": "Cotesia melanoscelus (Ratzeburg, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972444"
+    }
+,
+    {
+      "name": "Cotesia melanoscela (Ratzeburg, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228684"
+    }
+,
+    {
+      "name": "Cotesia melitaearum (Wilkinson, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228685"
+    }
+,
+    {
+      "name": "Cotesia numen (Nixon, 1974)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228686"
+    }
+,
+    {
+      "name": "Apanteles numen Nixon, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972332"
+    }
+,
+    {
+      "name": "Cotesia picipes (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972920"
+    }
+,
+    {
+      "name": "Microgaster picipes Bouché, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972921"
+    }
+,
+    {
+      "name": "Cotesia pilicornis (Thomson, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972315"
+    }
+,
+    {
+      "name": "Apanteles pilicornis Thomson, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972342"
+    }
+,
+    {
+      "name": "Cotesia risilis (Nixon, 1974)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007048"
+    }
+,
+    {
+      "name": "Apanteles risilis Nixon, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007049"
+    }
+,
+    {
+      "name": "Cotesia rubecula (Marshall, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228687"
+    }
+,
+    {
+      "name": "Apanteles rubecula Marshall, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007186"
+    }
+,
+    {
+      "name": "Cotesia rubripes (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972446"
+    }
+,
+    {
+      "name": "Cotesia ruficrus (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228688"
+    }
+,
+    {
+      "name": "Microgaster ruficrus Haliday, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950824"
+    }
+,
+    {
+      "name": "Cotesia salebrosa (Marshall, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228689"
+    }
+,
+    {
+      "name": "Cotesia salsatoria (Balevski, 1980)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972447"
+    }
+,
+    {
+      "name": "Cotesia saltator (Thunberg, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228690"
+    }
+,
+    {
+      "name": "Ichneumon saltator Thunberg, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007188"
+    }
+,
+    {
+      "name": "Cotesia sericea (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972449"
+    }
+,
+    {
+      "name": "Cotesia sesamiae (Cameron, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712522"
+    }
+,
+    {
+      "name": "Apanteles sesamiae Cameron, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950825"
+    }
+,
+    {
+      "name": "Cotesia sessilis (Geoffroy in Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972923"
+    }
+,
+    {
+      "name": "Ichneumon sessilis Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972924"
+    }
+,
+    {
+      "name": "Cotesia sphingivora (Granger, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950826"
+    }
+,
+    {
+      "name": "Apanteles sphingivorus Granger, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836697"
+    }
+,
+    {
+      "name": "Cotesia spuria (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228691"
+    }
+,
+    {
+      "name": "Cotesia tenebrosa (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972346"
+    }
+,
+    {
+      "name": "Microgaster tenebrosus Wesmael, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007187"
+    }
+,
+    {
+      "name": "Cotesia tetrica (Reinhard, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228692"
+    }
+,
+    {
+      "name": "Apanteles tetricus Reinhard, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007181"
+    }
+,
+    {
+      "name": "Cotesia tibialis (Curtis, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228693"
+    }
+,
+    {
+      "name": "Apanteles congestus (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989703"
+    }
+,
+    {
+      "name": "Microgaster congestus Nees, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989706"
+    }
+,
+    {
+      "name": "Microgaster tibialis Curtis, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007190"
+    }
+,
+    {
+      "name": "Cotesia vanessae (Reinhard, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972450"
+    }
+,
+    {
+      "name": "Apanteles vanessae Reinhard, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007018"
+    }
+,
+    {
+      "name": "Cotesia vestalis (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228694"
+    }
+,
+    {
+      "name": "Cotesia plutellae (Kurdjumov, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712521"
+    }
+,
+    {
+      "name": "Microgaster vestalis Haliday, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950827"
+    }
+,
+    {
+      "name": "Cotesia villana (Reinhard, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228695"
+    }
+,
+    {
+      "name": "Apanteles villanus Reinhard, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972336"
+    }
+,
+    {
+      "name": "Cotesia xavieri Rousse, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712523"
+    }
+,
+    {
+      "name": "Cotesia zygaenarum (Marshall, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972451"
+    }
+,
+    {
+      "name": "Apanteles zygaenarum Marshall, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007020"
+    }
+,
+    {
+      "name": "Deuterixys Mason, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Deuterixys carbonaria (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972452"
+    }
+,
+    {
+      "name": "Apanteles carbonarius (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007199"
+    }
+,
+    {
+      "name": "Microgaster carbonarius Wesmael, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007198"
+    }
+,
+    {
+      "name": "Deuterixys plugarui (Tobias, 1975)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829876"
+    }
+,
+    {
+      "name": "Diolcogaster Ashmead, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Diolcogaster abdominalis (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228672"
+    }
+,
+    {
+      "name": "Microgaster abdominalis Nees, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007192"
+    }
+,
+    {
+      "name": "Diolcogaster alvearia (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228673"
+    }
+,
+    {
+      "name": "Diolcogaster austrina (Wilkinson, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712524"
+    }
+,
+    {
+      "name": "Microgaster austrina Wilkinson, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950828"
+    }
+,
+    {
+      "name": "Diolcogaster connexa (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972453"
+    }
+,
+    {
+      "name": "Microgaster connexus Nees, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007195"
+    }
+,
+    {
+      "name": "Protomicroplitis connexus (Nees, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007202"
+    }
+,
+    {
+      "name": "Diolcogaster curticornis (Granger, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712525"
+    }
+,
+    {
+      "name": "Microgaster curticornis Granger, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/929120"
+    }
+,
+    {
+      "name": "Diolcogaster procris (Fischer, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829877"
+    }
+,
+    {
+      "name": "Diolcogaster sons (Wilkinson, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792602"
+    }
+,
+    {
+      "name": "Microgaster sons Wilkinson, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950819"
+    }
+,
+    {
+      "name": "Distatrix Mason, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Distatrix belliger (Wilkinson, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712527"
+    }
+,
+    {
+      "name": "Apanteles belliger Wilkinson, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950820"
+    }
+,
+    {
+      "name": "Distatrix formosa (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972454"
+    }
+,
+    {
+      "name": "Apanteles formosus (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972826"
+    }
+,
+    {
+      "name": "Microgaster formosus Wesmael, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972827"
+    }
+,
+    {
+      "name": "Protapanteles formosus (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228636"
+    }
+,
+    {
+      "name": "Distatrix sancus (Nixon, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972455"
+    }
+,
+    {
+      "name": "Apanteles sancus Nixon, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007189"
+    }
+,
+    {
+      "name": "Protapanteles sancus (Nixon, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228646"
+    }
+,
+    {
+      "name": "Distatrix yunae Rousse & Gupta, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712528"
+    }
+,
+    {
+      "name": "Glyptapanteles Ashmead, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Glyptapanteles aletta (Nixon, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015938"
+    }
+,
+    {
+      "name": "Apanteles aletta Nixon, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015937"
+    }
+,
+    {
+      "name": "Protapanteles aletta (Nixon, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015936"
+    }
+,
+    {
+      "name": "Glyptapanteles aliphera (Nixon, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972778"
+    }
+,
+    {
+      "name": "Apanteles aliphera Nixon, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972779"
+    }
+,
+    {
+      "name": "Protapanteles aliphera (Nixon, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228633"
+    }
+,
+    {
+      "name": "Glyptapanteles antsirabensis (Granger, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712540"
+    }
+,
+    {
+      "name": "Apanteles antsirabensis Granger, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950821"
+    }
+,
+    {
+      "name": "Glyptapanteles callidus (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972798"
+    }
+,
+    {
+      "name": "Apanteles callidus (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972800"
+    }
+,
+    {
+      "name": "Microgaster callidus Haliday, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972799"
+    }
+,
+    {
+      "name": "Glyptapanteles chidra Rousse & Gupta, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712541"
+    }
+,
+    {
+      "name": "Glyptapanteles ficus (Granger, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712542"
+    }
+,
+    {
+      "name": "Apanteles ficus Granger, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950822"
+    }
+,
+    {
+      "name": "Glyptapanteles fraternus (Reinhard, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972803"
+    }
+,
+    {
+      "name": "Apanteles fraternus Reinhard, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972804"
+    }
+,
+    {
+      "name": "Protapanteles fraternus (Reinhard, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228637"
+    }
+,
+    {
+      "name": "Glyptapanteles fulvipes (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972793"
+    }
+,
+    {
+      "name": "Apanteles fulvipes (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972795"
+    }
+,
+    {
+      "name": "Microgaster fulvipes Haliday, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972794"
+    }
+,
+    {
+      "name": "Protapanteles fulvipes (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228638"
+    }
+,
+    {
+      "name": "Glyptapanteles inclusus (Ratzeburg, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972801"
+    }
+,
+    {
+      "name": "Apanteles inclusus (Ratzeburg, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972802"
+    }
+,
+    {
+      "name": "Protapanteles inclusus (Ratzeburg, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228639"
+    }
+,
+    {
+      "name": "Glyptapanteles liparidis (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972790"
+    }
+,
+    {
+      "name": "Apanteles liparidis (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972792"
+    }
+,
+    {
+      "name": "Microgaster liparidis Bouché, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972791"
+    }
+,
+    {
+      "name": "Protapanteles liparidis (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228641"
+    }
+,
+    {
+      "name": "Glyptapanteles majalis (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972916"
+    }
+,
+    {
+      "name": "Microgaster majalis Wesmael, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972917"
+    }
+,
+    {
+      "name": "Protapanteles majalis (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228642"
+    }
+,
+    {
+      "name": "Glyptapanteles mygdonia (Nixon, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972782"
+    }
+,
+    {
+      "name": "Apanteles mygdonia Nixon, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972783"
+    }
+,
+    {
+      "name": "Glyptapanteles pallipes (Reinhard, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972805"
+    }
+,
+    {
+      "name": "Apanteles pallipes Reinhard, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972806"
+    }
+,
+    {
+      "name": "Protapanteles pallipes (Reinhard, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228643"
+    }
+,
+    {
+      "name": "Glyptapanteles porthetriae (Muesebeck, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829878"
+    }
+,
+    {
+      "name": "Apanteles porthetriae Muesebeck, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/929133"
+    }
+,
+    {
+      "name": "Protapanteles porthetriae (Muesebeck, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228645"
+    }
+,
+    {
+      "name": "Glyptapanteles thompsoni (Lyle, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972784"
+    }
+,
+    {
+      "name": "Apanteles thompsoni Lyle, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972785"
+    }
+,
+    {
+      "name": "Glyptapanteles vitripennis (Curtis, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972796"
+    }
+,
+    {
+      "name": "Apanteles vitripennis (Curtis, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972797"
+    }
+,
+    {
+      "name": "Microgaster vitripennis Curtis, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007203"
+    }
+,
+    {
+      "name": "Protapanteles vitripennis (Curtis, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228648"
+    }
+,
+    {
+      "name": "Nyereria Mason, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Nyereria ganges Rousse & Gupta, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712546"
+    }
+,
+    {
+      "name": "Nyereria mayurus Rousse & Gupta, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712547"
+    }
+,
+    {
+      "name": "Protapanteles Ashmead, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Protapanteles endemus (Nixon, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228634"
+    }
+,
+    {
+      "name": "Apanteles endemus Nixon, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007194"
+    }
+,
+    {
+      "name": "Protapanteles popularis (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228644"
+    }
+,
+    {
+      "name": "Apanteles popularis (Haliday, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007197"
+    }
+,
+    {
+      "name": "Microgaster popularis Haliday, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007196"
+    }
+,
+    {
+      "name": "Protapanteles triangulator (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/228647"
+    }
+,
+    {
+      "name": "Apanteles triangulator (Wesmael, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972780"
+    }
+,
+    {
+      "name": "Venanides Mason, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Venanides curticornis (Granger, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712552"
+    }
+,
+    {
+      "name": "Apanteles curticornis Granger, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/929126"
+    }
+,
+    {
+      "name": "Wilkinsonellus Mason, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Wilkinsonellus narangahus Rousse & Gupta, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712554"
+    }
+
+  ]
+}

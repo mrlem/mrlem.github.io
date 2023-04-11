@@ -1,0 +1,32 @@
+
+{
+  "name": "lycaenidae",
+  "children": [
+
+    {
+      "name": "Lycaenidae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "lycaeninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lycaenidae/lycaeninae/"
+    }
+,
+    {
+      "name": "miletinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lycaenidae/miletinae/"
+    }
+,
+    {
+      "name": "polyommatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lycaenidae/polyommatinae/"
+    }
+,
+    {
+      "name": "theclinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lycaenidae/theclinae/"
+    }
+
+  ]
+}

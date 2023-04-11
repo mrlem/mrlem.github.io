@@ -1,0 +1,32 @@
+
+{
+  "name": "fischerinidae",
+  "children": [
+
+    {
+      "name": "Fischerinidae Millett, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "fischerinellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/tubothalamea/miliolida/fischerinidae/fischerinellinae/"
+    }
+,
+    {
+      "name": "fischerininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/tubothalamea/miliolida/fischerinidae/fischerininae/"
+    }
+,
+    {
+      "name": "nodobaculariellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/tubothalamea/miliolida/fischerinidae/nodobaculariellinae/"
+    }
+,
+    {
+      "name": "zoyaellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/tubothalamea/miliolida/fischerinidae/zoyaellinae/"
+    }
+
+  ]
+}

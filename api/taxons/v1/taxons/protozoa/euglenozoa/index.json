@@ -1,0 +1,22 @@
+
+{
+  "name": "euglenozoa",
+  "children": [
+
+    {
+      "name": "Euglenozoa Cavalier-Smith, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "euglenoidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/euglenozoa/euglenoidea/"
+    }
+,
+    {
+      "name": "kinetoplastea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/euglenozoa/kinetoplastea/"
+    }
+
+  ]
+}

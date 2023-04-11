@@ -1,0 +1,52 @@
+
+{
+  "name": "emesinae",
+  "children": [
+
+    {
+      "name": "Emesinae Amyot & Audinet-Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "emesini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/reduviidae/emesinae/emesini/"
+    }
+,
+    {
+      "name": "Eugubinus Distant, 1903",
+      "url": ""
+    }
+,
+    {
+      "name": "Eugubinus canalanus (Distant, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895458"
+    }
+,
+    {
+      "name": "Gardena canalana Distant, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895459"
+    }
+,
+    {
+      "name": "Eugubinus forsteri Wygodzinsky, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/895461"
+    }
+,
+    {
+      "name": "leistarchini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/reduviidae/emesinae/leistarchini/"
+    }
+,
+    {
+      "name": "metapterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/reduviidae/emesinae/metapterini/"
+    }
+,
+    {
+      "name": "ploiariolini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/reduviidae/emesinae/ploiariolini/"
+    }
+
+  ]
+}

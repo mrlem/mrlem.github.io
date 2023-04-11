@@ -1,0 +1,32 @@
+
+{
+  "name": "bostrichinae",
+  "children": [
+
+    {
+      "name": "Bostrichinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "apatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/bostrichinae/apatini/"
+    }
+,
+    {
+      "name": "bostrichini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/bostrichinae/bostrichini/"
+    }
+,
+    {
+      "name": "sinoxylini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/bostrichinae/sinoxylini/"
+    }
+,
+    {
+      "name": "xyloperthini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/bostrichinae/xyloperthini/"
+    }
+
+  ]
+}

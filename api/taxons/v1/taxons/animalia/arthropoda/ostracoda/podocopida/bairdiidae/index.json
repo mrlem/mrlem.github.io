@@ -1,0 +1,312 @@
+
+{
+  "name": "bairdiidae",
+  "children": [
+
+    {
+      "name": "Bairdiidae Sars, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Bairdia Mccoy, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Bairdia amygdaloides Brady, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843256"
+    }
+,
+    {
+      "name": "Bairdia foveolata Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1003372"
+    }
+,
+    {
+      "name": "Bairdia ritugerda Holden, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994537"
+    }
+,
+    {
+      "name": "Bairdia ritugerda clippertonensis Allison & Holden, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994538"
+    }
+,
+    {
+      "name": "Bairdoppilata Coryell, Sample & Jennings, 1935",
+      "url": ""
+    }
+,
+    {
+      "name": "Bairdoppilata alcyonicola Maddocks, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891941"
+    }
+,
+    {
+      "name": "Bairdoppilata cushmani (Tressler, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891693"
+    }
+,
+    {
+      "name": "Nesidea cushmani Tressler, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891694"
+    }
+,
+    {
+      "name": "Bairdoppilata teeteri (Allison & Holden, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891812"
+    }
+,
+    {
+      "name": "Bairdia teeteri Allison & Holden, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994535"
+    }
+,
+    {
+      "name": "Glyptobairdia Stephenson, 1946",
+      "url": ""
+    }
+,
+    {
+      "name": "Glyptobairdia coronata (Brady, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762553"
+    }
+,
+    {
+      "name": "Bairdia coronata Brady, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891695"
+    }
+,
+    {
+      "name": "Neonesidea Maddocks, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Neonesidea anfieldingae Hartmann, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891813"
+    }
+,
+    {
+      "name": "Neonesidea clippertonensis (Allison & Holden, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891818"
+    }
+,
+    {
+      "name": "Neonesidea corpulenta (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372499"
+    }
+,
+    {
+      "name": "Bairdia corpulenta Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579874"
+    }
+,
+    {
+      "name": "Neonesidea decipiens (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372491"
+    }
+,
+    {
+      "name": "Bairdia decipiens Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579875"
+    }
+,
+    {
+      "name": "Neonesidea formosa (Brady, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372489"
+    }
+,
+    {
+      "name": "Bairdia formosa Brady, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17919"
+    }
+,
+    {
+      "name": "Neonesidea frequens (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372497"
+    }
+,
+    {
+      "name": "Bairdia frequens Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17920"
+    }
+,
+    {
+      "name": "Neonesidea lentiphila Hartmann, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891814"
+    }
+,
+    {
+      "name": "Neonesidea longevaginata (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372493"
+    }
+,
+    {
+      "name": "Bairdia longevaginata Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579876"
+    }
+,
+    {
+      "name": "Neonesidea mediterranea (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372500"
+    }
+,
+    {
+      "name": "Bairdia mediterranea Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579877"
+    }
+,
+    {
+      "name": "Neonesidea michaelseni Hartmann, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891815"
+    }
+,
+    {
+      "name": "Neonesidea minor (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372498"
+    }
+,
+    {
+      "name": "Bairdia minor Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579878"
+    }
+,
+    {
+      "name": "Neonesidea obscura (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372496"
+    }
+,
+    {
+      "name": "Bairdia obscura Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579879"
+    }
+,
+    {
+      "name": "Neonesidea roquebrunensis (Rome, 1942)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372494"
+    }
+,
+    {
+      "name": "Bairdia roquebrunensis Rome, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994543"
+    }
+,
+    {
+      "name": "Neonesidea schulzi (Hartmann, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654328"
+    }
+,
+    {
+      "name": "Triebelina schulzi Hartmann, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687993"
+    }
+,
+    {
+      "name": "Neonesidea simuvillosa (Swain, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891816"
+    }
+,
+    {
+      "name": "Bairdia simuvillosa Swain, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891817"
+    }
+,
+    {
+      "name": "Neonesidea subcircinata (Brady & Norman, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781310"
+    }
+,
+    {
+      "name": "Bairdia subcircinata Brady & Norman, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781313"
+    }
+,
+    {
+      "name": "Nesidea subcircinata (Brady & Norman, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781314"
+    }
+,
+    {
+      "name": "Paranesidea Maddocks, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Paranesidea algicola Maddocks, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654306"
+    }
+,
+    {
+      "name": "Paranesidea conulifera (Bonaduce, Masoli & Pugliese, 1978)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654307"
+    }
+,
+    {
+      "name": "Neonesidea conulifera Bonaduce, Masoli & Pugliese, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994550"
+    }
+,
+    {
+      "name": "Paranesidea fracticorallicola Maddocks, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785681"
+    }
+,
+    {
+      "name": "Paranesidea reticulata (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372488"
+    }
+,
+    {
+      "name": "Bairdia reticulata Mueller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17926"
+    }
+,
+    {
+      "name": "Paranesidea spongicola Maddocks, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785682"
+    }
+,
+    {
+      "name": "Triebelina Bold, 1946",
+      "url": ""
+    }
+,
+    {
+      "name": "Triebelina bradyi Triebel, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654308"
+    }
+,
+    {
+      "name": "Bairdia truncata Brady, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687991"
+    }
+,
+    {
+      "name": "Triebelina numensis (Müller, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654309"
+    }
+,
+    {
+      "name": "Triebelina raripila (Mueller, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/372501"
+    }
+,
+    {
+      "name": "Bairdia raripila Müller, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579881"
+    }
+,
+    {
+      "name": "Triebelina rugosa Allison & Holden, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891696"
+    }
+,
+    {
+      "name": "Triebelina sertata Triebel, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654285"
+    }
+
+  ]
+}

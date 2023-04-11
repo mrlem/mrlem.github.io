@@ -1,0 +1,472 @@
+
+{
+  "name": "pentatominae",
+  "children": [
+
+    {
+      "name": "Pentatominae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "aeliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/aeliini/"
+    }
+,
+    {
+      "name": "antestiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/antestiini/"
+    }
+,
+    {
+      "name": "bathycoeliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/bathycoeliini/"
+    }
+,
+    {
+      "name": "cappaeini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/cappaeini/"
+    }
+,
+    {
+      "name": "carpocorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/carpocorini/"
+    }
+,
+    {
+      "name": "catacanthini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/catacanthini/"
+    }
+,
+    {
+      "name": "chlorocorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/chlorocorini/"
+    }
+,
+    {
+      "name": "eysarcorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/eysarcorini/"
+    }
+,
+    {
+      "name": "Alciphron Stål, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Alciphron glaucus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962067"
+    }
+,
+    {
+      "name": "Cimex glaucus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962068"
+    }
+,
+    {
+      "name": "Pentatoma punctum Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965721"
+    }
+,
+    {
+      "name": "Arocera Spinola, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Arocera aequinoxialis (Westwood, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755823"
+    }
+,
+    {
+      "name": "Pentatoma aequinoxialis Westwood, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917764"
+    }
+,
+    {
+      "name": "Arocera apta (Walker, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755824"
+    }
+,
+    {
+      "name": "Arocera crucigera Haglund, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917766"
+    }
+,
+    {
+      "name": "Strachia apta Walker, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917765"
+    }
+,
+    {
+      "name": "Arocera placens (Walker, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849557"
+    }
+,
+    {
+      "name": "Strachia placens Walker, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963333"
+    }
+,
+    {
+      "name": "Atomosira Uhler, 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "Atomosira lenticularis Uhler, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755826"
+    }
+,
+    {
+      "name": "Boea Walker, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Boea annaelisae Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755830"
+    }
+,
+    {
+      "name": "Brachystethus Laporte de Castelnau, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Brachystethus cribrus (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755831"
+    }
+,
+    {
+      "name": "Cimex cribrum Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917767"
+    }
+,
+    {
+      "name": "Chloropepla Stål, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Chloropepla rolstoni Grazia, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755834"
+    }
+,
+    {
+      "name": "Dichelops Spinola, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Dichelops nigra Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884860"
+    }
+,
+    {
+      "name": "Dictyotus Dallas, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Dictyotus caenosus (Westwood, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965194"
+    }
+,
+    {
+      "name": "Pentatoma caenosus Westwood, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965195"
+    }
+,
+    {
+      "name": "Hyparete Stål, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Hyparete boitardi (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965724"
+    }
+,
+    {
+      "name": "Pentatoma boitardi Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965725"
+    }
+,
+    {
+      "name": "Mayrinia Horváth, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Mayrinia variegata (Distant, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755407"
+    }
+,
+    {
+      "name": "Loxa variegata Distant, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917780"
+    }
+,
+    {
+      "name": "Mecocephala Dallas, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Mecocephala atra Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884862"
+    }
+,
+    {
+      "name": "Mitripus Roston, 1978",
+      "url": ""
+    }
+,
+    {
+      "name": "Mitripus acutus (Dallas, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884856"
+    }
+,
+    {
+      "name": "Euschistus acutus Dallas, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917781"
+    }
+,
+    {
+      "name": "Euschistus (Mitripus) acutus Dallas, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884857"
+    }
+,
+    {
+      "name": "Euschistus variicornis Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884858"
+    }
+,
+    {
+      "name": "Neosurenus Distant, 1920",
+      "url": ""
+    }
+,
+    {
+      "name": "Neosurenus montaguei Distant, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797586"
+    }
+,
+    {
+      "name": "Neotibilis Grazia & Barcellos, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "Laeviscutis Grazia & Barcellos, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "Neotibilis chiapensis (Thomas & Braylovsky, 1993)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755411"
+    }
+,
+    {
+      "name": "Tibilis chiapensis Thomas & Braylovsky, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917785"
+    }
+,
+    {
+      "name": "Neotibilis compascens (Bergroth, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884867"
+    }
+,
+    {
+      "name": "Tibilis compascens Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884868"
+    }
+,
+    {
+      "name": "Neotibilis laeviventris (Bergroth, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884865"
+    }
+,
+    {
+      "name": "Tibilis laeviventris Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884866"
+    }
+,
+    {
+      "name": "Odmalea Bergroth, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Odmalea concolor (Walker, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755412"
+    }
+,
+    {
+      "name": "Mormidea concolor Walker, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917787"
+    }
+,
+    {
+      "name": "Odmalea quadripunctata Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884869"
+    }
+,
+    {
+      "name": "Odmalea quadripunctula Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917786"
+    }
+,
+    {
+      "name": "Odmalea schaefferi (Barber, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755413"
+    }
+,
+    {
+      "name": "Dendrocoris schaefferi Barber, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917788"
+    }
+,
+    {
+      "name": "Phalaecus Stål, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Phalaecus carmini Lupoli, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912931"
+    }
+,
+    {
+      "name": "Phalaecus lineatus Grazia, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912929"
+    }
+,
+    {
+      "name": "Phalaecus nigromaculatus Grazia, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912930"
+    }
+,
+    {
+      "name": "Phalaecus pustulatus (De Geer, 1773)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755417"
+    }
+,
+    {
+      "name": "Cimex pustulatus De Geer, 1773",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/888094"
+    }
+,
+    {
+      "name": "Phalaecus ruckesi Grazia, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912928"
+    }
+,
+    {
+      "name": "Rhyncholepta Bergroth, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhyncholepta grandicallosa Bergroth, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755420"
+    }
+,
+    {
+      "name": "Rhyncholepta grandicallosa grandicallosa Bergroth, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910012"
+    }
+,
+    {
+      "name": "Rhyncholepta henryi Kment, Eger & Rider, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910013"
+    }
+,
+    {
+      "name": "Rio Kirkaldy, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Rio pectoralis (Stål, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755421"
+    }
+,
+    {
+      "name": "Rhaphigaster pectoralis Stål, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917791"
+    }
+,
+    {
+      "name": "Sibaria Stål, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Sibaria armata (Dallas, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755422"
+    }
+,
+    {
+      "name": "Mormidea armata Dallas, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917792"
+    }
+,
+    {
+      "name": "Solubea Bergroth, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Solubea postposita Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884854"
+    }
+,
+    {
+      "name": "Utana Distant, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Utana viridipuncta Bergroth, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961566"
+    }
+,
+    {
+      "name": "mecideini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/mecideini/"
+    }
+,
+    {
+      "name": "nezarini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/nezarini/"
+    }
+,
+    {
+      "name": "pentatomini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/pentatomini/"
+    }
+,
+    {
+      "name": "piezodorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/piezodorini/"
+    }
+,
+    {
+      "name": "rhynchocorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/rhynchocorini/"
+    }
+,
+    {
+      "name": "sciocorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/sciocorini/"
+    }
+,
+    {
+      "name": "strachiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/strachiini/"
+    }
+
+  ]
+}

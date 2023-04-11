@@ -1,0 +1,37 @@
+
+{
+  "name": "glomerida",
+  "children": [
+
+    {
+      "name": "Glomerida Brandt, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "glomeridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/glomerida/glomeridae/"
+    }
+,
+    {
+      "name": "glomeridellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/glomerida/glomeridellidae/"
+    }
+,
+    {
+      "name": "Glomeridelloidea Cook, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Glomeroidea Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "protoglomeridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/glomerida/protoglomeridae/"
+    }
+
+  ]
+}

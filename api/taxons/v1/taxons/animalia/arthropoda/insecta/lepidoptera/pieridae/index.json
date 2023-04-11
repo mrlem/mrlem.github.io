@@ -1,0 +1,32 @@
+
+{
+  "name": "pieridae",
+  "children": [
+
+    {
+      "name": "Pieridae Swainson, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "Pieridae Duponchel, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "coliadinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pieridae/coliadinae/"
+    }
+,
+    {
+      "name": "dismorphiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pieridae/dismorphiinae/"
+    }
+,
+    {
+      "name": "pierinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pieridae/pierinae/"
+    }
+
+  ]
+}

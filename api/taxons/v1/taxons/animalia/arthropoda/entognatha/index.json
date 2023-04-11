@@ -1,0 +1,32 @@
+
+{
+  "name": "entognatha",
+  "children": [
+
+    {
+      "name": "Entognatha Lubbock, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "collembola",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/entognatha/collembola/"
+    }
+,
+    {
+      "name": "diplura",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/entognatha/diplura/"
+    }
+,
+    {
+      "name": "Elliplura Börner, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "protura",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/entognatha/protura/"
+    }
+
+  ]
+}

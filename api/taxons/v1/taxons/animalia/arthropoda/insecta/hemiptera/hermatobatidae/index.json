@@ -1,0 +1,37 @@
+
+{
+  "name": "hermatobatidae",
+  "children": [
+
+    {
+      "name": "Hermatobatidae Coutière & Martin, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Hermatobates Carpenter, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Hermatobates armatus Andersen & Weir, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797246"
+    }
+,
+    {
+      "name": "Hermatobates haddonii Carpenter, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776324"
+    }
+,
+    {
+      "name": "Hermatobates marchei Coutiere & Martin, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797245"
+    }
+,
+    {
+      "name": "Hermatobates tiarae Herring, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850604"
+    }
+
+  ]
+}

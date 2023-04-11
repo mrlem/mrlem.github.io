@@ -1,0 +1,362 @@
+
+{
+  "name": "parasitidae",
+  "children": [
+
+    {
+      "name": "Parasitidae Oudemans, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Cornigamasus Evans & Till, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Cornigamasus quasilunaris Athias-Henriot, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016765"
+    }
+,
+    {
+      "name": "Eugamasus Berlese, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Eugamasus cavernicola Trägårdh, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885198"
+    }
+,
+    {
+      "name": "Eugamasus magnus (Kramer, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885206"
+    }
+,
+    {
+      "name": "Gamasus magnus Kramer, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885207"
+    }
+,
+    {
+      "name": "Eugamasus magnus tragardhi (Oudemans, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885210"
+    }
+,
+    {
+      "name": "Trombicula tragardhi Oudemans, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885211"
+    }
+,
+    {
+      "name": "Eugamasus niveus (Wankel, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885208"
+    }
+,
+    {
+      "name": "Gamasus niveus Wankel, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885209"
+    }
+,
+    {
+      "name": "Gamasodes Oudemans, 1939",
+      "url": ""
+    }
+,
+    {
+      "name": "Gamasodes spiniger (Trägårdh, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885278"
+    }
+,
+    {
+      "name": "Eugamasus spiniger Trägårdh, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885279"
+    }
+,
+    {
+      "name": "Gamasodes viretianus Athias-Henriot, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016763"
+    }
+,
+    {
+      "name": "Parasitellus Willmann, 1939",
+      "url": ""
+    }
+,
+    {
+      "name": "Parasitellus fucorum (De Geer, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987818"
+    }
+,
+    {
+      "name": "Acarus fucorum De Geer, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987819"
+    }
+,
+    {
+      "name": "Parasitus Latreille, 1795",
+      "url": ""
+    }
+,
+    {
+      "name": "Parasitus fimetorum (Berlese, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945060"
+    }
+,
+    {
+      "name": "Gamasus fimetorum Berlese, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000326"
+    }
+,
+    {
+      "name": "Parasitus loricatus (Wankel, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885204"
+    }
+,
+    {
+      "name": "Eugamasus loricatus (Wankel, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885201"
+    }
+,
+    {
+      "name": "Gamasus loricatus Wankel, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885205"
+    }
+,
+    {
+      "name": "Parasitus vertacomiriensis Cooreman, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885244"
+    }
+,
+    {
+      "name": "Pergamasus Berlese, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Pergamasus crassipes (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850720"
+    }
+,
+    {
+      "name": "Acarus crassipes Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850721"
+    }
+,
+    {
+      "name": "Pergamasus lapponicus Trägardh, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885257"
+    }
+,
+    {
+      "name": "Pergamasus longicornis (Berlese, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850719"
+    }
+,
+    {
+      "name": "Gamasus longicornis Berlese, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955169"
+    }
+,
+    {
+      "name": "Pergamasus crassipes longicornis (Berlese, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885252"
+    }
+,
+    {
+      "name": "Pergamasus mirabilis Willmann, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944252"
+    }
+,
+    {
+      "name": "Pergamasus norvegicus (Berlese, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850715"
+    }
+,
+    {
+      "name": "Gamasus norvegicus Berlese, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955170"
+    }
+,
+    {
+      "name": "Pergamasus septentrionalis (sensu Athias-Henriot, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850716"
+    }
+,
+    {
+      "name": "Pergamasus noster (Berlese, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988000"
+    }
+,
+    {
+      "name": "Gamasus noster Berlese, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987997"
+    }
+,
+    {
+      "name": "Pergamasus palatortus Athias-Henriot, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850718"
+    }
+,
+    {
+      "name": "Pergamasus quisquiliarum (Canestrini, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850717"
+    }
+,
+    {
+      "name": "Gamasus quisquiliarum Canestrini, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955173"
+    }
+,
+    {
+      "name": "Pergamasus septentrionalis (Oudemans, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850713"
+    }
+,
+    {
+      "name": "Parasitus septentrionalis Oudemans, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955176"
+    }
+,
+    {
+      "name": "Pergamasus germanicus (Berlese, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850714"
+    }
+,
+    {
+      "name": "Pergamasus theseus Berlese, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885253"
+    }
+,
+    {
+      "name": "Phityogamasus Juvara-Bals & Athias-Henriot, 1972",
+      "url": ""
+    }
+,
+    {
+      "name": "Phityogamasus primitivus (Oudemans, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944261"
+    }
+,
+    {
+      "name": "Parasiticus primitivus Oudemans, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944262"
+    }
+,
+    {
+      "name": "Pergamasus primitivus (Oudemans, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944263"
+    }
+,
+    {
+      "name": "Phorytocarpais Athias-Henriot, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Phorytocarpais americanus (Berlese, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944254"
+    }
+,
+    {
+      "name": "Gamasus americanus Berlese, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944255"
+    }
+,
+    {
+      "name": "Phorytocarpais eta (Oudemans & Voigts, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944265"
+    }
+,
+    {
+      "name": "Parasitus eta Oudemans & Voigts, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944266"
+    }
+,
+    {
+      "name": "Phorytocarpais fimetorum (Berlese, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944267"
+    }
+,
+    {
+      "name": "Phorytocarpais hyalinus (Willmann, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944264"
+    }
+,
+    {
+      "name": "Eugamasus hyalinus Willmann, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011589"
+    }
+,
+    {
+      "name": "Poecilochirus G. Canestrini & R. Canestrini, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "Poecilochirus carabi G. Canestrini & R. Canestrini, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945062"
+    }
+,
+    {
+      "name": "Poecilochirus necrophori Vitzthum, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885265"
+    }
+,
+    {
+      "name": "Poecilochirus subterraneus (Müller, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951453"
+    }
+,
+    {
+      "name": "Porrhostaspis subterranea Müller, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951454"
+    }
+,
+    {
+      "name": "Porrhostaspis Muller, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Porrhostaspis lunulata J. Müller, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885255"
+    }
+,
+    {
+      "name": "Eugamasus lunulatus (J. Müller, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885259"
+    }
+,
+    {
+      "name": "Parasitus lunulatus (J. Müller, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/885258"
+    }
+,
+    {
+      "name": "Rhabdocarpais Athias-Henriot, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhabdocarpais consanguineus (Oudemans & Voigts, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945109"
+    }
+,
+    {
+      "name": "Parasitus consanguineus Oudemans & Voigts, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011607"
+    }
+,
+    {
+      "name": "Schizosthetus Athias-Henriot, 1982",
+      "url": ""
+    }
+,
+    {
+      "name": "Schizosthetus simulatrix Athias-Henriot, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945111"
+    }
+
+  ]
+}

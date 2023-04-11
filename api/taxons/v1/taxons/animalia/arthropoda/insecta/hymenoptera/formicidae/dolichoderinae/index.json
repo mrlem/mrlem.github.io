@@ -1,0 +1,32 @@
+
+{
+  "name": "dolichoderinae",
+  "children": [
+
+    {
+      "name": "Dolichoderinae Forel, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "bothriomyrmecini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/dolichoderinae/bothriomyrmecini/"
+    }
+,
+    {
+      "name": "dolichoderini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/dolichoderinae/dolichoderini/"
+    }
+,
+    {
+      "name": "leptomyrmecini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/dolichoderinae/leptomyrmecini/"
+    }
+,
+    {
+      "name": "tapinomini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/formicidae/dolichoderinae/tapinomini/"
+    }
+
+  ]
+}

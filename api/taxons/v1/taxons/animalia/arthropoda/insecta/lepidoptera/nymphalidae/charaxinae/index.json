@@ -1,0 +1,577 @@
+
+{
+  "name": "charaxinae",
+  "children": [
+
+    {
+      "name": "Charaxinae Guenée, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Agrias Doubleday, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Agrias amydon Hewitson, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939004"
+    }
+,
+    {
+      "name": "Agrias amydon aurantiaca Fruhstorfer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939005"
+    }
+,
+    {
+      "name": "Agrias pericles aurantiaca Fruhstorfer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761030"
+    }
+,
+    {
+      "name": "Agrias claudina (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939001"
+    }
+,
+    {
+      "name": "Agrias sahlkei Honrath, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750522"
+    }
+,
+    {
+      "name": "Agrias claudina claudina (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939002"
+    }
+,
+    {
+      "name": "Agrias narcissus Staudinger, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750520"
+    }
+,
+    {
+      "name": "Anaea Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Anaea minor Hall, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647914"
+    }
+,
+    {
+      "name": "Anaea troglodyta Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968754"
+    }
+,
+    {
+      "name": "Archaeoprepona Fruhstorfer, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Archaeoprepona amphimachus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750523"
+    }
+,
+    {
+      "name": "Archaeoprepona chalciope (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/990344"
+    }
+,
+    {
+      "name": "Morpho chalciope Hübner, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/990345"
+    }
+,
+    {
+      "name": "Archaeoprepona chalciope domna (Fruhstorfer, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/990346"
+    }
+,
+    {
+      "name": "Prepona chalciope domna Fruhstorfer, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/990347"
+    }
+,
+    {
+      "name": "Archaeoprepona demophon (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750524"
+    }
+,
+    {
+      "name": "Papilio demophon Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790200"
+    }
+,
+    {
+      "name": "Archaeoprepona demophoon (Hübner, 1806)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750525"
+    }
+,
+    {
+      "name": "Archaeoprepona licomedes (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750526"
+    }
+,
+    {
+      "name": "Archaeoprepona meander (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750527"
+    }
+,
+    {
+      "name": "Charaxes Ochsenheimer, 1816",
+      "url": ""
+    }
+,
+    {
+      "name": "Charaxes fulvescens (Aurivillius, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813939"
+    }
+,
+    {
+      "name": "Charaxes varanes comoranus Aurivillius, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813940"
+    }
+,
+    {
+      "name": "Charaxes jasius (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53789"
+    }
+,
+    {
+      "name": "Charaxes jasius septentrionalis Verity, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646211"
+    }
+,
+    {
+      "name": "Nymphalis jasius (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777271"
+    }
+,
+    {
+      "name": "Papilio jasius Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646210"
+    }
+,
+    {
+      "name": "Charaxes saperanus Poulton, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645308"
+    }
+,
+    {
+      "name": "Consul Hübner, 1806",
+      "url": ""
+    }
+,
+    {
+      "name": "Consul fabius (Cramer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750528"
+    }
+,
+    {
+      "name": "Fountainea Rydon, 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Fountainea ryphea (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750529"
+    }
+,
+    {
+      "name": "Fountainea ryphea ryphea (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813674"
+    }
+,
+    {
+      "name": "Hypna Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypna clytemnestra (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750530"
+    }
+,
+    {
+      "name": "Hypna clytemnestra clytemnestra (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813701"
+    }
+,
+    {
+      "name": "Memphis Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Memphis acidalia (Hübner, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813689"
+    }
+,
+    {
+      "name": "Memphis arachne (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750531"
+    }
+,
+    {
+      "name": "Papilio arachne Cramer, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813690"
+    }
+,
+    {
+      "name": "Memphis acidalia acidalia (Hübner, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813691"
+    }
+,
+    {
+      "name": "Memphis basilia (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750532"
+    }
+,
+    {
+      "name": "Memphis basilia basilia (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813692"
+    }
+,
+    {
+      "name": "Memphis glauce (C. Felder & R. Felder, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018709"
+    }
+,
+    {
+      "name": "Cymatogramma glauce (C. Felder & R. Felder, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813693"
+    }
+,
+    {
+      "name": "Memphis glaucone (C. Felder & R. Felder, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750534"
+    }
+,
+    {
+      "name": "Nymphalis glauce C. Felder & R. Felder, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813694"
+    }
+,
+    {
+      "name": "Nymphalis glaucone C. Felder & R. Felder, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813695"
+    }
+,
+    {
+      "name": "Memphis glauce cicla (Möschler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018710"
+    }
+,
+    {
+      "name": "Cymatogramma glauce cicla (Möschler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813696"
+    }
+,
+    {
+      "name": "Memphis glaucone cicla (Möschler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813697"
+    }
+,
+    {
+      "name": "Memphis grandis (Druce, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750535"
+    }
+,
+    {
+      "name": "Memphis laertes (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813678"
+    }
+,
+    {
+      "name": "Memphis eribotes (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750533"
+    }
+,
+    {
+      "name": "Papilio eribotes Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813679"
+    }
+,
+    {
+      "name": "Memphis leonida (Cramer, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750536"
+    }
+,
+    {
+      "name": "Memphis moruus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813675"
+    }
+,
+    {
+      "name": "Memphis morvus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750538"
+    }
+,
+    {
+      "name": "Memphis moruus moruus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813676"
+    }
+,
+    {
+      "name": "Memphis oenomais (Boisduval, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750539"
+    }
+,
+    {
+      "name": "Memphis phantes (Hopffer, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783454"
+    }
+,
+    {
+      "name": "Aenea vicinia Staudinger, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813688"
+    }
+,
+    {
+      "name": "Memphis phantes nethania Brévignon, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783455"
+    }
+,
+    {
+      "name": "Memphis phantes vicinia (Staudinger, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813683"
+    }
+,
+    {
+      "name": "Memphis vicinia (Staudinger, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750600"
+    }
+,
+    {
+      "name": "Memphis philumena (Doubleday, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750598"
+    }
+,
+    {
+      "name": "Memphis pithyusa (R. Felfer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018711"
+    }
+,
+    {
+      "name": "Aenea morena Hall, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813699"
+    }
+,
+    {
+      "name": "Cymatogramma pithyusa (R. Felfer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813698"
+    }
+,
+    {
+      "name": "Memphis morena (Hall, 1935)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750537"
+    }
+,
+    {
+      "name": "Memphis polycarmes (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750599"
+    }
+,
+    {
+      "name": "Memphis verticordia (Hübner, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/786077"
+    }
+,
+    {
+      "name": "Anaea verticordia Hübner, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/786079"
+    }
+,
+    {
+      "name": "Cymatogramma verticordia (Hübner, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813686"
+    }
+,
+    {
+      "name": "Memphis verticordia luciana (Hall, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/786078"
+    }
+,
+    {
+      "name": "Anaea verticordia luciana Hall, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/786083"
+    }
+,
+    {
+      "name": "Cymatogramma verticordia luciana (Hall, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813687"
+    }
+,
+    {
+      "name": "Memphis dominicana luciana (Hall, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649731"
+    }
+,
+    {
+      "name": "Memphis xenocles (Westwood, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750601"
+    }
+,
+    {
+      "name": "Cymatogramma xenocles (Westwood, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813685"
+    }
+,
+    {
+      "name": "Memphis xenocrates (Westwood, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018779"
+    }
+,
+    {
+      "name": "Polygrapha xenocrates Westwood, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750602"
+    }
+,
+    {
+      "name": "Memphis xenocrates punctimarginale (Kaye, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018780"
+    }
+,
+    {
+      "name": "Polygrapha xenocrates punctimarginale (Kaye, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761037"
+    }
+,
+    {
+      "name": "Polyura Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "Polyura clitarchus (Hewitson, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/832924"
+    }
+,
+    {
+      "name": "Polyura gamma (Lathy, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/832925"
+    }
+,
+    {
+      "name": "Prepona Boisduval, 1836",
+      "url": ""
+    }
+,
+    {
+      "name": "Prepona dexamenus (Hopffer, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750627"
+    }
+,
+    {
+      "name": "Prepona dexamenus krates Fruhstorfer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761038"
+    }
+,
+    {
+      "name": "Prepona eugenes Bates, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750603"
+    }
+,
+    {
+      "name": "Prepona laertes (Hübner, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750604"
+    }
+,
+    {
+      "name": "Prepona laertes demodice (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938978"
+    }
+,
+    {
+      "name": "Prepona joiceyi bouvieri Le Moult, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938979"
+    }
+,
+    {
+      "name": "Prepona pheridamas (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750605"
+    }
+,
+    {
+      "name": "Prepona philipponi Le Moult, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750607"
+    }
+,
+    {
+      "name": "Prepona pseudomphale Le Moult, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750606"
+    }
+,
+    {
+      "name": "Prepona pseudomphale guiensis Le Moult, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761039"
+    }
+,
+    {
+      "name": "Siderone Hübner, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Siderone galanthis (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750608"
+    }
+,
+    {
+      "name": "Zaretis Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Zaretis ellops (Ménétriès, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750609"
+    }
+,
+    {
+      "name": "Zaretis ellops mellita (Brévignon, 2006)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783452"
+    }
+,
+    {
+      "name": "Siderone ellops mellita Brévignon, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783453"
+    }
+,
+    {
+      "name": "Zaretis falcis Dias, Casagrande & Mielke, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814165"
+    }
+,
+    {
+      "name": "Zaretis isidora (Cramer, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750610"
+    }
+,
+    {
+      "name": "Siderone zethus Westwood, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813700"
+    }
+,
+    {
+      "name": "Zaretis isidora zethus (Westwood, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761040"
+    }
+,
+    {
+      "name": "Zaretis isidora naama (Brévignon, 2006)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783449"
+    }
+,
+    {
+      "name": "Siderone isidora naama Brévignon, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783450"
+    }
+,
+    {
+      "name": "Zaretis itys (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750611"
+    }
+
+  ]
+}

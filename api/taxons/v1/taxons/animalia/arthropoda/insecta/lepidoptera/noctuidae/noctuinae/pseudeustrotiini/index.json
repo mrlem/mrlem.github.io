@@ -1,0 +1,37 @@
+
+{
+  "name": "pseudeustrotiini",
+  "children": [
+
+    {
+      "name": "Pseudeustrotiini Beck, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudeustrotia Warren, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudeustrotia candidula (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/346092"
+    }
+,
+    {
+      "name": "Deltote candidula (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789867"
+    }
+,
+    {
+      "name": "Eustrotia candidula (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809662"
+    }
+,
+    {
+      "name": "Noctua candidula Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916866"
+    }
+
+  ]
+}

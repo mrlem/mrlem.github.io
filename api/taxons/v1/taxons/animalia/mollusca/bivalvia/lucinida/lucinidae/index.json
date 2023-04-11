@@ -1,0 +1,82 @@
+
+{
+  "name": "lucinidae",
+  "children": [
+
+    {
+      "name": "Lucinidae J. Fleming, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "codakiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/lucinida/lucinidae/codakiinae/"
+    }
+,
+    {
+      "name": "fimbriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/lucinida/lucinidae/fimbriinae/"
+    }
+,
+    {
+      "name": "Barbierella Chavan, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Barbierella louisensis (Viader, 1951)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537906"
+    }
+,
+    {
+      "name": "Barbierella scitula Oliver & Abou-Zeid, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537907"
+    }
+,
+    {
+      "name": "Lucina louisensis Viader, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989590"
+    }
+,
+    {
+      "name": "Bythosphaera Taylor & Glover, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "Bythosphaera watsoni (E. A. Smith, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791701"
+    }
+,
+    {
+      "name": "Anodontia (Bythosphaera) watsoni (E.A. Smith, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592801"
+    }
+,
+    {
+      "name": "Cryptodon watsoni E.A. Smith, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677161"
+    }
+,
+    {
+      "name": "leucosphaerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/lucinida/lucinidae/leucosphaerinae/"
+    }
+,
+    {
+      "name": "lucininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/lucinida/lucinidae/lucininae/"
+    }
+,
+    {
+      "name": "myrteinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/lucinida/lucinidae/myrteinae/"
+    }
+,
+    {
+      "name": "pegophyseminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/lucinida/lucinidae/pegophyseminae/"
+    }
+
+  ]
+}

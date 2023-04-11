@@ -1,0 +1,852 @@
+
+{
+  "name": "mitrinae",
+  "children": [
+
+    {
+      "name": "Mitrinae Swainson, 1831",
+      "url": ""
+    }
+,
+    {
+      "name": "Acromargarita S.-I Huang, 2021",
+      "url": ""
+    }
+,
+    {
+      "name": "Acromargarita deynzeri (Cernohorsky, 1980)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999054"
+    }
+,
+    {
+      "name": "Mitra deynzeri Cernohorsky, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699413"
+    }
+,
+    {
+      "name": "Nebularia deynzeri (Cernohorsky, 1980)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914887"
+    }
+,
+    {
+      "name": "Calcimitra Huang, 2011",
+      "url": ""
+    }
+,
+    {
+      "name": "Calcimitra labecula (Herrmann & Dekkers, 2009)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899540"
+    }
+,
+    {
+      "name": "Mitra labecula Herrmann & Dekkers, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899541"
+    }
+,
+    {
+      "name": "Calcimitra salva (H. Turner, 2001)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889183"
+    }
+,
+    {
+      "name": "Mitra salva H. Turner, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792902"
+    }
+,
+    {
+      "name": "Calcimitra triplicata (Martens, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889195"
+    }
+,
+    {
+      "name": "Mitra triplicata Martens, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536667"
+    }
+,
+    {
+      "name": "Domiporta Cernohorsky, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Cancilla (Domiporta) Cernohorsky, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Domiporta carnicolor (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527910"
+    }
+,
+    {
+      "name": "Cancilla carnicolor (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669918"
+    }
+,
+    {
+      "name": "Cancilla (Domiporta) carnicolor (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/538150"
+    }
+,
+    {
+      "name": "Mitra carnicolor Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889223"
+    }
+,
+    {
+      "name": "Neocancilla carnicolor (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889224"
+    }
+,
+    {
+      "name": "Domiporta circula (Kiener, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889274"
+    }
+,
+    {
+      "name": "Mitra circula Kiener, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549030"
+    }
+,
+    {
+      "name": "Mitra rufescens A. Adams, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549072"
+    }
+,
+    {
+      "name": "Neocancilla circula (Kiener, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526897"
+    }
+,
+    {
+      "name": "Subcancilla circula (Kiener, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851020"
+    }
+,
+    {
+      "name": "Domiporta filaris (Linnaeus, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527911"
+    }
+,
+    {
+      "name": "Cancilla filaris (Linnaeus, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669919"
+    }
+,
+    {
+      "name": "Cancilla (Domiporta) filaris (Linnaeus, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/538149"
+    }
+,
+    {
+      "name": "Mitra filaris (Linnaeus, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549040"
+    }
+,
+    {
+      "name": "Mitra filosa (Born, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949751"
+    }
+,
+    {
+      "name": "Subcancilla filaris (Linnaeus, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889226"
+    }
+,
+    {
+      "name": "Voluta filaris Linnaeus, 1771",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889225"
+    }
+,
+    {
+      "name": "Domiporta granatina (Lamarck, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527912"
+    }
+,
+    {
+      "name": "Cancilla granatina (Lamarck, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649755"
+    }
+,
+    {
+      "name": "Cancilla (Domiporta) granatina (Lamarck, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/538147"
+    }
+,
+    {
+      "name": "Mitra granatina Lamarck, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889227"
+    }
+,
+    {
+      "name": "Neocancilla granatina (Lamarck, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694097"
+    }
+,
+    {
+      "name": "Scabricola granatina (Lamarck, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694098"
+    }
+,
+    {
+      "name": "Domiporta latistriata (Herrmann & Salisbury, 2012)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889267"
+    }
+,
+    {
+      "name": "Neocancilla latistriata Herrmann & Salisbury, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719893"
+    }
+,
+    {
+      "name": "Domiporta lichtlei (Herrmann & Salisbury, 2012)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889268"
+    }
+,
+    {
+      "name": "Subcancilla lichtlei Herrmann & Salisbury, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719895"
+    }
+,
+    {
+      "name": "Domiporta praestantissima (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655585"
+    }
+,
+    {
+      "name": "Cancilla (Domiporta) praestantissima (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591722"
+    }
+,
+    {
+      "name": "Cancilla praestantissima (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536521"
+    }
+,
+    {
+      "name": "Mitra praestantissima Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549032"
+    }
+,
+    {
+      "name": "Subcancilla praestantissima (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889264"
+    }
+,
+    {
+      "name": "Domiporta shikamai Habe, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792900"
+    }
+,
+    {
+      "name": "Subcancilla shikamai (Habe, 1980)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889271"
+    }
+,
+    {
+      "name": "Episcomitra Monterosato, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Episcomitra cornicula (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889142"
+    }
+,
+    {
+      "name": "Mitra cornicula (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669905"
+    }
+,
+    {
+      "name": "Mitra (Mitra) cornicula (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62733"
+    }
+,
+    {
+      "name": "Voluta cornicula Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851552"
+    }
+,
+    {
+      "name": "Episcomitra zonata (Marryat, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889199"
+    }
+,
+    {
+      "name": "Mitra fusiformis zonata Marryat, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681267"
+    }
+,
+    {
+      "name": "Mitra zonata Marryat, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62734"
+    }
+,
+    {
+      "name": "Eumitra Tate, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Eumitra apheles Lozouet, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592853"
+    }
+,
+    {
+      "name": "Eumitra caledonica Lozouet, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592852"
+    }
+,
+    {
+      "name": "Eumitra imbricata Lozouet, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592854"
+    }
+,
+    {
+      "name": "Eumitra richeri Lozouet, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592855"
+    }
+,
+    {
+      "name": "Fusidomiporta Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Fusidomiporta suturata (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889192"
+    }
+,
+    {
+      "name": "Mitra suturata Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785650"
+    }
+,
+    {
+      "name": "Gemmulimitra Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Gemmulimitra avenacea (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889126"
+    }
+,
+    {
+      "name": "Mitra avenacea Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526739"
+    }
+,
+    {
+      "name": "Gemmulimitra boucheti (Cernohorsky, 1988)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889127"
+    }
+,
+    {
+      "name": "Mitra boucheti Cernohorsky, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775350"
+    }
+,
+    {
+      "name": "Gemmulimitra duplilirata (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889237"
+    }
+,
+    {
+      "name": "Cancilla duplilirata (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889239"
+    }
+,
+    {
+      "name": "Mitra duplilirata Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889238"
+    }
+,
+    {
+      "name": "Ziba duplilirata (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527944"
+    }
+,
+    {
+      "name": "Gemmulimitra neocaledonica Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889210"
+    }
+,
+    {
+      "name": "Gemmulimitra solanderi (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889186"
+    }
+,
+    {
+      "name": "Mitra (Nebularia) solanderi Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537835"
+    }
+,
+    {
+      "name": "Mitra solanderi Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669915"
+    }
+,
+    {
+      "name": "Mitra Lamarck, 1798",
+      "url": ""
+    }
+,
+    {
+      "name": "Mitra (Dibaphus) Philippi, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Mitra (Mitra) Lamarck, 1798",
+      "url": ""
+    }
+,
+    {
+      "name": "Mitra deprofundis H. Turner, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592327"
+    }
+,
+    {
+      "name": "Tiarella deprofundis (H. Turner, 2001)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889147"
+    }
+,
+    {
+      "name": "Mitra mitra (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526734"
+    }
+,
+    {
+      "name": "Mitra carmelita Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582760"
+    }
+,
+    {
+      "name": "Mitra episcopalis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549034"
+    }
+,
+    {
+      "name": "Voluta mitra var. episcopalis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994165"
+    }
+,
+    {
+      "name": "Voluta mitra Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851556"
+    }
+,
+    {
+      "name": "Mitra papalis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590544"
+    }
+,
+    {
+      "name": "Mitra (Mitra) papalis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526750"
+    }
+,
+    {
+      "name": "Tiarella papalis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889171"
+    }
+,
+    {
+      "name": "Voluta papalis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851557"
+    }
+,
+    {
+      "name": "Mitra stictica (Link, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526730"
+    }
+,
+    {
+      "name": "Mitra pontificalis Lamarck, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549033"
+    }
+,
+    {
+      "name": "Mitra stricta ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549071"
+    }
+,
+    {
+      "name": "Tiarella stictica (Link, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889189"
+    }
+,
+    {
+      "name": "Voluta stictica Link, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889188"
+    }
+,
+    {
+      "name": "Mitra turgida Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526728"
+    }
+,
+    {
+      "name": "Neotiara Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Neotiara muricata (Broderip, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000382"
+    }
+,
+    {
+      "name": "Mitra (Nebularia) muricata (Broderip, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000383"
+    }
+,
+    {
+      "name": "Mitra muricata (Broderip, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/779599"
+    }
+,
+    {
+      "name": "Tiara muricata Broderip, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000377"
+    }
+,
+    {
+      "name": "Neotiara nodulosa (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889169"
+    }
+,
+    {
+      "name": "Mitra granulosa Lamarck, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676265"
+    }
+,
+    {
+      "name": "Mitra nodulosa (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605656"
+    }
+,
+    {
+      "name": "Voluta nodulosa Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889170"
+    }
+,
+    {
+      "name": "Neotiara rupicola (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889180"
+    }
+,
+    {
+      "name": "Mitra lignaria Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684069"
+    }
+,
+    {
+      "name": "Mitra rupicola Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/609822"
+    }
+,
+    {
+      "name": "Profundimitra Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Profundimitra abyssicola (Schepman, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889201"
+    }
+,
+    {
+      "name": "Cancilla abyssicola (Schepman, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/657830"
+    }
+,
+    {
+      "name": "Mitra abyssicola Schepman, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889202"
+    }
+,
+    {
+      "name": "Ziba abyssicola (Schepman, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536672"
+    }
+,
+    {
+      "name": "Profundimitra taylori Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889208"
+    }
+,
+    {
+      "name": "Pseudonebularia Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudonebularia chrysalis (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889106"
+    }
+,
+    {
+      "name": "Mitra caledonica Récluz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018904"
+    }
+,
+    {
+      "name": "Mitra chrysalis Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/617423"
+    }
+,
+    {
+      "name": "Mitra (Chrysame) buryi Melvill & Sykes, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018905"
+    }
+,
+    {
+      "name": "Mitra (Nebularia) chrysalis Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537582"
+    }
+,
+    {
+      "name": "Strigatella buryi (Melvill & Sykes, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551165"
+    }
+,
+    {
+      "name": "Pseudonebularia cucumerina (Lamarck, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889145"
+    }
+,
+    {
+      "name": "Mitra cucumerina Lamarck, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526747"
+    }
+,
+    {
+      "name": "Pseudonebularia doliolum (Küster, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889148"
+    }
+,
+    {
+      "name": "Mitra doliolum Küster, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655679"
+    }
+,
+    {
+      "name": "Mitra (Nebularia) doliolum Küster, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591024"
+    }
+,
+    {
+      "name": "Pseudonebularia fraga (Quoy & Gaimard, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889150"
+    }
+,
+    {
+      "name": "Mitra fraga Quoy & Gaimard, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526729"
+    }
+,
+    {
+      "name": "Mitra rubiginea Adams, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778595"
+    }
+,
+    {
+      "name": "Pseudonebularia gracilefragum (H. Turner, 2007)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889154"
+    }
+,
+    {
+      "name": "Mitra gracilefragum H. Turner, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527925"
+    }
+,
+    {
+      "name": "Pseudonebularia lienardi (G. B. Sowerby II, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889161"
+    }
+,
+    {
+      "name": "Mitra lienardi G. B. Sowerby II, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526741"
+    }
+,
+    {
+      "name": "Pseudonebularia proscissa (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889174"
+    }
+,
+    {
+      "name": "Mitra (Nebularia) proscissa Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591023"
+    }
+,
+    {
+      "name": "Mitra proscissa Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655682"
+    }
+,
+    {
+      "name": "Pseudonebularia rubritincta (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889179"
+    }
+,
+    {
+      "name": "Mitra rubritincta Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526751"
+    }
+,
+    {
+      "name": "Pseudonebularia tabanula (Lamarck, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889193"
+    }
+,
+    {
+      "name": "Mitra (Nebularia) tabanula Lamarck, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537574"
+    }
+,
+    {
+      "name": "Mitra tabanula Lamarck, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655684"
+    }
+,
+    {
+      "name": "Quasimitra Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Quasimitra cardinalis (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889129"
+    }
+,
+    {
+      "name": "Mitra cardinalis (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526749"
+    }
+,
+    {
+      "name": "Voluta cardinalis Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889130"
+    }
+,
+    {
+      "name": "Quasimitra fulgurita (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889151"
+    }
+,
+    {
+      "name": "Mitra fulgurita Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669906"
+    }
+,
+    {
+      "name": "Mitra (Mitra) fulgurita Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537833"
+    }
+,
+    {
+      "name": "Quasimitra lacunosa (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889160"
+    }
+,
+    {
+      "name": "Mitra (Mitra) lacunosa Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537840"
+    }
+,
+    {
+      "name": "Mitra lacunosa Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669908"
+    }
+,
+    {
+      "name": "Quasimitra raphaeli (Drivas & Jay, 1990)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889175"
+    }
+,
+    {
+      "name": "Mitra raphaeli Drivas & Jay, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822293"
+    }
+,
+    {
+      "name": "Quasimitra rossiae (Reeve, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889178"
+    }
+,
+    {
+      "name": "Mitra (Mitra) rossiae Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537832"
+    }
+,
+    {
+      "name": "Mitra rossiae Reeve, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669910"
+    }
+,
+    {
+      "name": "Quasimitra sophiae (Crosse, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889187"
+    }
+,
+    {
+      "name": "Mitra sophiae Crosse, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526740"
+    }
+,
+    {
+      "name": "Quasimitra structilis (Herrmann & Salisbury, 2013)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889190"
+    }
+,
+    {
+      "name": "Mitra structilis Herrmann & Salisbury, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719977"
+    }
+,
+    {
+      "name": "Roseomitra Fedosov, Herrmann, Kantor & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Roseomitra fluctuosa (Herrmann & Salisbury, 2013)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889269"
+    }
+,
+    {
+      "name": "Cancilla fluctuosa Herrmann & Salisbury, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719980"
+    }
+,
+    {
+      "name": "Roseomitra rosacea (Reeve, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/889177"
+    }
+,
+    {
+      "name": "Mitra (Nebularia) rosacea Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590725"
+    }
+,
+    {
+      "name": "Mitra rosacea Reeve, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649753"
+    }
+,
+    {
+      "name": "Roseomitra tagaroae (Poppe, 2008)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899542"
+    }
+,
+    {
+      "name": "Mitra tagaroae Poppe, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899543"
+    }
+
+  ]
+}

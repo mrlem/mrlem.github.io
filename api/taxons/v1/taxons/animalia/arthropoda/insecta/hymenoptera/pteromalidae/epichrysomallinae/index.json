@@ -1,0 +1,37 @@
+
+{
+  "name": "epichrysomallinae",
+  "children": [
+
+    {
+      "name": "Epichrysomallinae Hill & Riek, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Lachaisea Rasplus, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Lachaisea brevimucro (Bouček, 1981)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713753"
+    }
+,
+    {
+      "name": "Camarothorax brevimucro Bouček, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713750"
+    }
+,
+    {
+      "name": "Lachaisea hemimucro (Wiebes, 1981)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713752"
+    }
+,
+    {
+      "name": "Camarothorax hemimucro Wiebes, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440101"
+    }
+
+  ]
+}

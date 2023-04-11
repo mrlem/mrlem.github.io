@@ -1,0 +1,22 @@
+
+{
+  "name": "verrucomicrobia",
+  "children": [
+
+    {
+      "name": "Verrucomicrobia Hedlund, Gosink & Staley, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "opitutae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/verrucomicrobia/opitutae/"
+    }
+,
+    {
+      "name": "verrucomicrobiae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/verrucomicrobia/verrucomicrobiae/"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "neoechinorhynchida",
+  "children": [
+
+    {
+      "name": "Neoechinorhynchida Ward, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "cavisomatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/acanthocephala/eoacanthocephala/neoechinorhynchida/cavisomatidae/"
+    }
+,
+    {
+      "name": "neoechinorhynchidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/acanthocephala/eoacanthocephala/neoechinorhynchida/neoechinorhynchidae/"
+    }
+,
+    {
+      "name": "tenuisentidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/acanthocephala/eoacanthocephala/neoechinorhynchida/tenuisentidae/"
+    }
+
+  ]
+}

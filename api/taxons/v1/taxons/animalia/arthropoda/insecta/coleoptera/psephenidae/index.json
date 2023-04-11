@@ -1,0 +1,32 @@
+
+{
+  "name": "psephenidae",
+  "children": [
+
+    {
+      "name": "Psephenidae Lacordaire, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "eubriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/psephenidae/eubriinae/"
+    }
+,
+    {
+      "name": "Psephenops Grouvelle, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Psephenops smithi Grouvelle, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639870"
+    }
+,
+    {
+      "name": "Psephenops smithi guadeloupensis Bameul, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639871"
+    }
+
+  ]
+}

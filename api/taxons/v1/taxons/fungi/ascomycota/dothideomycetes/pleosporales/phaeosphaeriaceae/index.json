@@ -1,0 +1,2807 @@
+
+{
+  "name": "phaeosphaeriaceae",
+  "children": [
+
+    {
+      "name": "Phaeosphaeriaceae M.E.Barr, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Ampelomyces Ces. ex Schltdl.",
+      "url": ""
+    }
+,
+    {
+      "name": "Cicinnobolus Ehrenb., 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Ampelomyces humuli (Fautrey) Rudakov, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908109"
+    }
+,
+    {
+      "name": "Cicinnobolus humuli Fautrey, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870909"
+    }
+,
+    {
+      "name": "Ampelomyces quisqualis Ces., 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865464"
+    }
+,
+    {
+      "name": "Ampelomyces uncinulae (Fautrey) Rudakov, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908110"
+    }
+,
+    {
+      "name": "Cicinnobolus uncinulae Fautrey, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870976"
+    }
+,
+    {
+      "name": "Bricookea M.E.Barr, 1982",
+      "url": ""
+    }
+,
+    {
+      "name": "Bricookea sepalorum (Vleugel) M.E.Barr, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865644"
+    }
+,
+    {
+      "name": "Leptosphaeria sepalorum (Vleugel) Lind, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872250"
+    }
+,
+    {
+      "name": "Metasphaeria petalorum Vleugel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872251"
+    }
+,
+    {
+      "name": "Metasphaeria sepalorum Vleugel, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977394"
+    }
+,
+    {
+      "name": "Chaetoplea (Sacc.) Clem., 1931",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetoplea oblongata (Niessl) M.E.Barr, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865795"
+    }
+,
+    {
+      "name": "Paraphaeosphaeria oblongata (Niessl) Crivelli, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872912"
+    }
+,
+    {
+      "name": "Pleospora oblongata Niessl, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872913"
+    }
+,
+    {
+      "name": "Chaetoplea pusilla (P.Karst. & Malbr.) M.E.Barr, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865796"
+    }
+,
+    {
+      "name": "Curreya pusilla P.Karst. & Malbr., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872914"
+    }
+,
+    {
+      "name": "Chaetoplea stenocarpa (Ellis & Everh.) M.E.Barr, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865797"
+    }
+,
+    {
+      "name": "Cucurbitaria stenocarpa Ellis & Everh., 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978262"
+    }
+,
+    {
+      "name": "Darluca Castagne, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Darluca genistalis (Fr.) Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869471"
+    }
+,
+    {
+      "name": "Dothidea genistalis Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876485"
+    }
+,
+    {
+      "name": "Sphaeria genistalis Pers.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876486"
+    }
+,
+    {
+      "name": "Darluca iridis Malbr., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869855"
+    }
+,
+    {
+      "name": "Didymocyrtis Vain., 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Didymocyrtis bryonthae (Arnold) Hafellner, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005968"
+    }
+,
+    {
+      "name": "Didymosphaeria bryonthae (Arnold) G.Winter, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666063"
+    }
+,
+    {
+      "name": "Endococcus bryonthae Arnold, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/664228"
+    }
+,
+    {
+      "name": "Polycoccum bryonthae var. bryonthae (Arnold) Vězda, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/660675"
+    }
+,
+    {
+      "name": "Polycoccum bryonthae (Arnold) Vězda, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/660488"
+    }
+,
+    {
+      "name": "Didymocyrtis cladoniicola (Diederich, Kocourk. & Etayo) Ertz & Diederich, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015185"
+    }
+,
+    {
+      "name": "Phoma caperatae Vouaux, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659165"
+    }
+,
+    {
+      "name": "Phoma cladoniicola Diederich, Kocourk. & Etayo, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659164"
+    }
+,
+    {
+      "name": "Didymocyrtis melanelixiae (Brackel) Diederich, R.C.Harris & Etayo, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845032"
+    }
+,
+    {
+      "name": "Phoma melanelixiae Brackel, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845033"
+    }
+,
+    {
+      "name": "Didymocyrtis microxanthoriae Poumarat, Delhoume, Diederich & Suija, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015628"
+    }
+,
+    {
+      "name": "Didymocyrtis physciae (Brackel) Hafellner, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015218"
+    }
+,
+    {
+      "name": "Merismatium physciae Brackel, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015219"
+    }
+,
+    {
+      "name": "Pleospora physciae (Brackel) Hafellner & E.Zimm., 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015220"
+    }
+,
+    {
+      "name": "Didymocyrtis pseudeverniae (Etayo & Diederich) Ertz & Diederich, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845034"
+    }
+,
+    {
+      "name": "Macrophomina pseudeverniae Etayo & Diederich, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845035"
+    }
+,
+    {
+      "name": "Diederichomyces Crous & Trakun., 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Diederichomyces ficuzzae (Brackel) Crous & Trakun., 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905437"
+    }
+,
+    {
+      "name": "Phoma ficuzzae Brackel, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906052"
+    }
+,
+    {
+      "name": "Entodesmium Riess, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Entodesmium eliassonii L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866290"
+    }
+,
+    {
+      "name": "Entodesmium lapponicum (L.Holm) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866291"
+    }
+,
+    {
+      "name": "Ophiobolus lapponicus L.Holm, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877571"
+    }
+,
+    {
+      "name": "Entodesmium multiseptatum (G.Winter) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866292"
+    }
+,
+    {
+      "name": "Leptosphaeria lathyri Fautrey, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877573"
+    }
+,
+    {
+      "name": "Leptosphaeria multiseptata G.Winter, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877572"
+    }
+,
+    {
+      "name": "Entodesmium rude Riess, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980839"
+    }
+,
+    {
+      "name": "Ophiobolus rudis (Riess) Rehm, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856849"
+    }
+,
+    {
+      "name": "Eudarluca Speg., 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Eudarluca caricis (Fr.) O.E.Erikss., 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47388"
+    }
+,
+    {
+      "name": "Darluca filum (Biv.) Castagne, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876494"
+    }
+,
+    {
+      "name": "Darluca vagans Castagne",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876483"
+    }
+,
+    {
+      "name": "Diplodia uredinicola Desm., 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876484"
+    }
+,
+    {
+      "name": "Dothidea appendiculata Lacroix, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876487"
+    }
+,
+    {
+      "name": "Dothidella appendiculata (Lacroix) Har. & Briard, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876488"
+    }
+,
+    {
+      "name": "Eudarluca australis Speg., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876489"
+    }
+,
+    {
+      "name": "Phyllachora caricis (Fr.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47389"
+    }
+,
+    {
+      "name": "Sphaerella parasitica Fautrey [nom. illeg.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876492"
+    }
+,
+    {
+      "name": "Sphaerella pucciniophila Sacc. & P.Syd., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876493"
+    }
+,
+    {
+      "name": "Sphaerellopsis filum (Biv.) B.Sutton, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876495"
+    }
+,
+    {
+      "name": "Sphaeria caricis var. depauperata Desm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876497"
+    }
+,
+    {
+      "name": "Sphaeria caricis Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876490"
+    }
+,
+    {
+      "name": "Sphaeria filum Biv., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876496"
+    }
+,
+    {
+      "name": "Sphaeropsis caricis (Fr.) J.Kickx f., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876491"
+    }
+,
+    {
+      "name": "Hadrospora Boise, 1989",
+      "url": ""
+    }
+,
+    {
+      "name": "Hadrospora clarkii (Sivan.) Boise, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866251"
+    }
+,
+    {
+      "name": "Trematosphaeria clarkii Sivan., 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877269"
+    }
+,
+    {
+      "name": "Juncaceicola Tennakoon, Camporesi, Phook. & K.D.Hyde, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "Juncaceicola alpina (Leuchtm.) Tennakoon, Phook. & K.D.Hyde, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995216"
+    }
+,
+    {
+      "name": "Phaeosphaeria alpina Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856227"
+    }
+,
+    {
+      "name": "Lautitia S.Schatz, 1984",
+      "url": ""
+    }
+,
+    {
+      "name": "Lautitia danica (Berl.) S.Schatz, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868711"
+    }
+,
+    {
+      "name": "Didymosphaeria danica (Berl.) I.M.Wilson & Knoyle, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883156"
+    }
+,
+    {
+      "name": "Leptosphaeria chondri Rosenv., 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883027"
+    }
+,
+    {
+      "name": "Leptosphaeria danica Berl., 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883028"
+    }
+,
+    {
+      "name": "Phoma marina Lind",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874536"
+    }
+,
+    {
+      "name": "Metameris Theiss. & Syd., 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Metameris aspidiorum (Lib.) Arx & E.Müll., 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866070"
+    }
+,
+    {
+      "name": "Monographos aspidiorum (Lib.) Fuckel, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875023"
+    }
+,
+    {
+      "name": "Scirrhia aspidiorum (Lib.) Bubák, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875024"
+    }
+,
+    {
+      "name": "Scirrhodothis aspidiorum (Lib.) Höhn., 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875250"
+    }
+,
+    {
+      "name": "Shirrhia confluens Starbäck",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875252"
+    }
+,
+    {
+      "name": "Sphaeria aspidiorum Lib., 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875251"
+    }
+,
+    {
+      "name": "Metameris osmundae (Peck & Clinton) Arx & E.Müll., 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866088"
+    }
+,
+    {
+      "name": "Dothidea osmundae Peck & Clinton, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875253"
+    }
+,
+    {
+      "name": "Scirrhia osmundae (Peck & Clinton) Arx, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875254"
+    }
+,
+    {
+      "name": "Scirrhophragma osmundae (Peck & Clinton) W.Obrist, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875255"
+    }
+,
+    {
+      "name": "Neosetophoma Gruyter, Aveskamp & Verkley, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Neosetophoma samarorum (Desm.) Gruyter, Aveskamp & Verkley, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977455"
+    }
+,
+    {
+      "name": "Diplodina samarorum (Desm.) Nevod., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977459"
+    }
+,
+    {
+      "name": "Phoma samarorum Desm., 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882750"
+    }
+,
+    {
+      "name": "Phomopsis samarorum (Desm.) Höhn., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977457"
+    }
+,
+    {
+      "name": "Septochora samarorum (Desm.) Höhn., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977456"
+    }
+,
+    {
+      "name": "Septoria samarorum (Desm.) Wollenw. & Hochapfel, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977458"
+    }
+,
+    {
+      "name": "Stagonospora samarorum (Desm.) Boerema, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868648"
+    }
+,
+    {
+      "name": "Neosulcatispora agaves Crous & M.J.Wingf., 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998460"
+    }
+,
+    {
+      "name": "Nodulosphaeria Rabenh., 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Nodulosphaeria aquilana (D.Sacc.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866526"
+    }
+,
+    {
+      "name": "Leptosphaeria aquilana D.Sacc., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879278"
+    }
+,
+    {
+      "name": "Leptosphaeria braunii E.Müll., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879277"
+    }
+,
+    {
+      "name": "Nodulosphaeria centaureae (E.Müll.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866527"
+    }
+,
+    {
+      "name": "Leptosphaeria centaureae E.Müll., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879279"
+    }
+,
+    {
+      "name": "Nodulosphaeria cirsii (P.Karst.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866528"
+    }
+,
+    {
+      "name": "Cerastoma penicillus (J.C.Schmidt ex Fr.) Quél., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879283"
+    }
+,
+    {
+      "name": "Ophiobolus acuminatus var. cirsii (P.Karst.) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879280"
+    }
+,
+    {
+      "name": "Ophiobolus cirsii (P.Karst.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879281"
+    }
+,
+    {
+      "name": "Ophiobolus penicillus (J.C.Schmidt ex Fr.) Sacc., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879284"
+    }
+,
+    {
+      "name": "Rhabdospora cirsii P.Karst., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879286"
+    }
+,
+    {
+      "name": "Rhaphidophora cirsii P.Karst.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879282"
+    }
+,
+    {
+      "name": "Sphaeria penicillus Schm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879285"
+    }
+,
+    {
+      "name": "Nodulosphaeria derasa (Berk. & Broome) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866529"
+    }
+,
+    {
+      "name": "Leptosphaeria derasa (Berk. & Broome) Thüm., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879287"
+    }
+,
+    {
+      "name": "Nodulosphaeria hirta Rabenh., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879289"
+    }
+,
+    {
+      "name": "Sphaeria derasa Berk. & Broome, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879288"
+    }
+,
+    {
+      "name": "Nodulosphaeria dolioloides Auersw., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866530"
+    }
+,
+    {
+      "name": "Leptosphaeria dolioloides (Auersw.) P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883468"
+    }
+,
+    {
+      "name": "Pleospora dolioloides Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879290"
+    }
+,
+    {
+      "name": "Nodulosphaeria engadinensis (E.Müll.) Shoemaker & C.E.Babc., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866531"
+    }
+,
+    {
+      "name": "Wettsteinina engadinensis E.Müll., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879291"
+    }
+,
+    {
+      "name": "Nodulosphaeria epilobii (E.Müll.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866532"
+    }
+,
+    {
+      "name": "Leptosphaeria epilobii E.Müll., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879292"
+    }
+,
+    {
+      "name": "Leptosphaeria multiseptata var. alpina (Rehm) Sacc., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879293"
+    }
+,
+    {
+      "name": "Nodulosphaeria franconica (Petr.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866534"
+    }
+,
+    {
+      "name": "Leptosphaeria derasa var. franconica Petr., 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879306"
+    }
+,
+    {
+      "name": "Leptosphaeria franconica (Petr.) E.Müll., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879307"
+    }
+,
+    {
+      "name": "Nodulosphaeria fruticum (Roberge ex Desm.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866535"
+    }
+,
+    {
+      "name": "Ophiobolus fruticum (Roberge ex Desm.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879308"
+    }
+,
+    {
+      "name": "Rhaphidospora fruticum (Roberge) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883469"
+    }
+,
+    {
+      "name": "Sphaeria fruticum Roberge ex Desm., 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879386"
+    }
+,
+    {
+      "name": "Nodulosphaeria gallica L.Holm, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866539"
+    }
+,
+    {
+      "name": "Nodulosphaeria jaceae (L.Holm) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866540"
+    }
+,
+    {
+      "name": "Leptosphaeria jaceae L.Holm, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879387"
+    }
+,
+    {
+      "name": "Nodulosphaeria ladina (E.Müll.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866541"
+    }
+,
+    {
+      "name": "Leptosphaeria ladina E.Müll., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879388"
+    }
+,
+    {
+      "name": "Nodulosphaeria modesta (Rabenh.) Munk ex L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866543"
+    }
+,
+    {
+      "name": "Lasiosphaeria lasiosphaerioides Starbäck & Grev.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879391"
+    }
+,
+    {
+      "name": "Leptosphaeria modesta Rabenh., 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879393"
+    }
+,
+    {
+      "name": "Leptosphaeria setosa Niessl, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879392"
+    }
+,
+    {
+      "name": "Sphaeria modesta Desm., 1847 [nom. illeg.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879394"
+    }
+,
+    {
+      "name": "Nodulosphaeria muelleri L.Holm, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866544"
+    }
+,
+    {
+      "name": "Nodulosphaeria niesslii (Bäumler) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866545"
+    }
+,
+    {
+      "name": "Ophiobolus incomptus Niessl ex Linh.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879396"
+    }
+,
+    {
+      "name": "Ophiobolus niesslii Bäumler, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879395"
+    }
+,
+    {
+      "name": "Nodulosphaeria olivacea (Ellis) L.Holm, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980838"
+    }
+,
+    {
+      "name": "Leptosphaeria olivacea Ellis, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980837"
+    }
+,
+    {
+      "name": "Ophiobolus olivaceus (Ellis) Berl. & Voglino, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856845"
+    }
+,
+    {
+      "name": "Nodulosphaeria pontica (Petr.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866547"
+    }
+,
+    {
+      "name": "Ophiobolus ponticus Petr., 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879406"
+    }
+,
+    {
+      "name": "Nodulosphaeria septemcellulare (E. Müller) L. Holm",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866548"
+    }
+,
+    {
+      "name": "Leptosphaeria septemcellulata E.Müll., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879407"
+    }
+,
+    {
+      "name": "Nodulosphaeria succisae Munk, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866549"
+    }
+,
+    {
+      "name": "Nodulosphaeria volkartii (E.Müll.) L.Holm & E.Müll., 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866551"
+    }
+,
+    {
+      "name": "Ophiobolus volkartii E.Müll., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879409"
+    }
+,
+    {
+      "name": "Ophiobolus Riess, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Ophiobolus acuminatus (Sowerby) Duby, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856804"
+    }
+,
+    {
+      "name": "Ampullina acuminata (Sowerby) Quél., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880082"
+    }
+,
+    {
+      "name": "Leptosphaeriopsis acuminata (Sowerby) Berl., 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880083"
+    }
+,
+    {
+      "name": "Ophiobolus bardanae (Wallr.) Rehm, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880086"
+    }
+,
+    {
+      "name": "Ophiobolus disseminans Riess, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880088"
+    }
+,
+    {
+      "name": "Ophiobolus scolymi (Mont.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880089"
+    }
+,
+    {
+      "name": "Rhaphidophora scolymi Mont.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880090"
+    }
+,
+    {
+      "name": "Rhaphidospora bardanae (Wallr.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883494"
+    }
+,
+    {
+      "name": "Sphaeria acuminata Sowerby, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880084"
+    }
+,
+    {
+      "name": "Sphaeria bardanae Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880087"
+    }
+,
+    {
+      "name": "Sphaeria fulvomarginata var. acuminata Sowerby",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880085"
+    }
+,
+    {
+      "name": "Ophiobolus affinis Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856829"
+    }
+,
+    {
+      "name": "Rhaphidophora affinis Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880168"
+    }
+,
+    {
+      "name": "Ophiobolus anthrisci (L.Holm) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856830"
+    }
+,
+    {
+      "name": "Ophiobolus nigromaculatus f. anthrisci L.Holm, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880169"
+    }
+,
+    {
+      "name": "Ophiobolus asclepiadis Fabre, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856831"
+    }
+,
+    {
+      "name": "Ophiobolus aspiciliae (H.Olivier) Vouaux, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659259"
+    }
+,
+    {
+      "name": "Bacidia aspiciliae H.Olivier, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880170"
+    }
+,
+    {
+      "name": "Ophiobolus bocconii Pat.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856832"
+    }
+,
+    {
+      "name": "Ophiobolus brachystoma (Sacc.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980832"
+    }
+,
+    {
+      "name": "Ophiobolus brachystomus (Sacc.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856833"
+    }
+,
+    {
+      "name": "Rhaphidophora brachystoma Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880171"
+    }
+,
+    {
+      "name": "Ophiobolus camptosporus Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856834"
+    }
+,
+    {
+      "name": "Rhaphidophora camptosporus Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883497"
+    }
+,
+    {
+      "name": "Ophiobolus characias (Fabre) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980834"
+    }
+,
+    {
+      "name": "Ophiobolus characiae (Fabre) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856835"
+    }
+,
+    {
+      "name": "Rhaphidophora characias Fabre, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880172"
+    }
+,
+    {
+      "name": "Ophiobolus crassus Shoemaker, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856836"
+    }
+,
+    {
+      "name": "Ophiobolus culmorum Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868750"
+    }
+,
+    {
+      "name": "Sphaeria culmorum P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980835"
+    }
+,
+    {
+      "name": "Ophiobolus eburensis (Sacc.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856837"
+    }
+,
+    {
+      "name": "Rhaphidophora eburensis Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880173"
+    }
+,
+    {
+      "name": "Ophiobolus fragilisporus Ellis & Everh., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856838"
+    }
+,
+    {
+      "name": "Ophiobolus galii Richon, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856839"
+    }
+,
+    {
+      "name": "Ophiobolus granati Fabre, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856840"
+    }
+,
+    {
+      "name": "Ophiobolus inflatus Sacc. & Briard, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856841"
+    }
+,
+    {
+      "name": "Ophiobolus intermedius (Berl.) Grove, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856842"
+    }
+,
+    {
+      "name": "Ophiobolus vulgaris var. intermedius Berl., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980836"
+    }
+,
+    {
+      "name": "Ophiobolus laminariae G.K.Sutherl., 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856843"
+    }
+,
+    {
+      "name": "Ophiobolus landoltii E.Müll., 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856844"
+    }
+,
+    {
+      "name": "Ophiobolus littoralis (P.Crouan & H.Crouan) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868749"
+    }
+,
+    {
+      "name": "Sphaeria littoralis P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880174"
+    }
+,
+    {
+      "name": "Ophiobolus ophioboloides (Sacc.) L.Holm, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856846"
+    }
+,
+    {
+      "name": "Leptosphaeria ophioboloides Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880175"
+    }
+,
+    {
+      "name": "Leptosphaeriopsis ophioboloides (Sacc.) Berl., 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880176"
+    }
+,
+    {
+      "name": "Ophiobolus pastinaceus Fabre, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856847"
+    }
+,
+    {
+      "name": "Ophiobolus pellitus (Fuckel) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879299"
+    }
+,
+    {
+      "name": "Rhaphidophora pellita (Fuckel) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861703"
+    }
+,
+    {
+      "name": "Rhaphidospora pellita Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879300"
+    }
+,
+    {
+      "name": "Ophiobolus periclymeni (P.Crouan & H.Crouan) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856848"
+    }
+,
+    {
+      "name": "Sphaeria periclymeni P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880177"
+    }
+,
+    {
+      "name": "Ophiobolus terebinthi (Fabre) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856850"
+    }
+,
+    {
+      "name": "Rhaphidophora terebinthi Fabre, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880178"
+    }
+,
+    {
+      "name": "Ophiobolus thallicola (Ces. & De Not.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659258"
+    }
+,
+    {
+      "name": "Rhaphidophora thallicola Carestia & De Not., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980840"
+    }
+,
+    {
+      "name": "Ophiobolus troakei D.Hawksw. & Sivan., 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856851"
+    }
+,
+    {
+      "name": "Ophiobolus typhae Feltgen, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856852"
+    }
+,
+    {
+      "name": "Ophiobolus ulnosporus (Cooke) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856853"
+    }
+,
+    {
+      "name": "Nodulosphaeria ulnispora (Cooke) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866550"
+    }
+,
+    {
+      "name": "Nodulosphaeria ulnospora (Cooke) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880179"
+    }
+,
+    {
+      "name": "Sphaeria ulnispora Cooke",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879408"
+    }
+,
+    {
+      "name": "Sphaeria ulnospora Cooke, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880180"
+    }
+,
+    {
+      "name": "Ophiobolus vitalbae (Sacc.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879304"
+    }
+,
+    {
+      "name": "Rhaphidophora vitalbae Sacc., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879305"
+    }
+,
+    {
+      "name": "Ophiobolus vulgaris (Sacc.) Sacc., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856855"
+    }
+,
+    {
+      "name": "Rhaphidophora vulgaris Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880182"
+    }
+,
+    {
+      "name": "Ophiobolus vulgaris f. fila Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868191"
+    }
+,
+    {
+      "name": "Ophiobolus vulgaris var. gnaphalii Sacc. & Briard, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868192"
+    }
+,
+    {
+      "name": "Ophiosphaerella Speg., 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Ophiosphaerella erikssonii J.Walker, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856895"
+    }
+,
+    {
+      "name": "Ophiosphaerella graminicola Speg., 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803996"
+    }
+,
+    {
+      "name": "Ophiosphaerella herpotricha (Fr.) J.Walker, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856896"
+    }
+,
+    {
+      "name": "Acremonium alternatum Link, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880292"
+    }
+,
+    {
+      "name": "Ophiobolus herpotrichus (Fr.) Sacc., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880294"
+    }
+,
+    {
+      "name": "Ophiobolus zeae Saccas, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880293"
+    }
+,
+    {
+      "name": "Phaeosphaeria herpotricha (Fr.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880368"
+    }
+,
+    {
+      "name": "Rhaphidophora herpotricha (Fr.) Cooke, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880369"
+    }
+,
+    {
+      "name": "Rhaphidospora herpotricha (Fr.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880370"
+    }
+,
+    {
+      "name": "Rhaphidospora lacroixii Mont.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880372"
+    }
+,
+    {
+      "name": "Sphaeria herpotricha Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880371"
+    }
+,
+    {
+      "name": "Paraphoma Morgan-Jones & J.F.White, 1983",
+      "url": ""
+    }
+,
+    {
+      "name": "Paraphoma chrysanthemicola (Hollós) Gruyter, Aveskamp & Verkley, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977479"
+    }
+,
+    {
+      "name": "Phoma chrysanthemicola Hollós, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977480"
+    }
+,
+    {
+      "name": "Parastagonospora Quaedvl., Verkley & Crous, 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "Parastagonospora nodorum (Berk.) Quaedvl., Verkley & Crous, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006356"
+    }
+,
+    {
+      "name": "Depazea nodorum Berk., 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006355"
+    }
+,
+    {
+      "name": "Septoria nodorum (Berk.) Berk., 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878459"
+    }
+,
+    {
+      "name": "Stagonospora nodorum (Berk.) E.Castell. & Germano, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878460"
+    }
+,
+    {
+      "name": "Phaeosphaeria I.Miyake, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Phaeosphaeria alpestris Nograsek, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856226"
+    }
+,
+    {
+      "name": "Phaeosphaeria annulata Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856228"
+    }
+,
+    {
+      "name": "Phaeosphaeria arenaria (A.L.Guyot) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856229"
+    }
+,
+    {
+      "name": "Leptosphaeria arenaria A.L.Guyot, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878286"
+    }
+,
+    {
+      "name": "Phaeosphaeria associata (Rehm) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856230"
+    }
+,
+    {
+      "name": "Leptosphaeria associata Rehm, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878287"
+    }
+,
+    {
+      "name": "Phaeosphaeria avenaria (G.F.Weber) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856231"
+    }
+,
+    {
+      "name": "Leptosphaeria avenaria G.F.Weber, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878288"
+    }
+,
+    {
+      "name": "Septoria avenae A.B.Frank, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878289"
+    }
+,
+    {
+      "name": "Stagonospora avenae (A.B.Frank) Bissett, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878290"
+    }
+,
+    {
+      "name": "Phaeosphaeria berlesei (M.J.Larsen & Munk) Hedjar., 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856232"
+    }
+,
+    {
+      "name": "Leptosphaeria berlesei M.J.Larsen & Munk, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878291"
+    }
+,
+    {
+      "name": "Phaeosphaeria caricicola (Fautrey) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856233"
+    }
+,
+    {
+      "name": "Leptosphaeria caricicola Fautrey, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878292"
+    }
+,
+    {
+      "name": "Phaeosphaeria caricinella (P.Karst.) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856234"
+    }
+,
+    {
+      "name": "Leptosphaeria caricinella P.Karst., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878294"
+    }
+,
+    {
+      "name": "Leptosphaeria vagans P.Karst., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878293"
+    }
+,
+    {
+      "name": "Phaeosphaeria caricis-firmae (Petr.) Leuchtm. & Schmid-Heckel, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856236"
+    }
+,
+    {
+      "name": "Leptosphaeria caricis-firmae Petr., 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981154"
+    }
+,
+    {
+      "name": "Phaeosphaeria caricis (J.Schröt.) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856235"
+    }
+,
+    {
+      "name": "Leptosphaeria caricis J.Schröt., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878295"
+    }
+,
+    {
+      "name": "Phaeosphaeria consobrina (P.Karst.) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856237"
+    }
+,
+    {
+      "name": "Leptosphaeria consobrina P.Karst., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878296"
+    }
+,
+    {
+      "name": "Phaeosphaeria culmorum (Auersw.) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856238"
+    }
+,
+    {
+      "name": "Leptosphaeria culmorum Auersw., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878297"
+    }
+,
+    {
+      "name": "Phaeosphaeria microscopica var. culmorum (Auersw.) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878298"
+    }
+,
+    {
+      "name": "Phaeosphaeria dennisiana Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856312"
+    }
+,
+    {
+      "name": "Leptosphaeria dennisiana (Leuchtm.) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878299"
+    }
+,
+    {
+      "name": "Phaeosphaeria dryadis Nograsek, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856313"
+    }
+,
+    {
+      "name": "Phaeosphaeria elongata (Wehm.) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856314"
+    }
+,
+    {
+      "name": "Leptosphaeria elongata Wehm., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878348"
+    }
+,
+    {
+      "name": "Phaeosphaeria emilii Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856315"
+    }
+,
+    {
+      "name": "Phaeosphaeria epicalamia (Riess) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856316"
+    }
+,
+    {
+      "name": "Leptosphaeria epicalamia (Riess) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878349"
+    }
+,
+    {
+      "name": "Pleospora epicalamia (Riess) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878350"
+    }
+,
+    {
+      "name": "Sphaeria epicalamia Riess, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878351"
+    }
+,
+    {
+      "name": "Phaeosphaeria equiseti (P.Karst.) L.Holm & K.Holm, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856317"
+    }
+,
+    {
+      "name": "Leptosphaeria equiseti P.Karst., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878352"
+    }
+,
+    {
+      "name": "Phaeosphaeria eustoma (Fuckel) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856318"
+    }
+,
+    {
+      "name": "Leptosphaeria epicarecta (Cooke) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878353"
+    }
+,
+    {
+      "name": "Leptosphaeria eustoma (Fr.) Sacc., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878354"
+    }
+,
+    {
+      "name": "Leptosphaeria parvula Niessl, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878357"
+    }
+,
+    {
+      "name": "Leptosphaeria perpusilla f. typhae P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878359"
+    }
+,
+    {
+      "name": "Leptosphaeria typhae P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883442"
+    }
+,
+    {
+      "name": "Phaeosphaeria parvula (Niessl) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878358"
+    }
+,
+    {
+      "name": "Phaeosphaeria typhae (P.Karst.) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878360"
+    }
+,
+    {
+      "name": "Pleospora eustoma Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878355"
+    }
+,
+    {
+      "name": "Sphaeria eustoma Fr., 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878356"
+    }
+,
+    {
+      "name": "Phaeosphaeria exarata Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856319"
+    }
+,
+    {
+      "name": "Phaeosphaeria fautreyi Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856320"
+    }
+,
+    {
+      "name": "Phaeosphaeria fetanensis Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856321"
+    }
+,
+    {
+      "name": "Phaeosphaeria firmicola Nograsek, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856322"
+    }
+,
+    {
+      "name": "Phaeosphaeria fuckelii (Niessl) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856323"
+    }
+,
+    {
+      "name": "Leptosphaeria fuckelii Niessl, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883335"
+    }
+,
+    {
+      "name": "Phaeosphaeria glebosoverrucosa Nograsek, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856324"
+    }
+,
+    {
+      "name": "Phaeosphaeria graminis (Fuckel) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48426"
+    }
+,
+    {
+      "name": "Leptosphaeria graminis (Fuckel) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48425"
+    }
+,
+    {
+      "name": "Pleospora graminis Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878361"
+    }
+,
+    {
+      "name": "Phaeosphaeria heptamera Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856325"
+    }
+,
+    {
+      "name": "Phaeosphaeria herpotrichoides (De Not.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856326"
+    }
+,
+    {
+      "name": "Ampullina culmifraga (Fr.) Quél., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878364"
+    }
+,
+    {
+      "name": "Leptosphaeria culmifraga var. propinqua Sacc., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878362"
+    }
+,
+    {
+      "name": "Leptosphaeria culmifraga (Fr.) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883056"
+    }
+,
+    {
+      "name": "Leptosphaeria herpotrichoides De Not., 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878363"
+    }
+,
+    {
+      "name": "Pleospora culmifraga (Fr.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878365"
+    }
+,
+    {
+      "name": "Sphaeria culmifraga Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878366"
+    }
+,
+    {
+      "name": "Phaeosphaeria hiemalis (Sacc. & Speg.) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856327"
+    }
+,
+    {
+      "name": "Leptosphaeria hiemalis Sacc. & Speg., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878367"
+    }
+,
+    {
+      "name": "Phaeosphaeria insignis (P.Karst.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856328"
+    }
+,
+    {
+      "name": "Leptosphaeria insignis P.Karst., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878368"
+    }
+,
+    {
+      "name": "Phaeosphaeria juncicola (Rehm ex G.Winter) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856329"
+    }
+,
+    {
+      "name": "Leptosphaeria juncicola Rehm ex G.Winter, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878369"
+    }
+,
+    {
+      "name": "Phaeosphaeria juncina (Auersw.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856330"
+    }
+,
+    {
+      "name": "Leptosphaeria juncina (Auersw.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878370"
+    }
+,
+    {
+      "name": "Sphaeria juncina Auersw., 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878371"
+    }
+,
+    {
+      "name": "Phaeosphaeria juncophila Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856331"
+    }
+,
+    {
+      "name": "Phaeosphaeria lindii (L.Holm & K.Holm) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856355"
+    }
+,
+    {
+      "name": "Phaeosphaeria equiseti var. lindii L.Holm & K.Holm, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878372"
+    }
+,
+    {
+      "name": "Phaeosphaeria luctuosa (Niessl ex Sacc.) Y.Otani & Mikawa, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856356"
+    }
+,
+    {
+      "name": "Leptosphaeria luctuosa Niessl ex Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883057"
+    }
+,
+    {
+      "name": "Phaeosphaeria lutea Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856357"
+    }
+,
+    {
+      "name": "Phaeosphaeria lycopodina (Mont.) Hedjar., 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856358"
+    }
+,
+    {
+      "name": "Leptosphaeria crepinii (Westend.) De Not., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878441"
+    }
+,
+    {
+      "name": "Leptosphaeria lycopodina (Mont.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878443"
+    }
+,
+    {
+      "name": "Sphaeria crepinii Westend., 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878442"
+    }
+,
+    {
+      "name": "Sphaeria lycopodina Mont., 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878444"
+    }
+,
+    {
+      "name": "Phaeosphaeria marcyensis (Peck) L. & K. Holm",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856359"
+    }
+,
+    {
+      "name": "Leptosphaeria marcyensis (Peck) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878445"
+    }
+,
+    {
+      "name": "Sphaeria marcyensis Peck",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878446"
+    }
+,
+    {
+      "name": "Phaeosphaeria maritima O.E.Erikss., 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856360"
+    }
+,
+    {
+      "name": "Phaeosphaeria marram (Cooke) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856361"
+    }
+,
+    {
+      "name": "Heptameria marram (Cooke) Cooke, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878447"
+    }
+,
+    {
+      "name": "Leptosphaeria marram (Cooke) Sacc., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878448"
+    }
+,
+    {
+      "name": "Sphaeria marram Cooke, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878449"
+    }
+,
+    {
+      "name": "Phaeosphaeria microscopica (P.Karst.) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856362"
+    }
+,
+    {
+      "name": "Leptosphaeria microscopica P.Karst., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883061"
+    }
+,
+    {
+      "name": "Phaeosphaeria minima Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803997"
+    }
+,
+    {
+      "name": "Phaeosphaeria minuscula (Rehm) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856363"
+    }
+,
+    {
+      "name": "Leptosphaeria culmifraga f. minuscula Rehm, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878450"
+    }
+,
+    {
+      "name": "Phaeosphaeria moravica Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856364"
+    }
+,
+    {
+      "name": "Phaeosphaeria nanosalicium Nograsek, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856365"
+    }
+,
+    {
+      "name": "Phaeosphaeria nardi (Fr.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856366"
+    }
+,
+    {
+      "name": "Leptosphaeria nardi (Fr.) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878451"
+    }
+,
+    {
+      "name": "Pleospora nardi (Fr.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878452"
+    }
+,
+    {
+      "name": "Sphaeria duplex var. nardi Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878453"
+    }
+,
+    {
+      "name": "Sphaeria nardi (Fr.) Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878454"
+    }
+,
+    {
+      "name": "Phaeosphaeria neomaritima (R.V.Gessner & Kohlm.) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980175"
+    }
+,
+    {
+      "name": "Leptosphaeria maritima Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868697"
+    }
+,
+    {
+      "name": "Leptosphaeria neomaritima R.V.Gessner & Kohlm., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883055"
+    }
+,
+    {
+      "name": "Sphaeria maritima Cooke & Plowr., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980174"
+    }
+,
+    {
+      "name": "Phaeosphaeria nigrans (Roberge ex Desm.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856367"
+    }
+,
+    {
+      "name": "Leptosphaeria culmicola f. nigrans (Fr.) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878455"
+    }
+,
+    {
+      "name": "Leptosphaeria nigrans (Roberge ex Desm.) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883058"
+    }
+,
+    {
+      "name": "Septoria calamagrostidis var. alopecuri Grove",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878457"
+    }
+,
+    {
+      "name": "Sphaeria nigrans Roberge ex Desm., 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878456"
+    }
+,
+    {
+      "name": "Phaeosphaeria nodorum (E.Müll.) Hedjar., 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856368"
+    }
+,
+    {
+      "name": "Leptosphaeria nodorum E.Müll., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878458"
+    }
+,
+    {
+      "name": "Phaeosphaeria norfolcia (Cooke) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856369"
+    }
+,
+    {
+      "name": "Leptosphaeria norfolcia (Cooke) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878462"
+    }
+,
+    {
+      "name": "Leptosphaeria riparia Sacc., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878461"
+    }
+,
+    {
+      "name": "Sphaeria norfolcia Cooke, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878463"
+    }
+,
+    {
+      "name": "Phaeosphaeria occulta (Lind) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856370"
+    }
+,
+    {
+      "name": "Leptosphaeria occulta Lind, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878464"
+    }
+,
+    {
+      "name": "Phaeosphaeria oreochloae Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856371"
+    }
+,
+    {
+      "name": "Phaeosphaeria ovei Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856372"
+    }
+,
+    {
+      "name": "Phaeosphaeria padellana Leuchtm., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856373"
+    }
+,
+    {
+      "name": "Phaeosphaeria parvograminis Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856374"
+    }
+,
+    {
+      "name": "Phaeosphaeria phragmiticola Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856375"
+    }
+,
+    {
+      "name": "Phaeosphaeria phragmitis (Hollós) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856406"
+    }
+,
+    {
+      "name": "Pleospora phragmitis Hollós, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878543"
+    }
+,
+    {
+      "name": "Phaeosphaeria pontiformis (Fuckel) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856407"
+    }
+,
+    {
+      "name": "Leptosphaeria pontiformis (Fuckel) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883059"
+    }
+,
+    {
+      "name": "Pleospora pontiformis Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878544"
+    }
+,
+    {
+      "name": "Phaeosphaeria pulchra Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856408"
+    }
+,
+    {
+      "name": "Phaeosphaeria punctiformis (Fuckel) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856409"
+    }
+,
+    {
+      "name": "Pseudopeziza repanda var. autumnal is",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878545"
+    }
+,
+    {
+      "name": "Phaeosphaeria rousseliana (Desm.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856410"
+    }
+,
+    {
+      "name": "Leptosphaeria rousseliana (Desm.) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878546"
+    }
+,
+    {
+      "name": "Sphaeria rousseliana Desm., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878547"
+    }
+,
+    {
+      "name": "Phaeosphaeria rubescens Checa & M.E.Barr, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856411"
+    }
+,
+    {
+      "name": "Phaeosphaeria saxonica (Höhn.) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856412"
+    }
+,
+    {
+      "name": "Leptosphaeria saxonica Höhn., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878548"
+    }
+,
+    {
+      "name": "Phaeosphaeria sequana (A.L.Guyot) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856413"
+    }
+,
+    {
+      "name": "Leptosphaeria sequana A.L.Guyot, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878549"
+    }
+,
+    {
+      "name": "Phaeosphaeria silenes-acaulis (De Not.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856414"
+    }
+,
+    {
+      "name": "Leptosphaeria silenes-acaulis De Not., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878550"
+    }
+,
+    {
+      "name": "Scleropleella silenes-acaulis (De Not.) Höhn., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878551"
+    }
+,
+    {
+      "name": "Phaeosphaeria sowerbyi (Fuckel) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856415"
+    }
+,
+    {
+      "name": "Leptosphaeria maculans P.Karst. [nom. illeg.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878554"
+    }
+,
+    {
+      "name": "Leptosphaeria sowerbyi (Fuckel) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878552"
+    }
+,
+    {
+      "name": "Pleospora sowerbyi Fuckel, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878553"
+    }
+,
+    {
+      "name": "Sphaeria maculans Sowerby [nom. illeg.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878556"
+    }
+,
+    {
+      "name": "Phaeosphaeria sparsa (Fuckel) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856416"
+    }
+,
+    {
+      "name": "Leptosphaeria sparsa (Fuckel) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878557"
+    }
+,
+    {
+      "name": "Pleospora sparsa Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878558"
+    }
+,
+    {
+      "name": "Phaeosphaeria spartinae (Ellis & Everh.) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868773"
+    }
+,
+    {
+      "name": "Leptosphaeria hierochloes Oudem.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883448"
+    }
+,
+    {
+      "name": "Leptosphaeria spartinae Ellis & Everh., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883060"
+    }
+,
+    {
+      "name": "Phaeosphaeria hierochloes (Oudem.) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878559"
+    }
+,
+    {
+      "name": "Phaeosphaeria stellariae (Rostr.) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856417"
+    }
+,
+    {
+      "name": "Leptosphaeria salebricola Sacc., E.Bommer & M.Rousseau, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878560"
+    }
+,
+    {
+      "name": "Leptosphaeria stellariae Rostr., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878562"
+    }
+,
+    {
+      "name": "Phaeosphaeria salebricola (Sacc., E.Bommer & M.Rousseau) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878561"
+    }
+,
+    {
+      "name": "Phaeosphaeria sylvatica (Pass.) Hedjar.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856418"
+    }
+,
+    {
+      "name": "Leptosphaeria sylvatica Pass., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878563"
+    }
+,
+    {
+      "name": "Phaeosphaeria tenuispora Scheuer, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856419"
+    }
+,
+    {
+      "name": "Phaeosphaeria thomasiana (Sacc. & Roum.) Huhndorf, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995499"
+    }
+,
+    {
+      "name": "Leptosphaeria thomasiana Sacc. & Roum., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855406"
+    }
+,
+    {
+      "name": "Phaeosphaeria tofieldiae (E.Müll.) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856420"
+    }
+,
+    {
+      "name": "Leptosphaeria tofieldiae E.Müll., 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878564"
+    }
+,
+    {
+      "name": "Phaeosphaeria triglichinicola (Curr.) Leuchtm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856421"
+    }
+,
+    {
+      "name": "Leptosphaeria triglochinicola (Curr.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878565"
+    }
+,
+    {
+      "name": "Sphaeria triglochinicola Curr., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878566"
+    }
+,
+    {
+      "name": "Phaeosphaeria tritici (Garov.) Hedjar., 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856422"
+    }
+,
+    {
+      "name": "Leptosphaeria eustomoides Sacc., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878567"
+    }
+,
+    {
+      "name": "Leptosphaeria tritici (Garov.) Pass., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878569"
+    }
+,
+    {
+      "name": "Phaeosphaeria eustomoides (Sacc.) Shoemaker & C.E.Babc., 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878568"
+    }
+,
+    {
+      "name": "Pleospora tritici Garov., 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878665"
+    }
+,
+    {
+      "name": "Phaeosphaeria typharum (Desm.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868712"
+    }
+,
+    {
+      "name": "Hendersonia typhae Oudem., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878666"
+    }
+,
+    {
+      "name": "Leptosphaeria typharum (Desm.) P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883031"
+    }
+,
+    {
+      "name": "Pleospora typharum (Desm.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883036"
+    }
+,
+    {
+      "name": "Scolecosporiella typhae (Oudem.) Petr., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878667"
+    }
+,
+    {
+      "name": "Sphaeria scirpicola var. typharum Desm., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883023"
+    }
+,
+    {
+      "name": "Sphaeria typharum (Desm.) Rabenh., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883039"
+    }
+,
+    {
+      "name": "Phaeosphaeria vagans (Niessl) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856438"
+    }
+,
+    {
+      "name": "Pleospora equiseti A.L.Sm., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878669"
+    }
+,
+    {
+      "name": "Pleospora sparganii Cooke, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883452"
+    }
+,
+    {
+      "name": "Pleospora vagans Niessl, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878668"
+    }
+,
+    {
+      "name": "Teichospora deflectens P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878670"
+    }
+,
+    {
+      "name": "Phaeosphaeria vagans var. pusilla Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867975"
+    }
+,
+    {
+      "name": "Phaeosphaeria viridella (Peck) Leuchtm., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856439"
+    }
+,
+    {
+      "name": "Leptosphaeria viridella (Peck) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878671"
+    }
+,
+    {
+      "name": "Sphaeria viridella Peck, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878672"
+    }
+,
+    {
+      "name": "Phaeosphaeria volkartiana (E.Müll.) Hedjar., 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856441"
+    }
+,
+    {
+      "name": "Leptosphaeria volkartiana E.Müll., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878677"
+    }
+,
+    {
+      "name": "Phaeosphaeriopsis M.P.S.Câmara, M.E.Palm & A.W.Ramaley, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Phaeosphaeriopsis agapanthi Crous & M.J.Wingf., 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998316"
+    }
+,
+    {
+      "name": "Phaeosphaeriopsis fungicola Samuels, Cand. & Y.-M. Ju",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866383"
+    }
+,
+    {
+      "name": "Phaeosphaeriopsis glaucopunctata (Grev.) M.P.S.Câmara, M.E.Palm & A.W.Ramaley, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866384"
+    }
+,
+    {
+      "name": "Cryptosphaeria glaucopunctata Grev., 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878682"
+    }
+,
+    {
+      "name": "Haplosporella ruscigena Bubák",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878678"
+    }
+,
+    {
+      "name": "Leptosphaeria glaucopunctata (Grev.) Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878683"
+    }
+,
+    {
+      "name": "Leptosphaeria rusci (Fr.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49035"
+    }
+,
+    {
+      "name": "Paraphaeosphaeria glaucopunctata (Grev.) Shoemaker & C.E.Babc., 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878684"
+    }
+,
+    {
+      "name": "Paraphaeosphaeria rusci (Fr.) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49034"
+    }
+,
+    {
+      "name": "Sphaerella rusci (Fr.) De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878679"
+    }
+,
+    {
+      "name": "Sphaeria atrovirens var. rusci (Fr.) Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878680"
+    }
+,
+    {
+      "name": "Sphaeria rusci (Fr.) Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878681"
+    }
+,
+    {
+      "name": "Phaeosphaeriopsis obtusispora (Speg.) M.P.S.Câmara, M.E.Palm & A.W.Ramaley, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866385"
+    }
+,
+    {
+      "name": "Leptosphaeria obtusispora Speg., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878685"
+    }
+,
+    {
+      "name": "Paraphaeosphaeria obtusispora (Speg.) O.E.Erikss., 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878686"
+    }
+,
+    {
+      "name": "Phaeosphaeriopsis pseudoagavacearum Crous & Y.Marín, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997207"
+    }
+,
+    {
+      "name": "Phaeosphaeriopsis vectis (Berk. & Broome) C.Hahn & Zurinski, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995497"
+    }
+,
+    {
+      "name": "Leptosphaeria vectis (Berk. & Broome) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855411"
+    }
+,
+    {
+      "name": "Paraphaeosphaeria vectis (Berk. & Broome) Hedjar., 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875291"
+    }
+,
+    {
+      "name": "Sphaeria vectis Berk. & Broome, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875292"
+    }
+,
+    {
+      "name": "Pseudoophiobolus Phookamsak, Wanas. & K.D.Hyde, 2017",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoophiobolus erythrosporus (Riess) Phookamsak, Wanas., & K.D.Hyde, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995145"
+    }
+,
+    {
+      "name": "Nodulosphaeria erythrospora (Riess) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866533"
+    }
+,
+    {
+      "name": "Ophiobolus erythrosporus (Riess) G.Winter, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879294"
+    }
+,
+    {
+      "name": "Ophiobolus eusporus (Sacc.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879296"
+    }
+,
+    {
+      "name": "Ophiobolus galii-veri f. molluginis Fautrey",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879298"
+    }
+,
+    {
+      "name": "Ophiobolus urticae (Rabenh.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879302"
+    }
+,
+    {
+      "name": "Rhaphidophora euspora Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879297"
+    }
+,
+    {
+      "name": "Rhaphidophora urticae Rabenh., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1003393"
+    }
+,
+    {
+      "name": "Rhaphidospora urticae Rabenh., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879303"
+    }
+,
+    {
+      "name": "Sphaeria erythrospora Riess, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879295"
+    }
+,
+    {
+      "name": "Pseudoophiobolus mathieui (Westend.) Phookamsak, Wanas., S.K Huang, Camporesi & K.D.Hyde,, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995148"
+    }
+,
+    {
+      "name": "Nodulosphaeria mathieui (Westend.) L.Holm, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866542"
+    }
+,
+    {
+      "name": "Ophiobolus galii-veri Fautrey, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879390"
+    }
+,
+    {
+      "name": "Ophiobolus mathieui (Westend.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883472"
+    }
+,
+    {
+      "name": "Sphaeria mathieui Westend., 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879389"
+    }
+,
+    {
+      "name": "Sclerostagonospora Höhn., 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Sclerostagonospora phragmiticola Quaedvl., Verkley & Crous, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905591"
+    }
+,
+    {
+      "name": "Setomelanomma M.Morelet, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "Setomelanomma holmii M.Morelet, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438137"
+    }
+,
+    {
+      "name": "Setophoma Gruyter, Aveskamp & Verkley, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Setophoma pseudosacchari Crous & Y.Marín, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997246"
+    }
+,
+    {
+      "name": "Stagonospora (Sacc.) Sacc., 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Stagonospora abietis Rolland & Fautrey, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868627"
+    }
+,
+    {
+      "name": "Stagonospora allantella (Sacc.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868631"
+    }
+,
+    {
+      "name": "Hendersonia allantella Sacc., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882656"
+    }
+,
+    {
+      "name": "Stagonospora aquatica (Sacc.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869331"
+    }
+,
+    {
+      "name": "Hendersonia aquatica Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882739"
+    }
+,
+    {
+      "name": "Stagonospora aquatica var. junciseda (Sacc.) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869951"
+    }
+,
+    {
+      "name": "Hendersonia junciseda Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882740"
+    }
+,
+    {
+      "name": "Stagonospora aquatica var. lacustris (Sacc.) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869966"
+    }
+,
+    {
+      "name": "Hendersonia lacustris Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882741"
+    }
+,
+    {
+      "name": "Stagonospora asphodeli (Mont.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869274"
+    }
+,
+    {
+      "name": "Ascospora asphodeli Mont., 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882742"
+    }
+,
+    {
+      "name": "Hendersonia asphodeli (Mont.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882743"
+    }
+,
+    {
+      "name": "Septoria asphodeli Mont., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869664"
+    }
+,
+    {
+      "name": "Stagonospora atriplicis (Westend.) Lind, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002630"
+    }
+,
+    {
+      "name": "Depazea vagans var. atriplicis J.Kickx f., 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002631"
+    }
+,
+    {
+      "name": "Phoma atriplicina Westend., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856491"
+    }
+,
+    {
+      "name": "Phyllosticta atriplicis Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871986"
+    }
+,
+    {
+      "name": "Phyllosticta atriplicis (J.Kickx f.) Westend., 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883553"
+    }
+,
+    {
+      "name": "Septoria atriplicis (Westend.) Fuckel, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871987"
+    }
+,
+    {
+      "name": "Stagonospora bromi A.L.Sm. & Ramsb., 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868633"
+    }
+,
+    {
+      "name": "Stagonospora calystegiae (Westend.) Bubák, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868634"
+    }
+,
+    {
+      "name": "Septoria calystegiae Westend., 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868484"
+    }
+,
+    {
+      "name": "Stagonospora caricinella Brunaud, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869273"
+    }
+,
+    {
+      "name": "Stagonospora caricis (Oudem.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868635"
+    }
+,
+    {
+      "name": "Hendersonia caricis Oudem., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983543"
+    }
+,
+    {
+      "name": "Stagonospora caulicola (Desm.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869272"
+    }
+,
+    {
+      "name": "Hendersonia caulicola Desm., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882744"
+    }
+,
+    {
+      "name": "Stagonospora deplanata Har. & Briard, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868636"
+    }
+,
+    {
+      "name": "Stagonospora equiseti Fautrey, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868637"
+    }
+,
+    {
+      "name": "Stagonospora foliicola (Bres.) Bubák, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869271"
+    }
+,
+    {
+      "name": "Stagonospora vexata var. foliicola Bres.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983544"
+    }
+,
+    {
+      "name": "Stagonospora fragariae Briard & Har., 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868638"
+    }
+,
+    {
+      "name": "Stagonospora galii Fautrey, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869270"
+    }
+,
+    {
+      "name": "Stagonospora glyceriae Roum. & Fautrey, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868639"
+    }
+,
+    {
+      "name": "Stagonospora graminella (Sacc.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868640"
+    }
+,
+    {
+      "name": "Hendersonia graminella Sacc., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882745"
+    }
+,
+    {
+      "name": "Stagonospora graminella var. lophioides (Sacc.) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869964"
+    }
+,
+    {
+      "name": "Stagonospora hydrophila Briard & Har., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869269"
+    }
+,
+    {
+      "name": "Stagonospora hygrophila Sacc., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905147"
+    }
+,
+    {
+      "name": "Stagonospora insidiosa (Desm.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868642"
+    }
+,
+    {
+      "name": "Hendersonia insidiosa Desm., 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882746"
+    }
+,
+    {
+      "name": "Stagonospora juglandis Brunaud, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868643"
+    }
+,
+    {
+      "name": "Stagonospora luzulae (Westend.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869268"
+    }
+,
+    {
+      "name": "Hendersonia luzulae Westend., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882747"
+    }
+,
+    {
+      "name": "Stagonospora mali Delacr., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869267"
+    }
+,
+    {
+      "name": "Stagonospora microscopica (Fr.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868645"
+    }
+,
+    {
+      "name": "Sphaeria microscopica Fr., 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882749"
+    }
+,
+    {
+      "name": "Stagonospora paludosa (Sacc. & Speg.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869266"
+    }
+,
+    {
+      "name": "Hendersonia paludosa Sacc. & Speg., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983546"
+    }
+,
+    {
+      "name": "Stagonospora pseudocaricis Quaedvl., Verkley, Gardiennet & Crous, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905148"
+    }
+,
+    {
+      "name": "Stagonospora rhoina Briard & Har., 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868647"
+    }
+,
+    {
+      "name": "Stagonospora rosae Brunaud, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869265"
+    }
+,
+    {
+      "name": "Stagonospora sambuci Brunaud, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869264"
+    }
+,
+    {
+      "name": "Stagonospora scirpicola Pass., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868649"
+    }
+,
+    {
+      "name": "Stagonospora simplicior Sacc. & Berl., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868650"
+    }
+,
+    {
+      "name": "Stagonospora socia Grove, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869822"
+    }
+,
+    {
+      "name": "Stagonospora subseriata (Desm.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868651"
+    }
+,
+    {
+      "name": "Hendersonia subseriata Desm., 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983547"
+    }
+,
+    {
+      "name": "Stagonospora sumacis Pass., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868656"
+    }
+,
+    {
+      "name": "Stagonospora trifolii Fautrey, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868657"
+    }
+,
+    {
+      "name": "Stagonospora typhoidearum (Desm.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869259"
+    }
+,
+    {
+      "name": "Ascochyta typhoidearum (Desm.) Höhn., 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013491"
+    }
+,
+    {
+      "name": "Hendersonia typhoidearum Desm., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882845"
+    }
+,
+    {
+      "name": "Stagonospora typhoidearum f. santonensis Brunaud, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869952"
+    }
+,
+    {
+      "name": "Stagonospora ulicis Celotti, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869258"
+    }
+,
+    {
+      "name": "Stagonospora valsoidea Sacc. & Briard, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868658"
+    }
+,
+    {
+      "name": "Stagonospora vexatula (Sacc.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869257"
+    }
+,
+    {
+      "name": "Hendersonia vexatula Sacc., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882846"
+    }
+,
+    {
+      "name": "Stagonospora vincetoxici Fautrey & Roum., 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868660"
+    }
+,
+    {
+      "name": "Stagonospora vitensis Unamuno, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869256"
+    }
+
+  ]
+}

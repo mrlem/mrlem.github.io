@@ -1,0 +1,42 @@
+
+{
+  "name": "nymphalinae",
+  "children": [
+
+    {
+      "name": "Nymphalinae Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "coeini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/nymphalinae/coeini/"
+    }
+,
+    {
+      "name": "junoniini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/nymphalinae/junoniini/"
+    }
+,
+    {
+      "name": "kallimini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/nymphalinae/kallimini/"
+    }
+,
+    {
+      "name": "melitaeini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/nymphalinae/melitaeini/"
+    }
+,
+    {
+      "name": "nymphalini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/nymphalinae/nymphalini/"
+    }
+,
+    {
+      "name": "victorinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/nymphalinae/victorinini/"
+    }
+
+  ]
+}

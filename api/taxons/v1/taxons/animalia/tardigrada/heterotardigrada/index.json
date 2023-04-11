@@ -1,0 +1,22 @@
+
+{
+  "name": "heterotardigrada",
+  "children": [
+
+    {
+      "name": "Heterotardigrada Marcus, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "arthrotardigrada",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/heterotardigrada/arthrotardigrada/"
+    }
+,
+    {
+      "name": "echiniscoidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/tardigrada/heterotardigrada/echiniscoidea/"
+    }
+
+  ]
+}

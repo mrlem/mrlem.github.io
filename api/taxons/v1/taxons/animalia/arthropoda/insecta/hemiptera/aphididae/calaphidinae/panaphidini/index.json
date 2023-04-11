@@ -1,0 +1,612 @@
+
+{
+  "name": "panaphidini",
+  "children": [
+
+    {
+      "name": "Panaphidini Oestlund, 1923",
+      "url": ""
+    }
+,
+    {
+      "name": "Andorracallis Quednau, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Andorracallis pujadei Quednau, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215167"
+    }
+,
+    {
+      "name": "Appendiseta Richards, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Appendiseta robiniae (Gillette, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215280"
+    }
+,
+    {
+      "name": "Callipterus robiniae Gillette, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011728"
+    }
+,
+    {
+      "name": "Myzocallis robiniae (Gillette, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011729"
+    }
+,
+    {
+      "name": "Chromaphis Walker, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Chromaphis juglandicola (Kaltenbach, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215355"
+    }
+,
+    {
+      "name": "Aphis juglandicola (Kaltenbach, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011789"
+    }
+,
+    {
+      "name": "Callipterus juglandicola (Kaltenbach, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011792"
+    }
+,
+    {
+      "name": "Lachnus juglandicola Kaltenbach, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011783"
+    }
+,
+    {
+      "name": "Pterocallis juglandicola (Kaltenbach, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011793"
+    }
+,
+    {
+      "name": "Ctenocallis Klodnitsky, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Ctenocallis dobrovljanskyi Klodnitsky, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215407"
+    }
+,
+    {
+      "name": "Ctenocallis israelica Hille Ris Lambers, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215408"
+    }
+,
+    {
+      "name": "Ctenocallis setosa (Kaltenbach, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215409"
+    }
+,
+    {
+      "name": "Aphis setosa Kaltenbach, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011838"
+    }
+,
+    {
+      "name": "Oniscomyzus setosus (Kaltenbach, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011840"
+    }
+,
+    {
+      "name": "Eucallipterus Schouteden, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Eucallipterus tiliae (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215452"
+    }
+,
+    {
+      "name": "Aphis tiliae Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848972"
+    }
+,
+    {
+      "name": "Hoplocallis Pintera, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Hoplocallis picta (Ferrari, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215470"
+    }
+,
+    {
+      "name": "Callipterus pictus (Ferrari, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011900"
+    }
+,
+    {
+      "name": "Myzocallis pictus (Ferrari, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011901"
+    }
+,
+    {
+      "name": "Pterocallis pictus Ferrari, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011898"
+    }
+,
+    {
+      "name": "Hoplochaetaphis Aizenberg, 1959",
+      "url": ""
+    }
+,
+    {
+      "name": "Hoplochaetaphis zachvatkini (Aizenberg & Moravskaja, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215471"
+    }
+,
+    {
+      "name": "Hoplochaitophorus zachvatkini Aizenberg & Moravskaja, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013058"
+    }
+,
+    {
+      "name": "Monelliopsis Richards, 1960",
+      "url": ""
+    }
+,
+    {
+      "name": "Monelliopsis caryae (Monell ex Riley & Monell, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/254104"
+    }
+,
+    {
+      "name": "Callipterus caryae Monell ex Riley & Monell, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012067"
+    }
+,
+    {
+      "name": "Monellia caryae (Monell ex Riley & Monell, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012068"
+    }
+,
+    {
+      "name": "Myzocallis Passerini, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Myzocallis boerneri Stroyan, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215581"
+    }
+,
+    {
+      "name": "Myzocallis carpini (Koch, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215582"
+    }
+,
+    {
+      "name": "Callipterus carpini Koch, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012072"
+    }
+,
+    {
+      "name": "Myzocallis castanicola Baker, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215579"
+    }
+,
+    {
+      "name": "Myzocallis castanicola castanicola Baker, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250360"
+    }
+,
+    {
+      "name": "Myzocallis castanicola leclanti Quednau & Remaudière, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250361"
+    }
+,
+    {
+      "name": "Myzocallis cocciferina Quednau & Barbagallo, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215586"
+    }
+,
+    {
+      "name": "Myzocallis coryli (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215583"
+    }
+,
+    {
+      "name": "Aphis coryli Goeze, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012073"
+    }
+,
+    {
+      "name": "Callipterus coryli (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012069"
+    }
+,
+    {
+      "name": "Myzocallis komareki (Pašek, 1953)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215587"
+    }
+,
+    {
+      "name": "Hoplocallis komáreki Pašek, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012074"
+    }
+,
+    {
+      "name": "Myzocallis mediterranea Quednau & Remaudière, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215588"
+    }
+,
+    {
+      "name": "Myzocallis occidentalis Remaudière & Nieto Nafría, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215584"
+    }
+,
+    {
+      "name": "Myzocallis schreiberi Hille Ris Lambers & Stroyan, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215585"
+    }
+,
+    {
+      "name": "Myzocallis walshii (Monell ex Riley & Monell, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215580"
+    }
+,
+    {
+      "name": "Callipterus walshii Monell ex Riley & Monell, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012075"
+    }
+,
+    {
+      "name": "Panaphis Kirkaldy, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Panaphis juglandis (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215618"
+    }
+,
+    {
+      "name": "Aphis juglandis Goeze, 1778",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012147"
+    }
+,
+    {
+      "name": "Callipterus juglandis (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012149"
+    }
+,
+    {
+      "name": "Juglandifex juglandis (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012148"
+    }
+,
+    {
+      "name": "Lachnus juglandis (Goeze, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012141"
+    }
+,
+    {
+      "name": "Pterocallis Passerini, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Pterocallis albida Börner, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215661"
+    }
+,
+    {
+      "name": "Pterocallis alni (De Geer, 1773)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215662"
+    }
+,
+    {
+      "name": "Aphis alni De Geer, 1773",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/888099"
+    }
+,
+    {
+      "name": "Pterocallis maculata (von Heyden, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215663"
+    }
+,
+    {
+      "name": "Aphis maculata von Heyden, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012199"
+    }
+,
+    {
+      "name": "Pterocallis ostryae Börner, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215664"
+    }
+,
+    {
+      "name": "Sarucallis Shinji, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Sarucallis kahawaluokalani (Kirkaldy, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896970"
+    }
+,
+    {
+      "name": "Myzocallis kahawaluokalani Kirkaldy, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911084"
+    }
+,
+    {
+      "name": "Tinocallis kahawaluokalani (Kirkaldy, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/254344"
+    }
+,
+    {
+      "name": "Takecallis Matsumura, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Takecallis arundicolens (Clarke, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215713"
+    }
+,
+    {
+      "name": "Callipterus arundicolens Clarke, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013071"
+    }
+,
+    {
+      "name": "Eucallipterus arundicolens (Clarke, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013076"
+    }
+,
+    {
+      "name": "Kallistaphis arundicolens (Clarke, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013074"
+    }
+,
+    {
+      "name": "Myzocallis arundicolens (Clarke, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013075"
+    }
+,
+    {
+      "name": "Takecallis arundinariae (Essig, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215714"
+    }
+,
+    {
+      "name": "Agrioaphis arundinariae (Essig, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013073"
+    }
+,
+    {
+      "name": "Myzocallis arundinariae Essig, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013072"
+    }
+,
+    {
+      "name": "Takecallis taiwana (Takahashi, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215715"
+    }
+,
+    {
+      "name": "Agrioaphis taiwanus (Takahashi, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013078"
+    }
+,
+    {
+      "name": "Myzocallis taiwanus Takahashi, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013077"
+    }
+,
+    {
+      "name": "Therioaphis Walker, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Therioaphis alatina Hille Ris Lambers & van den Bosch, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215728"
+    }
+,
+    {
+      "name": "Therioaphis bonjeaniae Hille Ris Lambers & van den Bosch, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215723"
+    }
+,
+    {
+      "name": "Therioaphis brachytricha Hille Ris Lambers & van den Bosch, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215725"
+    }
+,
+    {
+      "name": "Therioaphis langloisi Remaudière & Leclant, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215726"
+    }
+,
+    {
+      "name": "Therioaphis litoralis Hille Ris Lambers & van den Bosch, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215729"
+    }
+,
+    {
+      "name": "Therioaphis hillerislambersi Szelegiewicz, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388813"
+    }
+,
+    {
+      "name": "Therioaphis obscura Hille Ris Lambers & van den Bosch, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215730"
+    }
+,
+    {
+      "name": "Therioaphis ononidis (Kaltenbach, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215731"
+    }
+,
+    {
+      "name": "Aphis ononidis Kaltenbach, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013083"
+    }
+,
+    {
+      "name": "Callipterus ononidis (Kaltenbach, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013086"
+    }
+,
+    {
+      "name": "Chaitophorus ononidis (Kaltenbach, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013084"
+    }
+,
+    {
+      "name": "Myzocallis ononidis (Kaltenbach, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013085"
+    }
+,
+    {
+      "name": "Therioaphis riehmi (Börner, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215727"
+    }
+,
+    {
+      "name": "Myzocallidium riehmi Börner, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013087"
+    }
+,
+    {
+      "name": "Therioaphis trifolii (Monell, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215724"
+    }
+,
+    {
+      "name": "Callipterus trifolii Monell, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013088"
+    }
+,
+    {
+      "name": "Therioaphis trifolii trifolii (Monell, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250381"
+    }
+,
+    {
+      "name": "Tinocallis Matsumura, 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "Tinocallis nevskyi Remaudière, Quednau & Heie, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215733"
+    }
+,
+    {
+      "name": "Tinocallis platani (Kaltenbach, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215732"
+    }
+,
+    {
+      "name": "Callipterus platani (Kaltenbach, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013090"
+    }
+,
+    {
+      "name": "Lachnus platani Kaltenbach, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013089"
+    }
+,
+    {
+      "name": "Tinocallis saltans (Nevsky, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/254343"
+    }
+,
+    {
+      "name": "Tuberocallis saltans Nevsky, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013091"
+    }
+,
+    {
+      "name": "Tinocallis takachioensis Higuchi, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215734"
+    }
+,
+    {
+      "name": "Tinocallis zelkowae (Takahashi, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215735"
+    }
+,
+    {
+      "name": "Myzocallis zelkowae Takahashi, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013092"
+    }
+,
+    {
+      "name": "Sarucallis zelkowae (Takahashi, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013093"
+    }
+,
+    {
+      "name": "Tuberculatus Mordvilko, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Tuberculatus annulatus (Hartig, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215745"
+    }
+,
+    {
+      "name": "Aphis annulatus Hartig, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013103"
+    }
+,
+    {
+      "name": "Callipterus annulatus (Hartig, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013104"
+    }
+,
+    {
+      "name": "Myzocallis annulata (Hartig, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013105"
+    }
+,
+    {
+      "name": "Tuberculoides annulatus (Hartig, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007766"
+    }
+,
+    {
+      "name": "Tuberculatus eggleri Börner, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215746"
+    }
+,
+    {
+      "name": "Tuberculoides eggleri (Börner, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007768"
+    }
+,
+    {
+      "name": "Tuberculatus querceus (Kaltenbach, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/215744"
+    }
+,
+    {
+      "name": "Aphis quercus Kaltenbach, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013128"
+    }
+,
+    {
+      "name": "Panaphidina Oestlund, 1923",
+      "url": ""
+    }
+
+  ]
+}

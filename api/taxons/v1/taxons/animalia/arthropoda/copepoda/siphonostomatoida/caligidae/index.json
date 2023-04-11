@@ -1,0 +1,717 @@
+
+{
+  "name": "caligidae",
+  "children": [
+
+    {
+      "name": "Caligidae Burmeister, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Euryphoridae Wilson C.B., 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Alanlewisia Boxshall, 2008",
+      "url": ""
+    }
+,
+    {
+      "name": "Alanlewisia fallolunulus (A.G. Lewis, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962698"
+    }
+,
+    {
+      "name": "Lepeophtheirus fallolunulus A.G. Lewis, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962699"
+    }
+,
+    {
+      "name": "Alebion Krøyer, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Alebion carchariae Krøyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/377099"
+    }
+,
+    {
+      "name": "Alebion difficilis van Beneden, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580807"
+    }
+,
+    {
+      "name": "Alebion fuscus Wilson C.B., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579292"
+    }
+,
+    {
+      "name": "Alebion gracilis Wilson C.B., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654244"
+    }
+,
+    {
+      "name": "Alebion gracile Wilson C.B., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689006"
+    }
+,
+    {
+      "name": "Anuretes Heller, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Anuretes justinei Venmathi Maran, Ohtsuka & Boxshall, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962701"
+    }
+,
+    {
+      "name": "Avitocaligus Boxshall & Justine, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "Avitocaligus assurgericola Boxshall & Justine, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/457777"
+    }
+,
+    {
+      "name": "Caligus O.F. Müller, 1785",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudocaligus Scott A., 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Caligus belones Krøyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364541"
+    }
+,
+    {
+      "name": "Caligus bonito Wilson C.B., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364539"
+    }
+,
+    {
+      "name": "Caligus krishnai M. M. Thomas, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581587"
+    }
+,
+    {
+      "name": "Caligus kuroshio Shiino, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581515"
+    }
+,
+    {
+      "name": "Caligus sarda Pearse, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580713"
+    }
+,
+    {
+      "name": "Caligus brevicaudatus A. Scott, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364548"
+    }
+,
+    {
+      "name": "Caligus brevipedis Bassett-Smith, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581498"
+    }
+,
+    {
+      "name": "Pseudocaligus brevipedis (Bassett-Smith, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/367230"
+    }
+,
+    {
+      "name": "Caligus brevis Shiino, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838431"
+    }
+,
+    {
+      "name": "Caligus centrodonti Baird, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364549"
+    }
+,
+    {
+      "name": "Caligus abbreviatus Kroyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581574"
+    }
+,
+    {
+      "name": "Caligus confusus Pillai, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654245"
+    }
+,
+    {
+      "name": "Caligus cordyla Pillai, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654189"
+    }
+,
+    {
+      "name": "Caligus coryphaenae Steenstrup & Lütken, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364542"
+    }
+,
+    {
+      "name": "Caligus aliuncus Wilson C.B., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580120"
+    }
+,
+    {
+      "name": "Caligus elongatus Heegaard, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/585955"
+    }
+,
+    {
+      "name": "Caligus scutatus Milne Edwards, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581600"
+    }
+,
+    {
+      "name": "Caligus tesserifer Shiino, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581536"
+    }
+,
+    {
+      "name": "Caligus thymni Dana, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583061"
+    }
+,
+    {
+      "name": "Caligus curtus O.F. Müller, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364534"
+    }
+,
+    {
+      "name": "Binoculus piscinus O.F. Müller, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582286"
+    }
+,
+    {
+      "name": "Caligus aeglefinae Kroyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581575"
+    }
+,
+    {
+      "name": "Caligus americanus Pickering & Dana, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581576"
+    }
+,
+    {
+      "name": "Caligus bicuspidatus Nordmann, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581579"
+    }
+,
+    {
+      "name": "Caligus elegans von Beneden, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581582"
+    }
+,
+    {
+      "name": "Caligus fallax Kroyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581583"
+    }
+,
+    {
+      "name": "Caligus muelleri Leach, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581592"
+    }
+,
+    {
+      "name": "Monoculus piscinus Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583870"
+    }
+,
+    {
+      "name": "Monoculus thorace Ström, 1770",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583862"
+    }
+,
+    {
+      "name": "Caligus dakari Van Beneden, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542658"
+    }
+,
+    {
+      "name": "Caligus mauritanicus Brian, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364557"
+    }
+,
+    {
+      "name": "Caligus diaphanus Nordmann, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364544"
+    }
+,
+    {
+      "name": "Caligus elongatus von Nordmann, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914258"
+    }
+,
+    {
+      "name": "Caligus epinepheli Yamaguti, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963925"
+    }
+,
+    {
+      "name": "Caligus guerini Guiart, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364540"
+    }
+,
+    {
+      "name": "Caligus infestans Heller, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654190"
+    }
+,
+    {
+      "name": "Caligus maculatus Heegaard, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688862"
+    }
+,
+    {
+      "name": "Caligus sphyraenae Nuñes-Ruivo & Fourmanoir, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688863"
+    }
+,
+    {
+      "name": "Caligus isonyx Steenstrup & Lütken, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654243"
+    }
+,
+    {
+      "name": "Caligus lethrinicola Boxshall & El-Rashidy, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957464"
+    }
+,
+    {
+      "name": "Caligus lobodes (Wilson C.B., 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654277"
+    }
+,
+    {
+      "name": "Midias lobodes Wilson C.B., 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687889"
+    }
+,
+    {
+      "name": "Caligus macoloricola Hayes, Justine & Boxshall, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698896"
+    }
+,
+    {
+      "name": "Caligus minimus Otto, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364558"
+    }
+,
+    {
+      "name": "Caligus minutus Krøyer, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685732"
+    }
+,
+    {
+      "name": "Caligus novocaledonicus Kabata, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654246"
+    }
+,
+    {
+      "name": "Caligus pagelli Delamare Deboutteville & Nunes-Ruivo, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364559"
+    }
+,
+    {
+      "name": "Caligus pelamydis Krøyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364556"
+    }
+,
+    {
+      "name": "Caligus scomberi Bassett-Smith, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581535"
+    }
+,
+    {
+      "name": "Caligus praecinctorius Hayes, Justine & Boxshall, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698821"
+    }
+,
+    {
+      "name": "Caligus productus Dana, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542954"
+    }
+,
+    {
+      "name": "Caligus alalongae Krøyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364536"
+    }
+,
+    {
+      "name": "Caligus dentatus Heegaard, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579855"
+    }
+,
+    {
+      "name": "Caligus katuwo Yamaguti, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581514"
+    }
+,
+    {
+      "name": "Caligus lobatus Wilson C.B., 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581517"
+    }
+,
+    {
+      "name": "Caligus microdontus Heegaard, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581518"
+    }
+,
+    {
+      "name": "Caligus mirabilis Leigh-Sharpe, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581519"
+    }
+,
+    {
+      "name": "Caligus monacanthi Kroyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581591"
+    }
+,
+    {
+      "name": "Caligus rapax Milne Edwards, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780332"
+    }
+,
+    {
+      "name": "Caligus vexator Heller, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364563"
+    }
+,
+    {
+      "name": "Caligus zei Norman & Scott T., 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364560"
+    }
+,
+    {
+      "name": "Euryphorus Milne Edwards H., 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Euryphorus brachypterus (Gerstaecker, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/377098"
+    }
+,
+    {
+      "name": "Arnaeus thynni Krøyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/584664"
+    }
+,
+    {
+      "name": "Caligeria bella Dana, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/584670"
+    }
+,
+    {
+      "name": "Dinemoura thynni (Krøyer, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678431"
+    }
+,
+    {
+      "name": "Dysgamus longifurcatus Wilson C.B., 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579286"
+    }
+,
+    {
+      "name": "Dysgamus sagamiensis Shiino, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579287"
+    }
+,
+    {
+      "name": "Elytrophora atlantica Wilson C.B., 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583992"
+    }
+,
+    {
+      "name": "Elytrophora brachyptera Gerstäcker, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/584591"
+    }
+,
+    {
+      "name": "Elytrophora hemiptera Wilson C.B., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/585385"
+    }
+,
+    {
+      "name": "Elytrophora indica Shiino, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/585386"
+    }
+,
+    {
+      "name": "Elytrophora thynni (Kroyer, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/584643"
+    }
+,
+    {
+      "name": "Euryphorus atlanticus (Wilson C.B., 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582316"
+    }
+,
+    {
+      "name": "Euryphorus bellus (Dana, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/584646"
+    }
+,
+    {
+      "name": "Euryphorus brachyptera (Gerstäcker, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678430"
+    }
+,
+    {
+      "name": "Euryphorus hemipterus (Wilson C.B., 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582317"
+    }
+,
+    {
+      "name": "Euryphorus indicus (Shiino, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582318"
+    }
+,
+    {
+      "name": "Gloiopotes Steenstrup & Lütken, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Gloiopotes hygomianus Steenstrup & Lütken, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654543"
+    }
+,
+    {
+      "name": "Gloiopotes watsoni Kirtisinghe, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654452"
+    }
+,
+    {
+      "name": "Gloiopotes auricularius Barnard, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689693"
+    }
+,
+    {
+      "name": "Lepeophtheirus von Nordmann, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "Dentigryps Wilson C.B., 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Lepeophtheirus hippoglossi (Krøyer, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364569"
+    }
+,
+    {
+      "name": "Caligus hippoglossi Kroyer, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581585"
+    }
+,
+    {
+      "name": "Lepeophtheirus obscurus Baird, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581555"
+    }
+,
+    {
+      "name": "Lepeophtheirus litus (Lewis A.G., 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963900"
+    }
+,
+    {
+      "name": "Dentigryps litus Lewis A.G., 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963901"
+    }
+,
+    {
+      "name": "Lepeophtheirus nordmanni (Milne Edwards, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364573"
+    }
+,
+    {
+      "name": "Caligus nordmannii Milne Edwards, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581593"
+    }
+,
+    {
+      "name": "Caligus ornatus Milne Edwards, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581595"
+    }
+,
+    {
+      "name": "Lepeophtheirus insignis Wilson C.B., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579310"
+    }
+,
+    {
+      "name": "Lepeophtheirus nordmannii Milne Edwards, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579325"
+    }
+,
+    {
+      "name": "Lepeophtheirus ornatus (Milne Edwards, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581556"
+    }
+,
+    {
+      "name": "Lepeophtheirus pectoralis (Müller O.F., 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364570"
+    }
+,
+    {
+      "name": "Caligus pectoralis (O.F. Müller, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581597"
+    }
+,
+    {
+      "name": "Lernaea pectoralis O.F. Müller, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582351"
+    }
+,
+    {
+      "name": "Lepeophtheirus plectropomi Nuñes-Ruivo & Fourmanoir, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963907"
+    }
+,
+    {
+      "name": "Lepeophtheirus pollachius Bassett-Smith, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364575"
+    }
+,
+    {
+      "name": "Lepeophtheirus innominatus Wilson C.B., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579309"
+    }
+,
+    {
+      "name": "Lepeophtheirus salmonis (Krøyer, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/307329"
+    }
+,
+    {
+      "name": "Caligus pacificus Gissler, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581520"
+    }
+,
+    {
+      "name": "Caligus salmonis Kroyer, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581599"
+    }
+,
+    {
+      "name": "Caligus stroemii Baird, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581602"
+    }
+,
+    {
+      "name": "Caligus vespa Milne Edwards, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581605"
+    }
+,
+    {
+      "name": "Lepeophtheirus stroemii (Baird, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581558"
+    }
+,
+    {
+      "name": "Lepeophtheirus uenoi Yamaguti, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582330"
+    }
+,
+    {
+      "name": "Lepeophtheirus sturionis (Krøyer, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364571"
+    }
+,
+    {
+      "name": "Caligus sturionis Kroyer, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581603"
+    }
+,
+    {
+      "name": "Lepeophtheirus thompsoni Baird, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/364572"
+    }
+,
+    {
+      "name": "Caligus piscinus Guérin-Méneville, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685736"
+    }
+,
+    {
+      "name": "Lepeophtheirus gibbus Kroyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581553"
+    }
+,
+    {
+      "name": "Lepeophtheirus gracilescens Kroyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581554"
+    }
+,
+    {
+      "name": "Lepeophtheirus rhombi Kroyer, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581557"
+    }
+,
+    {
+      "name": "Paralebion Wilson C.B., 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Paralebion elongatus Wilson C.B., 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654482"
+    }
+,
+    {
+      "name": "Lepeophtheirus elongatus Heegaard, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688270"
+    }
+,
+    {
+      "name": "Pseudanuretes Yamaguti, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudanuretes fortipedis Kabata, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654552"
+    }
+,
+    {
+      "name": "Sciaenophilus Van Beneden, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "Scienophilus Van Beneden, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "Sciaenophilus tenuis Van Beneden, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628937"
+    }
+,
+    {
+      "name": "Sciaenophilus benedeni (Bassett-Smith, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677272"
+    }
+,
+    {
+      "name": "Scienophilus tenuis van Beneden, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/367231"
+    }
+
+  ]
+}

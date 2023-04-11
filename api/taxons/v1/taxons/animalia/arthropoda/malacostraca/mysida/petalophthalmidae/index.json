@@ -1,0 +1,57 @@
+
+{
+  "name": "petalophthalmidae",
+  "children": [
+
+    {
+      "name": "Petalophthalmidae Czerniavsky, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "hansenomysinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/petalophthalmidae/hansenomysinae/"
+    }
+,
+    {
+      "name": "Ceratomysis Faxon, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Ceratomysis ericula Ledoyer, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821451"
+    }
+,
+    {
+      "name": "Hansenomysis Stebbing, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Arctomysis Hansen, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Hansenomysis pseudofyllae Lagardère, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939706"
+    }
+,
+    {
+      "name": "Petalophthalmus Willemoes-Suhm, 1875",
+      "url": ""
+    }
+,
+    {
+      "name": "Petalophthalmus armiger Willemoes-Suhm, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379978"
+    }
+,
+    {
+      "name": "Petalophthalmus pacificus Faxon, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550454"
+    }
+
+  ]
+}

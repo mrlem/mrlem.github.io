@@ -1,0 +1,47 @@
+
+{
+  "name": "achatinidae",
+  "children": [
+
+    {
+      "name": "Achatinidae Swainson, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "achatininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/achatinidae/achatininae/"
+    }
+,
+    {
+      "name": "coeliaxinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/achatinidae/coeliaxinae/"
+    }
+,
+    {
+      "name": "opeatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/achatinidae/opeatinae/"
+    }
+,
+    {
+      "name": "petriolinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/achatinidae/petriolinae/"
+    }
+,
+    {
+      "name": "rumininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/achatinidae/rumininae/"
+    }
+,
+    {
+      "name": "stenogyrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/achatinidae/stenogyrinae/"
+    }
+,
+    {
+      "name": "subulininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/stylommatophora/achatinidae/subulininae/"
+    }
+
+  ]
+}

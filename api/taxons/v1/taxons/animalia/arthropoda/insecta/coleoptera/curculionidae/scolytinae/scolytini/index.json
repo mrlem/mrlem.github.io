@@ -1,0 +1,662 @@
+
+{
+  "name": "scolytini",
+  "children": [
+
+    {
+      "name": "Scolytini Latreille, 1804",
+      "url": ""
+    }
+,
+    {
+      "name": "Camptocerus Latreille, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Camptocerus aeneipennis (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980956"
+    }
+,
+    {
+      "name": "Hylesinus aeneipennis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980965"
+    }
+,
+    {
+      "name": "Hylesinus gibbus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980971"
+    }
+,
+    {
+      "name": "Camptocerus aterrimus Eggers, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752885"
+    }
+,
+    {
+      "name": "Camptocerus auricomus Blandford, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980976"
+    }
+,
+    {
+      "name": "Camptocerus striatulus Hagedorn, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980980"
+    }
+,
+    {
+      "name": "Camptocerus charpentierae Schedl, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980982"
+    }
+,
+    {
+      "name": "Camptocerus costatus Chapuis, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980986"
+    }
+,
+    {
+      "name": "Camptocerus seriatus Eggers, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752887"
+    }
+,
+    {
+      "name": "Camptocerus mandelshtami Petrov, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771181"
+    }
+,
+    {
+      "name": "Camptocerus niger (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752886"
+    }
+,
+    {
+      "name": "Brachycerus niger Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924166"
+    }
+,
+    {
+      "name": "Camptocerus squammiger Chapuis",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771179"
+    }
+,
+    {
+      "name": "Camptocerus noel Smith & Cognato, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771182"
+    }
+,
+    {
+      "name": "Camptocerus opacicollis (Eggers, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980987"
+    }
+,
+    {
+      "name": "Camptocerus aquilus Wood, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980994"
+    }
+,
+    {
+      "name": "Camptocerus infidelis Wood, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980990"
+    }
+,
+    {
+      "name": "Camptocerus uniseriatus Schedl, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980992"
+    }
+,
+    {
+      "name": "Loganius opacicollis Eggers, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980988"
+    }
+,
+    {
+      "name": "Camptocerus orientalis Eggers, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908903"
+    }
+,
+    {
+      "name": "Camptocerus suturalis (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771180"
+    }
+,
+    {
+      "name": "Rhynchaenus suturalis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924167"
+    }
+,
+    {
+      "name": "Ceratolepis Chapuis, 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "Ceratolepis niger Eggers, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752888"
+    }
+,
+    {
+      "name": "Cnemonyx Eichhoff, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Cnemonyx niger (Eggers, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980999"
+    }
+,
+    {
+      "name": "Camptocerus nigricans Schedl, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981000"
+    }
+,
+    {
+      "name": "Cnemonyx parvus (Nunberg, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981002"
+    }
+,
+    {
+      "name": "Loganius Chapuis, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Loganius ficus Schwarz, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984991"
+    }
+,
+    {
+      "name": "Ceratolepis nubilus Blackman, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984993"
+    }
+,
+    {
+      "name": "Cnemonyx ficus (Schwarz, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984992"
+    }
+,
+    {
+      "name": "Loganius vagabundus Wood, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984994"
+    }
+,
+    {
+      "name": "Cnemonyx vagabundus (Wood, 1961)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984995"
+    }
+,
+    {
+      "name": "Scolytus Geoffroy, 1762",
+      "url": ""
+    }
+,
+    {
+      "name": "Scolytus amygdali Guérin-Méneville, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242329"
+    }
+,
+    {
+      "name": "Eccoptogaster aegyptiacus Pic, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408978"
+    }
+,
+    {
+      "name": "Eccoptogaster anatolicus Eggers, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408980"
+    }
+,
+    {
+      "name": "Scolytus amygdali var. rufipennis Branczik, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983307"
+    }
+,
+    {
+      "name": "Scolytus rufipennis Branczik, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408979"
+    }
+,
+    {
+      "name": "Scolytus carpini (Ratzeburg, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242330"
+    }
+,
+    {
+      "name": "Eccoptogaster balcanicus Eggers, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408981"
+    }
+,
+    {
+      "name": "Eccoptogaster carpini Ratzeburg, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803204"
+    }
+,
+    {
+      "name": "Eccoptogaster peregrinus Eggers, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408982"
+    }
+,
+    {
+      "name": "Scolytus costellatus Chapuis, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981008"
+    }
+,
+    {
+      "name": "Scolytus pseudocostellatus Schedl, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981009"
+    }
+,
+    {
+      "name": "Scolytus strigipennis Schedl, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981012"
+    }
+,
+    {
+      "name": "Scolytus ensifer Eichhoff, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242331"
+    }
+,
+    {
+      "name": "Scolytus intricatus (Ratzeburg, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12919"
+    }
+,
+    {
+      "name": "Eccoptogaster intricatus Ratzeburg, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803205"
+    }
+,
+    {
+      "name": "Eccoptogaster picicolor Stephens, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408985"
+    }
+,
+    {
+      "name": "Scolytus eccoptus Eggers in Schedl, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983312"
+    }
+,
+    {
+      "name": "Scolytus lenkoranus Eggers, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408983"
+    }
+,
+    {
+      "name": "Scolytus penicillatus Reitter, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408984"
+    }
+,
+    {
+      "name": "Scolytus simmeli Eggers, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408986"
+    }
+,
+    {
+      "name": "Scolytus tiburtinus Claus, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408987"
+    }
+,
+    {
+      "name": "Scolytus kirschii Skalitzky, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242332"
+    }
+,
+    {
+      "name": "Scolytus kirschii fasciatus Reitter, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252813"
+    }
+,
+    {
+      "name": "Eccoptogaster demaisoni Eggers, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408989"
+    }
+,
+    {
+      "name": "Scolytus kirschii kirschii Skalitzky, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252812"
+    }
+,
+    {
+      "name": "Scolytus granulifer var. ruguloides Sokanovskii, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/990380"
+    }
+,
+    {
+      "name": "Scolytus ruguloides Sokanovskii, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408988"
+    }
+,
+    {
+      "name": "Scolytus koenigi Schevyrew, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242333"
+    }
+,
+    {
+      "name": "Eccoptogaster siculus Eggers, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408991"
+    }
+,
+    {
+      "name": "Scolytus aceris Knotek, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408990"
+    }
+,
+    {
+      "name": "Scolytus laevis Chapuis, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242334"
+    }
+,
+    {
+      "name": "Eccoptogaster loevendali Eggers, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408993"
+    }
+,
+    {
+      "name": "Scolytus pomacearum Butovitsch, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408992"
+    }
+,
+    {
+      "name": "Scolytus mali (Bechstein, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12921"
+    }
+,
+    {
+      "name": "Bostrichus mali Bechstein, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803206"
+    }
+,
+    {
+      "name": "Eccoptogaster castaneus Ratzeburg, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408995"
+    }
+,
+    {
+      "name": "Eccoptogaster pruni Ratzeburg, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408997"
+    }
+,
+    {
+      "name": "Eccoptogaster pyri Ratzeburg, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408998"
+    }
+,
+    {
+      "name": "Scolytus bicallosus Eggers, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408994"
+    }
+,
+    {
+      "name": "Scolytus nitidulus Chapuis, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408996"
+    }
+,
+    {
+      "name": "Scolytus rimskii Kurentsov, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/408999"
+    }
+,
+    {
+      "name": "Scolytus sulcatus LeConte, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409000"
+    }
+,
+    {
+      "name": "Scolytus multistriatus (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242335"
+    }
+,
+    {
+      "name": "Ips multistriatus Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893586"
+    }
+,
+    {
+      "name": "Scolytus multistriatus multistriatus (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/252814"
+    }
+,
+    {
+      "name": "Eccoptogaster abhorrens Wichmann, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409001"
+    }
+,
+    {
+      "name": "Eccoptogaster flavicornis Chevrolat, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409002"
+    }
+,
+    {
+      "name": "Scolytus javanus Chapuis, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409003"
+    }
+,
+    {
+      "name": "Scolytus nodifer Reitter, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409006"
+    }
+,
+    {
+      "name": "Scolytus papuanus Schedl, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409007"
+    }
+,
+    {
+      "name": "Scolytus therondi Hoffmann, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409004"
+    }
+,
+    {
+      "name": "Scolytus triornatus Eichhoff, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409005"
+    }
+,
+    {
+      "name": "Scolytus ulmi Redtenbacher, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409008"
+    }
+,
+    {
+      "name": "Scolytus pygmaeus (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242336"
+    }
+,
+    {
+      "name": "Bostrichus pygmaeus Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803207"
+    }
+,
+    {
+      "name": "Eccoptogaster noxius Ratzeburg, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409010"
+    }
+,
+    {
+      "name": "Scolytus armatus Comolli, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409009"
+    }
+,
+    {
+      "name": "Scolytus ratzeburgii E.W. Janson, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242337"
+    }
+,
+    {
+      "name": "Eccoptogaster amurensis Eggers, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409011"
+    }
+,
+    {
+      "name": "Eccoptogaster destructor Ratzeburg, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409012"
+    }
+,
+    {
+      "name": "Eccoptogaster sahlbergi Eggers, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409014"
+    }
+,
+    {
+      "name": "Eccoptogester sibiricus Eggers, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409015"
+    }
+,
+    {
+      "name": "Scolytus lineatus Kurentsov, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409013"
+    }
+,
+    {
+      "name": "Scolytus ratzeburgi E.W. Janson, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988280"
+    }
+,
+    {
+      "name": "Scolytus rugulosus (P.W.J. Müller, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242338"
+    }
+,
+    {
+      "name": "Bostrichus rugulosus P.W.J. Müller, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803208"
+    }
+,
+    {
+      "name": "Eccoptogaster mediterraneus Eggers, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409019"
+    }
+,
+    {
+      "name": "Ruguloscolytus rugulosus (P.W.J. Müller, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845192"
+    }
+,
+    {
+      "name": "Scolytus assimilis Boheman, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409016"
+    }
+,
+    {
+      "name": "Scolytus caucasicus Butovitsch, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409020"
+    }
+,
+    {
+      "name": "Scolytus fauveli Reitter, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409023"
+    }
+,
+    {
+      "name": "Scolytus haemorrhous Schmidberger, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409017"
+    }
+,
+    {
+      "name": "Scolytus intermedius Sokanovskiy, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409024"
+    }
+,
+    {
+      "name": "Scolytus manglissiensis Lezhava, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409018"
+    }
+,
+    {
+      "name": "Scolytus samarkandicus Butovitsch, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409021"
+    }
+,
+    {
+      "name": "Scolytus sanctaluciae Hoffmann, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409025"
+    }
+,
+    {
+      "name": "Scolytus similis Butovitsch, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409022"
+    }
+,
+    {
+      "name": "Scolytus taxicola Lezhava, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409026"
+    }
+,
+    {
+      "name": "Scolytus scolytus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242339"
+    }
+,
+    {
+      "name": "Bostrichus scolytus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803209"
+    }
+,
+    {
+      "name": "Dermestes geoffroi Goeze, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409031"
+    }
+,
+    {
+      "name": "Dermestes scolythus Sulzer, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409034"
+    }
+,
+    {
+      "name": "Scolytus californicus LeConte, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409027"
+    }
+,
+    {
+      "name": "Scolytus ciliaris Rey, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409029"
+    }
+,
+    {
+      "name": "Scolytus destructor Olivier, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409028"
+    }
+,
+    {
+      "name": "Scolytus fuchsi Reitter, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409030"
+    }
+,
+    {
+      "name": "Scolytus niger Geoffroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409032"
+    }
+,
+    {
+      "name": "Scolytus punctatus Müller, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409033"
+    }
+,
+    {
+      "name": "Scolytus variabilis Sokanovskiy, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409035"
+    }
+,
+    {
+      "name": "Scolytus sulcifrons Rey, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242340"
+    }
+,
+    {
+      "name": "Eccoptogaster leonii Eggers, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/409036"
+    }
+,
+    {
+      "name": "Scolytus destructor var. sulcifrons Rey, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988012"
+    }
+,
+    {
+      "name": "Scolytus triarmatus (Eggers, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/242341"
+    }
+,
+    {
+      "name": "Eccoptogaster triarmatus Eggers, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/803210"
+    }
+
+  ]
+}

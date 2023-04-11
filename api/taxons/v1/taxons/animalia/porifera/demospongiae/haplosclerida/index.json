@@ -1,0 +1,47 @@
+
+{
+  "name": "haplosclerida",
+  "children": [
+
+    {
+      "name": "Haplosclerida Topsent, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Haplosclerina Topsent, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Petrosina Boury-Esnault & van Beveren, 1982",
+      "url": ""
+    }
+,
+    {
+      "name": "callyspongiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/haplosclerida/callyspongiidae/"
+    }
+,
+    {
+      "name": "chalinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/haplosclerida/chalinidae/"
+    }
+,
+    {
+      "name": "niphatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/haplosclerida/niphatidae/"
+    }
+,
+    {
+      "name": "petrosiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/haplosclerida/petrosiidae/"
+    }
+,
+    {
+      "name": "phloeodictyidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/haplosclerida/phloeodictyidae/"
+    }
+
+  ]
+}

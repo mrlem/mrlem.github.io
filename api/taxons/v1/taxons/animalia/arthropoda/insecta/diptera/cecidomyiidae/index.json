@@ -1,0 +1,6847 @@
+
+{
+  "name": "cecidomyiidae",
+  "children": [
+
+    {
+      "name": "Cecidomyiidae Newman, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "cecidomyiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/cecidomyiidae/cecidomyiinae/"
+    }
+,
+    {
+      "name": "Acericecis Gagne, 1983",
+      "url": ""
+    }
+,
+    {
+      "name": "Acericecis campestre Harris, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002536"
+    }
+,
+    {
+      "name": "Acericecis vitrina (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250215"
+    }
+,
+    {
+      "name": "Dasineura vitrina (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848763"
+    }
+,
+    {
+      "name": "Harrisomyia vitrina (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848762"
+    }
+,
+    {
+      "name": "Perrisia vitrina Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848761"
+    }
+,
+    {
+      "name": "Anapeza Gagné, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Anapeza tumida Gagné, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837131"
+    }
+,
+    {
+      "name": "Anthodiplosis Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthodiplosis rudimentalis (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250209"
+    }
+,
+    {
+      "name": "Clinodiplosis rudimentalis Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936378"
+    }
+,
+    {
+      "name": "Antichiridium Rübsaamen, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Antichiridium caricis (Kieffer, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250208"
+    }
+,
+    {
+      "name": "Clinodiplosis caricis Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936380"
+    }
+,
+    {
+      "name": "Antichiridium striatum (Rübsaamen, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959155"
+    }
+,
+    {
+      "name": "Antichira striata Rübsaamen, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959158"
+    }
+,
+    {
+      "name": "Aphidoletes Kieffer, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphidoletes abietis (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250206"
+    }
+,
+    {
+      "name": "Bremia abietis Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936382"
+    }
+,
+    {
+      "name": "Aphidoletes aphidimyza (Rondani, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21439"
+    }
+,
+    {
+      "name": "Bremia sonchi Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014878"
+    }
+,
+    {
+      "name": "Cecidomyia aphidimyza Rondani, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936385"
+    }
+,
+    {
+      "name": "Aphidoletes urticaria (Kieffer, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250207"
+    }
+,
+    {
+      "name": "Bremia urticaria Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936386"
+    }
+,
+    {
+      "name": "Apiomyia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Apiomyia bergenstammi (Wachtl, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250205"
+    }
+,
+    {
+      "name": "Hormomyia bergenstammi Wachtl, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936389"
+    }
+,
+    {
+      "name": "Arceuthomyia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Arceuthomyia valerii (Tavares, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909394"
+    }
+,
+    {
+      "name": "Rhopalomyia valerii Tavares, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936393"
+    }
+,
+    {
+      "name": "Arnoldiola Strand, 1926",
+      "url": ""
+    }
+,
+    {
+      "name": "Arnoldiola dryophila (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250201"
+    }
+,
+    {
+      "name": "Arnoldia dryophila Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911420"
+    }
+,
+    {
+      "name": "Arnoldiola gemmae (Rübsaamen, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977057"
+    }
+,
+    {
+      "name": "Arnoldiola libera (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250202"
+    }
+,
+    {
+      "name": "Arnoldia libera Kieffer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911427"
+    }
+,
+    {
+      "name": "Perrisia libera Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936397"
+    }
+,
+    {
+      "name": "Arnoldiola quercus (Binnie, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250203"
+    }
+,
+    {
+      "name": "Cecidomyia quercus Binnie, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911419"
+    }
+,
+    {
+      "name": "Arnoldiola sambuci (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250204"
+    }
+,
+    {
+      "name": "Arnoldia sambuci Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936399"
+    }
+,
+    {
+      "name": "Arnoldiola tympanifex (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977058"
+    }
+,
+    {
+      "name": "Arthrocnodax Rübsaamen, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Arthrocnodax fagi Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250198"
+    }
+,
+    {
+      "name": "Arthrocnodax gemmarum Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250199"
+    }
+,
+    {
+      "name": "Arthrocnodax meridionalis Felt, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892746"
+    }
+,
+    {
+      "name": "Arthrocnodax tanaceti Kieffer, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250200"
+    }
+,
+    {
+      "name": "Aschistonyx Rübsaamen, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Aschistonyx carpinicolus Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977063"
+    }
+,
+    {
+      "name": "Asphondylia H. Loew, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Asphondylia baudysi Vimmer, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250182"
+    }
+,
+    {
+      "name": "Asphondylia bitensis Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977064"
+    }
+,
+    {
+      "name": "Asphondylia borzi (Stefani, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250183"
+    }
+,
+    {
+      "name": "Asphondylia borzii (Stefani, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854049"
+    }
+,
+    {
+      "name": "Cecidomyia borzi Stefani, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936400"
+    }
+,
+    {
+      "name": "Asphondylia buddleia Felt, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977065"
+    }
+,
+    {
+      "name": "Asphondylia cabezasae Möhn, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892708"
+    }
+,
+    {
+      "name": "Asphondylia calaminthae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977072"
+    }
+,
+    {
+      "name": "Asphondylia calycotomae Kieffer, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977073"
+    }
+,
+    {
+      "name": "Asphondylia capparis Rübsaamen, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977074"
+    }
+,
+    {
+      "name": "Asphondylia corbulae Möhn, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438775"
+    }
+,
+    {
+      "name": "Asphondylia cordiae Möhn, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892709"
+    }
+,
+    {
+      "name": "Asphondylia coronillae (Vallot, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250184"
+    }
+,
+    {
+      "name": "Cecidomyia coronillae Vallot, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936401"
+    }
+,
+    {
+      "name": "Asphondylia cytisi Frauenfeld, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977082"
+    }
+,
+    {
+      "name": "Asphondylia dorycnii (Müller, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250185"
+    }
+,
+    {
+      "name": "Cecidomyia dorycnii Müller, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936402"
+    }
+,
+    {
+      "name": "Asphondylia ervi Rübsaamen, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977083"
+    }
+,
+    {
+      "name": "Asphondylia fusca (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21441"
+    }
+,
+    {
+      "name": "Cecidomyia fusca Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936403"
+    }
+,
+    {
+      "name": "Asphondylia genistae (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250186"
+    }
+,
+    {
+      "name": "Cecidomyia genistae Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936405"
+    }
+,
+    {
+      "name": "Asphondylia herculesi Möhn, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892710"
+    }
+,
+    {
+      "name": "Asphondylia hornigi Wachtl, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977087"
+    }
+,
+    {
+      "name": "Asphondylia lopezae Wünch, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892711"
+    }
+,
+    {
+      "name": "Asphondylia lupulinae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250187"
+    }
+,
+    {
+      "name": "Asphondylia melanopus Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250188"
+    }
+,
+    {
+      "name": "Asphondylia menthae Kieffer, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250189"
+    }
+,
+    {
+      "name": "Asphondylia miki Wachtl, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250190"
+    }
+,
+    {
+      "name": "Asphondylia ononidis F. Löw, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250191"
+    }
+,
+    {
+      "name": "Asphondylia pilosa Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250192"
+    }
+,
+    {
+      "name": "Asphondylia portulacae Möhn, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892712"
+    }
+,
+    {
+      "name": "Asphondylia pruniperda Rondani, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21442"
+    }
+,
+    {
+      "name": "Asphondylia prunorum Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854077"
+    }
+,
+    {
+      "name": "Asphondylia punica Marchal, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977090"
+    }
+,
+    {
+      "name": "Asphondylia rosmarini Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250193"
+    }
+,
+    {
+      "name": "Asphondylia ruelliae Möhn, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892714"
+    }
+,
+    {
+      "name": "Asphondylia sarothamni (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21444"
+    }
+,
+    {
+      "name": "Asphondylia mayeri Liebel, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018732"
+    }
+,
+    {
+      "name": "Cecidomyia sarothamni Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936406"
+    }
+,
+    {
+      "name": "Asphondylia scrophulariae Schiner, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250194"
+    }
+,
+    {
+      "name": "Asphondylia serpylli Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250195"
+    }
+,
+    {
+      "name": "Asphondylia stachytarpheta Barnes, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892715"
+    }
+,
+    {
+      "name": "Asphondylia stefanii Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250196"
+    }
+,
+    {
+      "name": "Asphondylia stephanii Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853852"
+    }
+,
+    {
+      "name": "Asphondylia swaedae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250197"
+    }
+,
+    {
+      "name": "Asphondylia tabernaemontanae Möhn, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892716"
+    }
+,
+    {
+      "name": "Asphondylia trabuti Marchal, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015012"
+    }
+,
+    {
+      "name": "Asphondylia trabutii Marchal, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977093"
+    }
+,
+    {
+      "name": "Asphondylia ulicis Trail, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854059"
+    }
+,
+    {
+      "name": "Asphondylia verbasci (Vallot, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21446"
+    }
+,
+    {
+      "name": "Asphondylia dufouri Kieffer, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897284"
+    }
+,
+    {
+      "name": "Cecidomyia verbasci Vallot, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936407"
+    }
+,
+    {
+      "name": "Asphondylia vincenti Felt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892717"
+    }
+,
+    {
+      "name": "Asphondylia waltheriae Möhn, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892718"
+    }
+,
+    {
+      "name": "Asphondylia websteri Felt, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438476"
+    }
+,
+    {
+      "name": "Atrichosema Kieffer, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Atrichosema aceris Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250181"
+    }
+,
+    {
+      "name": "Baldratia Kieffer, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Baldratia salicorniae Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977103"
+    }
+,
+    {
+      "name": "Bayeria Rübsaamen, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Bayeria buhri Mohn, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848717"
+    }
+,
+    {
+      "name": "Bayeriola Gagne, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Bayeriola buhri (Möhn, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977105"
+    }
+,
+    {
+      "name": "Bayeriola erysimi (Rübsaamen, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977104"
+    }
+,
+    {
+      "name": "Bayeriola salicariae (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250179"
+    }
+,
+    {
+      "name": "Cecidomyia salicariae Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936409"
+    }
+,
+    {
+      "name": "Bayeriola thymicola (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250180"
+    }
+,
+    {
+      "name": "Bayeria thymicola (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21449"
+    }
+,
+    {
+      "name": "Cecidomyia thymicola Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936410"
+    }
+,
+    {
+      "name": "Blastodiplosis Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Blastodiplosis artemisiae (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250178"
+    }
+,
+    {
+      "name": "Clinodiplosis artemisiae Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936411"
+    }
+,
+    {
+      "name": "Blastomyia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Blastomyia origani (Tavares, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250177"
+    }
+,
+    {
+      "name": "Oligotrophus origani Tavares, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936413"
+    }
+,
+    {
+      "name": "Brachineura Rondani, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Brachineura minima Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250174"
+    }
+,
+    {
+      "name": "Brachineura squamata Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250175"
+    }
+,
+    {
+      "name": "Brachineura squamigera (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250176"
+    }
+,
+    {
+      "name": "Spaniocerea squamigera Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936414"
+    }
+,
+    {
+      "name": "Braueriella Kieffer, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Braueriella phillyreae (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977106"
+    }
+,
+    {
+      "name": "Bremia Rondani, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Bremia bifurcata Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250170"
+    }
+,
+    {
+      "name": "Bremia ciliata Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250171"
+    }
+,
+    {
+      "name": "Bremia longicornis Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250172"
+    }
+,
+    {
+      "name": "Bremia longipes (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250173"
+    }
+,
+    {
+      "name": "Dicrodiplosis longipes Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936415"
+    }
+,
+    {
+      "name": "Bremiola Rübsaamen, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Bremiola onobrychidis (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250169"
+    }
+,
+    {
+      "name": "Cecidomyia onobrychidis Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936416"
+    }
+,
+    {
+      "name": "Perrisia onobrychidis (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854075"
+    }
+,
+    {
+      "name": "Camptodiplosis Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Camptodiplosis boleti (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250168"
+    }
+,
+    {
+      "name": "Mycodiplosis boleti Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936417"
+    }
+,
+    {
+      "name": "Camptoneuromyia Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Camptoneuromyia meridionalis Felt, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892719"
+    }
+,
+    {
+      "name": "Cecidomyia Meigen, 1803",
+      "url": ""
+    }
+,
+    {
+      "name": "Cecidomyia pini (De Geer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21452"
+    }
+,
+    {
+      "name": "Tipula pini De Geer, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936432"
+    }
+,
+    {
+      "name": "Cedrocrypta Kieffer, 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "Cedrocrypta montana Kieffer, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960662"
+    }
+,
+    {
+      "name": "Chelobremia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Chelobremia sublevis (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250167"
+    }
+,
+    {
+      "name": "Clinodiplosis sublevis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936435"
+    }
+,
+    {
+      "name": "Chrybaneura Gagné, 1968",
+      "url": ""
+    }
+,
+    {
+      "name": "Chrybaneura harrisoni Gagné, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642209"
+    }
+,
+    {
+      "name": "Clinodiplosis Kieffer, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Clinodiplosis botularia (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21454"
+    }
+,
+    {
+      "name": "Cecidomyia botularia Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936436"
+    }
+,
+    {
+      "name": "Clinodiplosis capsici Gagné, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438496"
+    }
+,
+    {
+      "name": "Clinodiplosis cattleyae (Molliard, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250166"
+    }
+,
+    {
+      "name": "Cecidomyia cattleyae Molliard, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936437"
+    }
+,
+    {
+      "name": "Clinodiplosis cilicrus (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21455"
+    }
+,
+    {
+      "name": "Diplosis cilicrus Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936438"
+    }
+,
+    {
+      "name": "Coniophora Nijveldt, 1959",
+      "url": ""
+    }
+,
+    {
+      "name": "Coniophora autumnalis (Mamaev, 1961)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960690"
+    }
+,
+    {
+      "name": "Procystiphora autumnalis Mamaev, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960691"
+    }
+,
+    {
+      "name": "Contarinia Rondani, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Contarinia acerplicans (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21458"
+    }
+,
+    {
+      "name": "Diplosis acerplicans Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936441"
+    }
+,
+    {
+      "name": "Contarinia acetosellae (Rübsaamen, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250118"
+    }
+,
+    {
+      "name": "Diplosis acetosellae Rübsaamen, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936442"
+    }
+,
+    {
+      "name": "Contarinia aconitifloris Stelter, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848719"
+    }
+,
+    {
+      "name": "Contarinia aequalis Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21459"
+    }
+,
+    {
+      "name": "Contarinia anthobia (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250119"
+    }
+,
+    {
+      "name": "Diplosis anthobia F. Löw, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936443"
+    }
+,
+    {
+      "name": "Contarinia anthonoma (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250120"
+    }
+,
+    {
+      "name": "Diplosis anthonoma Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936444"
+    }
+,
+    {
+      "name": "Contarinia aprilina Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250121"
+    }
+,
+    {
+      "name": "Contarinia arrhenatheri Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250122"
+    }
+,
+    {
+      "name": "Contarinia asperulae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250123"
+    }
+,
+    {
+      "name": "Contarinia avenae Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250124"
+    }
+,
+    {
+      "name": "Contarinia baeri (Prell, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977111"
+    }
+,
+    {
+      "name": "Contarinia ballotae Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250125"
+    }
+,
+    {
+      "name": "Contarinia barbichei (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250126"
+    }
+,
+    {
+      "name": "Diplosis barbichei Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936445"
+    }
+,
+    {
+      "name": "Contarinia bitensis (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250127"
+    }
+,
+    {
+      "name": "Stenodiplosis bitensis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936446"
+    }
+,
+    {
+      "name": "Contarinia brizae Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250128"
+    }
+,
+    {
+      "name": "Contarinia campanulae (Kieffer, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250129"
+    }
+,
+    {
+      "name": "Eudiplosis campanulae Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936447"
+    }
+,
+    {
+      "name": "Contarinia camphorosmae (Tavares, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977113"
+    }
+,
+    {
+      "name": "Contarinia carpini Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250130"
+    }
+,
+    {
+      "name": "Contarinia chrysanthemi (Kieffer, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250131"
+    }
+,
+    {
+      "name": "Eudiplosis chrysanthemi Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936448"
+    }
+,
+    {
+      "name": "Contarinia citri Barnes, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906142"
+    }
+,
+    {
+      "name": "Contarinia constricta Condrashoff, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002389"
+    }
+,
+    {
+      "name": "Contarinia coryli (Kaltenbach, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250132"
+    }
+,
+    {
+      "name": "Cecidomyia coryli Kaltenbach, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911664"
+    }
+,
+    {
+      "name": "Contarinia craccae Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21460"
+    }
+,
+    {
+      "name": "Contarinia crispans Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250133"
+    }
+,
+    {
+      "name": "Contarinia cucubali Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908899"
+    }
+,
+    {
+      "name": "Contarinia cuniculator Condrashoff, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002388"
+    }
+,
+    {
+      "name": "Contarinia cybelae Gagné, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250134"
+    }
+,
+    {
+      "name": "Contarinia echii (Kieffer, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250135"
+    }
+,
+    {
+      "name": "Eudiplosis echii Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936449"
+    }
+,
+    {
+      "name": "Contarinia erigeronis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250136"
+    }
+,
+    {
+      "name": "Contarinia fagi Rübsaamen, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960693"
+    }
+,
+    {
+      "name": "Contarinia galeobdolontis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250137"
+    }
+,
+    {
+      "name": "Contarinia galii Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250138"
+    }
+,
+    {
+      "name": "Contarinia gei Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250139"
+    }
+,
+    {
+      "name": "Contarinia helianthemi (Hardy, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977186"
+    }
+,
+    {
+      "name": "Cecidomyia helianthemi Hardy, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977189"
+    }
+,
+    {
+      "name": "Contarinia heraclei (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848720"
+    }
+,
+    {
+      "name": "Diplosis heraclei Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848721"
+    }
+,
+    {
+      "name": "Contarinia hyperici Barnes, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977187"
+    }
+,
+    {
+      "name": "Contarinia ilicis Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250140"
+    }
+,
+    {
+      "name": "Contarinia jacobaeae (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250141"
+    }
+,
+    {
+      "name": "Cecidomyia jacobaeae Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936450"
+    }
+,
+    {
+      "name": "Contarinia lamii Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977192"
+    }
+,
+    {
+      "name": "Contarinia lathyri Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250142"
+    }
+,
+    {
+      "name": "Contarinia lentis Aczél, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250143"
+    }
+,
+    {
+      "name": "Contarinia loti (De Geer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21463"
+    }
+,
+    {
+      "name": "Diplosis loti (De Geer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007800"
+    }
+,
+    {
+      "name": "Tipula loti De Geer, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936451"
+    }
+,
+    {
+      "name": "Contarinia luteola Tavares, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911632"
+    }
+,
+    {
+      "name": "Contarinia lycopersici Felt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892720"
+    }
+,
+    {
+      "name": "Contarinia lysimachiae (Rübsaamen, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977193"
+    }
+,
+    {
+      "name": "Diplosis lysimachiae Rübsaamen, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977195"
+    }
+,
+    {
+      "name": "Contarinia maculipennis Felt, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845965"
+    }
+,
+    {
+      "name": "Contarinia marchali Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250144"
+    }
+,
+    {
+      "name": "Contarinia martagonis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977194"
+    }
+,
+    {
+      "name": "Contarinia medicaginis Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250145"
+    }
+,
+    {
+      "name": "Contarinia melanocera Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250146"
+    }
+,
+    {
+      "name": "Contarinia molluginis (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848722"
+    }
+,
+    {
+      "name": "Diplosis molluginis Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848723"
+    }
+,
+    {
+      "name": "Contarinia nasturtii (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21466"
+    }
+,
+    {
+      "name": "Diplosis nasturtii Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936452"
+    }
+,
+    {
+      "name": "Contarinia nikolayi (Rübsaamen, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977197"
+    }
+,
+    {
+      "name": "Contarinia nubilipennis (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250147"
+    }
+,
+    {
+      "name": "Diplosis nubilipennis Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936453"
+    }
+,
+    {
+      "name": "Contarinia onobrychidis Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250148"
+    }
+,
+    {
+      "name": "Contarinia ononidis Kieffer, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250149"
+    }
+,
+    {
+      "name": "Contarinia petioli (Kieffer, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21467"
+    }
+,
+    {
+      "name": "Harmandia petioli Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936454"
+    }
+,
+    {
+      "name": "Contarinia picridis (Kieffer, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250150"
+    }
+,
+    {
+      "name": "Doxodiplosis picridis Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936455"
+    }
+,
+    {
+      "name": "Contarinia pilosellae Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848724"
+    }
+,
+    {
+      "name": "Contarinia pisi (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21468"
+    }
+,
+    {
+      "name": "Cecidomyia pisi Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936457"
+    }
+,
+    {
+      "name": "Contarinia polygonati Rübsaamen, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977199"
+    }
+,
+    {
+      "name": "Contarinia populi (Rübsaamen, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977202"
+    }
+,
+    {
+      "name": "Syndiplosis populi Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977203"
+    }
+,
+    {
+      "name": "Contarinia pruniflorum Coutin & Rambier, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250151"
+    }
+,
+    {
+      "name": "Contarinia pseudotsugae Condrashoff, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002052"
+    }
+,
+    {
+      "name": "Contarinia pulchripes (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21469"
+    }
+,
+    {
+      "name": "Diplosis pulchripes Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936458"
+    }
+,
+    {
+      "name": "Contarinia pyrivora (Riley, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21470"
+    }
+,
+    {
+      "name": "Diplosis pyrivora Riley, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936459"
+    }
+,
+    {
+      "name": "Contarinia quercina (Rübsaamen, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21471"
+    }
+,
+    {
+      "name": "Diplosis quercina Rübsaamen, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911421"
+    }
+,
+    {
+      "name": "Contarinia quinquenotata (F. Low, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910886"
+    }
+,
+    {
+      "name": "Diplosis quinquenotata F. Low, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910887"
+    }
+,
+    {
+      "name": "Contarinia ribis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250152"
+    }
+,
+    {
+      "name": "Contarinia rubicola Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977207"
+    }
+,
+    {
+      "name": "Contarinia rumicina (Tavares, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977208"
+    }
+,
+    {
+      "name": "Atylodiplosis rumicina Tavares, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977210"
+    }
+,
+    {
+      "name": "Contarinia rumicis (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21472"
+    }
+,
+    {
+      "name": "Cecidomyia rumicis Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936530"
+    }
+,
+    {
+      "name": "Contarinia sambuci (Kaltenbach, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250153"
+    }
+,
+    {
+      "name": "Cecidomyia sambuci Kaltenbach, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936531"
+    }
+,
+    {
+      "name": "Contarinia scabiosae Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250154"
+    }
+,
+    {
+      "name": "Contarinia schlechtendaliana (Rübsaamen, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250155"
+    }
+,
+    {
+      "name": "Contarinia sonchi Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015503"
+    }
+,
+    {
+      "name": "Diplosis schlechtendaliana Rübsaamen, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936560"
+    }
+,
+    {
+      "name": "Contarinia scoparii (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21473"
+    }
+,
+    {
+      "name": "Diplosis scoparii Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936561"
+    }
+,
+    {
+      "name": "Contarinia scrophulariae Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250156"
+    }
+,
+    {
+      "name": "Contarinia silvestris Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250157"
+    }
+,
+    {
+      "name": "Contarinia solani (Rübsaamen, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977214"
+    }
+,
+    {
+      "name": "Diplosis solani Rübsaamen, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977215"
+    }
+,
+    {
+      "name": "Contarinia sorbi Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250158"
+    }
+,
+    {
+      "name": "Contarinia steini (Karsch, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21474"
+    }
+,
+    {
+      "name": "Cecidomyia steini Karsch, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936567"
+    }
+,
+    {
+      "name": "Contarinia subulifex Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250159"
+    }
+,
+    {
+      "name": "Contarinia symphyti Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250160"
+    }
+,
+    {
+      "name": "Contarinia tiliarum (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21475"
+    }
+,
+    {
+      "name": "Diplosis tiliarum Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936568"
+    }
+,
+    {
+      "name": "Contarinia tragopogonis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250161"
+    }
+,
+    {
+      "name": "Contarinia tremulae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250162"
+    }
+,
+    {
+      "name": "Contarinia tritici (Kirby, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21476"
+    }
+,
+    {
+      "name": "Tipula tritici Kirby, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936571"
+    }
+,
+    {
+      "name": "Contarinia trotteri Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250163"
+    }
+,
+    {
+      "name": "Contarinia viburnorum Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250164"
+    }
+,
+    {
+      "name": "Contarinia viticola Rübsaamen, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250165"
+    }
+,
+    {
+      "name": "Coquillettomyia Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Coquillettomyia dentata Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960694"
+    }
+,
+    {
+      "name": "Coquillettomyia lobata (Felt, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960696"
+    }
+,
+    {
+      "name": "Craneiobia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Craneiobia corni (Giraud, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21478"
+    }
+,
+    {
+      "name": "Cecidomyia corni Giraud, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936573"
+    }
+,
+    {
+      "name": "Oligotrophus corni (Giraud, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854102"
+    }
+,
+    {
+      "name": "Ctenodactylomyia Felt, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Ctenodactylomyia watsoni Felt, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892722"
+    }
+,
+    {
+      "name": "Cupressatia Gagné, 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "Cupressatia siskiyou (Felt, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013981"
+    }
+,
+    {
+      "name": "Janetiella siskiyou Felt, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250005"
+    }
+,
+    {
+      "name": "Cystiphora Kieffer, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Cystiphora leontodontis (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250116"
+    }
+,
+    {
+      "name": "Cecidomyia leontodontis Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936580"
+    }
+,
+    {
+      "name": "Cystiphora sanguinea (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21480"
+    }
+,
+    {
+      "name": "Cecidomyia hieracii Low, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848725"
+    }
+,
+    {
+      "name": "Cecidomyia sanguinea Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936579"
+    }
+,
+    {
+      "name": "Cystiphora hieracii (Low, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848726"
+    }
+,
+    {
+      "name": "Cystiphora schmidti (Rübsaamen, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977220"
+    }
+,
+    {
+      "name": "Laubertia schmidti Rübsaamen, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977221"
+    }
+,
+    {
+      "name": "Cystiphora scorzonerae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250117"
+    }
+,
+    {
+      "name": "Cystiphora sonchi (Vallot, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21483"
+    }
+,
+    {
+      "name": "Cecidomyia sonchi Vallot, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936581"
+    }
+,
+    {
+      "name": "Cystiphora taraxaci (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21485"
+    }
+,
+    {
+      "name": "Cecidomyia taraxaci Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936582"
+    }
+,
+    {
+      "name": "Dasineura Rondani, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasineura abietiperda (Henschel, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250035"
+    }
+,
+    {
+      "name": "Cecidomyia abietiperda Henschel, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910638"
+    }
+,
+    {
+      "name": "Dasineura acrophila (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21495"
+    }
+,
+    {
+      "name": "Cecidomyia acrophila Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936583"
+    }
+,
+    {
+      "name": "Dasineura affinis (Kieffer, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21496"
+    }
+,
+    {
+      "name": "Cecidomyia affinis Kieffer, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936584"
+    }
+,
+    {
+      "name": "Perrisia affinis (Kieffer, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854018"
+    }
+,
+    {
+      "name": "Dasineura airae (Kieffer, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250036"
+    }
+,
+    {
+      "name": "Perrisia airae Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936585"
+    }
+,
+    {
+      "name": "Dasineura alpestris (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977225"
+    }
+,
+    {
+      "name": "Perrisia alpestris Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977226"
+    }
+,
+    {
+      "name": "Dasineura aparines (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21497"
+    }
+,
+    {
+      "name": "Cecidomyia aparines Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936586"
+    }
+,
+    {
+      "name": "Eriophyes aparines (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854117"
+    }
+,
+    {
+      "name": "Dasineura asperulae (F. Löw, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250037"
+    }
+,
+    {
+      "name": "Cecidomyia asperulae F. Löw, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936587"
+    }
+,
+    {
+      "name": "Perrusia asperulae (F. Löw, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867207"
+    }
+,
+    {
+      "name": "Dasineura astragalorum (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977228"
+    }
+,
+    {
+      "name": "Perrisia astragalorum Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977229"
+    }
+,
+    {
+      "name": "Dasineura aucupariae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250038"
+    }
+,
+    {
+      "name": "Perrisia aucupariae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936588"
+    }
+,
+    {
+      "name": "Dasineura auricomi (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250039"
+    }
+,
+    {
+      "name": "Perrisia auricomi Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936589"
+    }
+,
+    {
+      "name": "Dasineura auritae Rübsaamen, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21498"
+    }
+,
+    {
+      "name": "Dasineura axillaris Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250040"
+    }
+,
+    {
+      "name": "Perrisia axillaris Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854070"
+    }
+,
+    {
+      "name": "Dasineura berberidis (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250041"
+    }
+,
+    {
+      "name": "Perrisia berberidis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936590"
+    }
+,
+    {
+      "name": "Dasineura bergrothiana (Mik, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854020"
+    }
+,
+    {
+      "name": "Cecidomyia bergrothiana Mik, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936591"
+    }
+,
+    {
+      "name": "Perrisia bergrothiana (Mik, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854021"
+    }
+,
+    {
+      "name": "Dasineura betuleti (Kieffer, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250042"
+    }
+,
+    {
+      "name": "Cecidomyia betuleti Kieffer, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936592"
+    }
+,
+    {
+      "name": "Dasineura bistortae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250043"
+    }
+,
+    {
+      "name": "Perrisia bistortae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936593"
+    }
+,
+    {
+      "name": "Dasineura brassicae (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21499"
+    }
+,
+    {
+      "name": "Cecidomyia brassicae Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977235"
+    }
+,
+    {
+      "name": "Dasineura broteri (Tavares, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908940"
+    }
+,
+    {
+      "name": "Perrisia broteri Tavares, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936594"
+    }
+,
+    {
+      "name": "Dasineura brunellae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977233"
+    }
+,
+    {
+      "name": "Perrisia brunellae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977234"
+    }
+,
+    {
+      "name": "Dasineura bursifex (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250044"
+    }
+,
+    {
+      "name": "Perrisia bursifex Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936595"
+    }
+,
+    {
+      "name": "Dasineura campanulae Rübsaamen, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848727"
+    }
+,
+    {
+      "name": "Dasineura campanularum (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250045"
+    }
+,
+    {
+      "name": "Perrisia campanularum Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936596"
+    }
+,
+    {
+      "name": "Dasineura capsulae Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250046"
+    }
+,
+    {
+      "name": "Dasineura cardaminis (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250047"
+    }
+,
+    {
+      "name": "Cecidomyia cardaminis Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936597"
+    }
+,
+    {
+      "name": "Dasineura cardamines (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21502"
+    }
+,
+    {
+      "name": "Dasineura caricis Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250048"
+    }
+,
+    {
+      "name": "Dasineura carpesii (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250049"
+    }
+,
+    {
+      "name": "Perrisia carpesii Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936598"
+    }
+,
+    {
+      "name": "Dasineura centaureae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848728"
+    }
+,
+    {
+      "name": "Perrisia centaureae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848729"
+    }
+,
+    {
+      "name": "Dasineura cerastii (Binnie, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250050"
+    }
+,
+    {
+      "name": "Cecidomyia cerastii Binnie, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936599"
+    }
+,
+    {
+      "name": "Dasineura columnae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854064"
+    }
+,
+    {
+      "name": "Perrisia columnae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854065"
+    }
+,
+    {
+      "name": "Dasineura corollae Gagné, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892723"
+    }
+,
+    {
+      "name": "Dasineura crataegi (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21504"
+    }
+,
+    {
+      "name": "Cecidomyia crataegi Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936600"
+    }
+,
+    {
+      "name": "Perrisia crataegi (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854088"
+    }
+,
+    {
+      "name": "Dasineura cytisi (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250051"
+    }
+,
+    {
+      "name": "Perrisia cytisi Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936601"
+    }
+,
+    {
+      "name": "Dasineura daphnes (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909410"
+    }
+,
+    {
+      "name": "Perrisia daphnes Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936602"
+    }
+,
+    {
+      "name": "Dasineura dianthi (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250052"
+    }
+,
+    {
+      "name": "Perrisia dianthi Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936603"
+    }
+,
+    {
+      "name": "Dasineura dioicae (Rübsaamen, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977348"
+    }
+,
+    {
+      "name": "Dichelomyia dioicae Rübsaamen, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977350"
+    }
+,
+    {
+      "name": "Dasineura engstfeldi (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21506"
+    }
+,
+    {
+      "name": "Cecidomyia engstfeldi Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936604"
+    }
+,
+    {
+      "name": "Dasineura epilobii (Low, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848740"
+    }
+,
+    {
+      "name": "Cecidomyia epilobii Low, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848741"
+    }
+,
+    {
+      "name": "Dasineura ericaescopariae (Dufour, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250053"
+    }
+,
+    {
+      "name": "Cecidomyia ericaescopariae Dufour, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936605"
+    }
+,
+    {
+      "name": "Dasineura euphorbiarum (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250054"
+    }
+,
+    {
+      "name": "Perrisia euphorbiarum Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936606"
+    }
+,
+    {
+      "name": "Dasineura excavans (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848742"
+    }
+,
+    {
+      "name": "Perrisia excavans Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848743"
+    }
+,
+    {
+      "name": "Dasineura fairmairei (Kieffer, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250055"
+    }
+,
+    {
+      "name": "Perrisia fairmairei Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936607"
+    }
+,
+    {
+      "name": "Dasineura filicina (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21507"
+    }
+,
+    {
+      "name": "Cecidomyia filicina Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936608"
+    }
+,
+    {
+      "name": "Dasineura filipendulae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250056"
+    }
+,
+    {
+      "name": "Perrisia filipendulae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936609"
+    }
+,
+    {
+      "name": "Dasineura fraxinea Kieffer, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250057"
+    }
+,
+    {
+      "name": "Dasineura fraxini (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21508"
+    }
+,
+    {
+      "name": "Cecidomyia fraxinicola Hardy, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936611"
+    }
+,
+    {
+      "name": "Cecidomyia fraxini Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936610"
+    }
+,
+    {
+      "name": "Perrisia fraxini Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016249"
+    }
+,
+    {
+      "name": "Dasineura fructicola (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250058"
+    }
+,
+    {
+      "name": "Perrisia fructicola Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936612"
+    }
+,
+    {
+      "name": "Dasineura galeopsis Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250059"
+    }
+,
+    {
+      "name": "Dasineura galiicola (F. Löw, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21513"
+    }
+,
+    {
+      "name": "Cecidomyia galiicola F. Löw, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936613"
+    }
+,
+    {
+      "name": "Dasineura gallica (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250060"
+    }
+,
+    {
+      "name": "Perrisia gallica Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936614"
+    }
+,
+    {
+      "name": "Dasineura geranii (Kieffer, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250061"
+    }
+,
+    {
+      "name": "Perrisia geranii Kieffer, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936616"
+    }
+,
+    {
+      "name": "Dasineura glechomae (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21544"
+    }
+,
+    {
+      "name": "Cecidomyia glechomae Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936617"
+    }
+,
+    {
+      "name": "Dasineura gleditchiae (Osten Sacken, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/347408"
+    }
+,
+    {
+      "name": "Cecidomyia gleditchiae Osten Sacken, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936618"
+    }
+,
+    {
+      "name": "Dasineura glyciphyli Rübsaamen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250062"
+    }
+,
+    {
+      "name": "Dasineura holosteae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250063"
+    }
+,
+    {
+      "name": "Perrisia holosteae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936619"
+    }
+,
+    {
+      "name": "Dasineura hygrophila (Mik, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21545"
+    }
+,
+    {
+      "name": "Cecidomyia hygrophila Mik, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936620"
+    }
+,
+    {
+      "name": "Dasineura hyperici (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21546"
+    }
+,
+    {
+      "name": "Cecidomyia hyperici Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848744"
+    }
+,
+    {
+      "name": "Dasineura irregularis (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21547"
+    }
+,
+    {
+      "name": "Cecidomyia irregularis Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936621"
+    }
+,
+    {
+      "name": "Dasineura kellneri (Henschel, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977366"
+    }
+,
+    {
+      "name": "Cecidomyia kellneri Henschel, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977367"
+    }
+,
+    {
+      "name": "Dasineura kiefferiana (Rübsaamen, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21549"
+    }
+,
+    {
+      "name": "Cecidomyia kiefferiana Rübsaamen, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936622"
+    }
+,
+    {
+      "name": "Dasineura kiefferi Marchal, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250064"
+    }
+,
+    {
+      "name": "Dasyneura kiefferi Marchal, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015013"
+    }
+,
+    {
+      "name": "Dasineura lamiicola (Mik, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250066"
+    }
+,
+    {
+      "name": "Cecidomyia lamiicola Mik, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936615"
+    }
+,
+    {
+      "name": "Dasineura lamii (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250065"
+    }
+,
+    {
+      "name": "Perrisia lamii Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936623"
+    }
+,
+    {
+      "name": "Dasineura lathyricola (Rübsaamen, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977371"
+    }
+,
+    {
+      "name": "Cecidomyia lathyricola Rübsaamen, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977372"
+    }
+,
+    {
+      "name": "Dasineura lathyri (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250067"
+    }
+,
+    {
+      "name": "Perrisia lathyri Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854074"
+    }
+,
+    {
+      "name": "Dasineura leguminicola (Lintner, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250068"
+    }
+,
+    {
+      "name": "Cecidomyia leguminicola Lintner, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936624"
+    }
+,
+    {
+      "name": "Dasineura linosyridis Möhn, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845392"
+    }
+,
+    {
+      "name": "Dasineura lithospermi (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250069"
+    }
+,
+    {
+      "name": "Cecidomyia lithospermi Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936625"
+    }
+,
+    {
+      "name": "Dasineura loewii (Mik, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977377"
+    }
+,
+    {
+      "name": "Cecidomyia loewii Mik, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936712"
+    }
+,
+    {
+      "name": "Euphorbomyia loewii (Mik, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250028"
+    }
+,
+    {
+      "name": "Dasineura lotharingiae (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250070"
+    }
+,
+    {
+      "name": "Cecidomyia lotharingiae Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936626"
+    }
+,
+    {
+      "name": "Dasineura lupulinae (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250071"
+    }
+,
+    {
+      "name": "Cecidomyia lupulinae Kieffer, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936627"
+    }
+,
+    {
+      "name": "Dasineura mali (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250072"
+    }
+,
+    {
+      "name": "Perrisia mali Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936628"
+    }
+,
+    {
+      "name": "Dasineura marginemtorquens (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21550"
+    }
+,
+    {
+      "name": "Cecidomyia marginemtorquens Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936629"
+    }
+,
+    {
+      "name": "Rabdophaga marginemtorquens (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977755"
+    }
+,
+    {
+      "name": "Dasineura medicaginis (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250073"
+    }
+,
+    {
+      "name": "Cecidomyia medicaginis Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936630"
+    }
+,
+    {
+      "name": "Perrisia ignorata (Wachtl, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854066"
+    }
+,
+    {
+      "name": "Dasineura medullaris (Kieffer, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250074"
+    }
+,
+    {
+      "name": "Cecidomyia medullaris Kieffer, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936631"
+    }
+,
+    {
+      "name": "Rabdophaga medullaris (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977762"
+    }
+,
+    {
+      "name": "Dasineura myosotidis (Kieffer, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250075"
+    }
+,
+    {
+      "name": "Perrisia myosotidis Kieffer, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936632"
+    }
+,
+    {
+      "name": "Dasineura napi (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250076"
+    }
+,
+    {
+      "name": "Cecidomyia napi Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936633"
+    }
+,
+    {
+      "name": "Dasineura nervicola (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977382"
+    }
+,
+    {
+      "name": "Perrisia nervicola Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977387"
+    }
+,
+    {
+      "name": "Dasineura odoratae Stelter, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908923"
+    }
+,
+    {
+      "name": "Dasineura oleae (F. Löw, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977383"
+    }
+,
+    {
+      "name": "Cecidomyia oleae F. Löw, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977386"
+    }
+,
+    {
+      "name": "Dasineura panteli (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977384"
+    }
+,
+    {
+      "name": "Perrisia panteli Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977385"
+    }
+,
+    {
+      "name": "Dasineura papaveris (Winnertz, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250077"
+    }
+,
+    {
+      "name": "Cecidomyia papaveris Winnertz, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936634"
+    }
+,
+    {
+      "name": "Dasineura periclymeni (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250078"
+    }
+,
+    {
+      "name": "Cecidomyia periclymeni Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936635"
+    }
+,
+    {
+      "name": "Perrisia periclymeni (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854114"
+    }
+,
+    {
+      "name": "Dasineura phyteumatis (F. Löw, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250079"
+    }
+,
+    {
+      "name": "Cecidomyia phyteumatis F. Löw, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936636"
+    }
+,
+    {
+      "name": "Dasineura pirolae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250080"
+    }
+,
+    {
+      "name": "Perrisia pirolae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936637"
+    }
+,
+    {
+      "name": "Dasineura plicatrix (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21551"
+    }
+,
+    {
+      "name": "Cecidomyia plicatrix Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936638"
+    }
+,
+    {
+      "name": "Perrisia plicatrix (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854082"
+    }
+,
+    {
+      "name": "Dasineura populeti (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21552"
+    }
+,
+    {
+      "name": "Cecidomyia populeti Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936639"
+    }
+,
+    {
+      "name": "Dasineura populnea (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250081"
+    }
+,
+    {
+      "name": "Perrisia populnea Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936640"
+    }
+,
+    {
+      "name": "Dasineura pratensis (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250082"
+    }
+,
+    {
+      "name": "Perrisia pratensis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936641"
+    }
+,
+    {
+      "name": "Dasineura praticola (Kieffer, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250083"
+    }
+,
+    {
+      "name": "Cecidomyia praticola Kieffer, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936642"
+    }
+,
+    {
+      "name": "Dasineura pseudococcus (Thomas, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250084"
+    }
+,
+    {
+      "name": "Cecidomyia pseudococcus Thomas, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936643"
+    }
+,
+    {
+      "name": "Rabdophaga pseudococcus (Thomas, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977759"
+    }
+,
+    {
+      "name": "Dasineura pteridicola (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21553"
+    }
+,
+    {
+      "name": "Perrisia pteridicola Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910637"
+    }
+,
+    {
+      "name": "Dasineura pteridis (Müller, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250085"
+    }
+,
+    {
+      "name": "Cecidomyia pteridis Müller, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936644"
+    }
+,
+    {
+      "name": "Dasineura pulsatillae (Kieffer, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250086"
+    }
+,
+    {
+      "name": "Dichelomyia pulsatillae Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936645"
+    }
+,
+    {
+      "name": "Dasineura pustulans (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21554"
+    }
+,
+    {
+      "name": "Cecidomyia pustulans Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936646"
+    }
+,
+    {
+      "name": "Dasineura pyri (Bouché, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21555"
+    }
+,
+    {
+      "name": "Cecidomyia pyri Bouché, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936647"
+    }
+,
+    {
+      "name": "Perrisia piri (Bouché, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854095"
+    }
+,
+    {
+      "name": "Dasineura ranunculi (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21556"
+    }
+,
+    {
+      "name": "Cecidomyia ranunculi Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936648"
+    }
+,
+    {
+      "name": "Perrisia ranunculi (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853829"
+    }
+,
+    {
+      "name": "Dasineura rapunculi (Kieffer, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977396"
+    }
+,
+    {
+      "name": "Perrisia rapunculi Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977397"
+    }
+,
+    {
+      "name": "Dasineura rhododendri (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250087"
+    }
+,
+    {
+      "name": "Perrisia rhododendri Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936649"
+    }
+,
+    {
+      "name": "Dasineura rosae (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854085"
+    }
+,
+    {
+      "name": "Cecidomyia rosae Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936650"
+    }
+,
+    {
+      "name": "Perrisia rosarum (Hardy, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854086"
+    }
+,
+    {
+      "name": "Dasineura rosmarini Tavares, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250088"
+    }
+,
+    {
+      "name": "Dasineura rubella Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250089"
+    }
+,
+    {
+      "name": "Perrisia acercrispans rubella (Kieffer, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854035"
+    }
+,
+    {
+      "name": "Dasineura ruebsaameni (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977401"
+    }
+,
+    {
+      "name": "Perrisia ruebsaameni Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977405"
+    }
+,
+    {
+      "name": "Dasineura salviae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250090"
+    }
+,
+    {
+      "name": "Perrisia salviae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936651"
+    }
+,
+    {
+      "name": "Dasineura sampaina (Tavares, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250091"
+    }
+,
+    {
+      "name": "Perrisia sampaina Tavares, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854022"
+    }
+,
+    {
+      "name": "Dasineura saxifragae (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250092"
+    }
+,
+    {
+      "name": "Cecidomyia saxifragae Kieffer, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936652"
+    }
+,
+    {
+      "name": "Dasineura schulzei Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977403"
+    }
+,
+    {
+      "name": "Dasineura scirpi Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250093"
+    }
+,
+    {
+      "name": "Dasyneura scirpi Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018728"
+    }
+,
+    {
+      "name": "Dasineura scorpii (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250094"
+    }
+,
+    {
+      "name": "Perrisia scorpii Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936653"
+    }
+,
+    {
+      "name": "Dasineura serotina (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21562"
+    }
+,
+    {
+      "name": "Cecidomyia serotina Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848745"
+    }
+,
+    {
+      "name": "Perrisia serotina (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854029"
+    }
+,
+    {
+      "name": "Dasineura silvestris (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250095"
+    }
+,
+    {
+      "name": "Perrisia silvestris Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936654"
+    }
+,
+    {
+      "name": "Dasineura similis (F. Löw, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250096"
+    }
+,
+    {
+      "name": "Cecidomyia similis F. Löw, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936655"
+    }
+,
+    {
+      "name": "Dasineura sisymbrii (Schrank, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21564"
+    }
+,
+    {
+      "name": "Cecidomyia sisymbrii (Schrank, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808702"
+    }
+,
+    {
+      "name": "Dasyneura sisymbrii (Schrank, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853880"
+    }
+,
+    {
+      "name": "Tipula sisymbrii Schrank, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936656"
+    }
+,
+    {
+      "name": "Dasineura socialis (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250097"
+    }
+,
+    {
+      "name": "Perrisia socialis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936657"
+    }
+,
+    {
+      "name": "Dasineura sodalis (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250098"
+    }
+,
+    {
+      "name": "Cecidomyia sodalis F. Löw, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936658"
+    }
+,
+    {
+      "name": "Dasineura spadicea Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848756"
+    }
+,
+    {
+      "name": "Dasineura spiraeae (Loiselle, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250099"
+    }
+,
+    {
+      "name": "Perrisia spiraeae Loiselle, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936659"
+    }
+,
+    {
+      "name": "Dasineura stellariae Rübsaamen, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250100"
+    }
+,
+    {
+      "name": "Dasineura strumosa (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250101"
+    }
+,
+    {
+      "name": "Cecidomyia strumosa Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936660"
+    }
+,
+    {
+      "name": "Dasineura subpatula (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21565"
+    }
+,
+    {
+      "name": "Cecidomyia subpatula Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977415"
+    }
+,
+    {
+      "name": "Dasineura subterranea (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250102"
+    }
+,
+    {
+      "name": "Perrisia subterranea Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936661"
+    }
+,
+    {
+      "name": "Dasineura symphyti (Rübsaamen, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977438"
+    }
+,
+    {
+      "name": "Cecidomyia symphyti Rübsaamen, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977439"
+    }
+,
+    {
+      "name": "Dasineura tetensi (Rübsaamen, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250103"
+    }
+,
+    {
+      "name": "Cecidomyia tetensi Rübsaamen, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848753"
+    }
+,
+    {
+      "name": "Dasineura ribicola (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848755"
+    }
+,
+    {
+      "name": "Perrisia ribicola Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848754"
+    }
+,
+    {
+      "name": "Dasineura tetrahit (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250104"
+    }
+,
+    {
+      "name": "Perrisia tetrahit Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936662"
+    }
+,
+    {
+      "name": "Dasineura teucrii (Tavares, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250105"
+    }
+,
+    {
+      "name": "Perrisia teucrii Tavares, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936663"
+    }
+,
+    {
+      "name": "Dasineura thomasiana (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21567"
+    }
+,
+    {
+      "name": "Cecidomyia thomasiana Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936665"
+    }
+,
+    {
+      "name": "Dasineura thomasi (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250106"
+    }
+,
+    {
+      "name": "Perrisia thomasi Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936664"
+    }
+,
+    {
+      "name": "Dasineura tiliae (Schrank, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21568"
+    }
+,
+    {
+      "name": "Perrisia tiliamvolvens (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854026"
+    }
+,
+    {
+      "name": "Tipula tiliae Schrank, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936666"
+    }
+,
+    {
+      "name": "Dasineura tortilis (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21570"
+    }
+,
+    {
+      "name": "Cecidomyia tortilis Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/927569"
+    }
+,
+    {
+      "name": "Dasineura tortrix (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854080"
+    }
+,
+    {
+      "name": "Cecidomyia tortrix F. Löw, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936667"
+    }
+,
+    {
+      "name": "Perrisia tortrix (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854081"
+    }
+,
+    {
+      "name": "Dasineura traili (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848757"
+    }
+,
+    {
+      "name": "Perrisia traili Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848758"
+    }
+,
+    {
+      "name": "Dasineura trifolii (F. Löw, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21572"
+    }
+,
+    {
+      "name": "Cecidomyia trifolii F. Löw, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936668"
+    }
+,
+    {
+      "name": "Perrisia trifolii (F. Löw, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854068"
+    }
+,
+    {
+      "name": "Dasineura tubicola (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977477"
+    }
+,
+    {
+      "name": "Cecidomyia tubicola Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977478"
+    }
+,
+    {
+      "name": "Dasineura tubicoloides Gagné, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250107"
+    }
+,
+    {
+      "name": "Dasineura turionum (Kieffer & Trotter, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250108"
+    }
+,
+    {
+      "name": "Perrisia turionum Kieffer & Trotter, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936669"
+    }
+,
+    {
+      "name": "Dasineura tympani (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250109"
+    }
+,
+    {
+      "name": "Perrisia tympani Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936670"
+    }
+,
+    {
+      "name": "Dasineura ulicis (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250110"
+    }
+,
+    {
+      "name": "Perrisia ulicis Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936671"
+    }
+,
+    {
+      "name": "Dasineura ulmaria (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21573"
+    }
+,
+    {
+      "name": "Cecidomyia ulmaria Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936672"
+    }
+,
+    {
+      "name": "Dasineura ulmicola (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250111"
+    }
+,
+    {
+      "name": "Perrisia ulmicola Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936673"
+    }
+,
+    {
+      "name": "Dasineura urticae (Perris, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21574"
+    }
+,
+    {
+      "name": "Cecidomyia urticae Perris, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936674"
+    }
+,
+    {
+      "name": "Dasineura verbasci (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250112"
+    }
+,
+    {
+      "name": "Perrisia verbasci Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936675"
+    }
+,
+    {
+      "name": "Dasineura viciae (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250113"
+    }
+,
+    {
+      "name": "Cecidomyia viciae Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848759"
+    }
+,
+    {
+      "name": "Perrisia viciae (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854073"
+    }
+,
+    {
+      "name": "Dasineura violae (F. Löw, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250114"
+    }
+,
+    {
+      "name": "Cecidomyia violae F. Löw, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936676"
+    }
+,
+    {
+      "name": "Dasineura virgaeaureae (Liebel, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250115"
+    }
+,
+    {
+      "name": "Cecidomyia virgaeaureae Liebel, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936677"
+    }
+,
+    {
+      "name": "Perrisia virgaeaureae (Liebel, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776855"
+    }
+,
+    {
+      "name": "Dasineura zimmermanni (Tavares, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977482"
+    }
+,
+    {
+      "name": "Perrisia zimmermanni Tavares, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977483"
+    }
+,
+    {
+      "name": "Diadiplosis Felt, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Diadiplosis coccidarum (Cockerell, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892749"
+    }
+,
+    {
+      "name": "Diplosis coccidarum Cockerell, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931468"
+    }
+,
+    {
+      "name": "Diadiplosis coccidivora (Felt, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892750"
+    }
+,
+    {
+      "name": "Mycodiplosis coccidivora Felt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931469"
+    }
+,
+    {
+      "name": "Diadiplosis cocci Felt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892748"
+    }
+,
+    {
+      "name": "Diadiplosis multifila (Felt, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892751"
+    }
+,
+    {
+      "name": "Dichrodiplosis multifila Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931476"
+    }
+,
+    {
+      "name": "Diadiplosis pulvinariae (Felt, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892752"
+    }
+,
+    {
+      "name": "Microperrisia pulvinariae Felt, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892753"
+    }
+,
+    {
+      "name": "Diadiplosis vaupedis (Harris, 1968)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892754"
+    }
+,
+    {
+      "name": "Ghesquierinia vaupedis Harris, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931480"
+    }
+,
+    {
+      "name": "Diallactia Gagne, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Diallactia croceus (Kieffer, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250248"
+    }
+,
+    {
+      "name": "Diallactes croceus Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936706"
+    }
+,
+    {
+      "name": "Dichodiplosis Rübsaamen, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Dichodiplosis langeni Rübsaamen, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960698"
+    }
+,
+    {
+      "name": "Dicrodiplosis Kieffer, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Dicrodiplosis fasciata Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250034"
+    }
+,
+    {
+      "name": "Didactylomyia Felt, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Didactylomyia longimana (Felt, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250033"
+    }
+,
+    {
+      "name": "Colpodia longimana Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936707"
+    }
+,
+    {
+      "name": "Didymomyia Rübsaamen, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Didymomyia tiliacea (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21577"
+    }
+,
+    {
+      "name": "Cecidomyia tiliacea Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936708"
+    }
+,
+    {
+      "name": "Hormomyia reaumuriana Low, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936709"
+    }
+,
+    {
+      "name": "Diodaulus Rübsaamen, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Diodaulus linariae (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21580"
+    }
+,
+    {
+      "name": "Cecidomyia linariae Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936710"
+    }
+,
+    {
+      "name": "Diodaulus traili (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21581"
+    }
+,
+    {
+      "name": "Diplosis traili Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936711"
+    }
+,
+    {
+      "name": "Drisina Giard, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Drisina glutinosa Giard, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250032"
+    }
+,
+    {
+      "name": "Dryomyia Kieffer, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Dryomyia cocciferae (Marchal, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250030"
+    }
+,
+    {
+      "name": "Cecidomyia cocciferae Marchal, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911637"
+    }
+,
+    {
+      "name": "Dryomyia lichtensteinii (F. Löw, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250031"
+    }
+,
+    {
+      "name": "Cecidomyia lichtensteinii F. Löw, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911638"
+    }
+,
+    {
+      "name": "Dryomyia lichtensteini ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/18903"
+    }
+,
+    {
+      "name": "Endaphis Kieffer, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Endopsylla Meijere, 1907",
+      "url": ""
+    }
+,
+    {
+      "name": "Endaphis agilis (de Meijere, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013112"
+    }
+,
+    {
+      "name": "Endopsylla agilis (de Meijere, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013113"
+    }
+,
+    {
+      "name": "Endaphis gracilistylus Gagné & Etienne, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924387"
+    }
+,
+    {
+      "name": "Endaphis maculans (Barnes, 1954)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892756"
+    }
+,
+    {
+      "name": "Pseudendaphis maculans Barnes, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892757"
+    }
+,
+    {
+      "name": "Endaphis perfida Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250029"
+    }
+,
+    {
+      "name": "Endaphis perfidus Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014880"
+    }
+,
+    {
+      "name": "Fabomyia Fedotova, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Fabomyia medicaginis (Rübsaamen, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977519"
+    }
+,
+    {
+      "name": "Dasyneura medicaginis Rübsaamen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977518"
+    }
+,
+    {
+      "name": "Jaapiella medicaginis (Rübsaamen, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977511"
+    }
+,
+    {
+      "name": "Faramitella Gagné, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Faramitella planicauda Gagné, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827024"
+    }
+,
+    {
+      "name": "Feltiella Rübsaamen, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Feltiella acarisuga (Vallot, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250027"
+    }
+,
+    {
+      "name": "Cecidomyia acarisuga Vallot, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936713"
+    }
+,
+    {
+      "name": "Ficiomyia Felt, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Ficiomyia perarticulata Felt, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892725"
+    }
+,
+    {
+      "name": "Geocrypta Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Geocrypta braueri (Handlirsch, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250026"
+    }
+,
+    {
+      "name": "Cecidomyia braueri Handlirsch, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936714"
+    }
+,
+    {
+      "name": "Geocrypta galii (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21583"
+    }
+,
+    {
+      "name": "Cecidomyia galii Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936715"
+    }
+,
+    {
+      "name": "Perrisia galii (F. Löw, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857622"
+    }
+,
+    {
+      "name": "Geocrypta trachelii (Wachtl, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848765"
+    }
+,
+    {
+      "name": "Cecidomyia trachelii Wachtl, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848766"
+    }
+,
+    {
+      "name": "Gephyraulus Rübsaamen, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Gephyraulus mangiferae (Felt, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718867"
+    }
+,
+    {
+      "name": "Dasyneura mangiferae Felt, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931482"
+    }
+,
+    {
+      "name": "Gephyraulus raphanistri (Kieffer, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21585"
+    }
+,
+    {
+      "name": "Cecidomyia raphanistri Kieffer, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936716"
+    }
+,
+    {
+      "name": "Giraudiella Rübsaamen, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Giraudiella inclusa (Frauenfeld, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250025"
+    }
+,
+    {
+      "name": "Cecidomyia inclusa Frauenfeld, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936717"
+    }
+,
+    {
+      "name": "Gongromastix Enderlein, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Gongromastix angustipennis (Strobl, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960702"
+    }
+,
+    {
+      "name": "Guignonia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Guignonia potentillae Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250024"
+    }
+,
+    {
+      "name": "Hadrobremia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Hadrobremia longiventris (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250023"
+    }
+,
+    {
+      "name": "Clinodiplosis longiventris Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925656"
+    }
+,
+    {
+      "name": "Clinodiplosis trifolii Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854069"
+    }
+,
+    {
+      "name": "Haplodiplosis Rübsaamen, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Haplodiplosis marginata (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21587"
+    }
+,
+    {
+      "name": "Diplosis marginata von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936718"
+    }
+,
+    {
+      "name": "Harmandiola Skuhrava, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "Harmandiola cavernosa (Rübsaamen, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250019"
+    }
+,
+    {
+      "name": "Diplosis cavernosa Rübsaamen, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936719"
+    }
+,
+    {
+      "name": "Harmandia cavernosa (Rübsaamen, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21590"
+    }
+,
+    {
+      "name": "Harmandiola globuli (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250020"
+    }
+,
+    {
+      "name": "Diplosis globuli Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936720"
+    }
+,
+    {
+      "name": "Harmandia globuli (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21591"
+    }
+,
+    {
+      "name": "Harmandiola populi (Rübsaamen, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977492"
+    }
+,
+    {
+      "name": "Harmandia populi Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977493"
+    }
+,
+    {
+      "name": "Harmandiola pustulans (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250021"
+    }
+,
+    {
+      "name": "Harmandia pustulans Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909400"
+    }
+,
+    {
+      "name": "Harmandiola tremulae (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250022"
+    }
+,
+    {
+      "name": "Cecidomyia tremulae Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936721"
+    }
+,
+    {
+      "name": "Harmandia tremulae (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21593"
+    }
+,
+    {
+      "name": "Hartigiola Rübsaamen, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Hartigiola annulipes (Hartig, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21596"
+    }
+,
+    {
+      "name": "Cecidomyia annulipes Hartig, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911653"
+    }
+,
+    {
+      "name": "Herbomyia Möhn, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Herbomyia robusta Möhn, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960714"
+    }
+,
+    {
+      "name": "Hilversidia Mamaev, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Hilversidia autumnalis Mamaev, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960716"
+    }
+,
+    {
+      "name": "Holobremia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Holobremia fallacicornis (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250017"
+    }
+,
+    {
+      "name": "Bremia fallacicornis Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936722"
+    }
+,
+    {
+      "name": "Holobremia lignicola Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250018"
+    }
+,
+    {
+      "name": "Homobremia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Homobremia emarginata (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250016"
+    }
+,
+    {
+      "name": "Bremia emarginata Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936723"
+    }
+,
+    {
+      "name": "Hybolasioptera Rübsaamen, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Hybolasioptera fasciata (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250015"
+    }
+,
+    {
+      "name": "Lasioptera cerealis Lindeman, 1881 non Fitch, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018729"
+    }
+,
+    {
+      "name": "Lasioptera fasciata Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936724"
+    }
+,
+    {
+      "name": "Hygrodiplosis Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Hygrodiplosis vaccinii (Kieffer, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848767"
+    }
+,
+    {
+      "name": "Diplosis vaccinii Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848768"
+    }
+,
+    {
+      "name": "Iatrophobia Rübsaamen, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Iatrophobia brasiliensis (Rübsaamen, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892727"
+    }
+,
+    {
+      "name": "Clinodiplosis brasiliensis Rübsaamen, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931727"
+    }
+,
+    {
+      "name": "Iteomyia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Iteomyia capreae (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21598"
+    }
+,
+    {
+      "name": "Cecidomyia capreae Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936725"
+    }
+,
+    {
+      "name": "Iteomyia major (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250014"
+    }
+,
+    {
+      "name": "Oligotrophus major Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936726"
+    }
+,
+    {
+      "name": "Jaapiella Rübsaamen, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Jaapiella alpina (Löw, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845115"
+    }
+,
+    {
+      "name": "Cecidomyia alpina Löw, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936727"
+    }
+,
+    {
+      "name": "Jaapiella bryoniae (Bouché, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21601"
+    }
+,
+    {
+      "name": "Cecidomyia bryoniae Bouché, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936728"
+    }
+,
+    {
+      "name": "Jaapiella cirsiicola Rübsaamen, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977497"
+    }
+,
+    {
+      "name": "Jaapiella clethrophila Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21602"
+    }
+,
+    {
+      "name": "Jaapiella compositarum (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250006"
+    }
+,
+    {
+      "name": "Cecidomyia compositarum Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936729"
+    }
+,
+    {
+      "name": "Jaapiella cucubali (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250007"
+    }
+,
+    {
+      "name": "Perrisia cucubali Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936730"
+    }
+,
+    {
+      "name": "Jaapiella dittrichi (Rübsaamen, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250008"
+    }
+,
+    {
+      "name": "Dichelomyia dittrichi Rübsaamen, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936731"
+    }
+,
+    {
+      "name": "Jaapiella floriperda (Low, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848769"
+    }
+,
+    {
+      "name": "Cecidomyia floriperda Low, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848770"
+    }
+,
+    {
+      "name": "Jaapiella genistamtorquens (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250009"
+    }
+,
+    {
+      "name": "Cecidomyia genistamtorquens Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936732"
+    }
+,
+    {
+      "name": "Perrisia genistamtorquens (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854062"
+    }
+,
+    {
+      "name": "Jaapiella genisticola (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21603"
+    }
+,
+    {
+      "name": "Cecidomyia genisticola F. Löw, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936733"
+    }
+,
+    {
+      "name": "Perrisia genisticola (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854061"
+    }
+,
+    {
+      "name": "Jaapiella jaapiana (Rübsaamen, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977510"
+    }
+,
+    {
+      "name": "Dasyneura jaapiana Rübsaamen, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977516"
+    }
+,
+    {
+      "name": "Jaapiella loticola (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250010"
+    }
+,
+    {
+      "name": "Cecidomyia loticola Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936734"
+    }
+,
+    {
+      "name": "Jaapiella moraviae (Wachtl, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977512"
+    }
+,
+    {
+      "name": "Cecidomyia moraviae Wachtl, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977521"
+    }
+,
+    {
+      "name": "Jaapiella parvula (Liebel, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250011"
+    }
+,
+    {
+      "name": "Cecidomyia parvula Liebel, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936735"
+    }
+,
+    {
+      "name": "Jaapiella scabiosae (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250012"
+    }
+,
+    {
+      "name": "Cecidomyia scabiosae Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936736"
+    }
+,
+    {
+      "name": "Jaapiella schmidti (Rübsaamen, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977514"
+    }
+,
+    {
+      "name": "Dasyneura schmidti Rübsaamen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977522"
+    }
+,
+    {
+      "name": "Jaapiella thalictri (Rübsaamen, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977525"
+    }
+,
+    {
+      "name": "Dichelomyia thalictri Rübsaamen, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977528"
+    }
+,
+    {
+      "name": "Jaapiella vacciniorum (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977527"
+    }
+,
+    {
+      "name": "Perrisia vacciniorum Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977529"
+    }
+,
+    {
+      "name": "Jaapiella veronicae (Vallot, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21604"
+    }
+,
+    {
+      "name": "Cecidomyia veronicae Vallot, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936737"
+    }
+,
+    {
+      "name": "Jaapiella viscariae (Kieffer, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250013"
+    }
+,
+    {
+      "name": "Cecidomyia viscariae Kieffer, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936738"
+    }
+,
+    {
+      "name": "Janetia ",
+      "url": ""
+    }
+,
+    {
+      "name": "Janetia panteli (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911580"
+    }
+,
+    {
+      "name": "Arnoldia panteli Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911581"
+    }
+,
+    {
+      "name": "Kiefferiola panteli (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911583"
+    }
+,
+    {
+      "name": "Janetiella Kieffer, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Janetiella genistae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250001"
+    }
+,
+    {
+      "name": "Janetiella glechomae Tavares, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250002"
+    }
+,
+    {
+      "name": "Janetiella lemeei (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250003"
+    }
+,
+    {
+      "name": "Oligotrophus lemeei Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936739"
+    }
+,
+    {
+      "name": "Janetiella oenephila (Haimhoffen, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250004"
+    }
+,
+    {
+      "name": "Cecidomyia oenephila Haimhoffen, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936740"
+    }
+,
+    {
+      "name": "Janetiella oenophila (Haimhoffen, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854041"
+    }
+,
+    {
+      "name": "Janetiella thymi (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21606"
+    }
+,
+    {
+      "name": "Cecidomyia thymi Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936741"
+    }
+,
+    {
+      "name": "Janetiella tuberculi (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21608"
+    }
+,
+    {
+      "name": "Cecidomyia tuberculi Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936742"
+    }
+,
+    {
+      "name": "Kaltenbachiola Hedicke, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Kaltenbachiola strobi (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21610"
+    }
+,
+    {
+      "name": "Cecidomyia strobi Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936743"
+    }
+,
+    {
+      "name": "Karshomyia Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Karshomyia caulicola (Coquillett, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960727"
+    }
+,
+    {
+      "name": "Diplosis caulicola Coquillett, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960741"
+    }
+,
+    {
+      "name": "Karshomyia ramosa (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250000"
+    }
+,
+    {
+      "name": "Bremia ramosa Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936744"
+    }
+,
+    {
+      "name": "Kiefferia Mik, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Kiefferia pericarpiicola (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21612"
+    }
+,
+    {
+      "name": "Asphondylia pimpinellae Loew, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936746"
+    }
+,
+    {
+      "name": "Cecidomyia pericarpiicola Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936745"
+    }
+,
+    {
+      "name": "Schizomyia pimpinellae (Loew, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854101"
+    }
+,
+    {
+      "name": "Kochiomyia Mamaev, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Kochiomyia kochiae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977532"
+    }
+,
+    {
+      "name": "Rophalomyia kochiae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977533"
+    }
+,
+    {
+      "name": "Lamprodiplosis Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Lamprodiplosis rhopalothrix (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249999"
+    }
+,
+    {
+      "name": "Lestodiplosis rhopalothrix Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936747"
+    }
+,
+    {
+      "name": "Lasioptera Meigen, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Lasioptera arundinis Schiner, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249992"
+    }
+,
+    {
+      "name": "Lasioptera calamagrostidis Rübsaamen, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249993"
+    }
+,
+    {
+      "name": "Lasioptera carophila F. Löw, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21615"
+    }
+,
+    {
+      "name": "Lasioptera donacis Coutin & Faivre-Amiot, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249994"
+    }
+,
+    {
+      "name": "Lasioptera eryngii (Vallot, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249995"
+    }
+,
+    {
+      "name": "Cecidomyia eryngii Vallot, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936748"
+    }
+,
+    {
+      "name": "Dasineura eryngii (Vallot, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/844820"
+    }
+,
+    {
+      "name": "Lasioptera francoisi (Kieffer, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249996"
+    }
+,
+    {
+      "name": "Perrisia francoisi Kieffer, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936749"
+    }
+,
+    {
+      "name": "Lasioptera longipes Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249997"
+    }
+,
+    {
+      "name": "Lasioptera populnea Wachtl, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21616"
+    }
+,
+    {
+      "name": "Lasioptera rubi (Schrank, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21617"
+    }
+,
+    {
+      "name": "Tipula rubi Schrank, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936750"
+    }
+,
+    {
+      "name": "Lasioptera rufa Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249998"
+    }
+,
+    {
+      "name": "Lasioptera thapsiae Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977536"
+    }
+,
+    {
+      "name": "Lathyromyza Rübsaamen, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Lathyromyza schlechtendali (Kieffer, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249991"
+    }
+,
+    {
+      "name": "Cecidomyia schlechtendali Kieffer, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936751"
+    }
+,
+    {
+      "name": "Latrophobia Rübsaamen, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Latrophobia brasiliensis Rübsaamen, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752194"
+    }
+,
+    {
+      "name": "Lauthia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Lauthia acerina (Giraud, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249985"
+    }
+,
+    {
+      "name": "Cecidomyia acerina Giraud, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936752"
+    }
+,
+    {
+      "name": "Ledomyia acerina (Giraud, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977537"
+    }
+,
+    {
+      "name": "Lauthia brachypsectra (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249986"
+    }
+,
+    {
+      "name": "Microperrisia brachypsectra (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977574"
+    }
+,
+    {
+      "name": "Perrisia brachypsectra Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936753"
+    }
+,
+    {
+      "name": "Lauthia cardui (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249987"
+    }
+,
+    {
+      "name": "Ledomyia cardui Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936754"
+    }
+,
+    {
+      "name": "Lauthia connata (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249988"
+    }
+,
+    {
+      "name": "Ledomyia connata Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936755"
+    }
+,
+    {
+      "name": "Lauthia divisa (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249989"
+    }
+,
+    {
+      "name": "Ledomyia divisa Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936756"
+    }
+,
+    {
+      "name": "Lauthia obscuripennis (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249990"
+    }
+,
+    {
+      "name": "Ledomyia obscuripennis Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936757"
+    }
+,
+    {
+      "name": "Ledomyia Kieffer, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Ledomyia lineata Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249983"
+    }
+,
+    {
+      "name": "Ledomyia lugens (Kieffer, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249984"
+    }
+,
+    {
+      "name": "Lepidomyia lugens Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936758"
+    }
+,
+    {
+      "name": "Lestodiplosis Kieffer, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Lestodiplosis affinis Barnes, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977538"
+    }
+,
+    {
+      "name": "Lestodiplosis alternans Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249962"
+    }
+,
+    {
+      "name": "Lestodiplosis callipus Gagné, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892758"
+    }
+,
+    {
+      "name": "Lestodiplosis chrysanthemi Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249963"
+    }
+,
+    {
+      "name": "Lestodiplosis coni (Kieffer, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960748"
+    }
+,
+    {
+      "name": "Lestodiplosis corticalis Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249964"
+    }
+,
+    {
+      "name": "Lestodiplosis cruenta Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249965"
+    }
+,
+    {
+      "name": "Lestodiplosis cryphali (Kieffer, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249966"
+    }
+,
+    {
+      "name": "Coprodiplosis cryphali Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936759"
+    }
+,
+    {
+      "name": "Lestodiplosis fascipennis (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21619"
+    }
+,
+    {
+      "name": "Cecidomyia fascipennis Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936760"
+    }
+,
+    {
+      "name": "Lestodiplosis fenestra (Felt, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892759"
+    }
+,
+    {
+      "name": "Arthrocnodax fenestra Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931489"
+    }
+,
+    {
+      "name": "Lestodiplosis fratricida Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249967"
+    }
+,
+    {
+      "name": "Lestodiplosis frirenii (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249968"
+    }
+,
+    {
+      "name": "Diplosis frirenii Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936761"
+    }
+,
+    {
+      "name": "Lestodiplosis giardi Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249969"
+    }
+,
+    {
+      "name": "Lestodiplosis grassator (Fyles, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892760"
+    }
+,
+    {
+      "name": "Diplosis grassator Fyles, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892761"
+    }
+,
+    {
+      "name": "Lestodiplosis heterobiae Barnes, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977539"
+    }
+,
+    {
+      "name": "Lestodiplosis holstei Kieffer, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977540"
+    }
+,
+    {
+      "name": "Lestodiplosis inclusae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249970"
+    }
+,
+    {
+      "name": "Lestodiplosis inermis Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249971"
+    }
+,
+    {
+      "name": "Lestodiplosis lineata Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249972"
+    }
+,
+    {
+      "name": "Lestodiplosis liviae Rübsaamen, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910862"
+    }
+,
+    {
+      "name": "Lestodiplosis longifilis (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249973"
+    }
+,
+    {
+      "name": "Coprodiplosis longifilis Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936762"
+    }
+,
+    {
+      "name": "Lestodiplosis miastoris Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249974"
+    }
+,
+    {
+      "name": "Lestodiplosis miki Barnes, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977542"
+    }
+,
+    {
+      "name": "Lestodiplosis mirabilis (Kieffer, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249975"
+    }
+,
+    {
+      "name": "Coprodiplosis mirabilis Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936763"
+    }
+,
+    {
+      "name": "Lestodiplosis nana (Marikovskij, 1960)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960772"
+    }
+,
+    {
+      "name": "Lestodiplosis necans (Rübsaamen, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977543"
+    }
+,
+    {
+      "name": "Diplosis necans Rübsaamen, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977544"
+    }
+,
+    {
+      "name": "Lestodiplosis pallidicornis Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249976"
+    }
+,
+    {
+      "name": "Lestodiplosis perrisi Gagné, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249977"
+    }
+,
+    {
+      "name": "Cecidomyia pictipennis Perris, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977550"
+    }
+,
+    {
+      "name": "Lestodiplosis pictipennis (Perris, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977547"
+    }
+,
+    {
+      "name": "Lestodiplosis peruviana Felt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642210"
+    }
+,
+    {
+      "name": "Lestodiplosis pini Barnes, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960773"
+    }
+,
+    {
+      "name": "Lestodiplosis plicatricis Barnes, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977548"
+    }
+,
+    {
+      "name": "Lestodiplosis polypori (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960776"
+    }
+,
+    {
+      "name": "Cecidomyia polypori Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960777"
+    }
+,
+    {
+      "name": "Lestodiplosis rosarum Barnes, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977549"
+    }
+,
+    {
+      "name": "Lestodiplosis rosea Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249978"
+    }
+,
+    {
+      "name": "Lestodiplosis septemguttata Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249979"
+    }
+,
+    {
+      "name": "Lestodiplosis tetrachaeta (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249980"
+    }
+,
+    {
+      "name": "Coprodiplosis tetrachaeta Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936764"
+    }
+,
+    {
+      "name": "Lestodiplosis trifolii Barnes, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249981"
+    }
+,
+    {
+      "name": "Lestodiplosis urticae Nijveldt, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977562"
+    }
+,
+    {
+      "name": "Lestodiplosis variegata (Macquart, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21620"
+    }
+,
+    {
+      "name": "Cecidomyia variegata Macquart, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936765"
+    }
+,
+    {
+      "name": "Lestodiplosis winnertziae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249982"
+    }
+,
+    {
+      "name": "Lestodiplosis xylodiplosuga Skuhravá & Dengler, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960778"
+    }
+,
+    {
+      "name": "Loewiola Kieffer, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Loewiola centaureae (F. Löw, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21622"
+    }
+,
+    {
+      "name": "Diplosis centaureae F. Löw, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936767"
+    }
+,
+    {
+      "name": "Loewiola serratulae Kieffer, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249961"
+    }
+,
+    {
+      "name": "Macrodiplosis Kieffer, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Macrodiplosis pustularis (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249959"
+    }
+,
+    {
+      "name": "Cecidomyia pustularis Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936769"
+    }
+,
+    {
+      "name": "Diplosis dryobia F. Loew, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936768"
+    }
+,
+    {
+      "name": "Macrodiplosis dryobia (F. Loew, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21624"
+    }
+,
+    {
+      "name": "Macrodiplosis roboris (Hardy, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249960"
+    }
+,
+    {
+      "name": "Cecidomyia roboris Hardy, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936770"
+    }
+,
+    {
+      "name": "Macrodiplosis volvens Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21625"
+    }
+,
+    {
+      "name": "Macrolabis Kieffer, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Macrolabis aquilegiae (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249954"
+    }
+,
+    {
+      "name": "Perrisia aquilegiae Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936771"
+    }
+,
+    {
+      "name": "Macrolabis brunellae (Tavares, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960780"
+    }
+,
+    {
+      "name": "Macrolabis ruebsaameni Hedicke, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848771"
+    }
+,
+    {
+      "name": "Macrolabis buhri Stelter, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977564"
+    }
+,
+    {
+      "name": "Macrolabis cirsii (Rübsaamen, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919618"
+    }
+,
+    {
+      "name": "Cecidomyia cirsii Rübsaamen, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919619"
+    }
+,
+    {
+      "name": "Perrisia cirsii (Rübsaamen, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919620"
+    }
+,
+    {
+      "name": "Macrolabis heraclei Kaltenbach, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21627"
+    }
+,
+    {
+      "name": "Macrolabis hieracii Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249955"
+    }
+,
+    {
+      "name": "Macrolabis hippocrepidis Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249956"
+    }
+,
+    {
+      "name": "Macrolabis holosteae Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977565"
+    }
+,
+    {
+      "name": "Macrolabis jaapi Rübsaamen, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977566"
+    }
+,
+    {
+      "name": "Macrolabis lamii Rübsaamen, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977567"
+    }
+,
+    {
+      "name": "Macrolabis lonicerae Rübsaamen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977568"
+    }
+,
+    {
+      "name": "Macrolabis luceti Kieffer, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977569"
+    }
+,
+    {
+      "name": "Macrolabis marteli Kieffer, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249957"
+    }
+,
+    {
+      "name": "Macrolabis orobi (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977570"
+    }
+,
+    {
+      "name": "Cecidomyia orobi F. Löw, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977572"
+    }
+,
+    {
+      "name": "Macrolabis pavida (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977571"
+    }
+,
+    {
+      "name": "Cecidomyia pavida Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977573"
+    }
+,
+    {
+      "name": "Macrolabis pilosellae (Binnie, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21629"
+    }
+,
+    {
+      "name": "Cecidomyia pilosellae Binnie, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936772"
+    }
+,
+    {
+      "name": "Macrolabis rhodophila (Hardy, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249958"
+    }
+,
+    {
+      "name": "Cecidomyia rhodophila Hardy, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936773"
+    }
+,
+    {
+      "name": "Macrolabis stellariae (Liebel, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21630"
+    }
+,
+    {
+      "name": "Cecidomyia stellariae Liebel, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936774"
+    }
+,
+    {
+      "name": "Mamaevia Skuhravá, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Mamaevia vysineki Skuhravá, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960805"
+    }
+,
+    {
+      "name": "Massalongia Kieffer, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Massalongia ruber (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249953"
+    }
+,
+    {
+      "name": "Hormomyia ruber Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936775"
+    }
+,
+    {
+      "name": "Massalongia rubra (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21632"
+    }
+,
+    {
+      "name": "Mayetiola Kieffer, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Mayetiola agrostidis Ertel, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/347136"
+    }
+,
+    {
+      "name": "Mayetiola avenae (Marchal, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249944"
+    }
+,
+    {
+      "name": "Cecidomyia avenae Marchal, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936776"
+    }
+,
+    {
+      "name": "Mayetiola bimaculata (Rübsaamen, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249945"
+    }
+,
+    {
+      "name": "Oligotrophus bimaculatus Rübsaamen, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936777"
+    }
+,
+    {
+      "name": "Mayetiola clavata (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249946"
+    }
+,
+    {
+      "name": "Oligotrophus clavata Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936778"
+    }
+,
+    {
+      "name": "Mayetiola dactylidis Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249947"
+    }
+,
+    {
+      "name": "Mayetiola destructor (Say, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21635"
+    }
+,
+    {
+      "name": "Cecidomyia destructor Say, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936779"
+    }
+,
+    {
+      "name": "Mayetiola graminis (Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249948"
+    }
+,
+    {
+      "name": "Cecidomyia poae Bosc d'Antic, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936780"
+    }
+,
+    {
+      "name": "Cynips graminis Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/845046"
+    }
+,
+    {
+      "name": "Mayetiola poae (Bosc d'Antic, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21636"
+    }
+,
+    {
+      "name": "Mayetiola hellwigi (Rübsaamen, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249949"
+    }
+,
+    {
+      "name": "Poomyia hellwigi Rübsaamen, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936781"
+    }
+,
+    {
+      "name": "Mayetiola holci Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249950"
+    }
+,
+    {
+      "name": "Mayetiola hordei Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249951"
+    }
+,
+    {
+      "name": "Mayetiola joannisi Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249952"
+    }
+,
+    {
+      "name": "Mayetiola moliniae (Rübsaamen, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891946"
+    }
+,
+    {
+      "name": "Oligotrophus moliniae Rübsaamen, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936782"
+    }
+,
+    {
+      "name": "Mayetiola radicifica (Rübsaamen, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908777"
+    }
+,
+    {
+      "name": "Poomyia radicifica Rübsaamen, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936783"
+    }
+,
+    {
+      "name": "Meunieriella Kieffer, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Meunieriella avicenniae (Cook, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892729"
+    }
+,
+    {
+      "name": "Cecidomyia avicenniae Cook, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892730"
+    }
+,
+    {
+      "name": "Microlasioptera Skuhrava, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Microlasioptera flexuosa (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977575"
+    }
+,
+    {
+      "name": "Lasioptera flexuosa Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977576"
+    }
+,
+    {
+      "name": "Micromya Rondani, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Micromya lucorum Rondani, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960808"
+    }
+,
+    {
+      "name": "Mikiola Kieffer, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Mikiola cristata Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249943"
+    }
+,
+    {
+      "name": "Mikiola fagi (Hartig, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21638"
+    }
+,
+    {
+      "name": "Cecidomyia fagi Hartig, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911652"
+    }
+,
+    {
+      "name": "Mikomya Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Mikomya coryli (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249942"
+    }
+,
+    {
+      "name": "Oligotrophus coryli Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911662"
+    }
+,
+    {
+      "name": "Monarthropalpus Rübsaamen, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Monarthropalpus flavus (Schrank, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249941"
+    }
+,
+    {
+      "name": "Tipula flava Schrank, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936785"
+    }
+,
+    {
+      "name": "Monobremia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Monobremia subterranea (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249940"
+    }
+,
+    {
+      "name": "Bremia subterranea Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936786"
+    }
+,
+    {
+      "name": "Monodiplosis Rübsaamen, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Monodiplosis liebeli (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21640"
+    }
+,
+    {
+      "name": "Diplosis liebeli Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936787"
+    }
+,
+    {
+      "name": "Mycetodiplosis Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycetodiplosis boleti (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249939"
+    }
+,
+    {
+      "name": "Clinodiplosis boleti Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936788"
+    }
+,
+    {
+      "name": "Mycocecis Edwards, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycocecis ovalis Edwards, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977577"
+    }
+,
+    {
+      "name": "Mycodiplosis Rübsaamen, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycodiplosis coniophaga (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21642"
+    }
+,
+    {
+      "name": "Cecidomyia coniophaga Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936789"
+    }
+,
+    {
+      "name": "Mycodiplosis gymnosporangii Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977578"
+    }
+,
+    {
+      "name": "Mycodiplosis melampsorae (Rübsaamen, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960812"
+    }
+,
+    {
+      "name": "Diplosis melampsorae Rübsaamen, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960813"
+    }
+,
+    {
+      "name": "Mycodiplosis plasmoparae Rübsaamen, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960827"
+    }
+,
+    {
+      "name": "Mycodiplosis pulsatillae (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249936"
+    }
+,
+    {
+      "name": "Diplosis pulsatillae Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937370"
+    }
+,
+    {
+      "name": "Mycodiplosis rubida (Felt, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892731"
+    }
+,
+    {
+      "name": "Toxomyia rubida Felt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931639"
+    }
+,
+    {
+      "name": "Mycodiplosis saundersi Barnes, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960837"
+    }
+,
+    {
+      "name": "Mycodiplosis tremulae Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249937"
+    }
+,
+    {
+      "name": "Mycodiplosis tussilaginis Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249938"
+    }
+,
+    {
+      "name": "Myricomyia ",
+      "url": ""
+    }
+,
+    {
+      "name": "Myricomyia mediterranea (F. Low, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908942"
+    }
+,
+    {
+      "name": "Diplosis mediterranea F. Low, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937371"
+    }
+,
+    {
+      "name": "Neoisodiplosis Holz, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoisodiplosis corticii (Rübsaamen & Hedicke, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960838"
+    }
+,
+    {
+      "name": "Neolasioptera Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Neolasioptera portulacae (Cook, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892733"
+    }
+,
+    {
+      "name": "Cecidomyia portulacae Cook, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892734"
+    }
+,
+    {
+      "name": "Neomikiella Hedicke, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Neomikiella beckiana (Mik, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249935"
+    }
+,
+    {
+      "name": "Cecidomyia beckiana Mik, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937372"
+    }
+,
+    {
+      "name": "Perrisia beckiana (Mik, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883738"
+    }
+,
+    {
+      "name": "Neomikiella lychnidis (Vallot, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21644"
+    }
+,
+    {
+      "name": "Cecidomyia lychnidis Vallot, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936790"
+    }
+,
+    {
+      "name": "Novocalmonia Ozdikmen, 2009",
+      "url": ""
+    }
+,
+    {
+      "name": "Novocalmonia paucula (Gagné & Étienne, 2009)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892736"
+    }
+,
+    {
+      "name": "Paracalmonia paucula Gagné & Etienne, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642207"
+    }
+,
+    {
+      "name": "Obolodiplosis Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Obolodiplosis robiniae (Haldeman, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783856"
+    }
+,
+    {
+      "name": "Cecidomyia robiniae Haldeman, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936791"
+    }
+,
+    {
+      "name": "Odontodiplosis Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Odontodiplosis longiforceps (Kieffer, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249934"
+    }
+,
+    {
+      "name": "Lestodiplosis longiforceps Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936792"
+    }
+,
+    {
+      "name": "Oligotrophus Latreille, 1805",
+      "url": ""
+    }
+,
+    {
+      "name": "Oligotrophus juniperinus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21647"
+    }
+,
+    {
+      "name": "Tipula juniperana Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850408"
+    }
+,
+    {
+      "name": "Tipula juniperina Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936793"
+    }
+,
+    {
+      "name": "Oligotrophus panteli Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249933"
+    }
+,
+    {
+      "name": "Oligotrophus sabinae Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848772"
+    }
+,
+    {
+      "name": "Etsuhoa sabinae (Kieffer, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848773"
+    }
+,
+    {
+      "name": "Oligotrophus schmidti Rübsaamen, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848775"
+    }
+,
+    {
+      "name": "Orseolia Kieffer & Massalongo, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Orseolia cynodontis Kieffer & Massalongo, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249932"
+    }
+,
+    {
+      "name": "Ozirhincus Rondani, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Ozirhincus longicollis Rondani, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21650"
+    }
+,
+    {
+      "name": "Clinorrhyncha chrysanthemi (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018735"
+    }
+,
+    {
+      "name": "Clinorrhyncha leucanthemi Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018736"
+    }
+,
+    {
+      "name": "Clinorrhyncha tanaceti Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936795"
+    }
+,
+    {
+      "name": "Ozirhincus tanaceti (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21653"
+    }
+,
+    {
+      "name": "Ozirhincus millefolii (Wachtl, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21652"
+    }
+,
+    {
+      "name": "Clinorrhyncha millefolii Wachtl, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936794"
+    }
+,
+    {
+      "name": "Paradiplosis Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Paradiplosis abietispectinatae (Tubeuf, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977584"
+    }
+,
+    {
+      "name": "Agevillea abietis Hubault, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977583"
+    }
+,
+    {
+      "name": "Diplosis abietispectinatae Tubeuf, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977585"
+    }
+,
+    {
+      "name": "Paradiplosis abietis (Hubault, 1945)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977581"
+    }
+,
+    {
+      "name": "Parallelodiplosis Rübsaamen, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Parallelodiplosis bupleuri (Rübsaamen, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977580"
+    }
+,
+    {
+      "name": "Clinodiplosis bupleuri Rübsaamen, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977582"
+    }
+,
+    {
+      "name": "Parallelodiplosis galliperda (F. Löw, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21655"
+    }
+,
+    {
+      "name": "Diplosis galliperda F. Löw, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936796"
+    }
+,
+    {
+      "name": "Pectinodiplosis Felt, 1918",
+      "url": ""
+    }
+,
+    {
+      "name": "Pectinodiplosis erratica (Felt, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642212"
+    }
+,
+    {
+      "name": "Contarinia erratica Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892762"
+    }
+,
+    {
+      "name": "Pellacara Gagné, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Pellacara postica Gagné, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837133"
+    }
+,
+    {
+      "name": "Phegomyia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Phegomyia fagicola (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249931"
+    }
+,
+    {
+      "name": "Oligotrophus fagicola Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911654"
+    }
+,
+    {
+      "name": "Phyllodiplosis Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Phyllodiplosis cocciferae (Tavares, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/347103"
+    }
+,
+    {
+      "name": "Blastodiplosis cocciferae (Tavares, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960659"
+    }
+,
+    {
+      "name": "Contarinia cocciferae Tavares, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936804"
+    }
+,
+    {
+      "name": "Physemocecis Rübsaamen, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Physemocecis hartigi (Liebel, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249929"
+    }
+,
+    {
+      "name": "Hormomyia hartigi Liebel, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936806"
+    }
+,
+    {
+      "name": "Physemocecis ulmi (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249930"
+    }
+,
+    {
+      "name": "Oligotrophus ulmi Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936807"
+    }
+,
+    {
+      "name": "Placochela Rübsaamen, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Placochela ligustri (Rübsaamen, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249928"
+    }
+,
+    {
+      "name": "Schizomyia ligustri Rübsaamen, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936808"
+    }
+,
+    {
+      "name": "Placochela nigripes (F. Löw, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21657"
+    }
+,
+    {
+      "name": "Epidosis nigripes F. Löw, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936809"
+    }
+,
+    {
+      "name": "Planetella Westwood, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Planetella arenariae (Rübsaamen, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908776"
+    }
+,
+    {
+      "name": "Hormomyia arenariae Rübsaamen, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936810"
+    }
+,
+    {
+      "name": "Planetella billoti (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249921"
+    }
+,
+    {
+      "name": "Hormomyia billoti Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936811"
+    }
+,
+    {
+      "name": "Planetella caricis (Rübsaamen, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249922"
+    }
+,
+    {
+      "name": "Amaurosiphon caricis Rübsaamen, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936812"
+    }
+,
+    {
+      "name": "Planetella cornifex (Kieffer, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249923"
+    }
+,
+    {
+      "name": "Hormomyia cornifex Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936814"
+    }
+,
+    {
+      "name": "Planetella extrema (Walker, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960841"
+    }
+,
+    {
+      "name": "Planetella frireni (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249924"
+    }
+,
+    {
+      "name": "Hormomyia frireni Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936815"
+    }
+,
+    {
+      "name": "Planetella gallarum (Rübsaamen, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977722"
+    }
+,
+    {
+      "name": "Dichrona gallarum Rübsaamen, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977723"
+    }
+,
+    {
+      "name": "Planetella grandis (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961291"
+    }
+,
+    {
+      "name": "Cecidomyia grandis Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961292"
+    }
+,
+    {
+      "name": "Planetella granifex (Kieffer, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249925"
+    }
+,
+    {
+      "name": "Pseudohormomyia granifex Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936816"
+    }
+,
+    {
+      "name": "Planetella kneuckeri (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249926"
+    }
+,
+    {
+      "name": "Hormomyia kneuckeri Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936817"
+    }
+,
+    {
+      "name": "Planetella lambertoni (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249927"
+    }
+,
+    {
+      "name": "Hormomyia lambertoni Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936818"
+    }
+,
+    {
+      "name": "Plemeliella Seitner, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Plemeliella abietina Seitner, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977724"
+    }
+,
+    {
+      "name": "Polystepha Kieffer, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Polystepha malpighii (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911428"
+    }
+,
+    {
+      "name": "Perrisia malpighii Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911429"
+    }
+,
+    {
+      "name": "Polystepha quercus Kieffer, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249920"
+    }
+,
+    {
+      "name": "Probruggmanniella Mohn, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "Probruggmanniella phillyreae (Tavares, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977732"
+    }
+,
+    {
+      "name": "Schizomyia phillyreae Tavares, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977733"
+    }
+,
+    {
+      "name": "Procontarinia Kieffer & Cecconi, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Procontarinia mangiferae (Felt, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892738"
+    }
+,
+    {
+      "name": "Erosomyia mangiferae Felt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892739"
+    }
+,
+    {
+      "name": "Procontarinia matteiana Kieffer & Cecconi, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906927"
+    }
+,
+    {
+      "name": "Psectrosema Kieffer, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Psectrosema acuticorne Gagné, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249916"
+    }
+,
+    {
+      "name": "Psectrosema album Gagné, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249917"
+    }
+,
+    {
+      "name": "Psectrosema nigrum Gagné, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249918"
+    }
+,
+    {
+      "name": "Psectrosema provinciale Kieffer, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249919"
+    }
+,
+    {
+      "name": "Psectrosema provincialis Kieffer, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854056"
+    }
+,
+    {
+      "name": "Psectrosema tamaricis (Stefani, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977742"
+    }
+,
+    {
+      "name": "Pseudasphondylia ",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudasphondylia rauwolfiae Coutin, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438396"
+    }
+,
+    {
+      "name": "Putoniella Kieffer, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Putoniella pruni (Kaltenbach, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21661"
+    }
+,
+    {
+      "name": "Cecidomyia pruni Kaltenbach, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936857"
+    }
+,
+    {
+      "name": "Rabdophaga Westwood, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Rabdophaga albipennis (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977745"
+    }
+,
+    {
+      "name": "Cecidomyia albipennis Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977746"
+    }
+,
+    {
+      "name": "Rabdophaga clavifex (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249902"
+    }
+,
+    {
+      "name": "Cecidomyia clavifex Kieffer, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936858"
+    }
+,
+    {
+      "name": "Dasineura clavifex (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21503"
+    }
+,
+    {
+      "name": "Rhabdophaga clavifex (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897300"
+    }
+,
+    {
+      "name": "Rabdophaga degeerii (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848737"
+    }
+,
+    {
+      "name": "Cecidomyia degeerii Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848738"
+    }
+,
+    {
+      "name": "Dasineura degeerii (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848739"
+    }
+,
+    {
+      "name": "Rabdophaga dubiosa Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249903"
+    }
+,
+    {
+      "name": "Cecidomyia dubia Kieffer, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018741"
+    }
+,
+    {
+      "name": "Dasineura dubiosa Kieffer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911174"
+    }
+,
+    {
+      "name": "Rabdophaga gemmicola (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249904"
+    }
+,
+    {
+      "name": "Bertieria gemmicola Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936859"
+    }
+,
+    {
+      "name": "Cecidomyia gemmicola (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018781"
+    }
+,
+    {
+      "name": "Dasineura gemmicola (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21542"
+    }
+,
+    {
+      "name": "Rabdophaga giraudiana Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911066"
+    }
+,
+    {
+      "name": "Dasineura giraudiana Kieffer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911173"
+    }
+,
+    {
+      "name": "Rabdophaga heterobia (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249905"
+    }
+,
+    {
+      "name": "Cecidomyia heterobia Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936860"
+    }
+,
+    {
+      "name": "Dasineura heterobia (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/844821"
+    }
+,
+    {
+      "name": "Rhabdophaga heterobia (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897302"
+    }
+,
+    {
+      "name": "Rabdophaga iteobia (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249906"
+    }
+,
+    {
+      "name": "Cecidomyia iteobia Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936861"
+    }
+,
+    {
+      "name": "Dasineura iteobia Kieffer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911166"
+    }
+,
+    {
+      "name": "Rabdophaga karschi (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249907"
+    }
+,
+    {
+      "name": "Cecidomyia karschi Kieffer, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936862"
+    }
+,
+    {
+      "name": "Rabdophaga nervorum (Kieffer, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249908"
+    }
+,
+    {
+      "name": "Dichelomyia nervorum Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936863"
+    }
+,
+    {
+      "name": "Rabdophaga perforans (Kieffer, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977761"
+    }
+,
+    {
+      "name": "Rabdophaga pierreana (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249909"
+    }
+,
+    {
+      "name": "Dasineura pierreana (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911175"
+    }
+,
+    {
+      "name": "Perrisia pierreana Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936864"
+    }
+,
+    {
+      "name": "Rabdophaga pierrei (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249910"
+    }
+,
+    {
+      "name": "Bertieria pierrei Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936865"
+    }
+,
+    {
+      "name": "Dasineura pierrei (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911172"
+    }
+,
+    {
+      "name": "Rabdophaga pulvini (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249911"
+    }
+,
+    {
+      "name": "Cecidomyia pulvini Kieffer, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936866"
+    }
+,
+    {
+      "name": "Helicomyia pulvini (Kieffer, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897301"
+    }
+,
+    {
+      "name": "Rabdophaga rosaria (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977793"
+    }
+,
+    {
+      "name": "Rabdophaga saliciperda (Dufour, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249912"
+    }
+,
+    {
+      "name": "Dasineura saliciperda (Dufour, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21559"
+    }
+,
+    {
+      "name": "Helicomyia saliciperda (Dufour, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897299"
+    }
+,
+    {
+      "name": "Lasioptera saliciperda Dufour, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936867"
+    }
+,
+    {
+      "name": "Rabdophaga salicis (Schrank, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249913"
+    }
+,
+    {
+      "name": "Dasineura salicis (Schrank, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21560"
+    }
+,
+    {
+      "name": "Tipula salicis Schrank, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936868"
+    }
+,
+    {
+      "name": "Rabdophaga strobilina (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249914"
+    }
+,
+    {
+      "name": "Cecidomyia strobilina Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936869"
+    }
+,
+    {
+      "name": "Rabdophaga terminalis (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249915"
+    }
+,
+    {
+      "name": "Cecidomyia terminalis Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936870"
+    }
+,
+    {
+      "name": "Dasineura terminalis (H. Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21566"
+    }
+,
+    {
+      "name": "Rhabdophaga terminalis (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897304"
+    }
+,
+    {
+      "name": "Rabdophaga triandraperda Barnes, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012819"
+    }
+,
+    {
+      "name": "Rhabdophaga triandraperda Barnes, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012822"
+    }
+,
+    {
+      "name": "Resseliella Seitner, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Resseliella betulicola (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249895"
+    }
+,
+    {
+      "name": "Diplosis betulicola Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936871"
+    }
+,
+    {
+      "name": "Plemeliella betulicola (Kieffer, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21659"
+    }
+,
+    {
+      "name": "Resseliella carnea (Kieffer, 1924)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249896"
+    }
+,
+    {
+      "name": "Gillotiella carnea Kieffer, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936872"
+    }
+,
+    {
+      "name": "Resseliella lavandulae (Barnes, 1953)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249897"
+    }
+,
+    {
+      "name": "Thomasiniana lavandulae Barnes, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936873"
+    }
+,
+    {
+      "name": "Resseliella oculiperda (Rübsaamen, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249898"
+    }
+,
+    {
+      "name": "Diplosis oculiperda Rübsaamen, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936874"
+    }
+,
+    {
+      "name": "Resseliella oleisuga (Targioni-Tozetti, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977799"
+    }
+,
+    {
+      "name": "Diplosis oleisuga Targioni-Tozetti, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977801"
+    }
+,
+    {
+      "name": "Resseliella piceae Seitner, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977798"
+    }
+,
+    {
+      "name": "Resseliella quercivora (Mamaev, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961297"
+    }
+,
+    {
+      "name": "Resseliella ranunculi (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249899"
+    }
+,
+    {
+      "name": "Geodiplosis ranunculi Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937374"
+    }
+,
+    {
+      "name": "Lestodiplosis ranunculi (Kieffer, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937373"
+    }
+,
+    {
+      "name": "Resseliella skuhravyorum Skrzypczynska, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977797"
+    }
+,
+    {
+      "name": "Resseliella syringogenea (Hering, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249900"
+    }
+,
+    {
+      "name": "Clinodiplosis syringogenea Hering, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937375"
+    }
+,
+    {
+      "name": "Resseliella theobaldi (Barnes, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249901"
+    }
+,
+    {
+      "name": "Thomasiniana theobaldi Barnes, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937376"
+    }
+,
+    {
+      "name": "Rhizomyia Kieffer, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhizomyia circumspinosa (Rübsaamen, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961309"
+    }
+,
+    {
+      "name": "Coccomorpha circumspinosa Rübsaamen, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961312"
+    }
+,
+    {
+      "name": "Rhizomyia fasciata Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249892"
+    }
+,
+    {
+      "name": "Rhizomyia perplexa Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249893"
+    }
+,
+    {
+      "name": "Rhizomyia silvicola Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249894"
+    }
+,
+    {
+      "name": "Rhopalomyia Rübsaamen, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhopalomyia artemisiae (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21664"
+    }
+,
+    {
+      "name": "Boucheella artemisiae (Bouché, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897286"
+    }
+,
+    {
+      "name": "Cecidomyia artemisiae Bouché, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937378"
+    }
+,
+    {
+      "name": "Rhopalomyia baccarum (Wachtl, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883744"
+    }
+,
+    {
+      "name": "Cecidomyia baccarum Wachtl, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937379"
+    }
+,
+    {
+      "name": "Rhopalomyia chrysanthemi (Ahlberg, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249886"
+    }
+,
+    {
+      "name": "Diarthronomyia chrysanthemi Ahlberg, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937380"
+    }
+,
+    {
+      "name": "Rhopalomyia florum (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249887"
+    }
+,
+    {
+      "name": "Cecidomyia florum Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937382"
+    }
+,
+    {
+      "name": "Rhopalomyia foliorum (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21665"
+    }
+,
+    {
+      "name": "Cecidomyia foliorum Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937383"
+    }
+,
+    {
+      "name": "Rhopalomyia hypogaea (F. Löw, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249888"
+    }
+,
+    {
+      "name": "Cecidomyia hypogaea F. Löw, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937384"
+    }
+,
+    {
+      "name": "Rhopalomyia kiefferi Trotter, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977804"
+    }
+,
+    {
+      "name": "Rhopalomyia millefolii (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21666"
+    }
+,
+    {
+      "name": "Cecidomyia millefolii Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937385"
+    }
+,
+    {
+      "name": "Rhopalomyia palearum (Kieffer, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249889"
+    }
+,
+    {
+      "name": "Hormomyia palearum Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937386"
+    }
+,
+    {
+      "name": "Rhopalomyia ptarmicae (Vallot, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21667"
+    }
+,
+    {
+      "name": "Cecidomyia ptarmicae Vallot, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937387"
+    }
+,
+    {
+      "name": "Rhopalomyia syngenesiae (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249890"
+    }
+,
+    {
+      "name": "Cecidomyia syngenesiae Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937388"
+    }
+,
+    {
+      "name": "Rhopalomyia tanaceticola (Karsch, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21668"
+    }
+,
+    {
+      "name": "Oligotrophus tanaceticolus Karsch, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937390"
+    }
+,
+    {
+      "name": "Rhopalomyia tubifex (Bouché, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249891"
+    }
+,
+    {
+      "name": "Cecidomyia tubifex Bouché, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937391"
+    }
+,
+    {
+      "name": "Misospatha tubifex (Bouché, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897287"
+    }
+,
+    {
+      "name": "Rondaniola Rübsaamen & Hedicke, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Rondaniola bursaria (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21670"
+    }
+,
+    {
+      "name": "Cecidomyia bursaria Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937392"
+    }
+,
+    {
+      "name": "Sackenomyia Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Sackenomyia reaumurii (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249885"
+    }
+,
+    {
+      "name": "Cecidomyia reaumurii Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937393"
+    }
+,
+    {
+      "name": "Oligotrophus solmsii Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854104"
+    }
+,
+    {
+      "name": "Schizomyia Kieffer, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Schizomyia galiorum Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21672"
+    }
+,
+    {
+      "name": "Schizomyia galorium Kieffer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854116"
+    }
+,
+    {
+      "name": "Schizomyia ipomoeae Felt, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892740"
+    }
+,
+    {
+      "name": "Schizomyia stachytarphetae Barnes, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892741"
+    }
+,
+    {
+      "name": "Schizomyia tami Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977805"
+    }
+,
+    {
+      "name": "Schmidtiella Rübsaamen, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Schmidtiella gemmarum Rübsaamen, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848778"
+    }
+,
+    {
+      "name": "Semudobia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Semudobia betulae (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249884"
+    }
+,
+    {
+      "name": "Cecidomyia betulae Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911672"
+    }
+,
+    {
+      "name": "Oligotrophus betulae (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897288"
+    }
+,
+    {
+      "name": "Semudobia skuhravae Roskam, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977808"
+    }
+,
+    {
+      "name": "Sitodiplosis Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Sitodiplosis mosellana (Géhin, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21674"
+    }
+,
+    {
+      "name": "Cecidomyia mosellana Géhin, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937394"
+    }
+,
+    {
+      "name": "Spurgia Gagné, 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "Spurgia capitigena (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977809"
+    }
+,
+    {
+      "name": "Spurgia euphorbiae (Vallot, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906183"
+    }
+,
+    {
+      "name": "Bayeria capitigena (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21448"
+    }
+,
+    {
+      "name": "Cecidomyia euphorbiae Vallot, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906184"
+    }
+,
+    {
+      "name": "Dasineura capitigena (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21500"
+    }
+,
+    {
+      "name": "Stefaniella Kieffer, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Stefaniella atriplicis Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977810"
+    }
+,
+    {
+      "name": "Stefaniella cecconii Kieffer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977811"
+    }
+,
+    {
+      "name": "Stefaniella trinacriae Stefani, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977812"
+    }
+,
+    {
+      "name": "Stenodiplosis Reuter, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenodiplosis sorghicola (Coquillett, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/346976"
+    }
+,
+    {
+      "name": "Contarinia sorghicola (Coquillett, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964652"
+    }
+,
+    {
+      "name": "Diplosis sorghicola Coquillett, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892742"
+    }
+,
+    {
+      "name": "Stictobremia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Stictobremia campylomyzae Kieffer, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249883"
+    }
+,
+    {
+      "name": "Stomatosema Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Stomatosema nemorum Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249882"
+    }
+,
+    {
+      "name": "Taxomyia Rübsaamen, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Taxomyia taxi (Inchbald, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249881"
+    }
+,
+    {
+      "name": "Cecidomyia taxi Inchbald, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937395"
+    }
+,
+    {
+      "name": "Tessaradiplosis Baylac, 1988",
+      "url": ""
+    }
+,
+    {
+      "name": "Tessaradiplosis entomophila (Perris, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249880"
+    }
+,
+    {
+      "name": "Cecidomyia entomophila Perris, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937396"
+    }
+,
+    {
+      "name": "Thecodiplosis Kieffer, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Thecodiplosis brachyntera (Schwägrichen, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21676"
+    }
+,
+    {
+      "name": "Cecidomyia brachyntera Schwägrichen, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937397"
+    }
+,
+    {
+      "name": "Therodiplosis ",
+      "url": ""
+    }
+,
+    {
+      "name": "Therodiplosis persicae Kieffer, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776032"
+    }
+,
+    {
+      "name": "Thurauia Rübsaamen, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Thurauia aquatica Rübsaamen, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977814"
+    }
+,
+    {
+      "name": "Tribremia Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Tribremia brevitarsis Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249879"
+    }
+,
+    {
+      "name": "Tricholaba Rübsaamen, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Tricholaba trifolii Rübsaamen, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977815"
+    }
+,
+    {
+      "name": "Trisopsis Kieffer, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Trisopsis incisa (Felt, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906956"
+    }
+,
+    {
+      "name": "Cecidomyia incisus Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937398"
+    }
+,
+    {
+      "name": "Trotteria Kieffer, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Trotteria ligustri Barnes, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977816"
+    }
+,
+    {
+      "name": "Trotteria obtusa (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249877"
+    }
+,
+    {
+      "name": "Lasioptera obtusa Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937399"
+    }
+,
+    {
+      "name": "Lasioptera sarothamni Kieffer, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018730"
+    }
+,
+    {
+      "name": "Trotteria umbelliferarum (Kieffer, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249878"
+    }
+,
+    {
+      "name": "Choristoneura umbelliferarum Kieffer, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937400"
+    }
+,
+    {
+      "name": "Wachtliella Rübsaamen, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Wachtliella caricis (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919613"
+    }
+,
+    {
+      "name": "Cecidomyia caricis Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937401"
+    }
+,
+    {
+      "name": "Perrrisia muricatae (Meade, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919614"
+    }
+,
+    {
+      "name": "Wachtliella riparia (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21679"
+    }
+,
+    {
+      "name": "Wachtliella persicariae (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21678"
+    }
+,
+    {
+      "name": "Tipula persicariae Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937402"
+    }
+,
+    {
+      "name": "Wachtliella stachydis (Bremi, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21681"
+    }
+,
+    {
+      "name": "Cecidomyia stachydis Bremi, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937403"
+    }
+,
+    {
+      "name": "Xerephedromyia Mamaev, 1972",
+      "url": ""
+    }
+,
+    {
+      "name": "Xerephedromyia ustjurtensis Fedotova, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977820"
+    }
+,
+    {
+      "name": "Xylodiplosis Kieffer, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Xylodiplosis aestivalis Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249876"
+    }
+,
+    {
+      "name": "Xylodiplosis nigritarsis (Zetterstedt, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21683"
+    }
+,
+    {
+      "name": "Cecidomyia nigritarsis Zetterstedt, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937406"
+    }
+,
+    {
+      "name": "Youngomyia Felt, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Youngomyia podophyllae (Felt, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892744"
+    }
+,
+    {
+      "name": "Dicrodiplosis podophyllae Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892745"
+    }
+,
+    {
+      "name": "Zeuxidiplosis Kieffer, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Zeuxidiplosis giardi (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249875"
+    }
+,
+    {
+      "name": "Diplosis giardi Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937407"
+    }
+,
+    {
+      "name": "Zeuxidiplosis giardiana (Kieffer, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854030"
+    }
+,
+    {
+      "name": "Zygiobia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Zygiobia carpini (F. Löw, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21685"
+    }
+,
+    {
+      "name": "Cecidomyia carpini F. Löw, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911658"
+    }
+,
+    {
+      "name": "lestremiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/cecidomyiidae/lestremiinae/"
+    }
+,
+    {
+      "name": "micromyinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/cecidomyiidae/micromyinae/"
+    }
+,
+    {
+      "name": "porricondylinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/cecidomyiidae/porricondylinae/"
+    }
+
+  ]
+}

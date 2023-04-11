@@ -1,0 +1,482 @@
+
+{
+  "name": "eustylini",
+  "children": [
+
+    {
+      "name": "Eustylini Lacordaire, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Anidius Kuschel, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Anidius nitidulus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758688"
+    }
+,
+    {
+      "name": "Curculio nitidulus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923810"
+    }
+,
+    {
+      "name": "Brachyomus Lacordaire, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Brachyomus octotuberculatus (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758689"
+    }
+,
+    {
+      "name": "Curculio octotuberculatus Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923812"
+    }
+,
+    {
+      "name": "Compsus Schönherr, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Compsus argyreus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599665"
+    }
+,
+    {
+      "name": "Curculio argyreus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847437"
+    }
+,
+    {
+      "name": "Compsus bisignatus (Boheman, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758691"
+    }
+,
+    {
+      "name": "Platyomus bisignatus Boheman, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923813"
+    }
+,
+    {
+      "name": "Compsus chlorostictus (Erichson, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758692"
+    }
+,
+    {
+      "name": "Platyomus chlorostictus Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923814"
+    }
+,
+    {
+      "name": "Compsus clarus (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758693"
+    }
+,
+    {
+      "name": "Curculio clarus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923816"
+    }
+,
+    {
+      "name": "Compsus cyanipes (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760748"
+    }
+,
+    {
+      "name": "Curculio cyanipes Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923817"
+    }
+,
+    {
+      "name": "Compsus dives Heyne & Taschenberg, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/986866"
+    }
+,
+    {
+      "name": "Compsus etchegarayi Rheinheimer, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981596"
+    }
+,
+    {
+      "name": "Compsus gentilis (Olivier, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774402"
+    }
+,
+    {
+      "name": "Neocyphus gentilis Olivier, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640862"
+    }
+,
+    {
+      "name": "Compsus lacteus (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599664"
+    }
+,
+    {
+      "name": "Curculio lacteus Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923818"
+    }
+,
+    {
+      "name": "Oxyderces lacteus (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640879"
+    }
+,
+    {
+      "name": "Compsus lepidus (Dejean, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/599663"
+    }
+,
+    {
+      "name": "Otiorhynchus lepidus Dejean, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923819"
+    }
+,
+    {
+      "name": "Compsus monachus Fauvel, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760749"
+    }
+,
+    {
+      "name": "Compsus niveus (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758696"
+    }
+,
+    {
+      "name": "Curculio niveus Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923820"
+    }
+,
+    {
+      "name": "Compsus ochroleucus (Erichson, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758697"
+    }
+,
+    {
+      "name": "Platyomus ochroleucus Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923821"
+    }
+,
+    {
+      "name": "Compsus quadrisignatus (Boheman, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758699"
+    }
+,
+    {
+      "name": "Platyomus quadrisignatus Boheman, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923822"
+    }
+,
+    {
+      "name": "Compsus servus (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760750"
+    }
+,
+    {
+      "name": "Curculio servus Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923825"
+    }
+,
+    {
+      "name": "Compsus viridimaculatus (Boheman, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760751"
+    }
+,
+    {
+      "name": "Platyomus viridimaculatus Boheman, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923826"
+    }
+,
+    {
+      "name": "Diaprepes Schönherr, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Diaprepes abbreviatus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593212"
+    }
+,
+    {
+      "name": "Curculio abbreviatus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847441"
+    }
+,
+    {
+      "name": "Diaprepes abbreviatus abbreviatus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640756"
+    }
+,
+    {
+      "name": "Diaprepes abbreviatus distinguendus Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640757"
+    }
+,
+    {
+      "name": "Diaprepes famelicus (Olivier, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593213"
+    }
+,
+    {
+      "name": "Prepodes famelicus Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640934"
+    }
+,
+    {
+      "name": "Diaprepes marginatus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774403"
+    }
+,
+    {
+      "name": "Diaprepes marginatus Olivier, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640760"
+    }
+,
+    {
+      "name": "Diaprepes martinicensis (Chevrolat, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795200"
+    }
+,
+    {
+      "name": "Exophthalmus hemigrammus (Chevrolat, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593225"
+    }
+,
+    {
+      "name": "Exophthalmus martinicensis Chevrolat, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593226"
+    }
+,
+    {
+      "name": "Diaprepes reticulatus Chevrolat, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593222"
+    }
+,
+    {
+      "name": "Diaprepes rufescens Boheman, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640762"
+    }
+,
+    {
+      "name": "Prepodes rufescens Boheman, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640939"
+    }
+,
+    {
+      "name": "Diaprepes variegatus Chevrolat, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593223"
+    }
+,
+    {
+      "name": "Eustylus Schönherr, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Eustylus bodkini Marshall, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758702"
+    }
+,
+    {
+      "name": "Eustylus hybridus (Rosenschoeld, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640783"
+    }
+,
+    {
+      "name": "Eustylus puber (Olivier, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758703"
+    }
+,
+    {
+      "name": "Curculio puber Olivier, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923829"
+    }
+,
+    {
+      "name": "Exophthalmus Schönherr, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Exophtalmus ",
+      "url": ""
+    }
+,
+    {
+      "name": "Prepodes Schönherr, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Exophthalmus aurarius (Gyllenhal, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774404"
+    }
+,
+    {
+      "name": "Diaprepes aurarius Gyllenhal, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640759"
+    }
+,
+    {
+      "name": "Prepodes aurarius (Chevrolat, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640930"
+    }
+,
+    {
+      "name": "Exophthalmus dufaui (Hustache, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774405"
+    }
+,
+    {
+      "name": "Prepodes dufaui Hustache, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640933"
+    }
+,
+    {
+      "name": "Exophthalmus foveicollis (Chevrolat, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774406"
+    }
+,
+    {
+      "name": "Diaprepes foveicollis Chevrolat, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002691"
+    }
+,
+    {
+      "name": "Exophthalmus interruptus (Chevrolat, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774407"
+    }
+,
+    {
+      "name": "Exophthalmus marginicollis (Chevrolat, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774408"
+    }
+,
+    {
+      "name": "Diaprepes marginicollis Chevrolat, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640761"
+    }
+,
+    {
+      "name": "Exophtalmus marginicollis (Chevrolat, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640785"
+    }
+,
+    {
+      "name": "Prepodes marginicollis Chevrolat, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640936"
+    }
+,
+    {
+      "name": "Exophthalmus marmoreus (Gyllenhal, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774409"
+    }
+,
+    {
+      "name": "Prepodes marmoreus Gyllenhal, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640937"
+    }
+,
+    {
+      "name": "Exophthalmus murinus (Rosenschoeld, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758705"
+    }
+,
+    {
+      "name": "Exophthalmus vitraci (Fleutiaux & Sallé, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774410"
+    }
+,
+    {
+      "name": "Diaprepes vitraci Fleutiaux & Sallé, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640763"
+    }
+,
+    {
+      "name": "Prepodes vitraci (Fleutiaux & Sallé, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640940"
+    }
+,
+    {
+      "name": "Oxyderces Schönherr, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Oxydereces ",
+      "url": ""
+    }
+,
+    {
+      "name": "Plococompsus Marshall, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Oxyderces cretaceus (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640878"
+    }
+,
+    {
+      "name": "Oxydereces cretaceus (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593228"
+    }
+,
+    {
+      "name": "Plococompsus cretaceus (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640916"
+    }
+,
+    {
+      "name": "Phaops Sahlberg, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Phaops albomarginatus (Rosenschoeld, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758707"
+    }
+,
+    {
+      "name": "Phaops harmonicus (Germar, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758708"
+    }
+,
+    {
+      "name": "Eustalis harmonicus Germar, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923851"
+    }
+,
+    {
+      "name": "Phaops opalinus (Boheman, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758709"
+    }
+,
+    {
+      "name": "Eustales opalinus Boheman, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925840"
+    }
+,
+    {
+      "name": "Phaops vestalis (Pascoe, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758710"
+    }
+,
+    {
+      "name": "Compsus vestalis Pascoe, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923855"
+    }
+,
+    {
+      "name": "Phaops puncticollis (Hustache, 1940)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/923854"
+    }
+
+  ]
+}

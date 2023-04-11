@@ -1,0 +1,362 @@
+
+{
+  "name": "aegidae",
+  "children": [
+
+    {
+      "name": "Aegidae White, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Aega Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Aega angustata Whitelegge, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962704"
+    }
+,
+    {
+      "name": "Aega antarctica Hodgson, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843282"
+    }
+,
+    {
+      "name": "Aega bicarinata Leach, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374284"
+    }
+,
+    {
+      "name": "Aega stroemii Lutken, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374286"
+    }
+,
+    {
+      "name": "Aega falklandica Kussakin, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816592"
+    }
+,
+    {
+      "name": "Aega hamiota Bruce, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654101"
+    }
+,
+    {
+      "name": "Aega hirsuta Schiödte & Meinert, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374270"
+    }
+,
+    {
+      "name": "Aega megalops Norman & Stebbing, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374277"
+    }
+,
+    {
+      "name": "Aega monophthalma Johnston, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374280"
+    }
+,
+    {
+      "name": "Aega psora (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374283"
+    }
+,
+    {
+      "name": "Aega emarginata Leach, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374272"
+    }
+,
+    {
+      "name": "Oniscus psora Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553926"
+    }
+,
+    {
+      "name": "Aega punctulata Miers, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816198"
+    }
+,
+    {
+      "name": "Aega edwardsi Dollfus, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816199"
+    }
+,
+    {
+      "name": "Aega rosacea (Risso, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374287"
+    }
+,
+    {
+      "name": "Cymothoa rosacea Risso, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553927"
+    }
+,
+    {
+      "name": "Aega semicarinata Miers, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785740"
+    }
+,
+    {
+      "name": "Aega urotoma Barnard, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654102"
+    }
+,
+    {
+      "name": "Aega webbii (Guérin-Méneville, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962705"
+    }
+,
+    {
+      "name": "Pterelas webbii Guérin-Méneville, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962706"
+    }
+,
+    {
+      "name": "Aegapheles Bruce, 2009",
+      "url": ""
+    }
+,
+    {
+      "name": "Aegapheles alazon (Bruce, 2004)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654037"
+    }
+,
+    {
+      "name": "Aega alazon Bruce, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654038"
+    }
+,
+    {
+      "name": "Aegapheles deshaysiana (H. Milne Edwards, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526138"
+    }
+,
+    {
+      "name": "Aega deshaysiana (H. Milne-Edwards, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374269"
+    }
+,
+    {
+      "name": "Aega schioedteana Bovallius, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579626"
+    }
+,
+    {
+      "name": "Rocinela deshaysiana H. Milne Edwards, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553925"
+    }
+,
+    {
+      "name": "Aegapheles kixalles (Bruce, 2004)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654039"
+    }
+,
+    {
+      "name": "Aega kixalles Bruce, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654040"
+    }
+,
+    {
+      "name": "Aegapheles musorstom (Bruce, 2004)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654041"
+    }
+,
+    {
+      "name": "Aega musorstom Bruce, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654042"
+    }
+,
+    {
+      "name": "Aegapheles rickbruscai (Bruce, 2004)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654043"
+    }
+,
+    {
+      "name": "Aega rickbruscai Bruce, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654044"
+    }
+,
+    {
+      "name": "Aegiochus Bovallius, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Aegiochus antarctica (Hodgson, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838215"
+    }
+,
+    {
+      "name": "Aega koltuni Kussakin, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838216"
+    }
+,
+    {
+      "name": "Aegiochus bertrandi Bruce, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992096"
+    }
+,
+    {
+      "name": "Aegiochus coroo (Bruce, 1983)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654045"
+    }
+,
+    {
+      "name": "Aega coroo Bruce, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654046"
+    }
+,
+    {
+      "name": "Aegiochus crozetensis (Kussakin & Vasina, 1982)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816096"
+    }
+,
+    {
+      "name": "Aega crozetensis Kussakin & Vasina, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821480"
+    }
+,
+    {
+      "name": "Aegiochus plebeia (Hansen, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654047"
+    }
+,
+    {
+      "name": "Aega plebeia Hansen, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654048"
+    }
+,
+    {
+      "name": "Aegiochus pushkini (Kussakin & Vasina, 1982)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821514"
+    }
+,
+    {
+      "name": "Aega pushkini Kussakin & Vasina, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821515"
+    }
+,
+    {
+      "name": "Aegiochus vigilans (Haswell, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654049"
+    }
+,
+    {
+      "name": "Aega dubia Richardson, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687677"
+    }
+,
+    {
+      "name": "Aega giganteocula Nunomura, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687678"
+    }
+,
+    {
+      "name": "Aega ommataphylax Stebbing, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687676"
+    }
+,
+    {
+      "name": "Aega vigilans Haswell, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654050"
+    }
+,
+    {
+      "name": "Rocinela vigilans Haswell, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687679"
+    }
+,
+    {
+      "name": "Epulaega Bruce, 2009",
+      "url": ""
+    }
+,
+    {
+      "name": "Epulaega lethrina (Bruce, 1983)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963898"
+    }
+,
+    {
+      "name": "Aega lethrina Bruce, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963899"
+    }
+,
+    {
+      "name": "Epulaega monilis (Barnard, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838080"
+    }
+,
+    {
+      "name": "Rocinela Leach, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Rocinela danmoniensis Leach, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374291"
+    }
+,
+    {
+      "name": "Rocinela dumerilii (Lucas, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669435"
+    }
+,
+    {
+      "name": "Acherusia dumerilii Lucas, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688561"
+    }
+,
+    {
+      "name": "Rocinela dumerili (Lucas, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374290"
+    }
+,
+    {
+      "name": "Syscenus Harger, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Syscenus infelix Harger, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528915"
+    }
+,
+    {
+      "name": "Rocinela lilljeborgii Bovallius, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/553491"
+    }
+,
+    {
+      "name": "Syscenus lilljeborgii (Bovallius, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374292"
+    }
+,
+    {
+      "name": "Syscenus latus Richardson, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654103"
+    }
+,
+    {
+      "name": "Syscenus pacificus Nunomura, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688412"
+    }
+,
+    {
+      "name": "Syscenus moana Bruce, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/457542"
+    }
+,
+    {
+      "name": "Xenuraega Tattersall, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Xenuraega ptilocera Tattersall, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/374294"
+    }
+
+  ]
+}

@@ -1,0 +1,837 @@
+
+{
+  "name": "anisotomini",
+  "children": [
+
+    {
+      "name": "Anisotomini Horaninow, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Agathidiini Westwood, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Agathidium Panzer, 1797",
+      "url": ""
+    }
+,
+    {
+      "name": "Agathidium arcticum C.G. Thomson, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223743"
+    }
+,
+    {
+      "name": "Agathidium rhinoceros Sharp, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397018"
+    }
+,
+    {
+      "name": "Agathidium atrum (Paykull, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223756"
+    }
+,
+    {
+      "name": "Agathidium globus Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397073"
+    }
+,
+    {
+      "name": "Agathidium rucolle Fleischer, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397075"
+    }
+,
+    {
+      "name": "Agathidium rufipes Stephens, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397074"
+    }
+,
+    {
+      "name": "Agathidium rufobrunnea Roubal, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397076"
+    }
+,
+    {
+      "name": "Sphaeridium atrum Paykull, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799420"
+    }
+,
+    {
+      "name": "Volvoxis ater Weise, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/796856"
+    }
+,
+    {
+      "name": "Agathidium badium Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10400"
+    }
+,
+    {
+      "name": "Agathidium bodemeyeri Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397078"
+    }
+,
+    {
+      "name": "Agathidium opuntiae Reitter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397077"
+    }
+,
+    {
+      "name": "Agathidium brisouti Reitter, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223746"
+    }
+,
+    {
+      "name": "Agathidium scheubeli Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397027"
+    }
+,
+    {
+      "name": "Agathidium tenuicorne Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397026"
+    }
+,
+    {
+      "name": "Agathidium confusum Brisout de Barneville, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223747"
+    }
+,
+    {
+      "name": "Agathidium brevicorne Rey, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397031"
+    }
+,
+    {
+      "name": "Agathidium clypeatum Sharp, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397030"
+    }
+,
+    {
+      "name": "Agathidium piceum Thomson, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397028"
+    }
+,
+    {
+      "name": "Agathidium polonicum Wankowicz, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397029"
+    }
+,
+    {
+      "name": "Agathidium convexum Sharp, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223748"
+    }
+,
+    {
+      "name": "Agathidium globosum Mulsant & Rey, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397032"
+    }
+,
+    {
+      "name": "Agathidium piceum Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10401"
+    }
+,
+    {
+      "name": "Agathidium dentatum Mulsant & Rey, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223757"
+    }
+,
+    {
+      "name": "Agathidium dentatum dentatum Mulsant & Rey, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251537"
+    }
+,
+    {
+      "name": "Agathidium subflavum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397079"
+    }
+,
+    {
+      "name": "Agathidium dentatum devillei Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251538"
+    }
+,
+    {
+      "name": "Agathidium discoideum Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223744"
+    }
+,
+    {
+      "name": "Agathidium discoideiforme Hlisnikovský, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397019"
+    }
+,
+    {
+      "name": "Agathidium haemorrhoum Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223749"
+    }
+,
+    {
+      "name": "Agathidium laevigatulum Reitter, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223758"
+    }
+,
+    {
+      "name": "Agathidium lucanum Schatzmayr, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397080"
+    }
+,
+    {
+      "name": "Agathidium siculanum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397081"
+    }
+,
+    {
+      "name": "Agathidium laevigatum Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223759"
+    }
+,
+    {
+      "name": "Agathidium laevigatum laevigatum Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251539"
+    }
+,
+    {
+      "name": "Agathidium affine Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397085"
+    }
+,
+    {
+      "name": "Agathidium atrum Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397082"
+    }
+,
+    {
+      "name": "Agathidium brunnescens Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397089"
+    }
+,
+    {
+      "name": "Agathidium helveticum Hlisnikovský, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397092"
+    }
+,
+    {
+      "name": "Agathidium kostelniki Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397090"
+    }
+,
+    {
+      "name": "Agathidium languidum Hlisnikovský, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397091"
+    }
+,
+    {
+      "name": "Agathidium nigrinum Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397084"
+    }
+,
+    {
+      "name": "Agathidium orbiculare Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397083"
+    }
+,
+    {
+      "name": "Agathidium rufocastaneum Winkler, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397086"
+    }
+,
+    {
+      "name": "Agathidium sibiricum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397088"
+    }
+,
+    {
+      "name": "Agathidium teberdense Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397087"
+    }
+,
+    {
+      "name": "Agathidium mandibulare Sturm, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223750"
+    }
+,
+    {
+      "name": "Agathidium corallinum Trella, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397034"
+    }
+,
+    {
+      "name": "Agathidium fulvescens Roubal, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397035"
+    }
+,
+    {
+      "name": "Agathidium kostelnikianum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397036"
+    }
+,
+    {
+      "name": "Agathidium marginatum Sturm, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223751"
+    }
+,
+    {
+      "name": "Agathidium graecum Hlisnikovský, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397045"
+    }
+,
+    {
+      "name": "Agathidium mandibulare sensu Stephens, 1829, partim 2",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397039"
+    }
+,
+    {
+      "name": "Agathidium mongolicum Hlisnikovský, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397044"
+    }
+,
+    {
+      "name": "Agathidium pumilum Hardy, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397040"
+    }
+,
+    {
+      "name": "Agathidium reticulatum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397043"
+    }
+,
+    {
+      "name": "Agathidium sicanum Fiori, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397041"
+    }
+,
+    {
+      "name": "Agathidium turkestanicum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397042"
+    }
+,
+    {
+      "name": "Anisotoma orbiculatum Gyllenhal, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397037"
+    }
+,
+    {
+      "name": "Agathidium nigrinum Sturm, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223745"
+    }
+,
+    {
+      "name": "Agathidium csikii Hatch, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397025"
+    }
+,
+    {
+      "name": "Agathidium ferrugineum Csiki, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397024"
+    }
+,
+    {
+      "name": "Agathidium ferrugineum Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397021"
+    }
+,
+    {
+      "name": "Agathidium rubicundum Reitter, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397023"
+    }
+,
+    {
+      "name": "Anisotoma staphylaeum Gyllenhal, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397020"
+    }
+,
+    {
+      "name": "Agathidium nigripenne (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223752"
+    }
+,
+    {
+      "name": "Agathidium mandibulare sensu Stephens, 1829, partim 1",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397046"
+    }
+,
+    {
+      "name": "Agathidium rufipenne Delahon, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397047"
+    }
+,
+    {
+      "name": "Sphaeridium nigripenne Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799422"
+    }
+,
+    {
+      "name": "Agathidium nudum C. Hampe, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223753"
+    }
+,
+    {
+      "name": "Agathidium montenegrinum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397049"
+    }
+,
+    {
+      "name": "Agathidium pilosum Sainte-Claire Deville, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10402"
+    }
+,
+    {
+      "name": "Agathidium pisanum C. Brisout de Barneville, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223760"
+    }
+,
+    {
+      "name": "Agathidium bicolor Sahlberg, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397095"
+    }
+,
+    {
+      "name": "Agathidium edmundi Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397096"
+    }
+,
+    {
+      "name": "Agathidium intermedium Fairmaire, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397093"
+    }
+,
+    {
+      "name": "Agathidium salutatorium Gistel, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397094"
+    }
+,
+    {
+      "name": "Agathidium plagiatum (Gyllenhal, 1810)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223754"
+    }
+,
+    {
+      "name": "Agathidium besucheti Hlisnikovský, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397057"
+    }
+,
+    {
+      "name": "Agathidium garganicum Fiori, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397054"
+    }
+,
+    {
+      "name": "Agathidium hellenicum Reitter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397052"
+    }
+,
+    {
+      "name": "Agathidium hummleri Reitter, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397053"
+    }
+,
+    {
+      "name": "Agathidium roubali Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397056"
+    }
+,
+    {
+      "name": "Agathidium signatipenne Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397055"
+    }
+,
+    {
+      "name": "Agathidium striatum Krynicki, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397050"
+    }
+,
+    {
+      "name": "Agathidium vittatum Motschulsky, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397051"
+    }
+,
+    {
+      "name": "Anisotoma plagiatum Gyllenhal, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799423"
+    }
+,
+    {
+      "name": "Agathidium rotundatum (Gyllenhal, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10403"
+    }
+,
+    {
+      "name": "Anisotoma rotundatum Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/894165"
+    }
+,
+    {
+      "name": "Agathidium rotundatum rotundatum (Gyllenhal, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251535"
+    }
+,
+    {
+      "name": "Agathidium atratum Sturm, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397058"
+    }
+,
+    {
+      "name": "Agathidium bascidicum Reitter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397061"
+    }
+,
+    {
+      "name": "Agathidium confusum Seidlitz, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397063"
+    }
+,
+    {
+      "name": "Agathidium liguricum Dodero, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397066"
+    }
+,
+    {
+      "name": "Agathidium lycogalae Hardy, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397060"
+    }
+,
+    {
+      "name": "Agathidium magnum Dufour, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397059"
+    }
+,
+    {
+      "name": "Agathidium pseudorotundatum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397067"
+    }
+,
+    {
+      "name": "Agathidium reitteri Ganglbauer, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397065"
+    }
+,
+    {
+      "name": "Agathidium rotundulum Reitter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397062"
+    }
+,
+    {
+      "name": "Agathidium sphaerulum Reitter, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397064"
+    }
+,
+    {
+      "name": "Agathidium seminulum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10404"
+    }
+,
+    {
+      "name": "Agathidium carbonarium Sturm, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397098"
+    }
+,
+    {
+      "name": "Agathidium filicorne Reitter, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397100"
+    }
+,
+    {
+      "name": "Agathidium lutescens Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397101"
+    }
+,
+    {
+      "name": "Agathidium marani Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397102"
+    }
+,
+    {
+      "name": "Agathidium siculum Brisout, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397099"
+    }
+,
+    {
+      "name": "Silpha seminulum Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799421"
+    }
+,
+    {
+      "name": "Tetratoma globosa Herbst, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397114"
+    }
+,
+    {
+      "name": "Tetratoma globosum Herbst, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/796857"
+    }
+,
+    {
+      "name": "Volvoxis globosum Kugelann in Schneider, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397097"
+    }
+,
+    {
+      "name": "Agathidium varians Beck, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223755"
+    }
+,
+    {
+      "name": "Agathidium varians varians Beck, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251536"
+    }
+,
+    {
+      "name": "Agathidium edmundianum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397071"
+    }
+,
+    {
+      "name": "Agathidium helvolum Hlisnikovský, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397072"
+    }
+,
+    {
+      "name": "Agathidium labratum Reitter, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397070"
+    }
+,
+    {
+      "name": "Agathidium mandibulare Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397068"
+    }
+,
+    {
+      "name": "Agathidium pallidum Reitter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397069"
+    }
+,
+    {
+      "name": "Agathidium Panzer, 1797",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetoceble Sainte-Claire Deville, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyphoceble C.G. Thomson, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoceble Gozis, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphicyllis Erichson, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphicyllis globiformis (C.R. Sahlberg, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223763"
+    }
+,
+    {
+      "name": "Anisotoma globiformis C.R. Sahlberg, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799424"
+    }
+,
+    {
+      "name": "Amphicyllis globus (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223764"
+    }
+,
+    {
+      "name": "Agathidium ferrugineum Sturm, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397109"
+    }
+,
+    {
+      "name": "Sphaeridium globosus Thunberg, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397108"
+    }
+,
+    {
+      "name": "Sphaeridium globus Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799425"
+    }
+,
+    {
+      "name": "Sphaeridium ruficolle Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397107"
+    }
+,
+    {
+      "name": "Anisotoma Panzer, 1796",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisotoma axillaris Gyllenhal, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223765"
+    }
+,
+    {
+      "name": "Anisotoma bipustulatum Ahrens, 1812",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397110"
+    }
+,
+    {
+      "name": "Anisotoma castanea (Herbst, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223766"
+    }
+,
+    {
+      "name": "Tetratoma castanea Herbst, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799426"
+    }
+,
+    {
+      "name": "Anisotoma castanea castanea (Herbst, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251540"
+    }
+,
+    {
+      "name": "Anisotoma raffrayi Heyden, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397111"
+    }
+,
+    {
+      "name": "Liodes raffrayi Heyden, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799427"
+    }
+,
+    {
+      "name": "Anisotoma glabra (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/10398"
+    }
+,
+    {
+      "name": "Leiodes axillaris Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397113"
+    }
+,
+    {
+      "name": "Sphaeridium abdominalis Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397112"
+    }
+,
+    {
+      "name": "Tritoma glabra Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799428"
+    }
+,
+    {
+      "name": "Anisotoma humeralis (Herbst, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223767"
+    }
+,
+    {
+      "name": "Anisotoma corticina Trella, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397118"
+    }
+,
+    {
+      "name": "Anisotoma humeralis (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910819"
+    }
+,
+    {
+      "name": "Leiodes armata Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397116"
+    }
+,
+    {
+      "name": "Liodes humeralis Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397117"
+    }
+,
+    {
+      "name": "Sphaeridium humerale Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910820"
+    }
+,
+    {
+      "name": "Tetratoma clavipes Herbst, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397115"
+    }
+,
+    {
+      "name": "Tetratoma humerale Herbst, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812953"
+    }
+,
+    {
+      "name": "Anisotoma orbicularis (Herbst, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223768"
+    }
+,
+    {
+      "name": "Anisotoma rufomarginata Duftschmid, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397120"
+    }
+,
+    {
+      "name": "Tetratoma orbicularis Herbst, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799429"
+    }
+,
+    {
+      "name": "Volvoxis seminulum Kugelann, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397119"
+    }
+,
+    {
+      "name": "Cyrtoplastus Reitter, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyrtoplastus seriepunctatus (C. Brisout de Barneville, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223761"
+    }
+,
+    {
+      "name": "Agathidium punctatoseriatum Reitter, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397103"
+    }
+,
+    {
+      "name": "Agathidium seriepunctatus C. Brisout de Barneville, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799430"
+    }
+,
+    {
+      "name": "Cyrtoplastus mongolicus Hlisnikovský, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397105"
+    }
+,
+    {
+      "name": "Cyrtoplastus seriatopunctatus Reitter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397104"
+    }
+,
+    {
+      "name": "Liodopria Reitter, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Liodopria serricorne (Gyllenhal, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223762"
+    }
+,
+    {
+      "name": "Anisotoma serricorne Gyllenhal, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799431"
+    }
+,
+    {
+      "name": "Anisotoma signata Waltl, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/397106"
+    }
+
+  ]
+}

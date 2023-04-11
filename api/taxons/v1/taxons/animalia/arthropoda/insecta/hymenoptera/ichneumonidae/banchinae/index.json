@@ -1,0 +1,42 @@
+
+{
+  "name": "banchinae",
+  "children": [
+
+    {
+      "name": "Banchinae Wesmael, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "atrophini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/ichneumonidae/banchinae/atrophini/"
+    }
+,
+    {
+      "name": "banchini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/ichneumonidae/banchinae/banchini/"
+    }
+,
+    {
+      "name": "glyptini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/ichneumonidae/banchinae/glyptini/"
+    }
+,
+    {
+      "name": "Hapsinotus Townes, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Hapsinotus amasua Alvarado, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920462"
+    }
+,
+    {
+      "name": "Hapsinotus surinen Alvarado, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920464"
+    }
+
+  ]
+}

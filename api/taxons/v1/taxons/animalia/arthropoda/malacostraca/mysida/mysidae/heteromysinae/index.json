@@ -1,0 +1,77 @@
+
+{
+  "name": "heteromysinae",
+  "children": [
+
+    {
+      "name": "Heteromysinae Norman, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "harmelinellini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/heteromysinae/harmelinellini/"
+    }
+,
+    {
+      "name": "heteromysini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/heteromysinae/heteromysini/"
+    }
+,
+    {
+      "name": "Mysidetes Holt & Tattersall, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Mysidetes dimorpha O. Tattersall, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993389"
+    }
+,
+    {
+      "name": "Mysidetes farrani (Holt & Tattersall, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366734"
+    }
+,
+    {
+      "name": "Mysideis farrani Holt & Tattersall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550360"
+    }
+,
+    {
+      "name": "Mysidetes hanseni Zimmer, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1003157"
+    }
+,
+    {
+      "name": "Mysidetes illigi Zimmer, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1003158"
+    }
+,
+    {
+      "name": "Mysidetes kerguelensis (Illig, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812310"
+    }
+,
+    {
+      "name": "Metamysidella kerguelensis Illig, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821448"
+    }
+,
+    {
+      "name": "Mysidetes macrops O. Tattersall, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993394"
+    }
+,
+    {
+      "name": "Mysidetes morbihanensis Ledoyer, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812312"
+    }
+,
+    {
+      "name": "Mysidetes posthon Holt & Tattersall, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812313"
+    }
+
+  ]
+}

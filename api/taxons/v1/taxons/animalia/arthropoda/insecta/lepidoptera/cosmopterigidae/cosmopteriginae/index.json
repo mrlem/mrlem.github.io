@@ -1,0 +1,807 @@
+
+{
+  "name": "cosmopteriginae",
+  "children": [
+
+    {
+      "name": "Cosmopteriginae Heinemann & Wocke, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Adeana J.F.G.Clarke, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Adeana leucoxantha (Meyrick, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776530"
+    }
+,
+    {
+      "name": "Labdia leucoxantha Meyrick, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985751"
+    }
+,
+    {
+      "name": "Anatrachyntis Meyrick, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Anatrachyntis badia (Hodges, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/342356"
+    }
+,
+    {
+      "name": "Sathrobrota badia Hodges, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926030"
+    }
+,
+    {
+      "name": "Anatrachyntis cyma (Bradley, 1953)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776531"
+    }
+,
+    {
+      "name": "Anatrachyntis incertulella (Walker, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643671"
+    }
+,
+    {
+      "name": "Gelechia incertulella Walker, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985255"
+    }
+,
+    {
+      "name": "Pyroderces incertulella (Walker, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985256"
+    }
+,
+    {
+      "name": "Anatrachyntis lunulifera (Meyrick, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776532"
+    }
+,
+    {
+      "name": "Anatrachyntis similis (Bradley, 1953)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643669"
+    }
+,
+    {
+      "name": "Pyroderces lunulifera Meyrick, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984607"
+    }
+,
+    {
+      "name": "Anatrachyntis megacentra (Meyrick, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643672"
+    }
+,
+    {
+      "name": "Anatrachyntis rileyi (Walsingham, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/342355"
+    }
+,
+    {
+      "name": "Batrachedra stigmatophora Walsingham, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/431195"
+    }
+,
+    {
+      "name": "Anatrachyntis simplex (Walsingham, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967468"
+    }
+,
+    {
+      "name": "Pyroderces simplex Walsingham, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/991875"
+    }
+,
+    {
+      "name": "Clarkeophlebia Özdikmen, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthophlebia J.F.G.Clarke, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Clarkeophlebia argentea (J.F.G.Clarke, 1986)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918717"
+    }
+,
+    {
+      "name": "Acanthophlebia argentea J.F.G.Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776529"
+    }
+,
+    {
+      "name": "Coccidiphila Danilevsky, 1950",
+      "url": ""
+    }
+,
+    {
+      "name": "Coccidiphila camai Varenne & Nel, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890990"
+    }
+,
+    {
+      "name": "Coccidiphila danilevskyi Sinev, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246609"
+    }
+,
+    {
+      "name": "Coccidiphila gerasimovi Danilevsky, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246607"
+    }
+,
+    {
+      "name": "Coccidiphila ledereriella (Zeller, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246608"
+    }
+,
+    {
+      "name": "Batrachedra ledereriella (Zeller, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825061"
+    }
+,
+    {
+      "name": "Cosmopteryx ledereriella Zeller, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921518"
+    }
+,
+    {
+      "name": "Teleia unedella Millière, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415331"
+    }
+,
+    {
+      "name": "Coccidiphila rungsella Nel & Brusseaux, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814544"
+    }
+,
+    {
+      "name": "Coccidiphila rungsiella Nel & Brusseaux, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415332"
+    }
+,
+    {
+      "name": "Cosmopterix Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Cosmopterix aphranassa Meyrick, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643675"
+    }
+,
+    {
+      "name": "Cosmopteryx aphranassa Meyrick, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985163"
+    }
+,
+    {
+      "name": "Cosmopterix attenuatella (Walker, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/342364"
+    }
+,
+    {
+      "name": "Cosmopteryx flavofasciata Wollaston, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/431200"
+    }
+,
+    {
+      "name": "Cosmopteryx mimetis Meyrick, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/431202"
+    }
+,
+    {
+      "name": "Cosmopterix ceriocosma (Meyrick, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776611"
+    }
+,
+    {
+      "name": "Labdia ceriocosma Meyrick, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984606"
+    }
+,
+    {
+      "name": "Cosmopterix crassicervicella Chrétien, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/929450"
+    }
+,
+    {
+      "name": "Cosmopteryx crassicervicella Chrétien, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/929451"
+    }
+,
+    {
+      "name": "Cosmopterix diandra Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776612"
+    }
+,
+    {
+      "name": "Cosmopterix dulcivora (Meyrick, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964281"
+    }
+,
+    {
+      "name": "Cosmopteryx dulcivora Meyrick, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964282"
+    }
+,
+    {
+      "name": "Cosmopterix lienigiella Lienig & Zeller, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246617"
+    }
+,
+    {
+      "name": "Cosmopterix melanarches Meyrick, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643673"
+    }
+,
+    {
+      "name": "Cosmopteryx melanarches Meyrick, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985254"
+    }
+,
+    {
+      "name": "Cosmopterix nonna Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776613"
+    }
+,
+    {
+      "name": "Cosmopterix orichalcea Stainton, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246613"
+    }
+,
+    {
+      "name": "Cosmopteryx druryella Zeller, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415335"
+    }
+,
+    {
+      "name": "Cosmopterix pararufella Riedl, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246616"
+    }
+,
+    {
+      "name": "Cosmopterix pulchrimella Chambers, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246615"
+    }
+,
+    {
+      "name": "Cosmopteryx parietariae M. Hering, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415338"
+    }
+,
+    {
+      "name": "Cosmopteryx pulcherrimella Chambers, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415337"
+    }
+,
+    {
+      "name": "Cosmopterix reunionalis Guillermet, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/835451"
+    }
+,
+    {
+      "name": "Cosmopterix schmidiella Frey, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246612"
+    }
+,
+    {
+      "name": "Cosmopterix scribaiella Zeller, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246614"
+    }
+,
+    {
+      "name": "Cosmopteryx hermsiella E. Hering, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415336"
+    }
+,
+    {
+      "name": "Cosmopterix zieglerella (Hübner, 1810)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246611"
+    }
+,
+    {
+      "name": "Gracillaria eximia Haworth, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415334"
+    }
+,
+    {
+      "name": "Tinea zieglerella Hübner, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916376"
+    }
+,
+    {
+      "name": "Echinoscelis Meyrick, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Echinoscelis hemithia Meyrick, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643664"
+    }
+,
+    {
+      "name": "Eteobalea Hodges, 1962",
+      "url": ""
+    }
+,
+    {
+      "name": "Eteobalea albiapicella (Duponchel, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246602"
+    }
+,
+    {
+      "name": "Lita albiapicella Duponchel, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822612"
+    }
+,
+    {
+      "name": "Stagmatophora albiapicella (Duponchel, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825050"
+    }
+,
+    {
+      "name": "Eteobalea alypella (Klimesch, 1946)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246603"
+    }
+,
+    {
+      "name": "Stagmatophora alypella Klimesch, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926031"
+    }
+,
+    {
+      "name": "Eteobalea anonymella (Riedl, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246596"
+    }
+,
+    {
+      "name": "Stagmatophora anonymella Riedl, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926032"
+    }
+,
+    {
+      "name": "Eteobalea beata (Walsingham, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246599"
+    }
+,
+    {
+      "name": "Stagmatophora beata Walsingham, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926033"
+    }
+,
+    {
+      "name": "Eteobalea dohrnii (Zeller, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246605"
+    }
+,
+    {
+      "name": "Elachista dohrnii Zeller, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921322"
+    }
+,
+    {
+      "name": "Eteobalea intermediella (Riedl, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246598"
+    }
+,
+    {
+      "name": "Stagmatophora intermediella Riedl, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926034"
+    }
+,
+    {
+      "name": "Eteobalea isabellella (O. Costa, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246604"
+    }
+,
+    {
+      "name": "Elachista (Ornix) isabellella O. Costa, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918222"
+    }
+,
+    {
+      "name": "Stagmatophora opulentella Herrich-Schäffer, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415329"
+    }
+,
+    {
+      "name": "Stagmatophora rutilella Chrétien, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415330"
+    }
+,
+    {
+      "name": "Eteobalea serratella (Treitschke, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246597"
+    }
+,
+    {
+      "name": "Eteobalea gronoviella auct. non (Scopoli, 1772)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938799"
+    }
+,
+    {
+      "name": "Oecophora serratella Treitschke, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919762"
+    }
+,
+    {
+      "name": "Stagmatophora cinereocapitella Caradja, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415324"
+    }
+,
+    {
+      "name": "Stagmatophora sareptensis Walsingham, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415323"
+    }
+,
+    {
+      "name": "Stagmatophora serratella (Treitschke, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824982"
+    }
+,
+    {
+      "name": "Eteobalea sumptuosella (Lederer, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246600"
+    }
+,
+    {
+      "name": "Elachista sumptuosella Lederer, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924278"
+    }
+,
+    {
+      "name": "Lita admirandella Bruand, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415325"
+    }
+,
+    {
+      "name": "Stagmatophora amseli Osthelder, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415326"
+    }
+,
+    {
+      "name": "Eteobalea tririvella (Staudinger, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246601"
+    }
+,
+    {
+      "name": "Stagmatophora kasyi Riedl, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415327"
+    }
+,
+    {
+      "name": "Stagmatophora tririvella Staudinger, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924058"
+    }
+,
+    {
+      "name": "Herlinda Clarke, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Herlinda fasciola Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776614"
+    }
+,
+    {
+      "name": "Herlinda iota Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776615"
+    }
+,
+    {
+      "name": "Herlinda oligoria Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776616"
+    }
+,
+    {
+      "name": "Herlinda phaeoxantha Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776617"
+    }
+,
+    {
+      "name": "Iressa Clarke, 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Iressa microsema Clarke, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776618"
+    }
+,
+    {
+      "name": "Iressa neoleuca Clarke, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643710"
+    }
+,
+    {
+      "name": "Isidiella Riedl, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Isidiella divitella (Constant, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246595"
+    }
+,
+    {
+      "name": "Stagmatophora divitella Constant, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824678"
+    }
+,
+    {
+      "name": "Stagmatophora tyrrhenica Amsel, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415322"
+    }
+,
+    {
+      "name": "Isidiella nickerlii (Nickerl, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246594"
+    }
+,
+    {
+      "name": "Stagmatophora nickerlii Nickerl, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824981"
+    }
+,
+    {
+      "name": "Labdia Walker, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Labdia dicyanitis Meyrick, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643678"
+    }
+,
+    {
+      "name": "Microzestis Meyrick, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Microzestis inelegans Meyrick, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776620"
+    }
+,
+    {
+      "name": "Pyroderces Herrich-Shäffer, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Pyroderces argyrogrammos (Zeller, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246610"
+    }
+,
+    {
+      "name": "Cosmopteryx argyrogrammos Zeller, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921323"
+    }
+,
+    {
+      "name": "Pyroderces goldeggiella Herrich-Schäffer, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415333"
+    }
+,
+    {
+      "name": "Pyroderces brosi Riedl, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/947336"
+    }
+,
+    {
+      "name": "Pyroderces falcatella (Stainton, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590014"
+    }
+,
+    {
+      "name": "Pyroderces hemizopha (Meyrick, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458395"
+    }
+,
+    {
+      "name": "Pyroderces sarcogypsa (Meyrick, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938914"
+    }
+,
+    {
+      "name": "Labdia sarcogypsa Meyrick, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938915"
+    }
+,
+    {
+      "name": "Pyroderces klimeschi Rebel, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/342359"
+    }
+,
+    {
+      "name": "Pyroderces spix Bippus, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983122"
+    }
+,
+    {
+      "name": "Pyroderces wolschrijni Koster & Sinev, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/342362"
+    }
+,
+    {
+      "name": "Semolina Clarke, 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Semolina leucotricha Clarke, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643708"
+    }
+,
+    {
+      "name": "Stagmatophora Herrich-Schäffer, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Stagmatophora heydeniella (Fischer von Röslerstamm, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246606"
+    }
+,
+    {
+      "name": "Oecophora heydeniella Fischer von Röslerstamm, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924721"
+    }
+,
+    {
+      "name": "Stagmatophora vinsonella (Viette, 1957)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458424"
+    }
+,
+    {
+      "name": "Stagmatophora vinsonella abcedella Viette, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458512"
+    }
+,
+    {
+      "name": "Syntomaula Meyrick, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Syntomaula simulatella (Walker, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776622"
+    }
+,
+    {
+      "name": "Bathraula simulatella (Walker, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985259"
+    }
+,
+    {
+      "name": "Cryptolechia simulatella Walker, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985258"
+    }
+,
+    {
+      "name": "Triclonella Busck, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Triclonella elliptica Meyrick, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816373"
+    }
+,
+    {
+      "name": "Triclonella pictoria Meyrick, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816374"
+    }
+,
+    {
+      "name": "Trissodoris Meyrick, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Trissodoris honorariella (Walsingham, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643666"
+    }
+,
+    {
+      "name": "Stagmatophora honorariella Walsingham, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985267"
+    }
+,
+    {
+      "name": "Trissodoris thelmae Clarke, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643667"
+    }
+,
+    {
+      "name": "Vulcaniella Riedl, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Vulcaniella denisi Grange, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010710"
+    }
+,
+    {
+      "name": "Vulcaniella extremella (Wocke, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246590"
+    }
+,
+    {
+      "name": "Stagmatophora buhri M. Hering, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415321"
+    }
+,
+    {
+      "name": "Stagmatophora extremella Wocke, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926035"
+    }
+,
+    {
+      "name": "Stagmatophora naviella Chrétien, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415320"
+    }
+,
+    {
+      "name": "Vulcaniella fiordalisa (Petry, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246593"
+    }
+,
+    {
+      "name": "Stagmatophora fiordalisa Petry, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924997"
+    }
+,
+    {
+      "name": "Stagmatophora gnaphaliella Chrétien, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980293"
+    }
+,
+    {
+      "name": "Vulcaniella grabowiella (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246591"
+    }
+,
+    {
+      "name": "Pancalia grabowiella Staudinger, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917657"
+    }
+,
+    {
+      "name": "Stagmatophora grabowiella (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824920"
+    }
+,
+    {
+      "name": "Vulcaniella pomposella (Zeller, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246589"
+    }
+,
+    {
+      "name": "Elachista pomposella Zeller, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921405"
+    }
+,
+    {
+      "name": "Vulcaniella rosmarinella (Walsingham, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/246592"
+    }
+,
+    {
+      "name": "Stagmatophora rosmarinella Walsingham, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824697"
+    }
+
+  ]
+}

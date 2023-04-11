@@ -1,0 +1,1027 @@
+
+{
+  "name": "eunicidae",
+  "children": [
+
+    {
+      "name": "Eunicidae Berthold, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Euniphysidae Shen & Wu, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Aciculomarphysa Hartmann-Schröder, 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "Aciculomarphysa comes Hartmann-Schröder, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837769"
+    }
+,
+    {
+      "name": "Eunice Cuvier, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Eunice afra Peters, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669082"
+    }
+,
+    {
+      "name": "Eunice afra paupera Grube, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669195"
+    }
+,
+    {
+      "name": "Eunice antipathum (Pourtalès, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776907"
+    }
+,
+    {
+      "name": "Marphysa antipathum Pourtalès, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956042"
+    }
+,
+    {
+      "name": "Eunice aphroditois (Pallas, 1788)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371036"
+    }
+,
+    {
+      "name": "Eunice flavopicta Izuka, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566880"
+    }
+,
+    {
+      "name": "Leodice gigantea Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566871"
+    }
+,
+    {
+      "name": "Nereis aphroditois Pallas, 1788",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547017"
+    }
+,
+    {
+      "name": "Eunice arenosa Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962458"
+    }
+,
+    {
+      "name": "Eunice australis Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669080"
+    }
+,
+    {
+      "name": "Eunice leuconuchalis Benham, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695743"
+    }
+,
+    {
+      "name": "Eunice paucibranchis Grube, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695744"
+    }
+,
+    {
+      "name": "Eunice biannulata Moore, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987209"
+    }
+,
+    {
+      "name": "Eunice bilobata Treadwell, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987207"
+    }
+,
+    {
+      "name": "Eunice brevis (Ehlers, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987211"
+    }
+,
+    {
+      "name": "Nicidion brevis Ehlers, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987214"
+    }
+,
+    {
+      "name": "Eunice collini Augener, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776922"
+    }
+,
+    {
+      "name": "Eunice eimeorum Fauchald, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962516"
+    }
+,
+    {
+      "name": "Eunice elegans (Verrill, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987298"
+    }
+,
+    {
+      "name": "Leodice elegans Verrill, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987295"
+    }
+,
+    {
+      "name": "Eunice filamentosa Grube & Örsted in Grube, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669112"
+    }
+,
+    {
+      "name": "Eunice cirrobranchiata McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695878"
+    }
+,
+    {
+      "name": "Eunice floridana (Pourtalès, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371042"
+    }
+,
+    {
+      "name": "Marphysa floridana Pourtales, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566935"
+    }
+,
+    {
+      "name": "Eunice frauenfeldi Grube, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962446"
+    }
+,
+    {
+      "name": "Eunice magellanica McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993377"
+    }
+,
+    {
+      "name": "Eunice fucata Ehlers, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987300"
+    }
+,
+    {
+      "name": "Leodice fucata (Ehlers, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987301"
+    }
+,
+    {
+      "name": "Eunice fuscafasciata (Treadwell, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669153"
+    }
+,
+    {
+      "name": "Eunice (Nicidion) gracilis Crossland, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670644"
+    }
+,
+    {
+      "name": "Nicidion fuscafasciata Treadwell, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695993"
+    }
+,
+    {
+      "name": "Eunice grubei Gravier, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669078"
+    }
+,
+    {
+      "name": "Eunice guanica (Treadwell, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776908"
+    }
+,
+    {
+      "name": "Leodice guanica Treadwell, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956043"
+    }
+,
+    {
+      "name": "Eunice hartmanae Carrera-Parra & Salazar-Vallejo, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987302"
+    }
+,
+    {
+      "name": "Eunice heterochaeta Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934623"
+    }
+,
+    {
+      "name": "Eunice impexa Grube, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762110"
+    }
+,
+    {
+      "name": "Eunice indica Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669079"
+    }
+,
+    {
+      "name": "Eunice kerguelensis Averincev, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838116"
+    }
+,
+    {
+      "name": "Eunice kristiani Hartmann-Schröder, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837770"
+    }
+,
+    {
+      "name": "Eunice laticeps Ehlers, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669113"
+    }
+,
+    {
+      "name": "Eunice tentaculata Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670645"
+    }
+,
+    {
+      "name": "Eunice makemoana (Chamberlin, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987299"
+    }
+,
+    {
+      "name": "Leodice makemoana Chamberlin, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987303"
+    }
+,
+    {
+      "name": "Eunice margariticacea Fischli, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987304"
+    }
+,
+    {
+      "name": "Eunice marianae Hartmann-Schröder, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837773"
+    }
+,
+    {
+      "name": "Eunice musorstomica Hartmann-Schröder, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837772"
+    }
+,
+    {
+      "name": "Eunice neocaledoniensis Lechapt, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837771"
+    }
+,
+    {
+      "name": "Eunice oerstedii Stimpson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371037"
+    }
+,
+    {
+      "name": "Eunice oliga (Chamberlin, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762118"
+    }
+,
+    {
+      "name": "Leodice oliga Chamberlin, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956044"
+    }
+,
+    {
+      "name": "Eunice papeetensis (Chamberlin, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762119"
+    }
+,
+    {
+      "name": "Leodice oliga papeetensis Chamberlin, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956045"
+    }
+,
+    {
+      "name": "Eunice pectinata Grube, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987307"
+    }
+,
+    {
+      "name": "Eunice pennata (Müller, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371040"
+    }
+,
+    {
+      "name": "Nereis pennata Müller, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566867"
+    }
+,
+    {
+      "name": "Eunice petersi Fauchald, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669114"
+    }
+,
+    {
+      "name": "Eunice afra punctata Peters, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670643"
+    }
+,
+    {
+      "name": "Eunice plessisi Rullier, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669115"
+    }
+,
+    {
+      "name": "Eunice pruvoti Fauchald, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001017"
+    }
+,
+    {
+      "name": "Eunice anceps"" Pruvot, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001020"
+    }
+,
+    {
+      "name": "Eunice roussaei Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934626"
+    }
+,
+    {
+      "name": "Eunice rubrivittata (Treadwell, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776943"
+    }
+,
+    {
+      "name": "Leodice rubrivittata Treadwell, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956046"
+    }
+,
+    {
+      "name": "Eunice schemacephala Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987305"
+    }
+,
+    {
+      "name": "Eunice schizobranchia Claparède, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371046"
+    }
+,
+    {
+      "name": "Eunice tahitana Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962440"
+    }
+,
+    {
+      "name": "Eunice tubifex Crossland, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670734"
+    }
+,
+    {
+      "name": "Euniphysa tubifex (Crossland, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698061"
+    }
+,
+    {
+      "name": "Eunice vittata (Delle Chiaje, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371041"
+    }
+,
+    {
+      "name": "Eunice congesta Marenzeller, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566876"
+    }
+,
+    {
+      "name": "Eunice minuta Grube, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566899"
+    }
+,
+    {
+      "name": "Eunice pellucida Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566900"
+    }
+,
+    {
+      "name": "Nereis vittata Delle Chiaje, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566869"
+    }
+,
+    {
+      "name": "Eunice websteri Fauchald, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776923"
+    }
+,
+    {
+      "name": "Leodice Lamarck, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Leodice antennata Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566903"
+    }
+,
+    {
+      "name": "Eunice antennata (Savigny in Lamarck, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371047"
+    }
+,
+    {
+      "name": "Eunice gracilis antennata Grube, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588347"
+    }
+,
+    {
+      "name": "Eunice longiqua Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566881"
+    }
+,
+    {
+      "name": "Leodice antillensis (Ehlers, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987206"
+    }
+,
+    {
+      "name": "Eunice antillensis Ehlers, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987208"
+    }
+,
+    {
+      "name": "Leodice harassii (Audouin & Milne Edwards, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780880"
+    }
+,
+    {
+      "name": "Eunice fasciata McIntosh, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566879"
+    }
+,
+    {
+      "name": "Eunice harassii Audouin & Milne Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371045"
+    }
+,
+    {
+      "name": "Eunice rissoi Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566901"
+    }
+,
+    {
+      "name": "Eunice rubrocincta Ehlers, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371043"
+    }
+,
+    {
+      "name": "Leodice laurillardi (Quatrefages, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934624"
+    }
+,
+    {
+      "name": "Eunice laurillardi Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934625"
+    }
+,
+    {
+      "name": "Leodice lucei (Grube, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987494"
+    }
+,
+    {
+      "name": "Eunice lucei Grube, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987495"
+    }
+,
+    {
+      "name": "Leodice thomasiana (Augener, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987308"
+    }
+,
+    {
+      "name": "Eunice thomasiana Augener, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987310"
+    }
+,
+    {
+      "name": "Leodice torquata (Quatrefages, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828523"
+    }
+,
+    {
+      "name": "Eunice claparedii Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566875"
+    }
+,
+    {
+      "name": "Eunice torquata Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371035"
+    }
+,
+    {
+      "name": "Leodice torresiensis (McIntosh, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987311"
+    }
+,
+    {
+      "name": "Eunice torresiensis McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987309"
+    }
+,
+    {
+      "name": "Lysidice Lamarck, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Nematonereis Schmarda, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Lysidice adrianae Carrera-Parra, Fauchald & Gambi, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987503"
+    }
+,
+    {
+      "name": "Lysidice collaris Grube, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362475"
+    }
+,
+    {
+      "name": "Lycidice lunae Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566908"
+    }
+,
+    {
+      "name": "Lycidice pectinifera Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566909"
+    }
+,
+    {
+      "name": "Lysidice fallax Ehlers, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566912"
+    }
+,
+    {
+      "name": "Lysidice fusca Treadwell, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566913"
+    }
+,
+    {
+      "name": "Lysidice parva Treadwell, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566930"
+    }
+,
+    {
+      "name": "Lysidice robusta Stimpson, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566931"
+    }
+,
+    {
+      "name": "Lysidice sulcata Treadwell, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566932"
+    }
+,
+    {
+      "name": "Lysidice hebes (Verrill, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778615"
+    }
+,
+    {
+      "name": "Nematonereis hebes Verrill, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529380"
+    }
+,
+    {
+      "name": "Lysidice natalensis Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987506"
+    }
+,
+    {
+      "name": "Lysidice ninetta Audouin & H Milne Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588"
+    }
+,
+    {
+      "name": "Lycidice brevicornis Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566907"
+    }
+,
+    {
+      "name": "Lysidice bilobata Verrill, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566910"
+    }
+,
+    {
+      "name": "Lysidice brachycera Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566911"
+    }
+,
+    {
+      "name": "Lysidice mahagoni Claparède, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566914"
+    }
+,
+    {
+      "name": "Lysidice margaritacea Claparède, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362476"
+    }
+,
+    {
+      "name": "Nereis olympia Blainville, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566866"
+    }
+,
+    {
+      "name": "Nereis valentina Blainville, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566868"
+    }
+,
+    {
+      "name": "Lysidice oele Horst, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987507"
+    }
+,
+    {
+      "name": "Lysidice torquata Quatrefages, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957749"
+    }
+,
+    {
+      "name": "Lysidice tortugae Treadwell, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987508"
+    }
+,
+    {
+      "name": "Lysidice unicornis (Grube, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780881"
+    }
+,
+    {
+      "name": "Lumbriconereis unicornis Grube, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694283"
+    }
+,
+    {
+      "name": "Nematonereis grubei Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694282"
+    }
+,
+    {
+      "name": "Nematonereis unicornis (Grube, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645846"
+    }
+,
+    {
+      "name": "Nematonereis unicornis Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/586"
+    }
+,
+    {
+      "name": "Marphysa Quatrefages, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphiro Kinberg, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Paramarphysa Ehlers, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Marphysa bernardi Rullier, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669132"
+    }
+,
+    {
+      "name": "Marphysa capensis (Schmarda, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669161"
+    }
+,
+    {
+      "name": "Eunice capensis Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696015"
+    }
+,
+    {
+      "name": "Marphysa corallina (Kinberg, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774108"
+    }
+,
+    {
+      "name": "Nauphanta corallina Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836605"
+    }
+,
+    {
+      "name": "Marphysa gaditana Martin, Gil & Zanol, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962785"
+    }
+,
+    {
+      "name": "Marphysa mossambica (Peters, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669083"
+    }
+,
+    {
+      "name": "Eunice mossambica Peters, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695741"
+    }
+,
+    {
+      "name": "Marphysa simplex Treadwell, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695742"
+    }
+,
+    {
+      "name": "Nauphanta mossambica (Peters, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695740"
+    }
+,
+    {
+      "name": "Nauphanta novaehollandiae Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695739"
+    }
+,
+    {
+      "name": "Marphysa pacifica (Rullier, 1972)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824556"
+    }
+,
+    {
+      "name": "Amphiro pacifica Rullier, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669107"
+    }
+,
+    {
+      "name": "Marphysa proppi (Averincev, 1972)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899524"
+    }
+,
+    {
+      "name": "Paramarphysa proppi Averincev, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841547"
+    }
+,
+    {
+      "name": "Marphysa sanguinea (Montagu, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/584"
+    }
+,
+    {
+      "name": "Leodice opalina Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566906"
+    }
+,
+    {
+      "name": "Lysidice multicirrata Claparède, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566915"
+    }
+,
+    {
+      "name": "Marphysa acicularum brevibranchiata Treadwell, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588348"
+    }
+,
+    {
+      "name": "Marphysa acicularum Webster, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566933"
+    }
+,
+    {
+      "name": "Marphysa haemasoma Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566936"
+    }
+,
+    {
+      "name": "Marphysa iwamushi Izuka, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566937"
+    }
+,
+    {
+      "name": "Marphysa leidii Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566938"
+    }
+,
+    {
+      "name": "Marphysa nobilis Treadwell, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566939"
+    }
+,
+    {
+      "name": "Marphysa parishii Baird, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566940"
+    }
+,
+    {
+      "name": "Marphysa sanguinea americana Monro, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588349"
+    }
+,
+    {
+      "name": "Marphysa viridis Treadwell, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566941"
+    }
+,
+    {
+      "name": "Nereis sanguinea Montagu, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547018"
+    }
+,
+    {
+      "name": "Marphysa victori Lavesque, Daffe, Bonifácio & Hutchings, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886695"
+    }
+,
+    {
+      "name": "Nicidion Kinberg, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Nicidion cariboea (Grube, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828522"
+    }
+,
+    {
+      "name": "Eunice cariboea Grube, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371033"
+    }
+,
+    {
+      "name": "Eunice culebra Treadwell, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566877"
+    }
+,
+    {
+      "name": "Nicidion incerta Hansen, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566943"
+    }
+,
+    {
+      "name": "Nicidion cincta Kinberg, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695738"
+    }
+,
+    {
+      "name": "Eunice cincta (Kinberg, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669081"
+    }
+,
+    {
+      "name": "Nicidion longula (Ehlers, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969865"
+    }
+,
+    {
+      "name": "Marphysa longula (Ehlers, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812248"
+    }
+,
+    {
+      "name": "Paramarphysa longula Ehlers, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776945"
+    }
+,
+    {
+      "name": "Nicidion mutilata (Webster, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987297"
+    }
+,
+    {
+      "name": "Eunice mutilata Webster, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987306"
+    }
+,
+    {
+      "name": "Palola Gray in Stair, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Palolo ",
+      "url": ""
+    }
+,
+    {
+      "name": "Palola accrescens (Hoagland, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987630"
+    }
+,
+    {
+      "name": "Leodice accrescens Hoagland, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987629"
+    }
+,
+    {
+      "name": "Palolo accrescens (Hoagland, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987632"
+    }
+,
+    {
+      "name": "Palola siciliensis (Grube, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371031"
+    }
+,
+    {
+      "name": "Eunice adriatica Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566872"
+    }
+,
+    {
+      "name": "Eunice siciliensis Grube, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669051"
+    }
+,
+    {
+      "name": "Eunice taenia Claparède, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566902"
+    }
+,
+    {
+      "name": "Nereidonta paretti Blainville, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685202"
+    }
+,
+    {
+      "name": "Palolo siciliensis (Grube, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530063"
+    }
+,
+    {
+      "name": "Palola vernalis (Treadwell, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987631"
+    }
+,
+    {
+      "name": "Leodice viridis vernalis Treadwell, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987634"
+    }
+,
+    {
+      "name": "Palola viridis Gray in Stair, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762122"
+    }
+,
+    {
+      "name": "Paucibranchia Molina-Acevedo, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Paucibranchia adenensis (Gravier, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914163"
+    }
+,
+    {
+      "name": "Marphysa adenensis Gravier, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/624262"
+    }
+,
+    {
+      "name": "Paucibranchia bellii (Audouin & Milne Edwards, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914169"
+    }
+,
+    {
+      "name": "Eunice bellii Audouin & Milne Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566873"
+    }
+,
+    {
+      "name": "Lysibranchia paucibranchiata Cantone, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933721"
+    }
+,
+    {
+      "name": "Marphysa belli [auctt.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566668"
+    }
+,
+    {
+      "name": "Marphysa belli Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566471"
+    }
+,
+    {
+      "name": "Marphysa bellii (Audouin & Milne Edwards, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/583"
+    }
+,
+    {
+      "name": "Paucibranchia fallax (Marion & Bobretzky, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914170"
+    }
+,
+    {
+      "name": "Marphysa fallax Marion & Bobretzky, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362522"
+    }
+,
+    {
+      "name": "Paucibranchia kinbergi (McIntosh, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914171"
+    }
+,
+    {
+      "name": "Marphysa kinbergi McIntosh, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362520"
+    }
+
+  ]
+}

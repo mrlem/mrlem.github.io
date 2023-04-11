@@ -1,0 +1,37 @@
+
+{
+  "name": "amblypygi",
+  "children": [
+
+    {
+      "name": "Amblypygi Thorell, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "charinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/amblypygi/charinidae/"
+    }
+,
+    {
+      "name": "charontidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/amblypygi/charontidae/"
+    }
+,
+    {
+      "name": "Charontoidea Simon, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "phrynichidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/amblypygi/phrynichidae/"
+    }
+,
+    {
+      "name": "phrynidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/amblypygi/phrynidae/"
+    }
+
+  ]
+}

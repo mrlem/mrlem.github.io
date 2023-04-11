@@ -1,0 +1,197 @@
+
+{
+  "name": "characidae",
+  "children": [
+
+    {
+      "name": "Characidae Latreille, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "aphyocharacinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/characiformes/characidae/aphyocharacinae/"
+    }
+,
+    {
+      "name": "characinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/characiformes/characidae/characinae/"
+    }
+,
+    {
+      "name": "cheirodontinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/characiformes/characidae/cheirodontinae/"
+    }
+,
+    {
+      "name": "Astyanax Baird & Girard, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Astyanax bimaculatus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418972"
+    }
+,
+    {
+      "name": "Astyanax bimaculatus borealis Eigenmann, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777442"
+    }
+,
+    {
+      "name": "Poecilurichthys brevoortii Gill, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/779574"
+    }
+,
+    {
+      "name": "Salmo bimaculatus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780611"
+    }
+,
+    {
+      "name": "Tetragonopterus bahiensis Steindachner, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780799"
+    }
+,
+    {
+      "name": "Tetragonopterus bartlettii Günther, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780801"
+    }
+,
+    {
+      "name": "Tetragonopterus gronovii Valenciennes, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780808"
+    }
+,
+    {
+      "name": "Astyanax leopoldi Géry, Planquette & Le Bail, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418973"
+    }
+,
+    {
+      "name": "Astyanax validus Géry, Planquette & Le Bail, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418974"
+    }
+,
+    {
+      "name": "Ctenobrycon Eigenmann, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Ctenobrycon spilurus (Valenciennes, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418985"
+    }
+,
+    {
+      "name": "Tetragonopterus spilurus Valenciennes, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780814"
+    }
+,
+    {
+      "name": "Jupiaba Zanata, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "Jupiaba abramoides (Eigenmann, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424551"
+    }
+,
+    {
+      "name": "Astyanax abramoides Eigenmann, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/461122"
+    }
+,
+    {
+      "name": "Jupiaba keithi (Géry, Planquette & Le Bail, 1996)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424552"
+    }
+,
+    {
+      "name": "Astyanax keithi Géry, Planquette & Le Bail, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/461127"
+    }
+,
+    {
+      "name": "Jubiaba keithi (Géry, Planquette & Le Bail, 1996)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/779038"
+    }
+,
+    {
+      "name": "Jupiaba maroniensis (Géry, Planquette & Le Bail, 1996)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424553"
+    }
+,
+    {
+      "name": "Astyanax maroniensis Géry, Planquette & Le Bail, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/461128"
+    }
+,
+    {
+      "name": "Jubiaba maroniensis (Géry, Planquette & Le Bail, 1996)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/779040"
+    }
+,
+    {
+      "name": "Jupiaba meunieri (Géry, Planquette & Le Bail, 1996)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424554"
+    }
+,
+    {
+      "name": "Astyanax meunieri Géry, Planquette & Le Bail, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/526299"
+    }
+,
+    {
+      "name": "Jubiaba meunieri (Géry, Planquette & Le Bail, 1996)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/779041"
+    }
+,
+    {
+      "name": "Jupiaba ocellata (Géry, Planquette & Le Bail, 1996)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424555"
+    }
+,
+    {
+      "name": "Astyanax ocellatus Géry, Planquette & Le Bail, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/461123"
+    }
+,
+    {
+      "name": "Jupiaba pinnata (Eigenmann, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825840"
+    }
+,
+    {
+      "name": "Astyanax pinnatus (Eigenmann, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825842"
+    }
+,
+    {
+      "name": "Deuterodon pinnatus Eigenmann, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825841"
+    }
+,
+    {
+      "name": "pristellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/characiformes/characidae/pristellinae/"
+    }
+,
+    {
+      "name": "stethaprioninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/characiformes/characidae/stethaprioninae/"
+    }
+,
+    {
+      "name": "stevardiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/characiformes/characidae/stevardiinae/"
+    }
+,
+    {
+      "name": "tetragonopterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/characiformes/characidae/tetragonopterinae/"
+    }
+
+  ]
+}

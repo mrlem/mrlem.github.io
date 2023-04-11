@@ -1,0 +1,277 @@
+
+{
+  "name": "aphroditidae",
+  "children": [
+
+    {
+      "name": "Aphroditidae Malmgren, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphrodita Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphrodite [auctt.]",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphrodita aculeata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/386"
+    }
+,
+    {
+      "name": "Aphrodita borealis Johnston, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566646"
+    }
+,
+    {
+      "name": "Aphrodita elliptica versicolor Hill in McIntosh, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588339"
+    }
+,
+    {
+      "name": "Aphrodita nitens Linnaeus, 1746 in Johnston, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566671"
+    }
+,
+    {
+      "name": "Aphrodita subrotunda Hill, 1752",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566673"
+    }
+,
+    {
+      "name": "Aphrodite aculeata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/385"
+    }
+,
+    {
+      "name": "Aphroditella pallida Roule, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566674"
+    }
+,
+    {
+      "name": "Eruca echinata Barrelier in Claparède, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566675"
+    }
+,
+    {
+      "name": "Halithea aurata Risso, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566676"
+    }
+,
+    {
+      "name": "Halithea sericea Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566677"
+    }
+,
+    {
+      "name": "Hystrix marina Redi in Claparède, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566679"
+    }
+,
+    {
+      "name": "Milnesia nuda Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566683"
+    }
+,
+    {
+      "name": "Mus marinus Linnaeus in MciIntosh, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566684"
+    }
+,
+    {
+      "name": "Vermis aureus Jacobeus in Claparède, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566685"
+    }
+,
+    {
+      "name": "Aphrodita armifera Moore, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669108"
+    }
+,
+    {
+      "name": "Aphrodita raripapillata Essenberg, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695876"
+    }
+,
+    {
+      "name": "Aphrodite raripapillata Essenberg, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695877"
+    }
+,
+    {
+      "name": "Hermionopsis Seidler, 1923",
+      "url": ""
+    }
+,
+    {
+      "name": "Hermionopsis levisetosa Seidler, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838122"
+    }
+,
+    {
+      "name": "Laetmonice Kinberg, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Laetmonice benthaliana McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987487"
+    }
+,
+    {
+      "name": "Laetmonice producta benthaliana McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993373"
+    }
+,
+    {
+      "name": "Laetmonice filicornis Kinberg, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/370685"
+    }
+,
+    {
+      "name": "Laetmatonice armata Verrill, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566680"
+    }
+,
+    {
+      "name": "Laetmatonice kinbergi Baird, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566681"
+    }
+,
+    {
+      "name": "Letmonicella spinosissima Roule, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566682"
+    }
+,
+    {
+      "name": "Laetmonice hystrix (Savigny in Lamarck, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/370686"
+    }
+,
+    {
+      "name": "Aphrodita mediterranea Costa, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566670"
+    }
+,
+    {
+      "name": "Halithea hystrix Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956148"
+    }
+,
+    {
+      "name": "Hermione hystrix (Savigny in Lamarck, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/531392"
+    }
+,
+    {
+      "name": "Hermonia hystrix (Savigny in Lamarck, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388762"
+    }
+,
+    {
+      "name": "Iphione hystrix (Savigny in Lamarck, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549052"
+    }
+,
+    {
+      "name": "Laetmonice moluccana (Horst, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987488"
+    }
+,
+    {
+      "name": "Hermione moluccana Horst, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987483"
+    }
+,
+    {
+      "name": "Laetmonice producta Grube, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/370687"
+    }
+,
+    {
+      "name": "Laetmatonice producta (Grube, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587658"
+    }
+,
+    {
+      "name": "Laetmonice producta brittanica McIntosh, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/384123"
+    }
+,
+    {
+      "name": "Laetmonice willemoesi McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987490"
+    }
+,
+    {
+      "name": "Laetmonice producta willemoesi McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993376"
+    }
+,
+    {
+      "name": "Palmyra Savigny in Lamarck, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Palmyra aurifera Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987627"
+    }
+,
+    {
+      "name": "Pontogenia Claparède, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Pontogenia araeoceras (Haswell, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987654"
+    }
+,
+    {
+      "name": "Triceratia araeoceras Haswell, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987653"
+    }
+,
+    {
+      "name": "Pontogenia chrysocoma (Baird, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852351"
+    }
+,
+    {
+      "name": "Aphrodite echinus Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934619"
+    }
+,
+    {
+      "name": "Hermione chrysocoma Baird, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852352"
+    }
+,
+    {
+      "name": "Pontogenia macleari (Haswell, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987656"
+    }
+,
+    {
+      "name": "Hermione macleari Haswell, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987655"
+    }
+,
+    {
+      "name": "Hermonia macleari (Haswell, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987658"
+    }
+,
+    {
+      "name": "Pontogenia phaeogramma Watson Russell, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934620"
+    }
+
+  ]
+}

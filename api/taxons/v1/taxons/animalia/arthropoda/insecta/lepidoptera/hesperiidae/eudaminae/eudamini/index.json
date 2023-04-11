@@ -1,0 +1,1002 @@
+
+{
+  "name": "eudamini",
+  "children": [
+
+    {
+      "name": "Eudamini Mabille, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "Cephisina Grishin, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Eudamina Mabille, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "Aguna Williams, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Aguna aurunce (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754818"
+    }
+,
+    {
+      "name": "Aguna aurunce hypozonius (Plötz, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761291"
+    }
+,
+    {
+      "name": "Aguna claxon Evans, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754815"
+    }
+,
+    {
+      "name": "Aguna coeloides Austin & Mielke, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754817"
+    }
+,
+    {
+      "name": "Aguna coelus (Stoll, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754816"
+    }
+,
+    {
+      "name": "Astraptes Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Astraptes aulestis (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728293"
+    }
+,
+    {
+      "name": "Astraptes janeira (Schaus, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728292"
+    }
+,
+    {
+      "name": "Papilio aulestis Cramer, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728295"
+    }
+,
+    {
+      "name": "Astraptes aulus (Plötz, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756145"
+    }
+,
+    {
+      "name": "Astraptes enotrus (Stoll, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756144"
+    }
+,
+    {
+      "name": "Astraptes halesius (Hewitson, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756143"
+    }
+,
+    {
+      "name": "Cecropterus Herrich-Schäffer, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Cecropterus albimargo (Mabille, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985414"
+    }
+,
+    {
+      "name": "Urbanus albimargo (Mabille, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756054"
+    }
+,
+    {
+      "name": "Cecropterus carmelita (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985415"
+    }
+,
+    {
+      "name": "Urbanus carmelita (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756051"
+    }
+,
+    {
+      "name": "Cecropterus carmelita carmelita (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002657"
+    }
+,
+    {
+      "name": "Urbanus carmelita carmelita (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761483"
+    }
+,
+    {
+      "name": "Cecropterus dorantes (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982157"
+    }
+,
+    {
+      "name": "Urbanus dorantes (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647853"
+    }
+,
+    {
+      "name": "Cecropterus dorantes dorantes (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982160"
+    }
+,
+    {
+      "name": "Urbanus dorantes dorantes (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728258"
+    }
+,
+    {
+      "name": "Cecropterus doryssus (Swainson, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985413"
+    }
+,
+    {
+      "name": "Urbanus doryssus (Swainson, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756053"
+    }
+,
+    {
+      "name": "Cecropterus doryssus doryssus (Swainson, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985411"
+    }
+,
+    {
+      "name": "Urbanus doryssus doryssus (Swainson, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761484"
+    }
+,
+    {
+      "name": "Cecropterus longipennis (Plötz, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985408"
+    }
+,
+    {
+      "name": "Autochton longipennis (Plötz, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756137"
+    }
+,
+    {
+      "name": "Cecropterus obscurus (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983512"
+    }
+,
+    {
+      "name": "Eudamus obscurus Hewitson, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983510"
+    }
+,
+    {
+      "name": "Urbanus dorantes obscurus (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647854"
+    }
+,
+    {
+      "name": "Urbanus obscurus (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812879"
+    }
+,
+    {
+      "name": "Cecropterus reductus (Riley, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985412"
+    }
+,
+    {
+      "name": "Urbanus reductus (Riley, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756052"
+    }
+,
+    {
+      "name": "Cecropterus takuta (Evans, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985416"
+    }
+,
+    {
+      "name": "Urbanus albimargo takuta Evans, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761486"
+    }
+,
+    {
+      "name": "Cecropterus zarex (Hübner, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985407"
+    }
+,
+    {
+      "name": "Autochton zarex (Hübner, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756138"
+    }
+,
+    {
+      "name": "Cecropterus Herrich-Schäffer, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Murgaria Watson, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Thorybes Scudder, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Cephise Evans, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Cephise cephise (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754837"
+    }
+,
+    {
+      "name": "Cephise impunctus Austin & Mielke, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754839"
+    }
+,
+    {
+      "name": "Cephise malesedis Austin & Mielke, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754838"
+    }
+,
+    {
+      "name": "Cephise procerus (Plötz, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754840"
+    }
+,
+    {
+      "name": "Ectomis Mabille, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Asina Grishin, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Ectomis auginus (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985454"
+    }
+,
+    {
+      "name": "Polythrix auginus (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754829"
+    }
+,
+    {
+      "name": "Ectomis caunus (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985451"
+    }
+,
+    {
+      "name": "Polythrix caunus (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754828"
+    }
+,
+    {
+      "name": "Ectomis ceculus (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985452"
+    }
+,
+    {
+      "name": "Polythrix ceculus (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754827"
+    }
+,
+    {
+      "name": "Ectomis cythna (Hewitson, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754810"
+    }
+,
+    {
+      "name": "Ectomis cythna cythna (Hewitson, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761289"
+    }
+,
+    {
+      "name": "Ectomis eudoxus (Stoll, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985458"
+    }
+,
+    {
+      "name": "Polythrix eudoxus (Stoll, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754831"
+    }
+,
+    {
+      "name": "Ectomis metallescens (Mabille, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985455"
+    }
+,
+    {
+      "name": "Polythrix metallescens Mabille, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754830"
+    }
+,
+    {
+      "name": "Ectomis minvanes (Williams, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985456"
+    }
+,
+    {
+      "name": "Polythrix minvanes (Williams, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754826"
+    }
+,
+    {
+      "name": "Ectomis octomaculata (Sepp, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985450"
+    }
+,
+    {
+      "name": "Polythrix octomaculata (Sepp, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754824"
+    }
+,
+    {
+      "name": "Ectomis orpheus (Plötz, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985457"
+    }
+,
+    {
+      "name": "Chrysoplectrum orpheus (Plötz, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754835"
+    }
+,
+    {
+      "name": "Ectomis perniciosus (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985462"
+    }
+,
+    {
+      "name": "Chrysoplectrum perniciosus (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754834"
+    }
+,
+    {
+      "name": "Ectomis pervivax (Hübner, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985461"
+    }
+,
+    {
+      "name": "Chrysoplectrum pervivax (Hübner, 1819)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754832"
+    }
+,
+    {
+      "name": "Ectomis roma (Evans, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985449"
+    }
+,
+    {
+      "name": "Polythrix roma Evans, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754825"
+    }
+,
+    {
+      "name": "Ectomis speculum (Austin, 2008)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985459"
+    }
+,
+    {
+      "name": "Speculum speculum Austin, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755360"
+    }
+,
+    {
+      "name": "Ectomis teutas (Hewitson, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985460"
+    }
+,
+    {
+      "name": "Hypocryptothrix teutas (Hewitson, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755263"
+    }
+,
+    {
+      "name": "Ectomis Mabille, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Chrysoplectrum Watson, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypocryptothrix Watson, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Polythrix Watson, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Speculum Austin, 2008",
+      "url": ""
+    }
+,
+    {
+      "name": "Epargyreus Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Epargyreus exadeus (Cramer, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756035"
+    }
+,
+    {
+      "name": "Epargyreus exadeus exadeus (Cramer, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761479"
+    }
+,
+    {
+      "name": "Epargyreus socus (Hübner, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756036"
+    }
+,
+    {
+      "name": "Epargyreus socus sinus Evans, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761480"
+    }
+,
+    {
+      "name": "Epargyreus zestos (Geyer, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647839"
+    }
+,
+    {
+      "name": "Epargyreus zestos zestos (Geyer, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647840"
+    }
+,
+    {
+      "name": "Polygonus Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Polygonus leo (Gmelin, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647963"
+    }
+,
+    {
+      "name": "Polygonus leo leo (Gmelin, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647842"
+    }
+,
+    {
+      "name": "Polygonus leo pallida Röber, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761284"
+    }
+,
+    {
+      "name": "Polygonus savigny (Latreille, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754798"
+    }
+,
+    {
+      "name": "Polygonus manueli Bell & Comstock, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647843"
+    }
+,
+    {
+      "name": "Polygonus savigny punctus Bell & Comstock, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778881"
+    }
+,
+    {
+      "name": "Polygonus manueli punctus Bell & Comstock, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647844"
+    }
+,
+    {
+      "name": "Polygonus savigny savigny (Latreille, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761283"
+    }
+,
+    {
+      "name": "Proteides Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Proteides mercurius (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647836"
+    }
+,
+    {
+      "name": "Papilio mercurius Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728305"
+    }
+,
+    {
+      "name": "Proteides mercurius angasi (Godman & Salvin, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647837"
+    }
+,
+    {
+      "name": "Proteides mercurius mercurius (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728303"
+    }
+,
+    {
+      "name": "Ridens Evans, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Ridens panche (Williams, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754836"
+    }
+,
+    {
+      "name": "Spathilepia Butler, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Spathilepia clonius (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756038"
+    }
+,
+    {
+      "name": "Spicauda Grishin, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Spicauda cindra (Evans, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985419"
+    }
+,
+    {
+      "name": "Urbanus cindra Evans, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756048"
+    }
+,
+    {
+      "name": "Spicauda procne (Plötz, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985424"
+    }
+,
+    {
+      "name": "Urbanus procne (Plötz, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756050"
+    }
+,
+    {
+      "name": "Spicauda simplicius (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985422"
+    }
+,
+    {
+      "name": "Urbanus simplicius (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756049"
+    }
+,
+    {
+      "name": "Spicauda tanna (Evans, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985420"
+    }
+,
+    {
+      "name": "Urbanus tanna Evans, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756047"
+    }
+,
+    {
+      "name": "Spicauda teleus (Hübner, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985418"
+    }
+,
+    {
+      "name": "Urbanus teleus (Hübner, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756046"
+    }
+,
+    {
+      "name": "Telegonus Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhabdoides Scudder, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Telegonus alardus (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985432"
+    }
+,
+    {
+      "name": "Astraptes alardus (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756148"
+    }
+,
+    {
+      "name": "Telegonus alardus alardus (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985429"
+    }
+,
+    {
+      "name": "Astraptes alardus alardus (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761493"
+    }
+,
+    {
+      "name": "Telegonus alector (C. Felder & R. Felder, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985434"
+    }
+,
+    {
+      "name": "Astraptes alector (C. Felder & R. Felder, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756147"
+    }
+,
+    {
+      "name": "Eudamus alector C. Felder & R. Felder, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956209"
+    }
+,
+    {
+      "name": "Telegonus alector hopfferi (Plötz, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985435"
+    }
+,
+    {
+      "name": "Astraptes alector hopfferi (Plötz, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761492"
+    }
+,
+    {
+      "name": "Telegonus anaphus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982149"
+    }
+,
+    {
+      "name": "Astraptes anaphus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647858"
+    }
+,
+    {
+      "name": "Papilio anaphus Cramer, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728302"
+    }
+,
+    {
+      "name": "Telegonus anaphus anaphus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982150"
+    }
+,
+    {
+      "name": "Astraptes anaphus anaphus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728301"
+    }
+,
+    {
+      "name": "Telegonus anaphus anausis (Godman & Salvin, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982151"
+    }
+,
+    {
+      "name": "Astraptes anaphus anausis (Godman & Salvin, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647859"
+    }
+,
+    {
+      "name": "Telegonus apastus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985421"
+    }
+,
+    {
+      "name": "Astraptes apastus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728297"
+    }
+,
+    {
+      "name": "Papilio apastus Cramer, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728299"
+    }
+,
+    {
+      "name": "Telegonus apastus apastus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002656"
+    }
+,
+    {
+      "name": "Astraptes apastus apastus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761491"
+    }
+,
+    {
+      "name": "Telegonus chalco (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985428"
+    }
+,
+    {
+      "name": "Urbanus chalco (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756056"
+    }
+,
+    {
+      "name": "Telegonus chiriquensis (Staudinger, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985439"
+    }
+,
+    {
+      "name": "Astraptes chiriquensis (Staudinger, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756151"
+    }
+,
+    {
+      "name": "Telegonus chiriquensis oenander (Hewitson, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985440"
+    }
+,
+    {
+      "name": "Astraptes chiriquensis oenander (Hewitson, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761497"
+    }
+,
+    {
+      "name": "Telegonus cretatus (Hayward, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985431"
+    }
+,
+    {
+      "name": "Astraptes cretatus (Hayward, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756149"
+    }
+,
+    {
+      "name": "Telegonus cretatus cretatus (Hayward, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985436"
+    }
+,
+    {
+      "name": "Astraptes cretatus cretatus (Hayward, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761494"
+    }
+,
+    {
+      "name": "Telegonus creteus (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985438"
+    }
+,
+    {
+      "name": "Astraptes creteus (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756150"
+    }
+,
+    {
+      "name": "Telegonus creteus creteus (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985437"
+    }
+,
+    {
+      "name": "Astraptes creteus creteus (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761495"
+    }
+,
+    {
+      "name": "Telegonus fulgerator (Walch, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985427"
+    }
+,
+    {
+      "name": "Astraptes fulgerator (Walch, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756141"
+    }
+,
+    {
+      "name": "Telegonus fulgerator fulgerator (Walch, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002658"
+    }
+,
+    {
+      "name": "Astraptes fulgerator fulgerator (Walch, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761490"
+    }
+,
+    {
+      "name": "Telegonus naxos (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985423"
+    }
+,
+    {
+      "name": "Astraptes naxos (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756142"
+    }
+,
+    {
+      "name": "Telegonus talus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982152"
+    }
+,
+    {
+      "name": "Astraptes talus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647856"
+    }
+,
+    {
+      "name": "Papilio talus Cramer, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728291"
+    }
+,
+    {
+      "name": "Telegonus Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Telemiades Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Telemiades amphion (Geyer, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754808"
+    }
+,
+    {
+      "name": "Telemiades amphion amphion (Geyer, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761287"
+    }
+,
+    {
+      "name": "Telemiades antiope (Plötz, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754807"
+    }
+,
+    {
+      "name": "Telemiades antiope tosca Evans, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761286"
+    }
+,
+    {
+      "name": "Telemiades avitus (Stoll in Cramer, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961764"
+    }
+,
+    {
+      "name": "Papilio avitus Stoll in Cramer, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961765"
+    }
+,
+    {
+      "name": "Telemiades corbulo (Stoll in Cramer, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754805"
+    }
+,
+    {
+      "name": "Eudamus praestes Hewitson, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961768"
+    }
+,
+    {
+      "name": "Papilio corbulo Stoll in Cramer, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961767"
+    }
+,
+    {
+      "name": "Telemiades epicalus Hübner, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754804"
+    }
+,
+    {
+      "name": "Echelatus punctatus Mabille & Boullet, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961770"
+    }
+,
+    {
+      "name": "Telemiades diores obscurus Mabille & Boullet, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961769"
+    }
+,
+    {
+      "name": "Telemiades laogonus (Hewitson, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754809"
+    }
+,
+    {
+      "name": "Telemiades laogonus nicola (Plötz, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761288"
+    }
+,
+    {
+      "name": "Telemiades litanicus (Hewitson, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754799"
+    }
+,
+    {
+      "name": "Telemiades megallus Mabille, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961771"
+    }
+,
+    {
+      "name": "Telemiades meris (Plötz, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754803"
+    }
+,
+    {
+      "name": "Telemiades meris meris (Plötz, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761285"
+    }
+,
+    {
+      "name": "Telemiades nicomedes (Möschler, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754802"
+    }
+,
+    {
+      "name": "Telemiades penidas (Hewitson, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754806"
+    }
+,
+    {
+      "name": "Telemiades squanda Evans, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754801"
+    }
+,
+    {
+      "name": "Telemiades vansa Evans, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961766"
+    }
+,
+    {
+      "name": "Venada Evans, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Venada advena (Mabille, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754902"
+    }
+,
+    {
+      "name": "Zeutus Grishin, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Zeutus zeutus (Möschler, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985444"
+    }
+,
+    {
+      "name": "Calliades zeutus (Möschler, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754814"
+    }
+,
+    {
+      "name": "Loboclina Grishin, 2019",
+      "url": ""
+    }
+,
+    {
+      "name": "Telemiadina Grishin, 2019",
+      "url": ""
+    }
+
+  ]
+}

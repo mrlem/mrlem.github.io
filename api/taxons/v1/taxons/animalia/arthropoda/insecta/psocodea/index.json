@@ -1,0 +1,342 @@
+
+{
+  "name": "psocodea",
+  "children": [
+
+    {
+      "name": "Psocodea Hennig, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Phthiraptera Haeckel, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Psocoptera Shipley, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Amblycera ",
+      "url": ""
+    }
+,
+    {
+      "name": "Mallophaga ",
+      "url": ""
+    }
+,
+    {
+      "name": "amphipsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/amphipsocidae/"
+    }
+,
+    {
+      "name": "Anoplura Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "archipsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/archipsocidae/"
+    }
+,
+    {
+      "name": "Atropetae ",
+      "url": ""
+    }
+,
+    {
+      "name": "boopiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/boopiidae/"
+    }
+,
+    {
+      "name": "bovicoliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/bovicoliidae/"
+    }
+,
+    {
+      "name": "Caeciliusetae ",
+      "url": ""
+    }
+,
+    {
+      "name": "caeciliusidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/caeciliusidae/"
+    }
+,
+    {
+      "name": "Caeciliusoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "dolabellopsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/dolabellopsocidae/"
+    }
+,
+    {
+      "name": "echinophthiriidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/echinophthiriidae/"
+    }
+,
+    {
+      "name": "Echinophthirioidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "ectopsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/ectopsocidae/"
+    }
+,
+    {
+      "name": "elipsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/elipsocidae/"
+    }
+,
+    {
+      "name": "enderleinellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/enderleinellidae/"
+    }
+,
+    {
+      "name": "Epipsocetae ",
+      "url": ""
+    }
+,
+    {
+      "name": "epipsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/epipsocidae/"
+    }
+,
+    {
+      "name": "gliricolidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/gliricolidae/"
+    }
+,
+    {
+      "name": "goniodidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/goniodidae/"
+    }
+,
+    {
+      "name": "Goniodoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "gyropidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/gyropidae/"
+    }
+,
+    {
+      "name": "Gyropoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "haematopinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/haematopinidae/"
+    }
+,
+    {
+      "name": "hemipsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/hemipsocidae/"
+    }
+,
+    {
+      "name": "Homilopsocidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "hoplopleuridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/hoplopleuridae/"
+    }
+,
+    {
+      "name": "Ischnocera ",
+      "url": ""
+    }
+,
+    {
+      "name": "lachesillidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/lachesillidae/"
+    }
+,
+    {
+      "name": "lepidopsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/lepidopsocidae/"
+    }
+,
+    {
+      "name": "linognathidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/linognathidae/"
+    }
+,
+    {
+      "name": "Linognathoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "liposcelididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/liposcelididae/"
+    }
+,
+    {
+      "name": "menoponidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/menoponidae/"
+    }
+,
+    {
+      "name": "Menoponoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "mesopsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/mesopsocidae/"
+    }
+,
+    {
+      "name": "myopsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/myopsocidae/"
+    }
+,
+    {
+      "name": "Nanopsocetae ",
+      "url": ""
+    }
+,
+    {
+      "name": "pachytroctidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/pachytroctidae/"
+    }
+,
+    {
+      "name": "pediculidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/pediculidae/"
+    }
+,
+    {
+      "name": "Pediculoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "peripsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/peripsocidae/"
+    }
+,
+    {
+      "name": "philopteridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/philopteridae/"
+    }
+,
+    {
+      "name": "Philopteroidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "philotarsidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/philotarsidae/"
+    }
+,
+    {
+      "name": "polyplacidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/polyplacidae/"
+    }
+,
+    {
+      "name": "prionoglarididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/prionoglarididae/"
+    }
+,
+    {
+      "name": "pseudocaeciliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/pseudocaeciliidae/"
+    }
+,
+    {
+      "name": "Psocathropetae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Psocetae ",
+      "url": ""
+    }
+,
+    {
+      "name": "psocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/psocidae/"
+    }
+,
+    {
+      "name": "Psocomorpha ",
+      "url": ""
+    }
+,
+    {
+      "name": "psoquillidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/psoquillidae/"
+    }
+,
+    {
+      "name": "psyllipsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/psyllipsocidae/"
+    }
+,
+    {
+      "name": "pthiridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/pthiridae/"
+    }
+,
+    {
+      "name": "sphaeropsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/sphaeropsocidae/"
+    }
+,
+    {
+      "name": "stenopsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/stenopsocidae/"
+    }
+,
+    {
+      "name": "trichodectidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/trichodectidae/"
+    }
+,
+    {
+      "name": "Trichodectoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "trichopsocidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/trichopsocidae/"
+    }
+,
+    {
+      "name": "Troctomorpha ",
+      "url": ""
+    }
+,
+    {
+      "name": "trogiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/psocodea/trogiidae/"
+    }
+,
+    {
+      "name": "Trogiomorpha ",
+      "url": ""
+    }
+
+  ]
+}

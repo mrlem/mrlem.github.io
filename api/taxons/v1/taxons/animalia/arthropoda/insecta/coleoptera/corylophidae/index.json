@@ -1,0 +1,37 @@
+
+{
+  "name": "corylophidae",
+  "children": [
+
+    {
+      "name": "Corylophidae LeConte, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "corylophinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/corylophidae/corylophinae/"
+    }
+,
+    {
+      "name": "Holopsis Broun, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "Holopsis pellucidus (Matthews, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774012"
+    }
+,
+    {
+      "name": "Hoplicnema Matthews, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Hoplicnema sallei Matthews, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774014"
+    }
+
+  ]
+}

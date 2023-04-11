@@ -1,0 +1,392 @@
+
+{
+  "name": "leptochitonidae",
+  "children": [
+
+    {
+      "name": "Leptochitonidae Dall, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Belknapchiton Sirenko, Saito & Schwabe, 2022",
+      "url": ""
+    }
+,
+    {
+      "name": "Belknapchiton alveolus (Lovén, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018549"
+    }
+,
+    {
+      "name": "Chiton alveolus Lovén, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545516"
+    }
+,
+    {
+      "name": "Lepidopleurus alveolus (Lovén, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545520"
+    }
+,
+    {
+      "name": "Leptochiton alveolus (Lovén, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371784"
+    }
+,
+    {
+      "name": "Belknapchiton belknapi (Dall, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018550"
+    }
+,
+    {
+      "name": "Lepidopleurus farallonis Dall, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545526"
+    }
+,
+    {
+      "name": "Lepidopleurus mesogonus Dall, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545523"
+    }
+,
+    {
+      "name": "Lepidopleurus opacus Dall, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545530"
+    }
+,
+    {
+      "name": "Leptochiton belknapi Dall, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591827"
+    }
+,
+    {
+      "name": "Leptochiton farallonis (Dall, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018553"
+    }
+,
+    {
+      "name": "Leptochiton mesogonus (Dall, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018554"
+    }
+,
+    {
+      "name": "Leptochiton opacus (Dall, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018552"
+    }
+,
+    {
+      "name": "Belknapchiton japonicus (Thiele, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018556"
+    }
+,
+    {
+      "name": "Lepidopleurus japonicus var. aquivalvus Bergenhayn, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545528"
+    }
+,
+    {
+      "name": "Lepidopleurus japonicus Thiele, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837074"
+    }
+,
+    {
+      "name": "Leptochiton japonicus (Thiele, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837073"
+    }
+,
+    {
+      "name": "Lepidopleurus Leach in Risso, 1826",
+      "url": ""
+    }
+,
+    {
+      "name": "Lepidopleurus cajetanus (Poli, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362308"
+    }
+,
+    {
+      "name": "Chiton cajetanus Poli, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545507"
+    }
+,
+    {
+      "name": "Chiton concentricus Sowerby, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545519"
+    }
+,
+    {
+      "name": "Leptochiton Gray, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptochiton algesirensis (Capellini, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371783"
+    }
+,
+    {
+      "name": "Chiton algesirensis Capellini, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545626"
+    }
+,
+    {
+      "name": "Lepidopleurus algesirensis (Capellini, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545628"
+    }
+,
+    {
+      "name": "Lepidopleurus granoliratus Carpenter in Pilsbry, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545627"
+    }
+,
+    {
+      "name": "Leptochiton amsterdamensis Kaas & Van Belle, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791220"
+    }
+,
+    {
+      "name": "Leptochiton asellus (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371786"
+    }
+,
+    {
+      "name": "Chiton asellus Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545504"
+    }
+,
+    {
+      "name": "Chiton cinereus Montagu, 1803 non Linnaeus, 1767 nec Poli, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545506"
+    }
+,
+    {
+      "name": "Chiton onyx Spengler, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545710"
+    }
+,
+    {
+      "name": "Chiton scoticus Leach, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545711"
+    }
+,
+    {
+      "name": "Lepidopleurus asellus (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/56493"
+    }
+,
+    {
+      "name": "Leptochiton benthedi (Leloup, 1981)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728137"
+    }
+,
+    {
+      "name": "Lepidopleurus benthedi Leloup, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785673"
+    }
+,
+    {
+      "name": "Leptochiton cancellatus (Sowerby, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371789"
+    }
+,
+    {
+      "name": "Chiton cancellatus Sowerby, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545675"
+    }
+,
+    {
+      "name": "Chiton tuberculatus Leach, 1852 non Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545712"
+    }
+,
+    {
+      "name": "Lepidochiton cancellatus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552091"
+    }
+,
+    {
+      "name": "Lepidopleurus cancellatus (Sowerby, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545648"
+    }
+,
+    {
+      "name": "Leptochiton cimicoides (Monterosato, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017013"
+    }
+,
+    {
+      "name": "Chiton cimicoides Monterosato, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017014"
+    }
+,
+    {
+      "name": "Leptochiton gascognensis Kaas & Van Belle, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/940415"
+    }
+,
+    {
+      "name": "Leptochiton (Leptochiton) gascognensis Kaas & Van Belle, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/940416"
+    }
+,
+    {
+      "name": "Leptochiton gloriosus Kaas, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728138"
+    }
+,
+    {
+      "name": "Leptochiton guadelupei Sirenko, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912641"
+    }
+,
+    {
+      "name": "Leptochiton hiriensis Schwabe & Lozouet, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/457524"
+    }
+,
+    {
+      "name": "Leptochiton kerguelensis Haddon, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815067"
+    }
+,
+    {
+      "name": "Lepidopleurus kerguelensis (Haddon, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815068"
+    }
+,
+    {
+      "name": "Leptochiton pagenstecheri Pfeffer, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815069"
+    }
+,
+    {
+      "name": "Terenochiton kerguelensis (Haddon, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815070"
+    }
+,
+    {
+      "name": "Leptochiton kurnilatus Kaas, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720898"
+    }
+,
+    {
+      "name": "Leptochiton laurae Schwabe & Sellanes, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962244"
+    }
+,
+    {
+      "name": "Leptochiton leloupi Kaas, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/940417"
+    }
+,
+    {
+      "name": "Leptochiton neocaledonicus Sirenko, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837417"
+    }
+,
+    {
+      "name": "Leptochiton nierstraszi (Leloup, 1981)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728156"
+    }
+,
+    {
+      "name": "Lepidopleurus (Pilsbryella) nierstraszi Leloup, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/728157"
+    }
+,
+    {
+      "name": "Leptochiton perscitus Kaas, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591925"
+    }
+,
+    {
+      "name": "Leptochiton saitoi Sirenko, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591926"
+    }
+,
+    {
+      "name": "Leptochiton samadiae Sigwart & Sirenko, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837418"
+    }
+,
+    {
+      "name": "Leptochiton scabridus (Jeffreys, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371794"
+    }
+,
+    {
+      "name": "Chiton scabridus Jeffreys, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545630"
+    }
+,
+    {
+      "name": "Hanleya scabridus (Jeffreys, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545631"
+    }
+,
+    {
+      "name": "Lepidopleurus scabridus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545649"
+    }
+,
+    {
+      "name": "Leptochiton tahitiensis Sirenko, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957570"
+    }
+,
+    {
+      "name": "Leptochiton vanbellei Sirenko, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591927"
+    }
+,
+    {
+      "name": "Leptochiton vaubani Kaas, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591928"
+    }
+,
+    {
+      "name": "Leptochiton vietnamensis Sirenko, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591929"
+    }
+,
+    {
+      "name": "Leptochiton longispinus Saito, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677170"
+    }
+,
+    {
+      "name": "Parachiton Thiele, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptochiton (Parachiton) Thiele, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Parachiton acuminatus (Thiele, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590861"
+    }
+,
+    {
+      "name": "Parachiton africanus (Nierstrasz, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016993"
+    }
+,
+    {
+      "name": "Lepidopleurus africanus Nierstrasz, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016994"
+    }
+,
+    {
+      "name": "Parachiton ronaldi (Kaas & Van Belle, 1985)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590382"
+    }
+,
+    {
+      "name": "Leptochiton (Parachiton) ronaldi Kaas & Van Belle, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590532"
+    }
+
+  ]
+}

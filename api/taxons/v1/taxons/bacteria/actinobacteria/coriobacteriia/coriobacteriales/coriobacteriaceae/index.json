@@ -1,0 +1,27 @@
+
+{
+  "name": "coriobacteriaceae",
+  "children": [
+
+    {
+      "name": "Coriobacteriaceae Stackebrandt, Rainey & Ward-Rainey, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "Collinsella Kageyama, Benno & Nakase, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Collinsella aerofaciens (Eggerth, 1935)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952586"
+    }
+,
+    {
+      "name": "Bacteroides aerofaciens Eggerth, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952587"
+    }
+
+  ]
+}

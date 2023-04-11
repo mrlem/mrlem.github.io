@@ -1,0 +1,32 @@
+
+{
+  "name": "allantinae",
+  "children": [
+
+    {
+      "name": "Allantinae MacGillivray, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "allantini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/allantinae/allantini/"
+    }
+,
+    {
+      "name": "empriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/allantinae/empriini/"
+    }
+,
+    {
+      "name": "eriocampini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/allantinae/eriocampini/"
+    }
+,
+    {
+      "name": "harpiphorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/allantinae/harpiphorini/"
+    }
+
+  ]
+}

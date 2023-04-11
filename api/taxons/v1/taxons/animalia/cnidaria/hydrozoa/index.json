@@ -1,0 +1,72 @@
+
+{
+  "name": "hydrozoa",
+  "children": [
+
+    {
+      "name": "Hydrozoa Owen, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "actinulida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/hydrozoa/actinulida/"
+    }
+,
+    {
+      "name": "anthoathecata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/hydrozoa/anthoathecata/"
+    }
+,
+    {
+      "name": "Hydroidolina Collins, 2000",
+      "url": ""
+    }
+,
+    {
+      "name": "Hydroida ",
+      "url": ""
+    }
+,
+    {
+      "name": "Hydroidomedusae Claus, 1877 emend. Bouillon & Boero, 2000",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptolida Haeckel, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "leptothecata",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/hydrozoa/leptothecata/"
+    }
+,
+    {
+      "name": "limnomedusae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/hydrozoa/limnomedusae/"
+    }
+,
+    {
+      "name": "narcomedusae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/hydrozoa/narcomedusae/"
+    }
+,
+    {
+      "name": "siphonophorae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/hydrozoa/siphonophorae/"
+    }
+,
+    {
+      "name": "Trachylinae Haeckel, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "trachymedusae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/hydrozoa/trachymedusae/"
+    }
+
+  ]
+}

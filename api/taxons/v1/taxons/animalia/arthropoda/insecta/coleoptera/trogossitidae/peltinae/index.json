@@ -1,0 +1,27 @@
+
+{
+  "name": "peltinae",
+  "children": [
+
+    {
+      "name": "Peltinae Kirby, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "lophocaterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/trogossitidae/peltinae/lophocaterini/"
+    }
+,
+    {
+      "name": "peltini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/trogossitidae/peltinae/peltini/"
+    }
+,
+    {
+      "name": "thymalini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/trogossitidae/peltinae/thymalini/"
+    }
+
+  ]
+}

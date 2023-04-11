@@ -1,0 +1,22 @@
+
+{
+  "name": "sesiidae",
+  "children": [
+
+    {
+      "name": "Sesiidae Boisduval, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "sesiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sesiidae/sesiinae/"
+    }
+,
+    {
+      "name": "tinthiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/sesiidae/tinthiinae/"
+    }
+
+  ]
+}

@@ -1,0 +1,22 @@
+
+{
+  "name": "cryptarchinae",
+  "children": [
+
+    {
+      "name": "Cryptarchinae Thomson, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "cryptarchini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/nitidulidae/cryptarchinae/cryptarchini/"
+    }
+,
+    {
+      "name": "platyarchini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/nitidulidae/cryptarchinae/platyarchini/"
+    }
+
+  ]
+}

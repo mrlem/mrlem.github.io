@@ -1,0 +1,177 @@
+
+{
+  "name": "calanoida",
+  "children": [
+
+    {
+      "name": "Calanoida Sars G. O., 1903",
+      "url": ""
+    }
+,
+    {
+      "name": "acartiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/acartiidae/"
+    }
+,
+    {
+      "name": "aetideidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/aetideidae/"
+    }
+,
+    {
+      "name": "arietellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/arietellidae/"
+    }
+,
+    {
+      "name": "augaptilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/augaptilidae/"
+    }
+,
+    {
+      "name": "bathypontiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/bathypontiidae/"
+    }
+,
+    {
+      "name": "calanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/calanidae/"
+    }
+,
+    {
+      "name": "candaciidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/candaciidae/"
+    }
+,
+    {
+      "name": "centropagidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/centropagidae/"
+    }
+,
+    {
+      "name": "clausocalanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/clausocalanidae/"
+    }
+,
+    {
+      "name": "diaixidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/diaixidae/"
+    }
+,
+    {
+      "name": "diaptomidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/diaptomidae/"
+    }
+,
+    {
+      "name": "eucalanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/eucalanidae/"
+    }
+,
+    {
+      "name": "euchaetidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/euchaetidae/"
+    }
+,
+    {
+      "name": "heterorhabdidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/heterorhabdidae/"
+    }
+,
+    {
+      "name": "lucicutiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/lucicutiidae/"
+    }
+,
+    {
+      "name": "megacalanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/megacalanidae/"
+    }
+,
+    {
+      "name": "metridinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/metridinidae/"
+    }
+,
+    {
+      "name": "nullosetigeridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/nullosetigeridae/"
+    }
+,
+    {
+      "name": "paracalanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/paracalanidae/"
+    }
+,
+    {
+      "name": "parapontellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/parapontellidae/"
+    }
+,
+    {
+      "name": "phaennidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/phaennidae/"
+    }
+,
+    {
+      "name": "pontellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/pontellidae/"
+    }
+,
+    {
+      "name": "pseudocyclopidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/pseudocyclopidae/"
+    }
+,
+    {
+      "name": "pseudocyclopiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/pseudocyclopiidae/"
+    }
+,
+    {
+      "name": "pseudodiaptomidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/pseudodiaptomidae/"
+    }
+,
+    {
+      "name": "rhincalanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/rhincalanidae/"
+    }
+,
+    {
+      "name": "scolecitrichidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/scolecitrichidae/"
+    }
+,
+    {
+      "name": "spinocalanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/spinocalanidae/"
+    }
+,
+    {
+      "name": "stephidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/stephidae/"
+    }
+,
+    {
+      "name": "subeucalanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/subeucalanidae/"
+    }
+,
+    {
+      "name": "temoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/temoridae/"
+    }
+,
+    {
+      "name": "tharybidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/tharybidae/"
+    }
+,
+    {
+      "name": "tortanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/tortanidae/"
+    }
+
+  ]
+}

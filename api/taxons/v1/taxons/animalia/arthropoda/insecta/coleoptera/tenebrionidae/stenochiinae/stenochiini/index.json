@@ -1,0 +1,422 @@
+
+{
+  "name": "stenochiini",
+  "children": [
+
+    {
+      "name": "Stenochiini Kirby, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Cuphotes Champion, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Eucosmus Gistel, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Phygoscotus Schulz, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Spheniscus W. Kirby, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Cuphotes adelphus (Thomson, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754168"
+    }
+,
+    {
+      "name": "Spheniscus adelphus Thomson, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926327"
+    }
+,
+    {
+      "name": "Cuphotes augusti (Thomson, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754170"
+    }
+,
+    {
+      "name": "Spheniscus augusti Thomson, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926328"
+    }
+,
+    {
+      "name": "Cuphotes cincta (Olivier, 1795)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754171"
+    }
+,
+    {
+      "name": "Helops cinctus Olivier, 1795",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926334"
+    }
+,
+    {
+      "name": "Cuphotes formosus (Thomson, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754173"
+    }
+,
+    {
+      "name": "Spheniscus formosus Thomson, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926329"
+    }
+,
+    {
+      "name": "Cuphotes immaculipes (Thomson, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833090"
+    }
+,
+    {
+      "name": "Spheniscus immaculipes Thomson, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926330"
+    }
+,
+    {
+      "name": "Cuphotes lagrioides (Thomson, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754172"
+    }
+,
+    {
+      "name": "Spheniscus lagrioides Thomson, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926331"
+    }
+,
+    {
+      "name": "Cuphotes maculicollis (Thomson, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754175"
+    }
+,
+    {
+      "name": "Spheniscus maculicollis Thomson, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926332"
+    }
+,
+    {
+      "name": "Cuphotes sphacelatus (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754174"
+    }
+,
+    {
+      "name": "Erotylus sphacelatus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926335"
+    }
+,
+    {
+      "name": "Epiplecta Mäklin, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Epiplecta maculata Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754176"
+    }
+,
+    {
+      "name": "Flabellostrongylium Pic, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Flabellostrongylum Pic, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Flabellostrongylium dalensi Gonzales, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852915"
+    }
+,
+    {
+      "name": "Flabellostrongylium morvanae Ferrer & Moragues, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780841"
+    }
+,
+    {
+      "name": "Flabellostrongylum morvanae Ferrer & Moragues, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754502"
+    }
+,
+    {
+      "name": "Oploptera Chevrolat, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Oploptera cyanescens (Pic, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002652"
+    }
+,
+    {
+      "name": "Otocerus cyanescens Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754179"
+    }
+,
+    {
+      "name": "Oploptera maroniensis (Pic, 1935)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002653"
+    }
+,
+    {
+      "name": "Otocerus maroniensis Pic, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754177"
+    }
+,
+    {
+      "name": "Oploptera multinotata (Pic, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002649"
+    }
+,
+    {
+      "name": "Otocerus multinotatus Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754180"
+    }
+,
+    {
+      "name": "Oploptera superba (Mäklin, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002654"
+    }
+,
+    {
+      "name": "Otocerus superbus Mäklin, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754181"
+    }
+,
+    {
+      "name": "Oploptera validicornis (Mäklin, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002655"
+    }
+,
+    {
+      "name": "Otocerus validicornis Mäklin, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754182"
+    }
+,
+    {
+      "name": "Poecilesthus Dejean, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Diestica Pascoe, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Dinax Gistel, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Poecilesthus annulipes Pic, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754492"
+    }
+,
+    {
+      "name": "Poecilesthus biundulatus Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809222"
+    }
+,
+    {
+      "name": "Poecilesthus flavomaculatus Mäklin, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754493"
+    }
+,
+    {
+      "name": "Poecilesthus humeralis Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754494"
+    }
+,
+    {
+      "name": "Poecilesthus interruptus Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754495"
+    }
+,
+    {
+      "name": "Poecilesthus interruptus ininterruptus Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780839"
+    }
+,
+    {
+      "name": "Poecilesthus interruptus interruptus Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899427"
+    }
+,
+    {
+      "name": "Poecilesthus marginipennis Mäklin, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754496"
+    }
+,
+    {
+      "name": "Poecilesthus notaticollis Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754497"
+    }
+,
+    {
+      "name": "Poecilesthus pictus (Guérin-Méneville, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754498"
+    }
+,
+    {
+      "name": "Spheniscus pictus Guérin-Méneville, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926336"
+    }
+,
+    {
+      "name": "Poecilesthus quadrimaculatus Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754499"
+    }
+,
+    {
+      "name": "Poecilesthus sexmaculatus Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754500"
+    }
+,
+    {
+      "name": "Poecilesthus subcostatus Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754501"
+    }
+,
+    {
+      "name": "Pseudotocerus Champion, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudotocerus giuglarisi Gonzales, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833084"
+    }
+,
+    {
+      "name": "Strongylium Kirby, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Strongylium bifasciatum Maklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809223"
+    }
+,
+    {
+      "name": "Strongylium bilineatocolle Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754503"
+    }
+,
+    {
+      "name": "Strongylium carinulatum Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754505"
+    }
+,
+    {
+      "name": "Strongylium cayennense Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754506"
+    }
+,
+    {
+      "name": "Strongylium chalcopterum Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593109"
+    }
+,
+    {
+      "name": "Strongylium cupricolle Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754511"
+    }
+,
+    {
+      "name": "Strongylium cyaneomaculatum Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809224"
+    }
+,
+    {
+      "name": "Strongylium delauneyi Fleutiaux & Sallé, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640417"
+    }
+,
+    {
+      "name": "Strongylium erythropterum Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754512"
+    }
+,
+    {
+      "name": "Strongylium excavatipenne Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754510"
+    }
+,
+    {
+      "name": "Strongylium fasciolatum Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754513"
+    }
+,
+    {
+      "name": "Strongylium gibbum Mäklin, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640419"
+    }
+,
+    {
+      "name": "Strongylium grande Pic, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754514"
+    }
+,
+    {
+      "name": "Strongylium guadeloupense Gebien, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640418"
+    }
+,
+    {
+      "name": "Strongylium inaequale Fleutiaux & Sallé, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640421"
+    }
+,
+    {
+      "name": "Strongylium moroninum Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754507"
+    }
+,
+    {
+      "name": "Strongylium mucronatum Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754515"
+    }
+,
+    {
+      "name": "Strongylium nobile Maklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809225"
+    }
+,
+    {
+      "name": "Strongylium pumilum Mäklin, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754516"
+    }
+,
+    {
+      "name": "Strongylium purpureopunctum Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754508"
+    }
+,
+    {
+      "name": "Strongylium rufovittatum Pic, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754517"
+    }
+,
+    {
+      "name": "Strongylium semiopacum Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754518"
+    }
+,
+    {
+      "name": "Strongylium subalternatum Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754509"
+    }
+,
+    {
+      "name": "Strongylium viride Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754519"
+    }
+
+  ]
+}

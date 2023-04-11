@@ -1,0 +1,27 @@
+
+{
+  "name": "neocyclotidae",
+  "children": [
+
+    {
+      "name": "Neocyclotidae Kobelt & Möllendorff, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Poteriidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "amphicyclotinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/architaenioglossa/neocyclotidae/amphicyclotinae/"
+    }
+,
+    {
+      "name": "neocyclotinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/architaenioglossa/neocyclotidae/neocyclotinae/"
+    }
+
+  ]
+}

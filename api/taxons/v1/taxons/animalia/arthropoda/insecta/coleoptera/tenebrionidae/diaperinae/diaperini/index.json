@@ -1,0 +1,857 @@
+
+{
+  "name": "diaperini",
+  "children": [
+
+    {
+      "name": "Diaperini Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Adelinina LeConte, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Diaperina Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Adelina Dejean, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Doliema Pascoe, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Schedarosus Reitter, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Adelina frontalis (Champion, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809227"
+    }
+,
+    {
+      "name": "Copidita frontalis Champion, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925026"
+    }
+,
+    {
+      "name": "Adelina pici (Ardoin, 1977)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640340"
+    }
+,
+    {
+      "name": "Doliema pici Ardoin, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802147"
+    }
+,
+    {
+      "name": "Adelina plana (Olivier, 1795)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774032"
+    }
+,
+    {
+      "name": "Doliema plana (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640361"
+    }
+,
+    {
+      "name": "Tenebrio planus Olivier, 1795",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925027"
+    }
+,
+    {
+      "name": "Adelina subcornuta (Ardoin, 1977)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809228"
+    }
+,
+    {
+      "name": "Doliema subcornuta Ardoin, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925028"
+    }
+,
+    {
+      "name": "Alphitophagus Stephens, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "Phyletes Redtenbacher, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Alphitophagus bifasciatus (Say, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244689"
+    }
+,
+    {
+      "name": "Diaperis bifasciatus Say, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802148"
+    }
+,
+    {
+      "name": "Phylethus populi L. Redtenbacher, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820776"
+    }
+,
+    {
+      "name": "Alphitophagus obtusangulus J.[G.] Müller, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/339877"
+    }
+,
+    {
+      "name": "Cosmonota Blanchard, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Cosmonota rubripennis Chevrolat, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809210"
+    }
+,
+    {
+      "name": "Cynaeus LeConte, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Cynaeus angustus (LeConte, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795203"
+    }
+,
+    {
+      "name": "Platydema angustum LeConte, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802149"
+    }
+,
+    {
+      "name": "Diaperis Geoffroy, 1762",
+      "url": ""
+    }
+,
+    {
+      "name": "Allophasia Pascoe, 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "Diaperis boleti (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/12008"
+    }
+,
+    {
+      "name": "Chrysomela boleti Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802150"
+    }
+,
+    {
+      "name": "Diaperis coccinea Laporte de Castelnau, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753583"
+    }
+,
+    {
+      "name": "Gnatocerus Thunberg, 1814",
+      "url": ""
+    }
+,
+    {
+      "name": "Gnathocerus Agassiz, 1846",
+      "url": ""
+    }
+,
+    {
+      "name": "Sicinus Champion, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Echocerus Horn, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Gnatocerus cornutus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780963"
+    }
+,
+    {
+      "name": "Gnathocerus cornutus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244687"
+    }
+,
+    {
+      "name": "Neomida cucullata Montrouzier, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922591"
+    }
+,
+    {
+      "name": "Trogosita cornuta Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802151"
+    }
+,
+    {
+      "name": "Uloma cornuta (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962780"
+    }
+,
+    {
+      "name": "Gnatocerus maxillosus (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780962"
+    }
+,
+    {
+      "name": "Gnathocerus maxillosus (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244688"
+    }
+,
+    {
+      "name": "Trogosita maxillosus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893897"
+    }
+,
+    {
+      "name": "Uloma maxillosus (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962779"
+    }
+,
+    {
+      "name": "Gnatocerus Thunberg, 1814",
+      "url": ""
+    }
+,
+    {
+      "name": "Cerandria Dejean, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Iccius Champion, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Iccius rufotestaceus Champion, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640373"
+    }
+,
+    {
+      "name": "Hypophloeus dufaui Pic, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640371"
+    }
+,
+    {
+      "name": "Liodema Horn, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Liodema serricornis Bates, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753953"
+    }
+,
+    {
+      "name": "Loxostethus Triplehorn, 1962",
+      "url": ""
+    }
+,
+    {
+      "name": "Loxostethus guadeloupensis (Kaszab, 1977)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774034"
+    }
+,
+    {
+      "name": "Heterophylus guadeloupensis Kaszab, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640366"
+    }
+,
+    {
+      "name": "Neomida Latreille, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Arrhenoplita W. Kirby, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Evoplus LeConte, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Hoplocephala Agassiz, 1846",
+      "url": ""
+    }
+,
+    {
+      "name": "Oplocephala Laporte de Castelnau & Brullé, 1831",
+      "url": ""
+    }
+,
+    {
+      "name": "Neomida armata (Laporte de Castelnau & Brullé, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753931"
+    }
+,
+    {
+      "name": "Eroplus armatus Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925032"
+    }
+,
+    {
+      "name": "Neomida armata armata (Laporte de Castelnau & Brullé, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780826"
+    }
+,
+    {
+      "name": "Neomida armata curticornis (Pic, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780825"
+    }
+,
+    {
+      "name": "Hoplocephala armata var. curticornis Pic, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925035"
+    }
+,
+    {
+      "name": "Neomida atricollis (Pic, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753937"
+    }
+,
+    {
+      "name": "Hoplocephala atricollis Pic, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925036"
+    }
+,
+    {
+      "name": "Neomida bituberculata Olivier, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753943"
+    }
+,
+    {
+      "name": "Neomida castanea (Bates, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780827"
+    }
+,
+    {
+      "name": "Hoplocephala castanea Bates, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925037"
+    }
+,
+    {
+      "name": "Hoplocephala oblonga Chevrolat, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925038"
+    }
+,
+    {
+      "name": "Neomida convexa Pic, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753947"
+    }
+,
+    {
+      "name": "Neomida deltocera Triplehorn, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780828"
+    }
+,
+    {
+      "name": "Neomida haemorrhoidalis (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244686"
+    }
+,
+    {
+      "name": "Ips haemorrhoidalis Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802152"
+    }
+,
+    {
+      "name": "Neomida hoffmannseggi (Laporte de Castelnau & Brullé, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753948"
+    }
+,
+    {
+      "name": "Oplocephala hoffmannseggi Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925039"
+    }
+,
+    {
+      "name": "Neomida inermis Champion, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774035"
+    }
+,
+    {
+      "name": "Neomida lecontei (Bates, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848181"
+    }
+,
+    {
+      "name": "Evoplus lecontii Bates, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930877"
+    }
+,
+    {
+      "name": "Neomida lecontii (Bates, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774036"
+    }
+,
+    {
+      "name": "Uloma guadeloupensis Marcuzzi, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640429"
+    }
+,
+    {
+      "name": "Neomida luteonotata (Pic, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753949"
+    }
+,
+    {
+      "name": "Hoplocephala huedepohli Kulzer, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925042"
+    }
+,
+    {
+      "name": "Hoplocephala luteonotata Pic, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925040"
+    }
+,
+    {
+      "name": "Neomida minuta (Pic, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753950"
+    }
+,
+    {
+      "name": "Hoplocephala minuta Pic, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925043"
+    }
+,
+    {
+      "name": "Neomida picea (Laporte de Castelnau & Brullé, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780829"
+    }
+,
+    {
+      "name": "Hoplocephala testaceipes Pic, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813156"
+    }
+,
+    {
+      "name": "Neomida testaceipes (Pic, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753951"
+    }
+,
+    {
+      "name": "Oplocephala picea Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925044"
+    }
+,
+    {
+      "name": "Neomida pogonocera Triplehorn, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780830"
+    }
+,
+    {
+      "name": "Neomida suilla (Champion, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640369"
+    }
+,
+    {
+      "name": "Hoplocephala suilla Champion, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640368"
+    }
+,
+    {
+      "name": "Neomida vitula (Chevrolat, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780831"
+    }
+,
+    {
+      "name": "Hoplocephala vitula Chevrolat, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925045"
+    }
+,
+    {
+      "name": "Pentaphyllus Dejean, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Iphicorynus Jacquelin du Val, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Pentaphyllus chrysomeloides (Rossi, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244684"
+    }
+,
+    {
+      "name": "Nitidula chrysomeloides Rossi, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802153"
+    }
+,
+    {
+      "name": "Pentaphyllus ensifera (Fauvel, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828000"
+    }
+,
+    {
+      "name": "Arrhenoplita ensifera Fauvel, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962777"
+    }
+,
+    {
+      "name": "Hoplocephala ensifera (Fauvel, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910578"
+    }
+,
+    {
+      "name": "Pentaphyllus testaceus (Hellwig, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244685"
+    }
+,
+    {
+      "name": "Mycetophagus testaceus Hellwig, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802154"
+    }
+,
+    {
+      "name": "Platydema Laporte de Castelnau & Brullé, 1831",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisocara Gebien, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Histeropsis Chevrolat, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Typhobia Pascoe, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Platydema bimaculata Champion, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754278"
+    }
+,
+    {
+      "name": "Platydema cruenta (Perty, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809211"
+    }
+,
+    {
+      "name": "Diaperis cruenta Perty, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925046"
+    }
+,
+    {
+      "name": "Platydema cruentata Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754279"
+    }
+,
+    {
+      "name": "Platydema dejeanii Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244681"
+    }
+,
+    {
+      "name": "Platydema europaea Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244682"
+    }
+,
+    {
+      "name": "Platydema fasciata (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754280"
+    }
+,
+    {
+      "name": "Mycetophagus fasciatus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925051"
+    }
+,
+    {
+      "name": "Platydema guatemalensis Champion, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809212"
+    }
+,
+    {
+      "name": "Platydema inaequidens (Fairmaire, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996688"
+    }
+,
+    {
+      "name": "Hoplocephala inaequidens Fairmaire, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853713"
+    }
+,
+    {
+      "name": "Platydema irradians (Chevrolat, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780833"
+    }
+,
+    {
+      "name": "Liodema irradians (Chevrolat, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753952"
+    }
+,
+    {
+      "name": "Scaphidema irradians Chevrolat, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813150"
+    }
+,
+    {
+      "name": "Platydema lebomicum Schawaller, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/631177"
+    }
+,
+    {
+      "name": "Platydema nigricornis Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809229"
+    }
+,
+    {
+      "name": "Platydema nigrifrons Chevrolat, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809213"
+    }
+,
+    {
+      "name": "Platydema notata Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754281"
+    }
+,
+    {
+      "name": "Platydema picipes Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/631180"
+    }
+,
+    {
+      "name": "Platydema pictum (Fauvel, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827999"
+    }
+,
+    {
+      "name": "Diaclina picta Fauvel, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962782"
+    }
+,
+    {
+      "name": "Platydema quindecimmaculata Chevrolat, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809214"
+    }
+,
+    {
+      "name": "Platydema raharizoninai Ardoin, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/710647"
+    }
+,
+    {
+      "name": "Platydema rubropicta Chevrolat, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754282"
+    }
+,
+    {
+      "name": "Platydema ruficornis (Sturm, 1826)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809231"
+    }
+,
+    {
+      "name": "Diaperis ruficornis Sturm, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925052"
+    }
+,
+    {
+      "name": "Platydema pallens Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809230"
+    }
+,
+    {
+      "name": "Platydema sexmaculata Chevrolat, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809215"
+    }
+,
+    {
+      "name": "Platydema silphoides Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754283"
+    }
+,
+    {
+      "name": "Platydema striatum (Montrouzier, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827998"
+    }
+,
+    {
+      "name": "Neomida striata Montrouzier, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921803"
+    }
+,
+    {
+      "name": "Oplocephala kanalensis Perroud & Montrouzier, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921804"
+    }
+,
+    {
+      "name": "Oplocephala striata (Montrouzier, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968288"
+    }
+,
+    {
+      "name": "Platydema subfascia (Walker, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/631178"
+    }
+,
+    {
+      "name": "Platydema sulcipenne Gebien, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/631179"
+    }
+,
+    {
+      "name": "Platydema tahitiense Kaszab, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775851"
+    }
+,
+    {
+      "name": "Platydema tibiale Chevrolat, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809216"
+    }
+,
+    {
+      "name": "Platydema transversa Laporte de Castlenau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809217"
+    }
+,
+    {
+      "name": "Platydema varians Laporte de Castelnau & Brullé, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754284"
+    }
+,
+    {
+      "name": "Platydema violacea (Fabricius, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/244683"
+    }
+,
+    {
+      "name": "Diaperis violacea Fabricius, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802155"
+    }
+,
+    {
+      "name": "Sciophagus Sharp, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Pachycerus Montrouzier, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Sciophagus pandanicola (Boisduval, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775852"
+    }
+,
+    {
+      "name": "Alphitobius domesticus (Montrouzier, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968284"
+    }
+,
+    {
+      "name": "Pachycerus domesticus Montrouzier, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922579"
+    }
+,
+    {
+      "name": "Sciophagus piceus Kaszab, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775853"
+    }
+,
+    {
+      "name": "Sitophagus Mulsant, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Sitophagus hololeptoides (Laporte de Castelnau, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/339874"
+    }
+,
+    {
+      "name": "Adelina farinaria Wollaston, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930887"
+    }
+,
+    {
+      "name": "Sitophagus castaneus Reitter, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930889"
+    }
+,
+    {
+      "name": "Sitophagus solieri Mulsant, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930884"
+    }
+,
+    {
+      "name": "Uloma hololeptoides Laporte de Castelnau, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930878"
+    }
+,
+    {
+      "name": "Ulomoides Blackburn, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Martianus Fairmaire, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Palembus Casey, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Phayllidius Gebien, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Tenebriomimus Kolbe, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Ulomoides dermestoides (Chevrolat, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794790"
+    }
+,
+    {
+      "name": "Histeropsis dermestoides Chevrolat, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/802156"
+    }
+,
+    {
+      "name": "Ulomoides ocularis (Casey, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593615"
+    }
+,
+    {
+      "name": "Palembus ocularis Casey, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640394"
+    }
+
+  ]
+}

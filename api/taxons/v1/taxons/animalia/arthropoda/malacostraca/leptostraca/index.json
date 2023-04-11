@@ -1,0 +1,27 @@
+
+{
+  "name": "leptostraca",
+  "children": [
+
+    {
+      "name": "Leptostraca Claus, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Nebaliacea Calman, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "nebaliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/leptostraca/nebaliidae/"
+    }
+,
+    {
+      "name": "paranebaliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/leptostraca/paranebaliidae/"
+    }
+
+  ]
+}

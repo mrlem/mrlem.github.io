@@ -1,0 +1,77 @@
+
+{
+  "name": "braconinae",
+  "children": [
+
+    {
+      "name": "Braconinae Nees, 1811",
+      "url": ""
+    }
+,
+    {
+      "name": "aphrastobraconini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/braconinae/aphrastobraconini/"
+    }
+,
+    {
+      "name": "braconini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/braconinae/braconini/"
+    }
+,
+    {
+      "name": "coeloidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/braconinae/coeloidini/"
+    }
+,
+    {
+      "name": "glyptomorphini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/braconinae/glyptomorphini/"
+    }
+,
+    {
+      "name": "gnathobraconini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/braconinae/gnathobraconini/"
+    }
+,
+    {
+      "name": "Digonogastra Viereck, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Digonogastra affinis (Brullé, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759755"
+    }
+,
+    {
+      "name": "Bracon affinis Brullé, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918450"
+    }
+,
+    {
+      "name": "Digonogastra alternans (Brullé, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918452"
+    }
+,
+    {
+      "name": "Bracon alternans Brullé, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749227"
+    }
+,
+    {
+      "name": "Digonogastra striata (Brullé, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759756"
+    }
+,
+    {
+      "name": "Bracon striatus Brullé, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918451"
+    }
+,
+    {
+      "name": "rhammurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/braconidae/braconinae/rhammurini/"
+    }
+
+  ]
+}

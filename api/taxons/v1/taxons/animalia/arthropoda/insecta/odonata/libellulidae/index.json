@@ -1,0 +1,2547 @@
+
+{
+  "name": "libellulidae",
+  "children": [
+
+    {
+      "name": "Libellulidae Rambur, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Acisoma Rambur, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Acisoma panorpoides Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715109"
+    }
+,
+    {
+      "name": "Acisoma panorpoides ascalaphoides Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715110"
+    }
+,
+    {
+      "name": "Agrionoptera Brauer, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Agrionoptera insignis (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829585"
+    }
+,
+    {
+      "name": "Agrionoptera salomonis Foerster, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916504"
+    }
+,
+    {
+      "name": "Agrionoptera variabilis Krüger, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916503"
+    }
+,
+    {
+      "name": "Libellula insignis Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916505"
+    }
+,
+    {
+      "name": "Agrionoptera insignis allogenes Tillyard, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/901018"
+    }
+,
+    {
+      "name": "Agrionoptera papuensis Selys-Longchamps, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963225"
+    }
+,
+    {
+      "name": "Anatya Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Anatya guttata (Erichson, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755878"
+    }
+,
+    {
+      "name": "Anatya anomala Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915259"
+    }
+,
+    {
+      "name": "Anatya difficilis Selys, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915263"
+    }
+,
+    {
+      "name": "Anatya normalis Calvert, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915265"
+    }
+,
+    {
+      "name": "Anatya theresiae Selys, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915266"
+    }
+,
+    {
+      "name": "Libellula guttata Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915254"
+    }
+,
+    {
+      "name": "Antidythemis Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Antidythemis trameiformis Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755879"
+    }
+,
+    {
+      "name": "Argyrothemis Ris, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Argyrothemis argentea Ris, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716570"
+    }
+,
+    {
+      "name": "Brachymesia Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Brachymesia furcata (Hagen, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530672"
+    }
+,
+    {
+      "name": "Brachymesia australis Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915280"
+    }
+,
+    {
+      "name": "Brachymesia smithii Kirby, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915276"
+    }
+,
+    {
+      "name": "Erythemis furcata Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915274"
+    }
+,
+    {
+      "name": "Brachymesia herbida (Gundlach, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530673"
+    }
+,
+    {
+      "name": "Brachymesia batesii Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915284"
+    }
+,
+    {
+      "name": "Brachymesia fumipennis Currie, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915285"
+    }
+,
+    {
+      "name": "Libellula herbida Gundlach, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915281"
+    }
+,
+    {
+      "name": "Brachythemis Brauer, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Brachythemis impartita (Karsch, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814129"
+    }
+,
+    {
+      "name": "Zonothrasys impartitus Karsch, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814130"
+    }
+,
+    {
+      "name": "Brechmorhoga Kirby, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Brechmorhoga praecox (Hagen, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628925"
+    }
+,
+    {
+      "name": "Dythemis praecox Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916506"
+    }
+,
+    {
+      "name": "Brechmorhoga praecox grenadensis (Kirby, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816049"
+    }
+,
+    {
+      "name": "Brechmorhoga archboldi (Donnelly, 1970)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628923"
+    }
+,
+    {
+      "name": "Brechmorhoga grenadensis Kirby, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530674"
+    }
+,
+    {
+      "name": "Scapanea archboldi Donnelly, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816050"
+    }
+,
+    {
+      "name": "Brechmorhoga praedatrix Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716571"
+    }
+,
+    {
+      "name": "Brechmorhoga travassosi Santos, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755880"
+    }
+,
+    {
+      "name": "Crocothemis Brullé, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "Crocothemis erythraea (Brullé, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65300"
+    }
+,
+    {
+      "name": "Libellula erythraea Brullé, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817015"
+    }
+,
+    {
+      "name": "Libellula ferruginea Vander Linden, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808384"
+    }
+,
+    {
+      "name": "Dasythemis Karsch, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasythemis esmeralda Ris, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755881"
+    }
+,
+    {
+      "name": "Dasythemis essequiba Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755883"
+    }
+,
+    {
+      "name": "Diastatops Rambur, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Diastatops dimidiata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655102"
+    }
+,
+    {
+      "name": "Libellula dimidiata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849780"
+    }
+,
+    {
+      "name": "Diastatops obscura (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755884"
+    }
+,
+    {
+      "name": "Diastatops fuliginea Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915288"
+    }
+,
+    {
+      "name": "Diastatops pullata (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716573"
+    }
+,
+    {
+      "name": "Diastatops tincta Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915287"
+    }
+,
+    {
+      "name": "Libellula obscura Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915286"
+    }
+,
+    {
+      "name": "Diplacodes Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Diplacodes bipunctata (Brauer, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775406"
+    }
+,
+    {
+      "name": "Diplacodes novaezealandiae McLachlan, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916508"
+    }
+,
+    {
+      "name": "Diplacodes pacifica Kirby, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916509"
+    }
+,
+    {
+      "name": "Libellula bipunctata Brauer, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916510"
+    }
+,
+    {
+      "name": "Diplacodes deminuta Lieftinck, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715115"
+    }
+,
+    {
+      "name": "Diplacodes haematodes (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829586"
+    }
+,
+    {
+      "name": "Diplacodes rubra Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916513"
+    }
+,
+    {
+      "name": "Diplacodes sanguinea Macleay in King, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916512"
+    }
+,
+    {
+      "name": "Diplacodes subhyalina Foerster, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916511"
+    }
+,
+    {
+      "name": "Libellula haematodes Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916514"
+    }
+,
+    {
+      "name": "Diplacodes lefebvrii (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/309412"
+    }
+,
+    {
+      "name": "Libellula lefebvrii Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904411"
+    }
+,
+    {
+      "name": "Diplacodes luminans (Karsch, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715116"
+    }
+,
+    {
+      "name": "Diplacodes erlangeri Foerster, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916515"
+    }
+,
+    {
+      "name": "Sympetrum luminans Karsch, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916516"
+    }
+,
+    {
+      "name": "Diplacodes trivialis (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645408"
+    }
+,
+    {
+      "name": "Diplacodes phalerata Uhler, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916517"
+    }
+,
+    {
+      "name": "Diplacodes remota Ris, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916519"
+    }
+,
+    {
+      "name": "Libellula braminea Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916520"
+    }
+,
+    {
+      "name": "Libellula trivialis Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916518"
+    }
+,
+    {
+      "name": "Dythemis Hagen, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Dythemis nigra Martin, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755885"
+    }
+,
+    {
+      "name": "Dythemis sterilis Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530675"
+    }
+,
+    {
+      "name": "Elasmothemis Westfall, 1988",
+      "url": ""
+    }
+,
+    {
+      "name": "Elasmothemis cannacrioides (Calvert, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755886"
+    }
+,
+    {
+      "name": "Dythemis cannacrioides Calvert, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915289"
+    }
+,
+    {
+      "name": "Elasmothemis williamsoni (Ris, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760912"
+    }
+,
+    {
+      "name": "Dythemis williamsoni Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915290"
+    }
+,
+    {
+      "name": "Elga Ris, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Elga leptostyla Ris, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755961"
+    }
+,
+    {
+      "name": "Erythemis Hagen, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Erythemis attala (Selys in Sagra, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530686"
+    }
+,
+    {
+      "name": "Erythemis annulata Beauvois in Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915428"
+    }
+,
+    {
+      "name": "Erythemis annulosa Selys, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915429"
+    }
+,
+    {
+      "name": "Erythemis mithra Selys, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915431"
+    }
+,
+    {
+      "name": "Libellula attala Selys in Sagra, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915427"
+    }
+,
+    {
+      "name": "Erythemis credula (Hagen, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755962"
+    }
+,
+    {
+      "name": "Diplax credula Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915448"
+    }
+,
+    {
+      "name": "Erythemis haematogastra (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716584"
+    }
+,
+    {
+      "name": "Libellula haematogastra Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915451"
+    }
+,
+    {
+      "name": "Erythemis mithroides (Brauer, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716586"
+    }
+,
+    {
+      "name": "Mesothemis mithroides Brauer, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915453"
+    }
+,
+    {
+      "name": "Erythemis peruviana (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755963"
+    }
+,
+    {
+      "name": "Erythemis bicolor Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915455"
+    }
+,
+    {
+      "name": "Erythemis rubriventris Blanchard, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915457"
+    }
+,
+    {
+      "name": "Libellula peruviana Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915454"
+    }
+,
+    {
+      "name": "Erythemis plebeja (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716588"
+    }
+,
+    {
+      "name": "Erythemis verbenata Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915460"
+    }
+,
+    {
+      "name": "Libellula plebeja Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915459"
+    }
+,
+    {
+      "name": "Erythemis vesiculosa (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530676"
+    }
+,
+    {
+      "name": "Erythemis acuta Say, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915463"
+    }
+,
+    {
+      "name": "Libellula vesiculosa Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915461"
+    }
+,
+    {
+      "name": "Erythrodiplax Brauer, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Erythrodiplax amazonica Sjöstedt, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755964"
+    }
+,
+    {
+      "name": "Erythrodiplax amazonica amazonica Sjöstedt, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761475"
+    }
+,
+    {
+      "name": "Erythrodiplax angustipennis Borror, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755965"
+    }
+,
+    {
+      "name": "Erythrodiplax basalis (Kirby, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755966"
+    }
+,
+    {
+      "name": "Micrathyria basalis Kirby, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915467"
+    }
+,
+    {
+      "name": "Erythrodiplax basalis basalis (Kirby, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761476"
+    }
+,
+    {
+      "name": "Erythrodiplax berenice (Drury, 1773)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530677"
+    }
+,
+    {
+      "name": "Erythrodiplax histrio Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916521"
+    }
+,
+    {
+      "name": "Libellula berenice Drury, 1773",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916522"
+    }
+,
+    {
+      "name": "Erythrodiplax castanea (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755967"
+    }
+,
+    {
+      "name": "Libellula castanea Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915469"
+    }
+,
+    {
+      "name": "Erythrodiplax famula (Erichson, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755968"
+    }
+,
+    {
+      "name": "Erythrodiplax aequatorialis Ris, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915471"
+    }
+,
+    {
+      "name": "Libellula famula Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915470"
+    }
+,
+    {
+      "name": "Erythrodiplax fervida (Erichson, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755969"
+    }
+,
+    {
+      "name": "Erythrodiplax justina Selys, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915474"
+    }
+,
+    {
+      "name": "Libellula fervida Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915472"
+    }
+,
+    {
+      "name": "Erythrodiplax fulva Borror, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716589"
+    }
+,
+    {
+      "name": "Erythrodiplax fusca (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530685"
+    }
+,
+    {
+      "name": "Erythrodiplax incompta Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915479"
+    }
+,
+    {
+      "name": "Libellula fusca Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915478"
+    }
+,
+    {
+      "name": "Erythrodiplax justiniana (Selys in Sagra, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812937"
+    }
+,
+    {
+      "name": "Erythrodiplax ambusta Hagen, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916523"
+    }
+,
+    {
+      "name": "Erythrodiplax portoricana Kolbe, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916524"
+    }
+,
+    {
+      "name": "Libellula justiniana Selys in Sagra, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916525"
+    }
+,
+    {
+      "name": "Erythrodiplax laurentia Borror, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755971"
+    }
+,
+    {
+      "name": "Erythrodiplax longitudinalis (Ris, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755972"
+    }
+,
+    {
+      "name": "Anatya longitudinalis Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915481"
+    }
+,
+    {
+      "name": "Erythrodiplax maculosa (Hagen, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716590"
+    }
+,
+    {
+      "name": "Nannophya maculosa Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915483"
+    }
+,
+    {
+      "name": "Erythrodiplax melanorubra Borror, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755973"
+    }
+,
+    {
+      "name": "Erythrodiplax paraguayensis (Förster, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716591"
+    }
+,
+    {
+      "name": "Diplacodes paraguayensis Förster, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915486"
+    }
+,
+    {
+      "name": "Erythrodiplax umbrata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530678"
+    }
+,
+    {
+      "name": "Libellula umbrata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849779"
+    }
+,
+    {
+      "name": "Erythrodiplax unimaculata (De Geer, 1773)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755974"
+    }
+,
+    {
+      "name": "Libellula unimaculata De Geer, 1773",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/888067"
+    }
+,
+    {
+      "name": "Fylgia Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Fylgia amazonica Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716606"
+    }
+,
+    {
+      "name": "Fylgia amazonica lychnitina De Marmels, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761477"
+    }
+,
+    {
+      "name": "Gynothemis Calvert in Ris, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Gynothemis pumila (Karsch, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716612"
+    }
+,
+    {
+      "name": "Macrothemis axillata Navás, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915489"
+    }
+,
+    {
+      "name": "Macrothemis pumila Karsch, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915488"
+    }
+,
+    {
+      "name": "Gynothemis uniseta Geijskes, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755975"
+    }
+,
+    {
+      "name": "Idiataphe Cowley, 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "Idiataphe amazonica (Kirby, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755976"
+    }
+,
+    {
+      "name": "Ephidatia amazonica Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915490"
+    }
+,
+    {
+      "name": "Idiataphe longipes (Hagen, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755977"
+    }
+,
+    {
+      "name": "Erythemis longipes Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915492"
+    }
+,
+    {
+      "name": "Lathrecista Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Lathrecista asiatica (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829588"
+    }
+,
+    {
+      "name": "Libellula asiatica Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916526"
+    }
+,
+    {
+      "name": "Lathrecista asiatica festa (Selys-Longchamps, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925172"
+    }
+,
+    {
+      "name": "Agrionoptera festa Selys-Longchamps, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925173"
+    }
+,
+    {
+      "name": "Leucorrhinia Brittinger, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Leucorrhinia albifrons (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65366"
+    }
+,
+    {
+      "name": "Libellula albifrons Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817016"
+    }
+,
+    {
+      "name": "Leucorrhinia caudalis (Charpentier, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65361"
+    }
+,
+    {
+      "name": "Libellula caudalis Charpentier, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817017"
+    }
+,
+    {
+      "name": "Leucorrhinia dubia (Vander Linden, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65352"
+    }
+,
+    {
+      "name": "Libellula dubia Vander Linden, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817018"
+    }
+,
+    {
+      "name": "Leucorrhinia hudsonica (Selys, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/533283"
+    }
+,
+    {
+      "name": "Leucorrhinia hageni Calvert, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916527"
+    }
+,
+    {
+      "name": "Libellula hudsonica Selys, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916528"
+    }
+,
+    {
+      "name": "Leucorrhinia pectoralis (Charpentier, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65356"
+    }
+,
+    {
+      "name": "Libellula pectoralis Charpentier, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808389"
+    }
+,
+    {
+      "name": "Leucorrhinia rubicunda (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65358"
+    }
+,
+    {
+      "name": "Libellula rubicunda Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817019"
+    }
+,
+    {
+      "name": "Libellula Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "Libellula depressa Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65262"
+    }
+,
+    {
+      "name": "Platetrum depressum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65264"
+    }
+,
+    {
+      "name": "Libellula fulva O.F. Müller, 1764",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65265"
+    }
+,
+    {
+      "name": "Ladona fulva (O.F. Müller, 1764)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65267"
+    }
+,
+    {
+      "name": "Leptetrum fulvum (O.F. Müller, 1764)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789678"
+    }
+,
+    {
+      "name": "Libellula conspurcata Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808380"
+    }
+,
+    {
+      "name": "Libellula herculea Karsch, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755978"
+    }
+,
+    {
+      "name": "Libellula quadrimaculata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65271"
+    }
+,
+    {
+      "name": "Leptetrum quadrimaculatum praenubilum (Newman, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789675"
+    }
+,
+    {
+      "name": "Leptetrum quadrimaculatum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789674"
+    }
+,
+    {
+      "name": "Libellula praenubila Newman, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789677"
+    }
+,
+    {
+      "name": "Macrodiplax Brauer, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Macrodiplax cora (Kaup in Brauer, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829590"
+    }
+,
+    {
+      "name": "Diplax cora Kaup in Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916532"
+    }
+,
+    {
+      "name": "Macrodiplax lycoris Selys, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916529"
+    }
+,
+    {
+      "name": "Macrodiplax nigrilabris Selys, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916530"
+    }
+,
+    {
+      "name": "Macrodiplax vittata Kirby, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916531"
+    }
+,
+    {
+      "name": "Macrothemis Hagen, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Macrothemis brevidens Belle, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716629"
+    }
+,
+    {
+      "name": "Macrothemis celeno (Selys in Sagra, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816051"
+    }
+,
+    {
+      "name": "Libellula celeno Selys in Sagra, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816052"
+    }
+,
+    {
+      "name": "Macrothemis meurgeyi Daigle, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530679"
+    }
+,
+    {
+      "name": "Macrothemis declivata Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841879"
+    }
+,
+    {
+      "name": "Macrothemis extensa Ris, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756057"
+    }
+,
+    {
+      "name": "Macrothemis flavescens (Kirby, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756058"
+    }
+,
+    {
+      "name": "Miathyria flavescens Kirby, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915494"
+    }
+,
+    {
+      "name": "Macrothemis guarauno Rácenis, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756059"
+    }
+,
+    {
+      "name": "Macrothemis hemichlora (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756060"
+    }
+,
+    {
+      "name": "Libellula hemichlora Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915497"
+    }
+,
+    {
+      "name": "Macrothemis cydippe Calvert, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915498"
+    }
+,
+    {
+      "name": "Macrothemis imitans Karsch, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841881"
+    }
+,
+    {
+      "name": "Macrothemis musiva Calvert, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756061"
+    }
+,
+    {
+      "name": "Macrothemis nobilis Rácenis, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756062"
+    }
+,
+    {
+      "name": "Macrothemis rupicola Rácenis, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756063"
+    }
+,
+    {
+      "name": "Miathyria Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Miathyria marcella (Selys in Sagra, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530680"
+    }
+,
+    {
+      "name": "Tramea marcella Selys in Sagra, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915648"
+    }
+,
+    {
+      "name": "Miathyria simplex (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756064"
+    }
+,
+    {
+      "name": "Libellula simplex Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915646"
+    }
+,
+    {
+      "name": "Miathyria laxa Navas, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915644"
+    }
+,
+    {
+      "name": "Miathyria pusilla Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915645"
+    }
+,
+    {
+      "name": "Micrathyria Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Micrathyria aequalis (Hagen, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530681"
+    }
+,
+    {
+      "name": "Dythemis aequalis Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915643"
+    }
+,
+    {
+      "name": "Micrathyria septima Selys, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915642"
+    }
+,
+    {
+      "name": "Micrathyria artemis Ris, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756066"
+    }
+,
+    {
+      "name": "Micrathyria atra (Martin, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756067"
+    }
+,
+    {
+      "name": "Dythemis atra Martin, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915641"
+    }
+,
+    {
+      "name": "Micrathyria cambridgei Kirby, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756068"
+    }
+,
+    {
+      "name": "Micrathyria catenata Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756069"
+    }
+,
+    {
+      "name": "Micrathyria dido Ris, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756070"
+    }
+,
+    {
+      "name": "Micrathyria didyma (Selys in Sagra, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530682"
+    }
+,
+    {
+      "name": "Libellula didyma Selys in Sagra, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915640"
+    }
+,
+    {
+      "name": "Micrathyria dicrota Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915636"
+    }
+,
+    {
+      "name": "Micrathyria phyne (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915637"
+    }
+,
+    {
+      "name": "Micrathyria poeyi Scudder, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915638"
+    }
+,
+    {
+      "name": "Micrathyria pruinosa Kirby, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915639"
+    }
+,
+    {
+      "name": "Micrathyria hippolyte Ris, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756071"
+    }
+,
+    {
+      "name": "Micrathyria laevigata Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841886"
+    }
+,
+    {
+      "name": "Micrathyria mengeri Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756072"
+    }
+,
+    {
+      "name": "Micrathyria mengeri mengeri Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761487"
+    }
+,
+    {
+      "name": "Micrathyria ocellata Martin, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756073"
+    }
+,
+    {
+      "name": "Micrathyria ocellata dentiens Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761488"
+    }
+,
+    {
+      "name": "Micrathyria paruensis Geijskes, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756074"
+    }
+,
+    {
+      "name": "Micrathyria pseudeximia Westfall, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756075"
+    }
+,
+    {
+      "name": "Micrathyria spinifera Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716637"
+    }
+,
+    {
+      "name": "Micrathyria surinamensis Geijskes, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756076"
+    }
+,
+    {
+      "name": "Micrathyria tibialis Kirby, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756077"
+    }
+,
+    {
+      "name": "Micrathyria wasscheri Minot & Gaschignard, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/887126"
+    }
+,
+    {
+      "name": "Misagria Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Misagria calverti Geijskes, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756078"
+    }
+,
+    {
+      "name": "Misagria parana Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756079"
+    }
+,
+    {
+      "name": "Nephepeltia Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Nephepeltia flavifrons (Karsch, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756080"
+    }
+,
+    {
+      "name": "Neothemis flavifrons Karsch, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915634"
+    }
+,
+    {
+      "name": "Nephepeltia chalconota Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915635"
+    }
+,
+    {
+      "name": "Nephepeltia infamis Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915632"
+    }
+,
+    {
+      "name": "Nephepeltia prodita Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915633"
+    }
+,
+    {
+      "name": "Nephepeltia phryne (Perty, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716641"
+    }
+,
+    {
+      "name": "Libellula phryne Perty, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915631"
+    }
+,
+    {
+      "name": "Nephepeltia apicalis Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915630"
+    }
+,
+    {
+      "name": "Nephepeltia phryne phryne (Perty, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761489"
+    }
+,
+    {
+      "name": "Neurothemis Brauer, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Neurothemis stigmatizans (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829592"
+    }
+,
+    {
+      "name": "Libellula stigmatizans Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916536"
+    }
+,
+    {
+      "name": "Neurothemis elegans Guérin, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916534"
+    }
+,
+    {
+      "name": "Neurothemis oculata Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916535"
+    }
+,
+    {
+      "name": "Nothodiplax Belle, 1984",
+      "url": ""
+    }
+,
+    {
+      "name": "Nothodiplax dendrophila Belle, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756081"
+    }
+,
+    {
+      "name": "Oligoclada Karsch, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Oligoclada abbreviata (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716649"
+    }
+,
+    {
+      "name": "Libellula abbreviata Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915629"
+    }
+,
+    {
+      "name": "Oligoclada raineyi Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915628"
+    }
+,
+    {
+      "name": "Oligoclada abbreviata abbreviata (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761499"
+    }
+,
+    {
+      "name": "Oligoclada amphinome Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756161"
+    }
+,
+    {
+      "name": "Oligoclada pachystigma Karsch, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756162"
+    }
+,
+    {
+      "name": "Oligoclada rhea Ris, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756163"
+    }
+,
+    {
+      "name": "Oligoclada risi Geijskes, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756164"
+    }
+,
+    {
+      "name": "Oligoclada walkeri Geijskes, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756165"
+    }
+,
+    {
+      "name": "Orthemis Hagen, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Orthemis aequilibris Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756166"
+    }
+,
+    {
+      "name": "Orthemis ambirufa Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756167"
+    }
+,
+    {
+      "name": "Orthemis anthracina De Marmels, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756168"
+    }
+,
+    {
+      "name": "Orthemis attenuata (Erichson, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756169"
+    }
+,
+    {
+      "name": "Libellula attenuata Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915627"
+    }
+,
+    {
+      "name": "Orthemis biolleyi Calvert, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716650"
+    }
+,
+    {
+      "name": "Orthemis concolor Ris, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716651"
+    }
+,
+    {
+      "name": "Orthemis cultriformis Calvert, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756170"
+    }
+,
+    {
+      "name": "Orthemis ferruginea (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812936"
+    }
+,
+    {
+      "name": "Libellula discolor Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915626"
+    }
+,
+    {
+      "name": "Libellula ferruginea Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916537"
+    }
+,
+    {
+      "name": "Orthemis discolor (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756171"
+    }
+,
+    {
+      "name": "Orthemis macrostigma (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530683"
+    }
+,
+    {
+      "name": "Libellula macrostigma Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916538"
+    }
+,
+    {
+      "name": "Orthemis regalis Ris, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756172"
+    }
+,
+    {
+      "name": "Orthemis schmidti Buchholz, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756173"
+    }
+,
+    {
+      "name": "Orthetrum Selys, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Orthetrum albistylum (Selys, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65282"
+    }
+,
+    {
+      "name": "Libellula albistylum Selys, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817020"
+    }
+,
+    {
+      "name": "Orthetrum albistylum albistylum (Selys, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886091"
+    }
+,
+    {
+      "name": "Orthetrum azureum (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715104"
+    }
+,
+    {
+      "name": "Libellula azurea Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916540"
+    }
+,
+    {
+      "name": "Orthetrum azureum lugubre Ris, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900544"
+    }
+,
+    {
+      "name": "Orthetrum brachiale (Palisot de Beauvois, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528718"
+    }
+,
+    {
+      "name": "Libellula brachialis Palisot de Beauvois, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916541"
+    }
+,
+    {
+      "name": "Orthetrum brunneum (Boyer de Fonscolombe, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65290"
+    }
+,
+    {
+      "name": "Libellula brunnea Boyer de Fonscolombe, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817021"
+    }
+,
+    {
+      "name": "Libellula brunneum Boyer de Fonscolombe, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904883"
+    }
+,
+    {
+      "name": "Orthetrum caledonicum (Brauer, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829593"
+    }
+,
+    {
+      "name": "Libellula caledonica Brauer, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916543"
+    }
+,
+    {
+      "name": "Orthetrum coeleste Selys in Hagen, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916542"
+    }
+,
+    {
+      "name": "Orthetrum cancellatum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65278"
+    }
+,
+    {
+      "name": "Libellula cancellata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808381"
+    }
+,
+    {
+      "name": "Orthetrum coerulescens (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65284"
+    }
+,
+    {
+      "name": "Libellula coerulescens Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808382"
+    }
+,
+    {
+      "name": "Libellula olympia Boyer de Fonscolombe, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808383"
+    }
+,
+    {
+      "name": "Orthetrum anceps Schneider",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65296"
+    }
+,
+    {
+      "name": "Orthetrum coerulescens anceps (Schneider, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/199691"
+    }
+,
+    {
+      "name": "Libellula anceps Schneider, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65292"
+    }
+,
+    {
+      "name": "Orthetrum coerulescens coerulescens (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/199690"
+    }
+,
+    {
+      "name": "Orthetrum sabina (Drury, 1773)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/309415"
+    }
+,
+    {
+      "name": "Libellula sabina Drury, 1773",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904885"
+    }
+,
+    {
+      "name": "Orthetrum serapia Watson, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925174"
+    }
+,
+    {
+      "name": "Orthetrum stemmale (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528719"
+    }
+,
+    {
+      "name": "Libellula stemmalis Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810740"
+    }
+,
+    {
+      "name": "Orthetrum stemmale stemmale (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810739"
+    }
+,
+    {
+      "name": "Orthetrum trinacria (Selys, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/309416"
+    }
+,
+    {
+      "name": "Libellula trinacria Selys, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817022"
+    }
+,
+    {
+      "name": "Orthetrum villosovittatum (Brauer, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829594"
+    }
+,
+    {
+      "name": "Libellula villosovittata Brauer, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916547"
+    }
+,
+    {
+      "name": "Orthetrum bismarckianum Ris, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916544"
+    }
+,
+    {
+      "name": "Orthetrum fenicheli Foerster, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916545"
+    }
+,
+    {
+      "name": "Orthetrum parvulum Foerster, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916546"
+    }
+,
+    {
+      "name": "Palpopleura Rambur, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Palpopleura lucia (Drury, 1773)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715112"
+    }
+,
+    {
+      "name": "Libellula lucia Drury, 1773",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916548"
+    }
+,
+    {
+      "name": "Palpopleura denticulata (Palisot de Beauvois, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916549"
+    }
+,
+    {
+      "name": "Palpopleura marginata (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916550"
+    }
+,
+    {
+      "name": "Palpopleura semivitrea (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916551"
+    }
+,
+    {
+      "name": "Palpopleura sinuata (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916552"
+    }
+,
+    {
+      "name": "Palpopleura variegata (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916553"
+    }
+,
+    {
+      "name": "Pantala Hagen, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Pantala flavescens (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65369"
+    }
+,
+    {
+      "name": "Libellula flavescens Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904899"
+    }
+,
+    {
+      "name": "Pantala hymenaea (Say, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628929"
+    }
+,
+    {
+      "name": "Libellula hymenaea Say, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916555"
+    }
+,
+    {
+      "name": "Pantala huanacina Foerster, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916554"
+    }
+,
+    {
+      "name": "Perithemis Hagen, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Perithemis cornelia Ris, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756174"
+    }
+,
+    {
+      "name": "Perithemis electra Ris, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756176"
+    }
+,
+    {
+      "name": "Perithemis lais (Perty, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716659"
+    }
+,
+    {
+      "name": "Libellula lais Perty, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915625"
+    }
+,
+    {
+      "name": "Perithemis naias Ris, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915624"
+    }
+,
+    {
+      "name": "Perithemis mooma Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756177"
+    }
+,
+    {
+      "name": "Perithemis thais Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756178"
+    }
+,
+    {
+      "name": "Planiplax Muttkowski, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Planiplax phoenicura Ris, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756179"
+    }
+,
+    {
+      "name": "Rhodopygia Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhodopygia cardinalis (Erichson, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716664"
+    }
+,
+    {
+      "name": "Libellula cardinalis Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915622"
+    }
+,
+    {
+      "name": "Rhodopygia colorata Navás, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915621"
+    }
+,
+    {
+      "name": "Rhodopygia geijskesi Belle, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756180"
+    }
+,
+    {
+      "name": "Rhodopygia pruinosa Buchholz, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756181"
+    }
+,
+    {
+      "name": "Rhyothemis Hagen, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhyothemis graphiptera (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829595"
+    }
+,
+    {
+      "name": "Libellula graphiptera Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916556"
+    }
+,
+    {
+      "name": "Rhyothemis phyllis (Sulzer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783152"
+    }
+,
+    {
+      "name": "Libellula phyllis Sulzer, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916559"
+    }
+,
+    {
+      "name": "Rhyothemis quadripunctata (Roemer, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916557"
+    }
+,
+    {
+      "name": "Rhyothemis vittata (Weber, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916558"
+    }
+,
+    {
+      "name": "Rhyothemis phyllis apicalis Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/901019"
+    }
+,
+    {
+      "name": "Rhyothemis phyllis dispar Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783154"
+    }
+,
+    {
+      "name": "Rhyothemis regia (Brauer, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783156"
+    }
+,
+    {
+      "name": "Celithemis regia Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916560"
+    }
+,
+    {
+      "name": "Rhyothemis regia chalcoptilon (Brauer, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783158"
+    }
+,
+    {
+      "name": "Celithemis chalcoptilon Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916561"
+    }
+,
+    {
+      "name": "Rhyothemis armstrongi Fraser, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916562"
+    }
+,
+    {
+      "name": "Rhyothemis regia uveae Marinov, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998080"
+    }
+,
+    {
+      "name": "Rhyothemis semihyalina (Desjardins, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528721"
+    }
+,
+    {
+      "name": "Libellula semihyalina Desjardins, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916563"
+    }
+,
+    {
+      "name": "Rhyothemis disparata (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916564"
+    }
+,
+    {
+      "name": "Rhyothemis ducalis Kirby, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916565"
+    }
+,
+    {
+      "name": "Rhyothemis hemihyalina (Selys, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916566"
+    }
+,
+    {
+      "name": "Rhyothemis separata (Selys, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916567"
+    }
+,
+    {
+      "name": "Rhyothemis syriaca (Selys, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916568"
+    }
+,
+    {
+      "name": "Selysiothemis Vander Linden, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Selysiothemis nigra (Vander Linden, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884487"
+    }
+,
+    {
+      "name": "Libellula nigra Vander Linden, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884488"
+    }
+,
+    {
+      "name": "Sympetrum Newman, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Diplax Burmeister, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "Sympetrum costiferum (Hagen, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780664"
+    }
+,
+    {
+      "name": "Diplax costifera Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916570"
+    }
+,
+    {
+      "name": "Sympetrum atripes Hagen, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916569"
+    }
+,
+    {
+      "name": "Sympetrum danae (Sulzer, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65312"
+    }
+,
+    {
+      "name": "Libellula danae Sulzer, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817023"
+    }
+,
+    {
+      "name": "Sympetrum depressiusculum (Selys, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65318"
+    }
+,
+    {
+      "name": "Libellula depressiusculum Selys, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817024"
+    }
+,
+    {
+      "name": "Sympetrum flaveolum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65327"
+    }
+,
+    {
+      "name": "Libellula flaveola Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808388"
+    }
+,
+    {
+      "name": "Libellula victoria Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951549"
+    }
+,
+    {
+      "name": "Sympetrum fonscolombii (Selys, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65335"
+    }
+,
+    {
+      "name": "Libellula fonscolombii Selys, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817025"
+    }
+,
+    {
+      "name": "Sympetrum fonscolombei (Sélys, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65333"
+    }
+,
+    {
+      "name": "Tarnetrum fonscolombii (Selys, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65336"
+    }
+,
+    {
+      "name": "Sympetrum meridionale (Selys, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65339"
+    }
+,
+    {
+      "name": "Libellula hybrida Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808387"
+    }
+,
+    {
+      "name": "Libellula meridionale Selys, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817026"
+    }
+,
+    {
+      "name": "Sympetrum pedemontanum (O.F. Müller in Allioni, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65308"
+    }
+,
+    {
+      "name": "Libellula pedemontanum O.F. Müller in Allioni, 1766",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817027"
+    }
+,
+    {
+      "name": "Sympetrum sanguineum (O.F. Müller, 1764)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65322"
+    }
+,
+    {
+      "name": "Diplax nigrostigma Buchecker, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789871"
+    }
+,
+    {
+      "name": "Libellula roeselii Curtis, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808386"
+    }
+,
+    {
+      "name": "Libellula sanguineum O.F. Müller, 1764",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817028"
+    }
+,
+    {
+      "name": "Sympetrum striolatum (Charpentier, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65344"
+    }
+,
+    {
+      "name": "Libellula striolatum Charpentier, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817029"
+    }
+,
+    {
+      "name": "Sympetrum vulgatum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/65348"
+    }
+,
+    {
+      "name": "Libellula vulgata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/808385"
+    }
+,
+    {
+      "name": "Sympetrum vulgatum ibericum Ocharan, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653306"
+    }
+,
+    {
+      "name": "Sympetrum vulgatum vulgatum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653307"
+    }
+,
+    {
+      "name": "Tauriphila Kirby, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Tauriphila argo (Hagen, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756182"
+    }
+,
+    {
+      "name": "Tauriphila nycteris Karsch, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915620"
+    }
+,
+    {
+      "name": "Tramea argo Hagen, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915619"
+    }
+,
+    {
+      "name": "Tauriphila australis (Hagen, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530684"
+    }
+,
+    {
+      "name": "Tauriphila iphigenia Hagen, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915618"
+    }
+,
+    {
+      "name": "Tramea australis Hagen, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915617"
+    }
+,
+    {
+      "name": "Tholymis Hagen, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Tholymis citrina Hagen, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530422"
+    }
+,
+    {
+      "name": "Tholymis tillarga (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528722"
+    }
+,
+    {
+      "name": "Libellula tillarga Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916573"
+    }
+,
+    {
+      "name": "Tholymis bimaculata (Desjardins, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916571"
+    }
+,
+    {
+      "name": "Tholymis paratillarga Singh & Prasad, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916572"
+    }
+,
+    {
+      "name": "Tramea Hagen, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Tramea abdominalis (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530442"
+    }
+,
+    {
+      "name": "Libellula abdominalis Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916574"
+    }
+,
+    {
+      "name": "Tramea basalis (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916575"
+    }
+,
+    {
+      "name": "Tramea basilaris (Palisot de Beauvois, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528723"
+    }
+,
+    {
+      "name": "Libellula basilaris Palisot de Beauvois, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916576"
+    }
+,
+    {
+      "name": "Tramea chinensis (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916577"
+    }
+,
+    {
+      "name": "Tramea binotata (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530443"
+    }
+,
+    {
+      "name": "Libellula binotata Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915611"
+    }
+,
+    {
+      "name": "Tramea brasiliana Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915612"
+    }
+,
+    {
+      "name": "Tramea longicauda Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915613"
+    }
+,
+    {
+      "name": "Tramea paulina Foerster, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915615"
+    }
+,
+    {
+      "name": "Tramea subbinotata Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915614"
+    }
+,
+    {
+      "name": "Tramea walkeri Whitehouse, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915616"
+    }
+,
+    {
+      "name": "Tramea calverti Muttkowski, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530444"
+    }
+,
+    {
+      "name": "Tramea carolina (Linnaeus, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925166"
+    }
+,
+    {
+      "name": "Tramea insularis Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530445"
+    }
+,
+    {
+      "name": "Tramea liberata Lieftinck, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829596"
+    }
+,
+    {
+      "name": "Tramea limbata (Desjardins, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528724"
+    }
+,
+    {
+      "name": "Libellula limbata Desjardins, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916578"
+    }
+,
+    {
+      "name": "Tramea incerta Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916579"
+    }
+,
+    {
+      "name": "Tramea mauriciana Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916580"
+    }
+,
+    {
+      "name": "Tramea similata Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916581"
+    }
+,
+    {
+      "name": "Tramea stylata Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916582"
+    }
+,
+    {
+      "name": "Tramea translucida Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916583"
+    }
+,
+    {
+      "name": "Tramea loewii Kaup in Brauer, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829597"
+    }
+,
+    {
+      "name": "Tramea onusta Hagen, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530687"
+    }
+,
+    {
+      "name": "Tramea rustica de Marmels & Rácenis, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716674"
+    }
+,
+    {
+      "name": "Tramea transmarina Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783159"
+    }
+,
+    {
+      "name": "Tramea transmarina intersecta Lieftinek, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893542"
+    }
+,
+    {
+      "name": "Trithemis Brauer, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Trithemis annulata (Palisot de Beauvois, 1807)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/199692"
+    }
+,
+    {
+      "name": "Libellula annulata Palisot de Beauvois, 1807",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817030"
+    }
+,
+    {
+      "name": "Trithemis annulata haematina (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/533683"
+    }
+,
+    {
+      "name": "Libellula haematina Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916585"
+    }
+,
+    {
+      "name": "Trithemis erythraea Brauer, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916584"
+    }
+,
+    {
+      "name": "Trithemis arteriosa (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/309420"
+    }
+,
+    {
+      "name": "Libellula arteriosa Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905648"
+    }
+,
+    {
+      "name": "Trithemis hecate Ris, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715122"
+    }
+,
+    {
+      "name": "Trithemis kirbyi Selys, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884489"
+    }
+,
+    {
+      "name": "Trithemis selika (Selys, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715105"
+    }
+,
+    {
+      "name": "Libellula selika Selys, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916586"
+    }
+,
+    {
+      "name": "Trithemis selika maia Ris, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715106"
+    }
+,
+    {
+      "name": "Uracis Rambur, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Uracis fastigiata (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754841"
+    }
+,
+    {
+      "name": "Libellula fastigiata Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915608"
+    }
+,
+    {
+      "name": "Uracis machadina Foerster, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915609"
+    }
+,
+    {
+      "name": "Uracis pura Foerster, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915610"
+    }
+,
+    {
+      "name": "Uracis imbuta (Burmeister, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754842"
+    }
+,
+    {
+      "name": "Libellula imbuta Burmeister, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915606"
+    }
+,
+    {
+      "name": "Uracis quadra Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915607"
+    }
+,
+    {
+      "name": "Uracis infumata (Rambur, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754843"
+    }
+,
+    {
+      "name": "Libellula infumata Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915604"
+    }
+,
+    {
+      "name": "Uracis ovata Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915605"
+    }
+,
+    {
+      "name": "Uracis ovipositrix Calvert, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754844"
+    }
+,
+    {
+      "name": "Uracis siemensi Kirby, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754845"
+    }
+,
+    {
+      "name": "Urothemis Brauer, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Urothemis assignata (Sélys, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715128"
+    }
+,
+    {
+      "name": "Libellula assignata Sélys, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916587"
+    }
+,
+    {
+      "name": "Urothemis designata (Selys, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916588"
+    }
+,
+    {
+      "name": "Urothemis madagascariensis Selys, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916589"
+    }
+,
+    {
+      "name": "Urothemis edwardsii (Sélys, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715126"
+    }
+,
+    {
+      "name": "Libellula edwardsii Sélys, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715127"
+    }
+,
+    {
+      "name": "Zenithoptera Selys, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Zenithoptera fasciata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655100"
+    }
+,
+    {
+      "name": "Libellula fasciata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849778"
+    }
+,
+    {
+      "name": "Zenithoptera viola Ris, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716675"
+    }
+,
+    {
+      "name": "Zygonyx Hagen, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Zygonyx ranavolanae Fraser, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715129"
+    }
+,
+    {
+      "name": "Zygonyx torridus (Kirby, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/309422"
+    }
+,
+    {
+      "name": "Pseudomacromia torridus Kirby, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905656"
+    }
+,
+    {
+      "name": "Zygonyx torridus torridus (Kirby, 1889)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/533684"
+    }
+,
+    {
+      "name": "Zyxomma Rambur, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Zyxomma petiolatum Rambur, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715131"
+    }
+
+  ]
+}

@@ -1,0 +1,92 @@
+
+{
+  "name": "monogenea",
+  "children": [
+
+    {
+      "name": "Monogenea Van Beneden, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "capsalidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/monogenea/capsalidea/"
+    }
+,
+    {
+      "name": "dactylogyridea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/monogenea/dactylogyridea/"
+    }
+,
+    {
+      "name": "diclybothriidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/monogenea/diclybothriidea/"
+    }
+,
+    {
+      "name": "gyrodactylidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/monogenea/gyrodactylidea/"
+    }
+,
+    {
+      "name": "mazocraeidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/monogenea/mazocraeidea/"
+    }
+,
+    {
+      "name": "mazocreaidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/monogenea/mazocreaidea/"
+    }
+,
+    {
+      "name": "Microbothriidae Price, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudocotyle Beneden & Hesse, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudocotyle squatinae Van Beneden & Hesse, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/913119"
+    }
+,
+    {
+      "name": "monocotylidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/monogenea/monocotylidea/"
+    }
+,
+    {
+      "name": "Monopisthocotylea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Polyonchoinea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Oligonchoinea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Polyopisthocotylea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Heterochoinea ",
+      "url": ""
+    }
+,
+    {
+      "name": "polystomatidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/monogenea/polystomatidea/"
+    }
+
+  ]
+}

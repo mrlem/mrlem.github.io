@@ -1,0 +1,37 @@
+
+{
+  "name": "coronatae",
+  "children": [
+
+    {
+      "name": "Coronatae Vanhöffen, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "atollidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/coronatae/atollidae/"
+    }
+,
+    {
+      "name": "linuchidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/coronatae/linuchidae/"
+    }
+,
+    {
+      "name": "nausithoidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/coronatae/nausithoidae/"
+    }
+,
+    {
+      "name": "paraphyllinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/coronatae/paraphyllinidae/"
+    }
+,
+    {
+      "name": "periphyllidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/coronatae/periphyllidae/"
+    }
+
+  ]
+}

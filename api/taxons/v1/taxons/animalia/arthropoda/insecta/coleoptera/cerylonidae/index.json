@@ -1,0 +1,77 @@
+
+{
+  "name": "cerylonidae",
+  "children": [
+
+    {
+      "name": "Cerylonidae Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "ceryloninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerylonidae/ceryloninae/"
+    }
+,
+    {
+      "name": "euxestinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerylonidae/euxestinae/"
+    }
+,
+    {
+      "name": "Axiocerylon Grouvelle, 1918",
+      "url": ""
+    }
+,
+    {
+      "name": "Axiocerylon gomyi Besuchet & Ślipiński, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/706991"
+    }
+,
+    {
+      "name": "Pathelus Dajoz, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "Pathelus alae (Ślipiński, 1982)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849089"
+    }
+,
+    {
+      "name": "As alae Ślipiński, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/706982"
+    }
+,
+    {
+      "name": "Pathelus borbonicus Dajoz, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/706984"
+    }
+,
+    {
+      "name": "Pathelus loebli Ślipiński, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/706985"
+    }
+,
+    {
+      "name": "Philothermopsis Heinze, 1944",
+      "url": ""
+    }
+,
+    {
+      "name": "Philothermopsis mauritianus (Grouvelle, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/706988"
+    }
+,
+    {
+      "name": "Philothermopsis quadricollis (Sharp, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810410"
+    }
+,
+    {
+      "name": "ostomopsinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/cerylonidae/ostomopsinae/"
+    }
+
+  ]
+}

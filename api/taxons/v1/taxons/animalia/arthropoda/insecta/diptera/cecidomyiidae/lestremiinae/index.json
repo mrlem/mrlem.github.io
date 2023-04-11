@@ -1,0 +1,437 @@
+
+{
+  "name": "lestremiinae",
+  "children": [
+
+    {
+      "name": "Lestremiinae Rondani, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Anarete Haliday, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Anarete candidata Haliday, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21415"
+    }
+,
+    {
+      "name": "Anarete lacteipennis Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21416"
+    }
+,
+    {
+      "name": "Anarete crassipalpis Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/429046"
+    }
+,
+    {
+      "name": "Anarete rubra Kieffer, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249874"
+    }
+,
+    {
+      "name": "Bryomyia Kieffer, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Bryomyia bergrothi Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249869"
+    }
+,
+    {
+      "name": "Calospatha Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Calospatha fagicola Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977987"
+    }
+,
+    {
+      "name": "Campylomyza Meigen, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Campylomyza bicolor Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249870"
+    }
+,
+    {
+      "name": "Cylophora fasciata Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416574"
+    }
+,
+    {
+      "name": "Prionellus pini Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416573"
+    }
+,
+    {
+      "name": "Campylomyza coronata (Kieffer, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977989"
+    }
+,
+    {
+      "name": "Perodiplosis coronata Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977991"
+    }
+,
+    {
+      "name": "Campylomyza flavipes Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249871"
+    }
+,
+    {
+      "name": "Campylomyza aceris Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416575"
+    }
+,
+    {
+      "name": "Campylomyza aequalis Winnertz, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416578"
+    }
+,
+    {
+      "name": "Campylomyza analis Winnertz, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416579"
+    }
+,
+    {
+      "name": "Campylomyza balsamicola Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416586"
+    }
+,
+    {
+      "name": "Campylomyza defectiva Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416592"
+    }
+,
+    {
+      "name": "Campylomyza edwardsi Nijveldt, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416599"
+    }
+,
+    {
+      "name": "Campylomyza flavicoxa Winnertz, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416580"
+    }
+,
+    {
+      "name": "Campylomyza fuscipes Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416576"
+    }
+,
+    {
+      "name": "Campylomyza graminea Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416587"
+    }
+,
+    {
+      "name": "Campylomyza hesperina Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416593"
+    }
+,
+    {
+      "name": "Campylomyza karnerensis Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416588"
+    }
+,
+    {
+      "name": "Campylomyza leguminicola Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416589"
+    }
+,
+    {
+      "name": "Campylomyza moehni Kleesattel, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416600"
+    }
+,
+    {
+      "name": "Campylomyza munda Winnertz, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416581"
+    }
+,
+    {
+      "name": "Campylomyza pallipes Zetterstedt, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416577"
+    }
+,
+    {
+      "name": "Campylomyza pomiflorae Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416590"
+    }
+,
+    {
+      "name": "Campylomyza pomifolia Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416594"
+    }
+,
+    {
+      "name": "Campylomyza pumila Winnertz, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416582"
+    }
+,
+    {
+      "name": "Campylomyza tsugae Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416591"
+    }
+,
+    {
+      "name": "Campylomyza vivida Winnertz, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416583"
+    }
+,
+    {
+      "name": "Monardia seaci Barnes, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416598"
+    }
+,
+    {
+      "name": "Prionellus eremi Felt, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416597"
+    }
+,
+    {
+      "name": "Prionellus minor Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416584"
+    }
+,
+    {
+      "name": "Prionellus monilis Felt, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416596"
+    }
+,
+    {
+      "name": "Prionellus montana Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416595"
+    }
+,
+    {
+      "name": "Prionellus strobli Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416585"
+    }
+,
+    {
+      "name": "Campylomyza maculata (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977997"
+    }
+,
+    {
+      "name": "Campylomyza mucoris (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977998"
+    }
+,
+    {
+      "name": "Campylomyza sejuncta (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977999"
+    }
+,
+    {
+      "name": "Catocha Haliday, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Catocha latipes Haliday, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249872"
+    }
+,
+    {
+      "name": "Catocha crassitarsis van der Wulp, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416604"
+    }
+,
+    {
+      "name": "Catocha kiefferi Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416607"
+    }
+,
+    {
+      "name": "Catocha muscicola Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416605"
+    }
+,
+    {
+      "name": "Catocha slossonae Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416606"
+    }
+,
+    {
+      "name": "Macrostyla latipes Winnertz, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416603"
+    }
+,
+    {
+      "name": "Mimosciara lestremina Rondani, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416601"
+    }
+,
+    {
+      "name": "Mimosciara molobrina Rondani, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416602"
+    }
+,
+    {
+      "name": "Neocatocha sylvana Felt, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416608"
+    }
+,
+    {
+      "name": "Lestremia Macquart, 1826",
+      "url": ""
+    }
+,
+    {
+      "name": "Lestremia cinerea Macquart, 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/249873"
+    }
+,
+    {
+      "name": "Catocha iwatensis Monzen, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416620"
+    }
+,
+    {
+      "name": "Catocha sylvestris Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416611"
+    }
+,
+    {
+      "name": "Lestremia carnea Loew, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416610"
+    }
+,
+    {
+      "name": "Lestremia declinata Kieffer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416615"
+    }
+,
+    {
+      "name": "Lestremia dyari Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416612"
+    }
+,
+    {
+      "name": "Lestremia floridana Felt, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416617"
+    }
+,
+    {
+      "name": "Lestremia franconiae Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416613"
+    }
+,
+    {
+      "name": "Lestremia fusca Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416609"
+    }
+,
+    {
+      "name": "Lestremia garretti Felt, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416618"
+    }
+,
+    {
+      "name": "Lestremia kansensis Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416614"
+    }
+,
+    {
+      "name": "Lestremia vittata Vimmer, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416619"
+    }
+,
+    {
+      "name": "Zygoneura fenestrata Malloch, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416616"
+    }
+,
+    {
+      "name": "Lestremia leucophaea (Meigen, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21420"
+    }
+,
+    {
+      "name": "Catocha sambuci Felt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/429082"
+    }
+,
+    {
+      "name": "Lestremia inexpectata Mamaev, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/429116"
+    }
+,
+    {
+      "name": "Lestremia occidentalis Felt, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/429117"
+    }
+,
+    {
+      "name": "Lestremia setosa Felt, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/429119"
+    }
+,
+    {
+      "name": "Sciara leucophaea Meigen, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936766"
+    }
+,
+    {
+      "name": "Neurolyga Rondani, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Neurolyga cellularis (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978002"
+    }
+,
+    {
+      "name": "Stenospatha Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenospatha eriophori Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978010"
+    }
+,
+    {
+      "name": "Trichelospatha Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichelospatha conigera (Kieffer, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978009"
+    }
+,
+    {
+      "name": "Tricolpodia Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Tricolpodia anomala (Kieffer, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978023"
+    }
+,
+    {
+      "name": "Wasmanniella Kieffer, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Wasmanniella aptera Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978019"
+    }
+
+  ]
+}

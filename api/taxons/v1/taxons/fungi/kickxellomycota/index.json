@@ -1,0 +1,47 @@
+
+{
+  "name": "kickxellomycota",
+  "children": [
+
+    {
+      "name": "Kickxellomycota Tedersoo, Sánchez-Ramírez, Kõljalg, Bahram, Döring, Schigel, T.May, M.Ryberg & Abarenkov, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "asellariomycetes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/kickxellomycota/asellariomycetes/"
+    }
+,
+    {
+      "name": "Dimargaritales R.K.Benj., 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Spinalia Vuill., 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Spinalia radians Vuill., 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007574"
+    }
+,
+    {
+      "name": "harpellomycetes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/kickxellomycota/harpellomycetes/"
+    }
+,
+    {
+      "name": "kickxellomycetes",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/kickxellomycota/kickxellomycetes/"
+    }
+,
+    {
+      "name": "Kickxellomycotina Benny, 2007",
+      "url": ""
+    }
+
+  ]
+}

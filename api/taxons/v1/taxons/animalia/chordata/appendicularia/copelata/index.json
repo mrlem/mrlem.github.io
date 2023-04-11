@@ -1,0 +1,27 @@
+
+{
+  "name": "copelata",
+  "children": [
+
+    {
+      "name": "Copelata ",
+      "url": ""
+    }
+,
+    {
+      "name": "fritillariidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/appendicularia/copelata/fritillariidae/"
+    }
+,
+    {
+      "name": "kowalevskiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/appendicularia/copelata/kowalevskiidae/"
+    }
+,
+    {
+      "name": "oikopleuridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/appendicularia/copelata/oikopleuridae/"
+    }
+
+  ]
+}

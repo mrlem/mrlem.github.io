@@ -1,0 +1,27 @@
+
+{
+  "name": "zoarcidae",
+  "children": [
+
+    {
+      "name": "Zoarcidae Swainson, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "gymnelinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/zoarcidae/gymnelinae/"
+    }
+,
+    {
+      "name": "lycodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/zoarcidae/lycodinae/"
+    }
+,
+    {
+      "name": "zoarcinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/zoarcidae/zoarcinae/"
+    }
+
+  ]
+}

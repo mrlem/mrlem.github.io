@@ -1,0 +1,22 @@
+
+{
+  "name": "harpellomycetes",
+  "children": [
+
+    {
+      "name": "Harpellomycetes Tedersoo, Sánchez-Ramírez, Kõljalg, Bahram, Döring, Schigel, T.May, M.Ryberg & Abarenkov, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Haplophasea R.Sprague, J.J.Becnel & E.I.Hazard, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "harpellales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/kickxellomycota/harpellomycetes/harpellales/"
+    }
+
+  ]
+}

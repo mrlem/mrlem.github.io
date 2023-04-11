@@ -1,0 +1,22 @@
+
+{
+  "name": "caryophyllidea",
+  "children": [
+
+    {
+      "name": "Caryophyllidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "caryophyllaeidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/cestoda/caryophyllidea/caryophyllaeidae/"
+    }
+,
+    {
+      "name": "lytocestidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/cestoda/caryophyllidea/lytocestidae/"
+    }
+
+  ]
+}

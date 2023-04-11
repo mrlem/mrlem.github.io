@@ -1,0 +1,367 @@
+
+{
+  "name": "chrysomelidae",
+  "children": [
+
+    {
+      "name": "Chrysomelidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "bruchinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/bruchinae/"
+    }
+,
+    {
+      "name": "cassidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/cassidinae/"
+    }
+,
+    {
+      "name": "chrysomelinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/chrysomelinae/"
+    }
+,
+    {
+      "name": "criocerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/criocerinae/"
+    }
+,
+    {
+      "name": "cryptocephalinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/cryptocephalinae/"
+    }
+,
+    {
+      "name": "donaciinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/donaciinae/"
+    }
+,
+    {
+      "name": "eumolpinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/eumolpinae/"
+    }
+,
+    {
+      "name": "galerucinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/galerucinae/"
+    }
+,
+    {
+      "name": "Aspidimorpha Hope, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Aspidimorpha apicalis (Klug, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853759"
+    }
+,
+    {
+      "name": "Cassida decolorata Boheman, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853756"
+    }
+,
+    {
+      "name": "Aspidimorpha aurata (Montrouzier, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/835825"
+    }
+,
+    {
+      "name": "Aspidomorpha aurata (Montrouzier, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910757"
+    }
+,
+    {
+      "name": "Aspidomorpha opima Boheman, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910759"
+    }
+,
+    {
+      "name": "Cassida aurata Montrouzier, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910758"
+    }
+,
+    {
+      "name": "Aspidimorpha convolvuli (Boheman, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/835826"
+    }
+,
+    {
+      "name": "Aspidomorpha convolvuli (Boheman, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910755"
+    }
+,
+    {
+      "name": "Coptocycla convolvuli Boheman, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910756"
+    }
+,
+    {
+      "name": "Aspidimorpha madagascarica Boheman, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934270"
+    }
+,
+    {
+      "name": "Aspidomorpha madagascarica Boheman, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853755"
+    }
+,
+    {
+      "name": "Aspidimorpha quinquefasciata (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711046"
+    }
+,
+    {
+      "name": "Aspidocassis Borowiec, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "Berliozita Bechyné, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "Berliozita borbonica (Berlioz, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711021"
+    }
+,
+    {
+      "name": "Nodostella borbonica Berlioz, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005980"
+    }
+,
+    {
+      "name": "Berliozita costatipennis (Berlioz, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711022"
+    }
+,
+    {
+      "name": "Nodostella costatipennis Berlioz, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005987"
+    }
+,
+    {
+      "name": "Candezea Chapuis, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "Candezea artensis (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910751"
+    }
+,
+    {
+      "name": "Galleruca artensis Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910752"
+    }
+,
+    {
+      "name": "Rhaphidopalpa artensis (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910753"
+    }
+,
+    {
+      "name": "Candezea palustris (Perroud & Montrouzier, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910745"
+    }
+,
+    {
+      "name": "Monolepta scutellata Jacoby, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910747"
+    }
+,
+    {
+      "name": "Rhaphidopalpa palustris Perroud & Montrouzier, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910746"
+    }
+,
+    {
+      "name": "Candezea semiviolacea (Fauvel, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/835824"
+    }
+,
+    {
+      "name": "Monolepta semiviolacea Fauvel, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968139"
+    }
+,
+    {
+      "name": "Monopelta semiviolacea Fauvel, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589914"
+    }
+,
+    {
+      "name": "Chalcolampra Blanchard, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Chalcolampra octodecimguttata (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589767"
+    }
+,
+    {
+      "name": "Chrysomela octodecimguttata Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005983"
+    }
+,
+    {
+      "name": "Eumolpus Weber, 1801",
+      "url": ""
+    }
+,
+    {
+      "name": "Eumolpus imperialis Baly, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593171"
+    }
+,
+    {
+      "name": "Gestronella Weise, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Gestronella centrolineata (Fairmaire, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711043"
+    }
+,
+    {
+      "name": "Graptodera ",
+      "url": ""
+    }
+,
+    {
+      "name": "Graptodera verticalis Boheman, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775884"
+    }
+,
+    {
+      "name": "Leptaulaca Weise, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptaulaca undecimpunctata (Klug, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714822"
+    }
+,
+    {
+      "name": "Lymidus Fairmaire, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Lymidus coquereli Fairmaire, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711024"
+    }
+,
+    {
+      "name": "Metroserrapha Bechyné, 1958",
+      "url": ""
+    }
+,
+    {
+      "name": "Metroserrapha quarta Bechyné, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711033"
+    }
+,
+    {
+      "name": "Metroserrapha septima Bechyné, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711035"
+    }
+,
+    {
+      "name": "Metroserrapha sexta Bechyné, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712573"
+    }
+,
+    {
+      "name": "Metroserrapha tertia Bechyné, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711032"
+    }
+,
+    {
+      "name": "Monoxia J. L. LeConte, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Monoxia obesula Blake, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013907"
+    }
+,
+    {
+      "name": "Noda ",
+      "url": ""
+    }
+,
+    {
+      "name": "Noda vagabunda Boheman, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775886"
+    }
+,
+    {
+      "name": "Pachybrachys Chevrolat, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Pachybrachys insularis Boheman, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775887"
+    }
+,
+    {
+      "name": "Pseudopachymerina Zacher, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudopachymerina spinipes (Erichson, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/241924"
+    }
+,
+    {
+      "name": "Bruchus spinipes Erichson, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892608"
+    }
+,
+    {
+      "name": "Syneta ",
+      "url": ""
+    }
+,
+    {
+      "name": "Syneta extorris Brown, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780720"
+    }
+,
+    {
+      "name": "Vinsoneumolpus Bechyné, 1957",
+      "url": ""
+    }
+,
+    {
+      "name": "Vinsoneumolpus salaziensis Bechyné, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848869"
+    }
+,
+    {
+      "name": "Vinsoneumolpus puberulus salaziensis Bechyné, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/710996"
+    }
+,
+    {
+      "name": "lamprosomatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/lamprosomatinae/"
+    }
+,
+    {
+      "name": "spilopyrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/spilopyrinae/"
+    }
+
+  ]
+}

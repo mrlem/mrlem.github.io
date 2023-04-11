@@ -1,0 +1,22 @@
+
+{
+  "name": "nepinae",
+  "children": [
+
+    {
+      "name": "Nepinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "curictini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/nepidae/nepinae/curictini/"
+    }
+,
+    {
+      "name": "nepini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/nepidae/nepinae/nepini/"
+    }
+
+  ]
+}

@@ -1,0 +1,87 @@
+
+{
+  "name": "tricladida",
+  "children": [
+
+    {
+      "name": "Tricladida Lang, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "bdellouridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/bdellouridae/"
+    }
+,
+    {
+      "name": "Bdellouroidea Diesing, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Cercyroidea Böhmig, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "cercyridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/cercyridae/"
+    }
+,
+    {
+      "name": "Continenticola Carranza, Littlewood, Clough, Ruiz-Trillo, Baguna & Riutort, 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "dendrocoelidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/dendrocoelidae/"
+    }
+,
+    {
+      "name": "dugesiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/dugesiidae/"
+    }
+,
+    {
+      "name": "geoplanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/geoplanidae/"
+    }
+,
+    {
+      "name": "Geoplanoidea Stimpson, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Maricola Hallez, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "planariidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/planariidae/"
+    }
+,
+    {
+      "name": "Planarioidea Stimpson, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "procerodidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/procerodidae/"
+    }
+,
+    {
+      "name": "Procerodoidea Diesing, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "uteriporidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/rhabditophora/tricladida/uteriporidae/"
+    }
+
+  ]
+}

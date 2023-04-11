@@ -1,0 +1,112 @@
+
+{
+  "name": "buprestidae",
+  "children": [
+
+    {
+      "name": "Buprestidae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "agrilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/agrilinae/"
+    }
+,
+    {
+      "name": "buprestinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/buprestinae/"
+    }
+,
+    {
+      "name": "chrysochroinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/chrysochroinae/"
+    }
+,
+    {
+      "name": "Ankareus Kerremans, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Ankareus gomyi Descarpentries, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705083"
+    }
+,
+    {
+      "name": "Ankareus mascarenicus Lesne, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705082"
+    }
+,
+    {
+      "name": "Coraebastus Fairmaire, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Coraebastus quinquepustulatus Fairmaire, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781200"
+    }
+,
+    {
+      "name": "Diplolophotus Abeille de Perrin, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Diplolophotus perrieri (Fairmaire, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705080"
+    }
+,
+    {
+      "name": "Nascioides Kerremans, 1903",
+      "url": ""
+    }
+,
+    {
+      "name": "Nascioides caledonicus Williams & Bellamy, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890172"
+    }
+,
+    {
+      "name": "Nascioides caledonica Williams & Bellamy, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966346"
+    }
+,
+    {
+      "name": "Sponsor Gory & Laporte, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "Sponsor convexus Gory, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705071"
+    }
+,
+    {
+      "name": "Sponsor dermestoides Lesne, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705072"
+    }
+,
+    {
+      "name": "Sponsor dermestoides borbonicus Lesne, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705074"
+    }
+,
+    {
+      "name": "Sponsor reunionensis Descarpentries, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/705075"
+    }
+,
+    {
+      "name": "julodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/julodinae/"
+    }
+,
+    {
+      "name": "polycestinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/polycestinae/"
+    }
+
+  ]
+}

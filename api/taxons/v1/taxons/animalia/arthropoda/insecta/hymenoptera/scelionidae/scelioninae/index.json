@@ -1,0 +1,557 @@
+
+{
+  "name": "scelioninae",
+  "children": [
+
+    {
+      "name": "Scelioninae Haliday, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "baeini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/scelionidae/scelioninae/baeini/"
+    }
+,
+    {
+      "name": "gryonini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/scelionidae/scelioninae/gryonini/"
+    }
+,
+    {
+      "name": "Acanthoscelio Ashmead, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthoscelio radiatus Dotseth & Johnson, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755641"
+    }
+,
+    {
+      "name": "Anteris Förster, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Anteris perplexa (Kieffer, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219705"
+    }
+,
+    {
+      "name": "Anteromorpha Dodd, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Anteromorpha dubiosa (Perkins, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776478"
+    }
+,
+    {
+      "name": "Apegus Förster, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Apegus foveatus Kieffer, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219706"
+    }
+,
+    {
+      "name": "Calliscelio Ashmead, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Calliscelio amadoi Chen & Johnson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842927"
+    }
+,
+    {
+      "name": "Calliscelio bisulcatus (Kieffer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842928"
+    }
+,
+    {
+      "name": "Baryconus bisulcatus Kieffer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842929"
+    }
+,
+    {
+      "name": "Glyptoteleia bisulcata (Kieffer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842930"
+    }
+,
+    {
+      "name": "Calliscelio brevitas Chen & Johnson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842931"
+    }
+,
+    {
+      "name": "Calliscelio elegans (Perkins, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842932"
+    }
+,
+    {
+      "name": "Caenoteleia elegans (Perkins, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842934"
+    }
+,
+    {
+      "name": "Calotelea tanugatra Narendran, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842935"
+    }
+,
+    {
+      "name": "Caloteleia elegans Perkins, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842933"
+    }
+,
+    {
+      "name": "Calliscelio flavicauda Chen & Johnson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842936"
+    }
+,
+    {
+      "name": "Calliscelio laticinctus Ashmead, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842937"
+    }
+,
+    {
+      "name": "Calliscelio migma Chen & Johnson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842938"
+    }
+,
+    {
+      "name": "Calliscelio rubriclavus (Ashmead, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842939"
+    }
+,
+    {
+      "name": "Acolus rubriclavus Ashmead, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842940"
+    }
+,
+    {
+      "name": "Anteris nigriceps Ashmead, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842941"
+    }
+,
+    {
+      "name": "Calotelea grenadensis (Ashmead, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842951"
+    }
+,
+    {
+      "name": "Calotelea nigriceps (Ashmead, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842952"
+    }
+,
+    {
+      "name": "Calotelea rubriclava (Ashmead, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842953"
+    }
+,
+    {
+      "name": "Calotelea ruskini (Girault, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842954"
+    }
+,
+    {
+      "name": "Caloteleia grenadensis Ashmead, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842944"
+    }
+,
+    {
+      "name": "Caloteleia marlattii Ashmead, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842942"
+    }
+,
+    {
+      "name": "Caloteleia rubriclava (Ashmead, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842943"
+    }
+,
+    {
+      "name": "Caloteleia rubriclavus (Ashmead, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842949"
+    }
+,
+    {
+      "name": "Ceratoteleia grenadensis (Ashmead, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842946"
+    }
+,
+    {
+      "name": "Ceratoteleia marlatti (Ashmead, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842945"
+    }
+,
+    {
+      "name": "Ceratoteleia rubriclava (Ashmead, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842947"
+    }
+,
+    {
+      "name": "Macroteleia ruskini Girault, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842950"
+    }
+,
+    {
+      "name": "Prosanteris nigriceps (Ashmead, 1893)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842948"
+    }
+,
+    {
+      "name": "Calliscelio sfina Chen & Johnson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842955"
+    }
+,
+    {
+      "name": "Calliscelio storea Chen & Johnson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842956"
+    }
+,
+    {
+      "name": "Calliscelio suni Chen & Johnson, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842957"
+    }
+,
+    {
+      "name": "Ceratobaeus Ashmead, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Ceratobaeus huggerti Iqbal & Austin, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963066"
+    }
+,
+    {
+      "name": "Ceratobaeus umari Iqbal & Austin, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792399"
+    }
+,
+    {
+      "name": "Ceratobaeus wattora Iqbal & Austin, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792400"
+    }
+,
+    {
+      "name": "Chromoteleia Ashmead, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Chromoteleia bidens Chen & Masner, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899387"
+    }
+,
+    {
+      "name": "Chromoteleia connectens Kieffer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899388"
+    }
+,
+    {
+      "name": "Chromoteleia brevitarsis Kieffer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899390"
+    }
+,
+    {
+      "name": "Chromoteleia (Oxyscelio) connectens Kieffer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899389"
+    }
+,
+    {
+      "name": "Petalosema brevitarsis (Kieffer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899391"
+    }
+,
+    {
+      "name": "Chromoteleia feng Chen & Johnson, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899392"
+    }
+,
+    {
+      "name": "Chromoteleia fuscicornis Kieffer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899393"
+    }
+,
+    {
+      "name": "Petalosema fuscicornis (Kieffer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899394"
+    }
+,
+    {
+      "name": "Chromoteleia levitas Chen & Johnson, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899395"
+    }
+,
+    {
+      "name": "Chromoteleia longa Chen & Johnson, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899398"
+    }
+,
+    {
+      "name": "Chromoteleia longitarsis Kieffer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899396"
+    }
+,
+    {
+      "name": "Petalosema longitarsis (Kieffer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899397"
+    }
+,
+    {
+      "name": "Chromoteleia plana Chen & Johnson, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899399"
+    }
+,
+    {
+      "name": "Chromoteleia rara Chen & Johnson, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899400"
+    }
+,
+    {
+      "name": "Chromoteleia sparsa Chen & Johnson, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899401"
+    }
+,
+    {
+      "name": "Encyrtoscelio Dodd, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Encyrtoscelio cydni Caleca, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219708"
+    }
+,
+    {
+      "name": "Encyrtoscelio mirissimus Dodd, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792403"
+    }
+,
+    {
+      "name": "Holoteleia Kieffer, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Holoteleia nigriceps Kieffer, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219710"
+    }
+,
+    {
+      "name": "Baryconus bicolor Kieffer, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989658"
+    }
+,
+    {
+      "name": "Macroteleia Westwood, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Prosapegus Kieffer, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Macroteleia insularis (Risbec, 1957)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713799"
+    }
+,
+    {
+      "name": "Prosapegus insularis Risbec, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713798"
+    }
+,
+    {
+      "name": "Mantibaria Kirby, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Mantibaria seefelderiana (De Stefani, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219714"
+    }
+,
+    {
+      "name": "Mantibaria manticida Kieffer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392164"
+    }
+,
+    {
+      "name": "Opisthacantha Ashmead, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Lapitha Ashmead, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Opisthacantha guyanensis (Risbec, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/827516"
+    }
+,
+    {
+      "name": "Lapitha guyanensis (Risbec, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760148"
+    }
+,
+    {
+      "name": "Probaryconus guyanensis Risbec, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/912206"
+    }
+,
+    {
+      "name": "Oxyscelio Kieffer, 1907",
+      "url": ""
+    }
+,
+    {
+      "name": "Oxyscelio bicoloripedis Burks, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792408"
+    }
+,
+    {
+      "name": "Oxyscelio circulorum Burks, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792409"
+    }
+,
+    {
+      "name": "Oxyscelio tubi Burks, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792411"
+    }
+,
+    {
+      "name": "Paridris Kieffer, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Paridris bispores Kozlov & Lê, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963935"
+    }
+,
+    {
+      "name": "Paridris taekuli Talamas & Masner, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963933"
+    }
+,
+    {
+      "name": "Probaryconus Kieffer, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Probaryconus inermis (Kieffer, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219715"
+    }
+,
+    {
+      "name": "Baryconus inermis Kieffer, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989657"
+    }
+,
+    {
+      "name": "Probaryconus rufipes (Kieffer, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219716"
+    }
+,
+    {
+      "name": "Probaryconus evanescens Kieffer, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392165"
+    }
+,
+    {
+      "name": "Probaryconus spinosus (Kieffer, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219717"
+    }
+,
+    {
+      "name": "Scelio Latreille, 1805",
+      "url": ""
+    }
+,
+    {
+      "name": "Scelio bipartitus Kieffer, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792415"
+    }
+,
+    {
+      "name": "Scelio flavibarbis (Marshall, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219718"
+    }
+,
+    {
+      "name": "Scelio javanicus Roepke, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792414"
+    }
+,
+    {
+      "name": "Scelio planithorax Dodd, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792413"
+    }
+,
+    {
+      "name": "Scelio rugosulus Latreille, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219719"
+    }
+,
+    {
+      "name": "Styloteleia Kieffer, 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Styloteleia gibbosa Risbec, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713794"
+    }
+,
+    {
+      "name": "Tiphodytes Bradley, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Tiphodytes gerriphagus (Marchal, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219731"
+    }
+,
+    {
+      "name": "Limnodytes gerriphagus Marchal, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813043"
+    }
+,
+    {
+      "name": "Tiphodytes kaszabi Szabo, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392171"
+    }
+,
+    {
+      "name": "Triteleia Kieffer, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Triteleia peyerimhoffi (Kieffer, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897487"
+    }
+,
+    {
+      "name": "Calliscelio lugens (Kieffer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219707"
+    }
+,
+    {
+      "name": "Caloteleia peyerimhoffi Kieffer, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897488"
+    }
+
+  ]
+}

@@ -1,0 +1,22 @@
+
+{
+  "name": "geotrupinae",
+  "children": [
+
+    {
+      "name": "Geotrupinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "enoplotrupini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/geotrupidae/geotrupinae/enoplotrupini/"
+    }
+,
+    {
+      "name": "geotrupini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/geotrupidae/geotrupinae/geotrupini/"
+    }
+
+  ]
+}

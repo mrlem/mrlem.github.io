@@ -1,0 +1,52 @@
+
+{
+  "name": "halocyprida",
+  "children": [
+
+    {
+      "name": "Halocyprida Dana, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Cladocopina Sars, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "halocyprididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/halocyprida/halocyprididae/"
+    }
+,
+    {
+      "name": "Halocypridina Dana, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Halocypridoidea Dana, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "polycopidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/halocyprida/polycopidae/"
+    }
+,
+    {
+      "name": "Polycopoidea Sars, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "thaumatocyprididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/halocyprida/thaumatocyprididae/"
+    }
+,
+    {
+      "name": "Thaumatocypridoidea Müller, 1906",
+      "url": ""
+    }
+
+  ]
+}

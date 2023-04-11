@@ -1,0 +1,32 @@
+
+{
+  "name": "dynomenidae",
+  "children": [
+
+    {
+      "name": "Dynomenidae Ortmann, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "acanthodromiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/dynomenidae/acanthodromiinae/"
+    }
+,
+    {
+      "name": "dynomeninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/dynomenidae/dynomeninae/"
+    }
+,
+    {
+      "name": "metadynomeninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/dynomenidae/metadynomeninae/"
+    }
+,
+    {
+      "name": "paradynomeninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/dynomenidae/paradynomeninae/"
+    }
+
+  ]
+}

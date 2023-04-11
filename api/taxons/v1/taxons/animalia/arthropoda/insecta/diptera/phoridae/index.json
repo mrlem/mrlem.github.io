@@ -1,0 +1,2722 @@
+
+{
+  "name": "phoridae",
+  "children": [
+
+    {
+      "name": "Phoridae Curtis, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Aenigmatias Meinert, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Aenigmatias dorni (Enderlein, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217120"
+    }
+,
+    {
+      "name": "Oniscomyia dorni Enderlein, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945149"
+    }
+,
+    {
+      "name": "Psalidesma pyrenaicum Becker, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389419"
+    }
+,
+    {
+      "name": "Aenigmatias lubbockii (Verrall, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257260"
+    }
+,
+    {
+      "name": "Aenigmatias blattoides Meinert, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945151"
+    }
+,
+    {
+      "name": "Platyphora lubbockii Verrall, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945150"
+    }
+,
+    {
+      "name": "Anevrina Lioy, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Anevrina thoracica (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23906"
+    }
+,
+    {
+      "name": "Trineura thoracica Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945152"
+    }
+,
+    {
+      "name": "Anevrina unispinosa (Zetterstedt, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257265"
+    }
+,
+    {
+      "name": "Trineura unispinosa Zetterstedt, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945154"
+    }
+,
+    {
+      "name": "Anevrina urbana (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23907"
+    }
+,
+    {
+      "name": "Phora urbana Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945153"
+    }
+,
+    {
+      "name": "Apodicrania Borgmeier, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Apodicrania molinai Borgmeier, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752656"
+    }
+,
+    {
+      "name": "Beckerina Malloch, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Beckerina umbrimargo (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23746"
+    }
+,
+    {
+      "name": "Phora umbrimargo Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945155"
+    }
+,
+    {
+      "name": "Borophaga Enderlein, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Borophaga femorata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217121"
+    }
+,
+    {
+      "name": "Borophaga (Borophaga) femorata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23911"
+    }
+,
+    {
+      "name": "Phora femorata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945156"
+    }
+,
+    {
+      "name": "Borophaga incrassata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257273"
+    }
+,
+    {
+      "name": "Borophaga (Peromitra) incrassata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24142"
+    }
+,
+    {
+      "name": "Phora incrassata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945157"
+    }
+,
+    {
+      "name": "Caledophora Ament & Brown, 2017",
+      "url": ""
+    }
+,
+    {
+      "name": "Caledophora irwini Ament & Brown, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893963"
+    }
+,
+    {
+      "name": "Caledophora webbi Ament & Brown, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893964"
+    }
+,
+    {
+      "name": "Chaetopleurophora Schmitz, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetopleurophora bohemanni (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24144"
+    }
+,
+    {
+      "name": "Phora bohemanni Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945158"
+    }
+,
+    {
+      "name": "Chaetopleurophora erythronota (Strobl, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24145"
+    }
+,
+    {
+      "name": "Phora erythronota Strobl, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945159"
+    }
+,
+    {
+      "name": "Conicera Meigen, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Conicera dauci (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217122"
+    }
+,
+    {
+      "name": "Conicera atra Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945161"
+    }
+,
+    {
+      "name": "Conicera (Conicera) dauci (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24150"
+    }
+,
+    {
+      "name": "Phora dauci Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945160"
+    }
+,
+    {
+      "name": "Conicera floricola Schmitz, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217123"
+    }
+,
+    {
+      "name": "Conicera similis (Haliday, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217124"
+    }
+,
+    {
+      "name": "Conicera (Tritoconicera) similis (Haliday, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24154"
+    }
+,
+    {
+      "name": "Conicera pauxilla Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009434"
+    }
+,
+    {
+      "name": "Conicera sensilipes Schmitz, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389420"
+    }
+,
+    {
+      "name": "Phora similis Haliday, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945162"
+    }
+,
+    {
+      "name": "Conicera tarsalis Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257286"
+    }
+,
+    {
+      "name": "Conicera tibialis Schmitz, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217125"
+    }
+,
+    {
+      "name": "Conicera sobria Schmitz, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389421"
+    }
+,
+    {
+      "name": "Diplonevra Lioy, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Diplonevra abbreviata (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217126"
+    }
+,
+    {
+      "name": "Phora abbreviata von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945163"
+    }
+,
+    {
+      "name": "Diplonevra concinna (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217127"
+    }
+,
+    {
+      "name": "Diplonevra amplicronis Schmitz, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945165"
+    }
+,
+    {
+      "name": "Diplonevra (Diplonevra) concinna (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24170"
+    }
+,
+    {
+      "name": "Diplonevra (Diplonevra) concinna (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24159"
+    }
+,
+    {
+      "name": "Phora concinna Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945164"
+    }
+,
+    {
+      "name": "Diplonevra crassicornis (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257290"
+    }
+,
+    {
+      "name": "Diplonevra (Diplonevra) crassicornis (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24160"
+    }
+,
+    {
+      "name": "Phora crassicornis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945166"
+    }
+,
+    {
+      "name": "Diplonevra florea (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24162"
+    }
+,
+    {
+      "name": "Bibio florea Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914575"
+    }
+,
+    {
+      "name": "Diplonevra florescens (Turton, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217128"
+    }
+,
+    {
+      "name": "Bibio florescens Turton, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945176"
+    }
+,
+    {
+      "name": "Diplonevra funebris (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217129"
+    }
+,
+    {
+      "name": "Diplonevra (Diplonevra) funebris (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24165"
+    }
+,
+    {
+      "name": "Phora cimbicis Aldrich, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945168"
+    }
+,
+    {
+      "name": "Phora funebris Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945167"
+    }
+,
+    {
+      "name": "Phora pseudoconinna Strobl, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945169"
+    }
+,
+    {
+      "name": "Diplonevra nitidula (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217130"
+    }
+,
+    {
+      "name": "Diplonevra (Diplonevra) nitidula (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24166"
+    }
+,
+    {
+      "name": "Phora concinna Wood, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945171"
+    }
+,
+    {
+      "name": "Phora distincta Egger, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945172"
+    }
+,
+    {
+      "name": "Phora gymnophorina Zetterstedt, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945173"
+    }
+,
+    {
+      "name": "Phora luctuosa Meigen, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945174"
+    }
+,
+    {
+      "name": "Phora nitidula Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945170"
+    }
+,
+    {
+      "name": "Diplonevra pilosella (Schmitz, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217131"
+    }
+,
+    {
+      "name": "Diploneura pilosella Schmitz, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945177"
+    }
+,
+    {
+      "name": "Dohrniphora Dahl, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Dohrniphora acanthiventris Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959513"
+    }
+,
+    {
+      "name": "Dohrniphora alvarengai Prado, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959518"
+    }
+,
+    {
+      "name": "Dohrniphora anatona Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959531"
+    }
+,
+    {
+      "name": "Dohrniphora anteroventralis Borgmeier, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959520"
+    }
+,
+    {
+      "name": "Dohrniphora ardisia Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959534"
+    }
+,
+    {
+      "name": "Dohrniphora berezovskiyi Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959545"
+    }
+,
+    {
+      "name": "Dohrniphora bicavatura Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959543"
+    }
+,
+    {
+      "name": "Dohrniphora buscki Malloch, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959548"
+    }
+,
+    {
+      "name": "Dohrniphora venusta buscki Malloch, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959550"
+    }
+,
+    {
+      "name": "Dohrniphora cerdai Brown & Kung, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959521"
+    }
+,
+    {
+      "name": "Dohrniphora cognata Borgmeier, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959542"
+    }
+,
+    {
+      "name": "Dohrniphora continua Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959546"
+    }
+,
+    {
+      "name": "Dohrniphora cornuta (Bigot in de la Sagra, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24173"
+    }
+,
+    {
+      "name": "Phora cornuta Bigot in de la Sagra, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945178"
+    }
+,
+    {
+      "name": "Phora venusta Coquillett, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945179"
+    }
+,
+    {
+      "name": "Dohrniphora dispar (Enderlein, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959535"
+    }
+,
+    {
+      "name": "Phora dispar Enderlein, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959536"
+    }
+,
+    {
+      "name": "Dohrniphora divaricata (Aldrich, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959537"
+    }
+,
+    {
+      "name": "Phora divaricata Aldrich, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959538"
+    }
+,
+    {
+      "name": "Dohrniphora ecitophila Borgmeier, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959552"
+    }
+,
+    {
+      "name": "Dohrniphora erugata Brown & Kung, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959522"
+    }
+,
+    {
+      "name": "Dohrniphora ignobilis Borgmeier, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959533"
+    }
+,
+    {
+      "name": "Dohrniphora megasoma Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959515"
+    }
+,
+    {
+      "name": "Dohrniphora mixtura Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959539"
+    }
+,
+    {
+      "name": "Dohrniphora oyapockensis Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959529"
+    }
+,
+    {
+      "name": "Dohrniphora paraguayana (Brues, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959523"
+    }
+,
+    {
+      "name": "Phora paraguayana Brues, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959524"
+    }
+,
+    {
+      "name": "Dohrniphora patawaensis Brown & Kung, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959525"
+    }
+,
+    {
+      "name": "Dohrniphora polleti Brown & Kung, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959526"
+    }
+,
+    {
+      "name": "Dohrniphora praedator Borgmeier & Prado, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959544"
+    }
+,
+    {
+      "name": "Dohrniphora procera Borgmeier, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959553"
+    }
+,
+    {
+      "name": "Dohrniphora smithi Brown & Kung, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959516"
+    }
+,
+    {
+      "name": "Dohrniphora spinulicava Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959541"
+    }
+,
+    {
+      "name": "Dohrniphora statheusa Brown & Kung, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959530"
+    }
+,
+    {
+      "name": "Dohrniphora sulcatula Borgmeier, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959547"
+    }
+,
+    {
+      "name": "Dohrniphora transversa Brown & Kung, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959527"
+    }
+,
+    {
+      "name": "Dohrniphora ventralis Borgmeier & Prado, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959528"
+    }
+,
+    {
+      "name": "Gymnophora Macquart, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Gymnophora arcuata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217132"
+    }
+,
+    {
+      "name": "Gymnophora (Gymnophora) arcuata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23749"
+    }
+,
+    {
+      "name": "Phora arcuata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945180"
+    }
+,
+    {
+      "name": "Gymnophora integralis Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217133"
+    }
+,
+    {
+      "name": "Gymnophora quartomollis Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257308"
+    }
+,
+    {
+      "name": "Gymnophora (Gymnophora) quartomollis Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23751"
+    }
+,
+    {
+      "name": "Gymnoptera Lioy, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Gymnoptera longicostalis Schmitz, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24175"
+    }
+,
+    {
+      "name": "Gymnoptera vitripennis (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24176"
+    }
+,
+    {
+      "name": "Phora vitripennis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945181"
+    }
+,
+    {
+      "name": "Hypocera Lioy, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypocera mordellaria (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24179"
+    }
+,
+    {
+      "name": "Trineura mordellaria Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945182"
+    }
+,
+    {
+      "name": "Megaselia Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Megaselia aculeata (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257314"
+    }
+,
+    {
+      "name": "Aphiochaeta aculeata Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945183"
+    }
+,
+    {
+      "name": "Megaselia aequalis (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217134"
+    }
+,
+    {
+      "name": "Aphiochaeta coaequalis Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945185"
+    }
+,
+    {
+      "name": "Aphiochaeta nasoni Malloch, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945186"
+    }
+,
+    {
+      "name": "Aphiochaeta subciliata Malloch, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945187"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) aequalis (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23757"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) nasoni (Malloch, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23788"
+    }
+,
+    {
+      "name": "Megaselia nasoni (Malloch, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217176"
+    }
+,
+    {
+      "name": "Phora aequalis Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945184"
+    }
+,
+    {
+      "name": "Megaselia affinis (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217135"
+    }
+,
+    {
+      "name": "Aphiochaeta proxima Lundbeck, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945189"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) affinis (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23760"
+    }
+,
+    {
+      "name": "Phora affinis Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945188"
+    }
+,
+    {
+      "name": "Megaselia albicaudata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217136"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) albicaudata (Wood, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23820"
+    }
+,
+    {
+      "name": "Phora albicaudata Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945190"
+    }
+,
+    {
+      "name": "Megaselia albocingulata (Strobl, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217137"
+    }
+,
+    {
+      "name": "Phora albocingulata Strobl, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945191"
+    }
+,
+    {
+      "name": "Megaselia alticolella (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217138"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) alticolella (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23763"
+    }
+,
+    {
+      "name": "Phora alticolella Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945192"
+    }
+,
+    {
+      "name": "Megaselia altifrons (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217139"
+    }
+,
+    {
+      "name": "Phora altifrons Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945193"
+    }
+,
+    {
+      "name": "Megaselia analis (Lundbeck, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257320"
+    }
+,
+    {
+      "name": "Aphiochaeta analis Lundbeck, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945194"
+    }
+,
+    {
+      "name": "Megaselia annulipes (Schmitz, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257325"
+    }
+,
+    {
+      "name": "Aphiochaeta annulipes Schmitz, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945195"
+    }
+,
+    {
+      "name": "Megaselia basispinata (Lundbeck, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217140"
+    }
+,
+    {
+      "name": "Aphiochaeta basispinata Lundbeck, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945196"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) basispinata (Lundbeck, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23764"
+    }
+,
+    {
+      "name": "Megaselia berndseni (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217141"
+    }
+,
+    {
+      "name": "Aphiochaeta berndseni Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945197"
+    }
+,
+    {
+      "name": "Megaselia undulans Schmitz, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389422"
+    }
+,
+    {
+      "name": "Megaselia betrugspinata Disney, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963192"
+    }
+,
+    {
+      "name": "Megaselia bovista (Gimmerthal, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217142"
+    }
+,
+    {
+      "name": "Aphiochaeta chilensis Silva Figueroa, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945199"
+    }
+,
+    {
+      "name": "Phora bovista Gimmerthal, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945198"
+    }
+,
+    {
+      "name": "Megaselia brevicostalis (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217143"
+    }
+,
+    {
+      "name": "Aphiochaeta fuscopedunculata Malloch, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945201"
+    }
+,
+    {
+      "name": "Megaselia frequens Borgmeier, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945202"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) brevicostalis (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23823"
+    }
+,
+    {
+      "name": "Phora brevicostalis Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945200"
+    }
+,
+    {
+      "name": "Megaselia brevissima (Schmitz, 1924)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217144"
+    }
+,
+    {
+      "name": "Aphiochaeta brevissima Schmitz, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945203"
+    }
+,
+    {
+      "name": "Megaselia breviterga (Lundbeck, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217145"
+    }
+,
+    {
+      "name": "Aphiochaeta breviterga Lundbeck, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945205"
+    }
+,
+    {
+      "name": "Aphiochaeta similata Lundbeck, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945204"
+    }
+,
+    {
+      "name": "Megaselia brunneipennis A. Costa, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257354"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) brunneipennis (Costa, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23827"
+    }
+,
+    {
+      "name": "Megaselia caledoniae Borgmeier, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438278"
+    }
+,
+    {
+      "name": "Megaselia ciliata (Zetterstedt, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217146"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) ciliata (Zetterstedt, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23766"
+    }
+,
+    {
+      "name": "Trineura ciliata Zetterstedt, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945206"
+    }
+,
+    {
+      "name": "Megaselia cinerea Schmitz, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257360"
+    }
+,
+    {
+      "name": "Megaselia cirriventris Schmitz, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217147"
+    }
+,
+    {
+      "name": "Megaselia consetigera (Schmitz, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217148"
+    }
+,
+    {
+      "name": "Aphiochaeta consetigera Schmitz, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945207"
+    }
+,
+    {
+      "name": "Megaselia costalis (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257379"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) costalis (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23829"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) costalis (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23831"
+    }
+,
+    {
+      "name": "Phora costalis von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945208"
+    }
+,
+    {
+      "name": "Megaselia crinita Schmitz, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217149"
+    }
+,
+    {
+      "name": "Megaselia deltofemoralis Disney, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726985"
+    }
+,
+    {
+      "name": "Megaselia densior Schmitz, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217150"
+    }
+,
+    {
+      "name": "Megaselia coulsoni Disney, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389423"
+    }
+,
+    {
+      "name": "Megaselia diversa (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217151"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) diversa (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23772"
+    }
+,
+    {
+      "name": "Megaselia pollex Schmitz, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389425"
+    }
+,
+    {
+      "name": "Megaselia sordescens Schmitz, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389424"
+    }
+,
+    {
+      "name": "Phora diversa Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945209"
+    }
+,
+    {
+      "name": "Megaselia drakei Disney, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959703"
+    }
+,
+    {
+      "name": "Megaselia elongata (Wood, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217152"
+    }
+,
+    {
+      "name": "Aphiochaeta elongata Wood, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945210"
+    }
+,
+    {
+      "name": "Megaselia emarginata (Wood, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959704"
+    }
+,
+    {
+      "name": "Phora emarginata Wood, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959706"
+    }
+,
+    {
+      "name": "Megaselia errata (Wood, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217153"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) errata ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23833"
+    }
+,
+    {
+      "name": "Phora errata Wood, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945212"
+    }
+,
+    {
+      "name": "Megaselia fenestralis (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257407"
+    }
+,
+    {
+      "name": "Aphiochaeta fenestralis Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945213"
+    }
+,
+    {
+      "name": "Megaselia flava (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217154"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) flava (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23834"
+    }
+,
+    {
+      "name": "Trineura flava Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945214"
+    }
+,
+    {
+      "name": "Megaselia flavescens (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217155"
+    }
+,
+    {
+      "name": "Phora flavescens Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945215"
+    }
+,
+    {
+      "name": "Megaselia flavicans Schmitz, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217156"
+    }
+,
+    {
+      "name": "Megaselia frameata Schmitz, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257414"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) frameata Schmitz, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23775"
+    }
+,
+    {
+      "name": "Megaselia fuscinula (Schmitz, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217157"
+    }
+,
+    {
+      "name": "Aphiochaeta fuscinula Schmitz, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945216"
+    }
+,
+    {
+      "name": "Megaselia halterata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217159"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) halterata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23841"
+    }
+,
+    {
+      "name": "Megaselia parumlevata Schmitz, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389428"
+    }
+,
+    {
+      "name": "Phora halterata Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945218"
+    }
+,
+    {
+      "name": "Megaselia haranti Delage & Lauraire, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217160"
+    }
+,
+    {
+      "name": "Megaselia hartfordensis Disney, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257437"
+    }
+,
+    {
+      "name": "Megaselia hirticrus (Schmitz, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217161"
+    }
+,
+    {
+      "name": "Aphiochaeta hirticrus Schmitz, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945219"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) hirticrus (Schmitz, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23780"
+    }
+,
+    {
+      "name": "Megaselia hirtiventris (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217162"
+    }
+,
+    {
+      "name": "Phora hirtiventris Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945220"
+    }
+,
+    {
+      "name": "Megaselia ignobilis (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257452"
+    }
+,
+    {
+      "name": "Aphiochaeta ignobilis Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945221"
+    }
+,
+    {
+      "name": "Megaselia involuta (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217163"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) involuta (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23781"
+    }
+,
+    {
+      "name": "Phora involuta Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945222"
+    }
+,
+    {
+      "name": "Megaselia krizelji Delage & Lauraire, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217164"
+    }
+,
+    {
+      "name": "Megaselia lata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217165"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) lata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23845"
+    }
+,
+    {
+      "name": "Phora lata Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945223"
+    }
+,
+    {
+      "name": "Megaselia latifrons (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217166"
+    }
+,
+    {
+      "name": "Megaselia propior Colyer, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389429"
+    }
+,
+    {
+      "name": "Phora latifrons Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945224"
+    }
+,
+    {
+      "name": "Megaselia latipalpis (Schmitz, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217167"
+    }
+,
+    {
+      "name": "Aphiochaeta latipalpis Schmitz, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945225"
+    }
+,
+    {
+      "name": "Megaselia lavoursensis Disney, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726987"
+    }
+,
+    {
+      "name": "Megaselia longifurca Lundbeck, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257487"
+    }
+,
+    {
+      "name": "Megaselia longipalpis (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217168"
+    }
+,
+    {
+      "name": "Phora longipalpis Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945227"
+    }
+,
+    {
+      "name": "Megaselia lutea (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217169"
+    }
+,
+    {
+      "name": "Aphiochaeta straminea Malloch, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945229"
+    }
+,
+    {
+      "name": "Aphiochaeta straminipes Malloch, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945230"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) lutea (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23849"
+    }
+,
+    {
+      "name": "Phora lutea Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945228"
+    }
+,
+    {
+      "name": "Megaselia mallochi (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217170"
+    }
+,
+    {
+      "name": "Phora mallochi Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945231"
+    }
+,
+    {
+      "name": "Megaselia manicata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217171"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) manicata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23784"
+    }
+,
+    {
+      "name": "Phora manicata Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945232"
+    }
+,
+    {
+      "name": "Megaselia marekdurskii Disney, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963193"
+    }
+,
+    {
+      "name": "Megaselia marina Schmitz, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217172"
+    }
+,
+    {
+      "name": "Megaselia meigeni (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217173"
+    }
+,
+    {
+      "name": "Phora meigeni Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945233"
+    }
+,
+    {
+      "name": "Megaselia melanocephala (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257502"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) melanocephala (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23854"
+    }
+,
+    {
+      "name": "Phora melanocephala von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945235"
+    }
+,
+    {
+      "name": "Megaselia miki Schmitz, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217174"
+    }
+,
+    {
+      "name": "Megaselia minor (Zetterstedt, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257505"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) minor (Zetterstedt, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23855"
+    }
+,
+    {
+      "name": "Trineura minor Zetterstedt, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945236"
+    }
+,
+    {
+      "name": "Megaselia minuta (Aldrich, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217175"
+    }
+,
+    {
+      "name": "Megaselia luminosa Schmitz, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389430"
+    }
+,
+    {
+      "name": "Phora minuta Aldrich, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945237"
+    }
+,
+    {
+      "name": "Megaselia museoconfluentis Disney, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963194"
+    }
+,
+    {
+      "name": "Megaselia nigra (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217177"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) nigra (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23858"
+    }
+,
+    {
+      "name": "Phora nigra Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945238"
+    }
+,
+    {
+      "name": "Megaselia nigriceps (Loew, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217178"
+    }
+,
+    {
+      "name": "Aphiochaeta flavipalpis Malloch, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945241"
+    }
+,
+    {
+      "name": "Aphiochaeta submanicata Malloch, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945242"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) nigriceps (Loew, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23790"
+    }
+,
+    {
+      "name": "Megaselia tulliolana Schmitz, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945243"
+    }
+,
+    {
+      "name": "Phora nigriceps Loew, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945239"
+    }
+,
+    {
+      "name": "Phora projecta Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945244"
+    }
+,
+    {
+      "name": "Megaselia oxybelorum Schmitz, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217179"
+    }
+,
+    {
+      "name": "Megaselia pallidizona (Lundbeck, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217180"
+    }
+,
+    {
+      "name": "Aphiochaeta pallidizona Lundbeck, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945245"
+    }
+,
+    {
+      "name": "Megaselia paludosa (Wood, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217181"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) paludosa (Wood, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23794"
+    }
+,
+    {
+      "name": "Phora paludosa Wood, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945246"
+    }
+,
+    {
+      "name": "Megaselia pedatella (Schmitz, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217182"
+    }
+,
+    {
+      "name": "Aphiochaeta pedatella Schmitz, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945247"
+    }
+,
+    {
+      "name": "Megselia rara Colyer, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389431"
+    }
+,
+    {
+      "name": "Megaselia peyresquensis Delage in Schmitz & Delage, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217183"
+    }
+,
+    {
+      "name": "Megaselia picta (Lehmann, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217184"
+    }
+,
+    {
+      "name": "Aphiochaeta atlantica Brues, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945249"
+    }
+,
+    {
+      "name": "Megaselia calianensis Brues, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945250"
+    }
+,
+    {
+      "name": "Megaselia equivocata Brues, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945251"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) picta (Lehmann, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23864"
+    }
+,
+    {
+      "name": "Megaselia infuscata Bridarolli, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945252"
+    }
+,
+    {
+      "name": "Phora picta Lehmann, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945248"
+    }
+,
+    {
+      "name": "Trineura interrupta Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945253"
+    }
+,
+    {
+      "name": "Trineura subquadrifasciata Zetterstedt, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945254"
+    }
+,
+    {
+      "name": "Megaselia pleuralis (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217185"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) pleuralis (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23796"
+    }
+,
+    {
+      "name": "Phora pleuralis Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945255"
+    }
+,
+    {
+      "name": "Megaselia plurispinulosa (Zetterstedt, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217186"
+    }
+,
+    {
+      "name": "Aphiochaeta submeigeni Wood, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945258"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) plurispinulosa (Zetterstedt, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23866"
+    }
+,
+    {
+      "name": "Megaselia nigrans Schmitz, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945259"
+    }
+,
+    {
+      "name": "Trineura plurispinulosa Zetterstedt, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945257"
+    }
+,
+    {
+      "name": "Megaselia praeacuta (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217187"
+    }
+,
+    {
+      "name": "Aphiochaeta praeacuta Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945260"
+    }
+,
+    {
+      "name": "Megaselia arietina Disney, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389432"
+    }
+,
+    {
+      "name": "Megaselia prodroma (Lundbeck, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217188"
+    }
+,
+    {
+      "name": "Aphiochaeta prodroma Lundbeck, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945261"
+    }
+,
+    {
+      "name": "Megaselia propinqua (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217189"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) propinqua (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23869"
+    }
+,
+    {
+      "name": "Phora propinqua Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945262"
+    }
+,
+    {
+      "name": "Megaselia pseudogiraudii (Schmitz, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217190"
+    }
+,
+    {
+      "name": "Aphiochaeta pseudogiraudii Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945263"
+    }
+,
+    {
+      "name": "Megaselia pulicaria (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217191"
+    }
+,
+    {
+      "name": "Aphiochaeta longifurca Lundbeck, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945265"
+    }
+,
+    {
+      "name": "Aphiochaeta peregrina Malloch, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945266"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) pulicaria (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23870"
+    }
+,
+    {
+      "name": "Megaselia sinuata Schmitz, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389433"
+    }
+,
+    {
+      "name": "Phora monochaeta Strobl, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945267"
+    }
+,
+    {
+      "name": "Trineura pulicaria Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945264"
+    }
+,
+    {
+      "name": "Megaselia pumila (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217192"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) pumila (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23800"
+    }
+,
+    {
+      "name": "Phora pumila Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945268"
+    }
+,
+    {
+      "name": "Megaselia pusilla (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217193"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) pusilla (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23803"
+    }
+,
+    {
+      "name": "Phora clavipes Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945270"
+    }
+,
+    {
+      "name": "Phora pusilla Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945269"
+    }
+,
+    {
+      "name": "Megaselia putescavi Disney, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726989"
+    }
+,
+    {
+      "name": "Megaselia pygmaea (Zetterstedt, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217194"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) pygmaea (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23875"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) pygmaea (Zetterstedt, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23872"
+    }
+,
+    {
+      "name": "Phora brachyneura Egger, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945273"
+    }
+,
+    {
+      "name": "Trineura pygmaea Zetterstedt, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945272"
+    }
+,
+    {
+      "name": "Megaselia rubella (Schmitz, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217195"
+    }
+,
+    {
+      "name": "Aphiochaeta rubella Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945274"
+    }
+,
+    {
+      "name": "Megaselia ruficornis (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217196"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) ruficornis (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23876"
+    }
+,
+    {
+      "name": "Phora ruficornis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945271"
+    }
+,
+    {
+      "name": "Megaselia rufipes (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217197"
+    }
+,
+    {
+      "name": "Lioyella juanfernandezica Enderlein, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945276"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) rufipes (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23877"
+    }
+,
+    {
+      "name": "Phora coleopterorum Brischke, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945277"
+    }
+,
+    {
+      "name": "Phora heracleellae Bouché, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945278"
+    }
+,
+    {
+      "name": "Phora omnivora Hudson, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945279"
+    }
+,
+    {
+      "name": "Phora pallipes Latreille, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945280"
+    }
+,
+    {
+      "name": "Phora semiflava Hartig, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945281"
+    }
+,
+    {
+      "name": "Phora sphingicides Bouché, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945282"
+    }
+,
+    {
+      "name": "Trineura annulata Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945283"
+    }
+,
+    {
+      "name": "Trineura rufipes Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945275"
+    }
+,
+    {
+      "name": "Trineura vulgaris Fallen, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945284"
+    }
+,
+    {
+      "name": "Megaselia sabreensis Disney & Withers, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011354"
+    }
+,
+    {
+      "name": "Megaselia scalaris (Loew, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257565"
+    }
+,
+    {
+      "name": "Aphiochaeta banski Brues, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945286"
+    }
+,
+    {
+      "name": "Aphiochaeta circumsetosa Meijere, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945287"
+    }
+,
+    {
+      "name": "Aphiochaeta ferruginea Brunetti, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945288"
+    }
+,
+    {
+      "name": "Aphiochaeta fissa Becker, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945289"
+    }
+,
+    {
+      "name": "Aphiochaeta repicta Schmitz, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945290"
+    }
+,
+    {
+      "name": "Aphiochaeta xanthina Speiser, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945291"
+    }
+,
+    {
+      "name": "Lioyella plusiivorax Enderlein, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945292"
+    }
+,
+    {
+      "name": "Megaselia forticapilla Beyer, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945293"
+    }
+,
+    {
+      "name": "Phora scalaris Loew, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945285"
+    }
+,
+    {
+      "name": "Megaselia scutellaris (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217198"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) scutellaris (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23884"
+    }
+,
+    {
+      "name": "Phora luteicornis Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945295"
+    }
+,
+    {
+      "name": "Phora scutellaris Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945294"
+    }
+,
+    {
+      "name": "Megaselia serrata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217199"
+    }
+,
+    {
+      "name": "Phora serrata Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945296"
+    }
+,
+    {
+      "name": "Megaselia shawi Disney, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726990"
+    }
+,
+    {
+      "name": "Megaselia siffointei Disney, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963195"
+    }
+,
+    {
+      "name": "Megaselia similipropinqua Disney & Siffointe, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963196"
+    }
+,
+    {
+      "name": "Megaselia sordida (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217200"
+    }
+,
+    {
+      "name": "Aphiochaeta alaskensis Malloch, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945298"
+    }
+,
+    {
+      "name": "Aphiochaeta scaura Schmitz, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945299"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) sordida (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23817"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) sordida (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23808"
+    }
+,
+    {
+      "name": "Megaselia semiscaura Schmitz, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945300"
+    }
+,
+    {
+      "name": "Trineura carbonaria Zetterstedt, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945301"
+    }
+,
+    {
+      "name": "Trineura sordida Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945297"
+    }
+,
+    {
+      "name": "Megaselia spinicincta (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217201"
+    }
+,
+    {
+      "name": "Phora spinicincta Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945302"
+    }
+,
+    {
+      "name": "Megaselia spiracularis Schmitz, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217202"
+    }
+,
+    {
+      "name": "Megaselia stichata (Lundbeck, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217203"
+    }
+,
+    {
+      "name": "Aphiochaeta stichata Lundbeck, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945303"
+    }
+,
+    {
+      "name": "Megaselia subcarpalis (Lundbeck, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257584"
+    }
+,
+    {
+      "name": "Aphiochaeta subcarpalis Lundbeck, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945304"
+    }
+,
+    {
+      "name": "Megaselia subnudipennis (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217204"
+    }
+,
+    {
+      "name": "Aphiochaeta subnudipennis Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945305"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) subnudipennis (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23886"
+    }
+,
+    {
+      "name": "Megaselia subpleuralis (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217205"
+    }
+,
+    {
+      "name": "Phora subpleuralis Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945306"
+    }
+,
+    {
+      "name": "Megaselia subtumida (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217206"
+    }
+,
+    {
+      "name": "Phora subtumida Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945307"
+    }
+,
+    {
+      "name": "Megaselia sulphuripes (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217207"
+    }
+,
+    {
+      "name": "Aphiochaeta fuscohalterata Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945310"
+    }
+,
+    {
+      "name": "Aphiochaeta ledburiensis Brues, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945311"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) sulphuripes (Lundbeck, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23851"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) sulphuripes (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23887"
+    }
+,
+    {
+      "name": "Phora sulphuripes Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945309"
+    }
+,
+    {
+      "name": "Megaselia superciliata (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217208"
+    }
+,
+    {
+      "name": "Phora superciliata Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945312"
+    }
+,
+    {
+      "name": "Megaselia sylvatica (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217209"
+    }
+,
+    {
+      "name": "Phora sylvatica Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945313"
+    }
+,
+    {
+      "name": "Megaselia tama (Schmitz, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217210"
+    }
+,
+    {
+      "name": "Aphiochaeta tama Schmitz, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945314"
+    }
+,
+    {
+      "name": "Megaselia tarsalis (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217211"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) tarsalis (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23890"
+    }
+,
+    {
+      "name": "Phora tarsalis Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945315"
+    }
+,
+    {
+      "name": "Megaselia tumida (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217212"
+    }
+,
+    {
+      "name": "Aphiochaeta setifer Lundbeck, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389434"
+    }
+,
+    {
+      "name": "Megaselia (Megaselia) tumida (Wood, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23892"
+    }
+,
+    {
+      "name": "Phora tumida Wood, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945316"
+    }
+,
+    {
+      "name": "Megaselia unicolor (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217213"
+    }
+,
+    {
+      "name": "Aphiochaeta unicolor Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945317"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) unicolor (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23811"
+    }
+,
+    {
+      "name": "Megaselia variana Schmitz, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217214"
+    }
+,
+    {
+      "name": "Megaselia (Apiochaeta) variana Schmitz, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23812"
+    }
+,
+    {
+      "name": "Megaselia verralli (Wood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217215"
+    }
+,
+    {
+      "name": "Phora verralli Wood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945318"
+    }
+,
+    {
+      "name": "Megaselia xanthozona (Strobl, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217216"
+    }
+,
+    {
+      "name": "Phora xanthozona Strobl, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945319"
+    }
+,
+    {
+      "name": "Melaloncha Brues, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Melaloncha centroguiana Braet, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759960"
+    }
+,
+    {
+      "name": "Menozziola Schmitz, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Menozziola schmitzi (Menozzi, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217217"
+    }
+,
+    {
+      "name": "Apocephalus schmitzi Menozzi, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945320"
+    }
+,
+    {
+      "name": "Metopina Macquart, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Metopina galeata (Haliday, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23897"
+    }
+,
+    {
+      "name": "Metopina inaequalis Schmitz, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945322"
+    }
+,
+    {
+      "name": "Phora galeata Haliday, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945321"
+    }
+,
+    {
+      "name": "Metopina heselhausi Schmitz, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217218"
+    }
+,
+    {
+      "name": "Metopina oligoneura (Mik, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257634"
+    }
+,
+    {
+      "name": "Phora oligoneura Mik, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945323"
+    }
+,
+    {
+      "name": "Metopina perpusilla (Six, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217219"
+    }
+,
+    {
+      "name": "Leptophora perpusilla Six, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945324"
+    }
+,
+    {
+      "name": "Metopina pileata Schmitz, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967698"
+    }
+,
+    {
+      "name": "Microselia Schmitz, 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "Microselia rivierae Schmitz, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217220"
+    }
+,
+    {
+      "name": "Microselia southwoodi Disney, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217221"
+    }
+,
+    {
+      "name": "Myriophora Brown, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Myriophora angustifascia Hash & Brown, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821592"
+    }
+,
+    {
+      "name": "Myriophora luteizona (Borgmeier, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821596"
+    }
+,
+    {
+      "name": "Aphiochaeta luteizona Borgmeier, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821597"
+    }
+,
+    {
+      "name": "Megaselia luteizona (Borgmeier, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821599"
+    }
+,
+    {
+      "name": "Plastophora luteizona (Borgmeier, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821598"
+    }
+,
+    {
+      "name": "Myriophora parva Hash & Brown, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821600"
+    }
+,
+    {
+      "name": "Myriophora porrasae Hash & Brown, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821601"
+    }
+,
+    {
+      "name": "Myriophora porrecta Hash & Brown, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821602"
+    }
+,
+    {
+      "name": "Myriophora reminatis Hash & Brown, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821603"
+    }
+,
+    {
+      "name": "Phalacrotophora Enderlein, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "Phalacrotophora berolinensis Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217222"
+    }
+,
+    {
+      "name": "Phalacrotophora (Omapanta) berolinensis Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23901"
+    }
+,
+    {
+      "name": "Phalacrotophora delageae Disney, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217223"
+    }
+,
+    {
+      "name": "Phalacrotophora fasciata (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217224"
+    }
+,
+    {
+      "name": "Phalacrotophora (Omapanta) fasciata (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/23902"
+    }
+,
+    {
+      "name": "Trineura fasciata Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945402"
+    }
+,
+    {
+      "name": "Phalacrotophora quadrimaculata Schmitz, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853101"
+    }
+,
+    {
+      "name": "Phora Latreille, 1796",
+      "url": ""
+    }
+,
+    {
+      "name": "Phora atra (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217225"
+    }
+,
+    {
+      "name": "Phora greenwoodi Disney, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389435"
+    }
+,
+    {
+      "name": "Trineura atra Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945403"
+    }
+,
+    {
+      "name": "Phora dubia (Zetterstedt, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24182"
+    }
+,
+    {
+      "name": "Trineura dubia Zetterstedt, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945404"
+    }
+,
+    {
+      "name": "Phora edentata Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24184"
+    }
+,
+    {
+      "name": "Phora holosericea Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24185"
+    }
+,
+    {
+      "name": "Phora limpida Schmitz, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217226"
+    }
+,
+    {
+      "name": "Phora obscura (Zetterstedt, 1848)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24186"
+    }
+,
+    {
+      "name": "Trineura obscura Zetterstedt, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945405"
+    }
+,
+    {
+      "name": "Phora pubipes Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24187"
+    }
+,
+    {
+      "name": "Phora stictica Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24188"
+    }
+,
+    {
+      "name": "Phora tincta Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24189"
+    }
+,
+    {
+      "name": "Phora michali Disney, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/389436"
+    }
+,
+    {
+      "name": "Phora velutina Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24190"
+    }
+,
+    {
+      "name": "Plectanocnema Schmitz, 1926",
+      "url": ""
+    }
+,
+    {
+      "name": "Plectanocnema nudipes (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257660"
+    }
+,
+    {
+      "name": "Phora nudipes Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945406"
+    }
+,
+    {
+      "name": "Puliciphora Dahl, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Puliciphora koghiensis Disney, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911820"
+    }
+,
+    {
+      "name": "Puliciphora rufipes Silva Figueroa, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217229"
+    }
+,
+    {
+      "name": "Puliciphora viklundi Disney, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911821"
+    }
+,
+    {
+      "name": "Spiniphora Malloch, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Spiniphora bergenstammi (Mik, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24192"
+    }
+,
+    {
+      "name": "Phora bergenstammi Mik, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945407"
+    }
+,
+    {
+      "name": "Spiniphora excisa (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257668"
+    }
+,
+    {
+      "name": "Phora comstocki Aldrich, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945409"
+    }
+,
+    {
+      "name": "Phora excisa Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945408"
+    }
+,
+    {
+      "name": "Spiniphora maculata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24195"
+    }
+,
+    {
+      "name": "Phora maculata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945410"
+    }
+,
+    {
+      "name": "Triphleba Rondani, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Triphleba aequalis (Schmitz, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959707"
+    }
+,
+    {
+      "name": "Trupheoneura aequalis Schmitz, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959708"
+    }
+,
+    {
+      "name": "Triphleba antricola (Schmitz, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24198"
+    }
+,
+    {
+      "name": "Pseudostenophora antricola Schmitz, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945411"
+    }
+,
+    {
+      "name": "Triphleba aptina (Schiner, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257680"
+    }
+,
+    {
+      "name": "Phora aptina Schiner, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945412"
+    }
+,
+    {
+      "name": "Triphleba autumnalis (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217230"
+    }
+,
+    {
+      "name": "Phora autumnalis Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945413"
+    }
+,
+    {
+      "name": "Triphleba distinguenda (Strobl, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24200"
+    }
+,
+    {
+      "name": "Phora distinguenda Strobl, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945414"
+    }
+,
+    {
+      "name": "Triphleba excisa (Lundbeck, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24202"
+    }
+,
+    {
+      "name": "Trupheoneura excisa Lundbeck, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945415"
+    }
+,
+    {
+      "name": "Triphleba flexipalpis Schmitz, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217231"
+    }
+,
+    {
+      "name": "Triphleba hyalinata (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24203"
+    }
+,
+    {
+      "name": "Phora hyalinata Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945416"
+    }
+,
+    {
+      "name": "Triphleba hypopygialis (Schmitz, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217232"
+    }
+,
+    {
+      "name": "Trupheoneura hypopygialis Schmitz, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945417"
+    }
+,
+    {
+      "name": "Triphleba inopinata (Delage & Lauraire, 1970)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217233"
+    }
+,
+    {
+      "name": "Citrago inopinata Delage & Lauraire, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945418"
+    }
+,
+    {
+      "name": "Triphleba lugubris (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24206"
+    }
+,
+    {
+      "name": "Phora fratercula Brues, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945420"
+    }
+,
+    {
+      "name": "Phora lugubris Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945419"
+    }
+,
+    {
+      "name": "Phora sublugubris Wood, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945421"
+    }
+,
+    {
+      "name": "Trupheoneura connexa Wood, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945422"
+    }
+,
+    {
+      "name": "Trupheoneura suspecta Malloch, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945423"
+    }
+,
+    {
+      "name": "Triphleba luteifemorata (Wood, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/257699"
+    }
+,
+    {
+      "name": "Phora luteifemorata Wood, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945424"
+    }
+,
+    {
+      "name": "Triphleba lyria Schmitz, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217234"
+    }
+,
+    {
+      "name": "Triphleba nudipalpalis (Schmitz, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217235"
+    }
+,
+    {
+      "name": "Trupheoneura nudipalpalis Schmitz, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945426"
+    }
+,
+    {
+      "name": "Triphleba nudipalpis (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24210"
+    }
+,
+    {
+      "name": "Phora nudipalpalis Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945425"
+    }
+,
+    {
+      "name": "Triphleba opaca (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24211"
+    }
+,
+    {
+      "name": "Phora opaca Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945427"
+    }
+,
+    {
+      "name": "Triphleba papillata (Wingate, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24212"
+    }
+,
+    {
+      "name": "Phora papillata Wingate, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945428"
+    }
+,
+    {
+      "name": "Triphleba trinervis (Becker, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24214"
+    }
+,
+    {
+      "name": "Phora trinervis Becker, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945429"
+    }
+,
+    {
+      "name": "Triphleba tumidula (Schmitz, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/24215"
+    }
+,
+    {
+      "name": "Trupheoneura tumidula Schmitz, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945430"
+    }
+,
+    {
+      "name": "Triphleba withersi Disney, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217236"
+    }
+,
+    {
+      "name": "Tubicera Schmitz, 1920",
+      "url": ""
+    }
+,
+    {
+      "name": "Tubicera lichtwardti Schmitz, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/217237"
+    }
+,
+    {
+      "name": "metopininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/phoridae/metopininae/"
+    }
+,
+    {
+      "name": "phorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/phoridae/phorinae/"
+    }
+
+  ]
+}

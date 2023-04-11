@@ -1,0 +1,22 @@
+
+{
+  "name": "euphausiacea",
+  "children": [
+
+    {
+      "name": "Euphausiacea Dana, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "bentheuphausiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/euphausiacea/bentheuphausiidae/"
+    }
+,
+    {
+      "name": "euphausiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/euphausiacea/euphausiidae/"
+    }
+
+  ]
+}

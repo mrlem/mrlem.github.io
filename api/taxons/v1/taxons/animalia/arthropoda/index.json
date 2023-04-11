@@ -1,0 +1,132 @@
+
+{
+  "name": "arthropoda",
+  "children": [
+
+    {
+      "name": "Arthropoda Latreille, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Altocrustacea Regier, Schultz, Zwick, Hussey, Ball, Wetzer, Martin & Cunningham, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "arachnida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/"
+    }
+,
+    {
+      "name": "branchiopoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/"
+    }
+,
+    {
+      "name": "branchiura",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiura/"
+    }
+,
+    {
+      "name": "Chelicerata Heymons, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "chilopoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/chilopoda/"
+    }
+,
+    {
+      "name": "copepoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/"
+    }
+,
+    {
+      "name": "Crustacea Pennant, 1777",
+      "url": ""
+    }
+,
+    {
+      "name": "diplopoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/"
+    }
+,
+    {
+      "name": "entognatha",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/entognatha/"
+    }
+,
+    {
+      "name": "hexanauplia",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/hexanauplia/"
+    }
+,
+    {
+      "name": "Hexapoda Blainville, 1816",
+      "url": ""
+    }
+,
+    {
+      "name": "insecta",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/"
+    }
+,
+    {
+      "name": "malacostraca",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/"
+    }
+,
+    {
+      "name": "Multicrustacea Regier, Shultz, Zwick, Hussey, Ball, Wetzer, Martin & Cunningham, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Myriapoda Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "mystacocarida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/mystacocarida/"
+    }
+,
+    {
+      "name": "Oligostraca Zrzavý, Hypša & Vlášková, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "ostracoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/ostracoda/"
+    }
+,
+    {
+      "name": "Pancrustacea Zrzavý & Štys, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "pauropoda",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/pauropoda/"
+    }
+,
+    {
+      "name": "pentastomida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/pentastomida/"
+    }
+,
+    {
+      "name": "pycnogonida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/pycnogonida/"
+    }
+,
+    {
+      "name": "symphyla",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/symphyla/"
+    }
+
+  ]
+}

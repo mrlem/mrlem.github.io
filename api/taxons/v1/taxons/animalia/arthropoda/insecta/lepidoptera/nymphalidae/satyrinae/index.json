@@ -1,0 +1,42 @@
+
+{
+  "name": "satyrinae",
+  "children": [
+
+    {
+      "name": "Satyrinae Boisduval, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Satyridae ",
+      "url": ""
+    }
+,
+    {
+      "name": "brassolini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/satyrinae/brassolini/"
+    }
+,
+    {
+      "name": "haeterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/satyrinae/haeterini/"
+    }
+,
+    {
+      "name": "melanitini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/satyrinae/melanitini/"
+    }
+,
+    {
+      "name": "morphini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/satyrinae/morphini/"
+    }
+,
+    {
+      "name": "satyrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/nymphalidae/satyrinae/satyrini/"
+    }
+
+  ]
+}

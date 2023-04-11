@@ -1,0 +1,52 @@
+
+{
+  "name": "planctomycetes",
+  "children": [
+
+    {
+      "name": "Planctomycetes Garrity & Holt, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "Planctomycetia Ward, 2020",
+      "url": ""
+    }
+,
+    {
+      "name": "Gemmatales Dedysh, Kulichevskaya, Beletsky, Ivanova, Rijpstra, Damste, Mardanov & Ravin, 2020",
+      "url": ""
+    }
+,
+    {
+      "name": "Gemmataceae Kulichevskaya, Ivanova, Baulina, Rijpstra, Sinninghe Damste & Dedysh, 2017",
+      "url": ""
+    }
+,
+    {
+      "name": "Gemmata Franzmann & Skerman, 1985",
+      "url": ""
+    }
+,
+    {
+      "name": "Gemmata massiliana Aghnatios, Cayrou, Garibal, Robert, Azza, Raoult & Drancourt, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996235"
+    }
+,
+    {
+      "name": "Gemmata obscuriglobus Franzmann & Skerman, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017335"
+    }
+,
+    {
+      "name": "phycisphaerae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/planctomycetes/phycisphaerae/"
+    }
+,
+    {
+      "name": "planctomycetacia",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/planctomycetes/planctomycetacia/"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "bryocorinae",
+  "children": [
+
+    {
+      "name": "Bryocorinae Baerensprung, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "bryocorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/miridae/bryocorinae/bryocorini/"
+    }
+,
+    {
+      "name": "dicyphini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/miridae/bryocorinae/dicyphini/"
+    }
+,
+    {
+      "name": "eccritotarsini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/miridae/bryocorinae/eccritotarsini/"
+    }
+
+  ]
+}

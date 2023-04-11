@@ -1,0 +1,27 @@
+
+{
+  "name": "plataspidae",
+  "children": [
+
+    {
+      "name": "Plataspidae Dallas, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Plataspididae Dallas, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "coptosomatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/plataspidae/coptosomatinae/"
+    }
+,
+    {
+      "name": "plataspinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/plataspidae/plataspinae/"
+    }
+
+  ]
+}

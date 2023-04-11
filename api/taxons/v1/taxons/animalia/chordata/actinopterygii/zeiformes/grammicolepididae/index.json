@@ -1,0 +1,22 @@
+
+{
+  "name": "grammicolepididae",
+  "children": [
+
+    {
+      "name": "Grammicolepididae Poey, 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "grammicolepidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/zeiformes/grammicolepididae/grammicolepidinae/"
+    }
+,
+    {
+      "name": "macrurocyttinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/zeiformes/grammicolepididae/macrurocyttinae/"
+    }
+
+  ]
+}

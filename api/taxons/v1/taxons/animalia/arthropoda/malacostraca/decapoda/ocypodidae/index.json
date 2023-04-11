@@ -1,0 +1,62 @@
+
+{
+  "name": "ocypodidae",
+  "children": [
+
+    {
+      "name": "Ocypodidae Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Ucidinae Števčić, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "gelasiminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/ocypodidae/gelasiminae/"
+    }
+,
+    {
+      "name": "Ucides Rathbun, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Ucides cordatus (Linnaeus, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/649470"
+    }
+,
+    {
+      "name": "Cancer cordatus Linnaeus, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694843"
+    }
+,
+    {
+      "name": "Cancer uca Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694844"
+    }
+,
+    {
+      "name": "Ocypode fossor Latreille, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694845"
+    }
+,
+    {
+      "name": "Uca pilosipes Gill, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694846"
+    }
+,
+    {
+      "name": "ocypodinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/ocypodidae/ocypodinae/"
+    }
+,
+    {
+      "name": "ucinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/ocypodidae/ucinae/"
+    }
+
+  ]
+}

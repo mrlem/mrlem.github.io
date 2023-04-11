@@ -1,0 +1,92 @@
+
+{
+  "name": "tortricinae",
+  "children": [
+
+    {
+      "name": "Tortricinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "archipini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/tortricidae/tortricinae/archipini/"
+    }
+,
+    {
+      "name": "cnephasiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/tortricidae/tortricinae/cnephasiini/"
+    }
+,
+    {
+      "name": "cochylini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/tortricidae/tortricinae/cochylini/"
+    }
+,
+    {
+      "name": "euliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/tortricidae/tortricinae/euliini/"
+    }
+,
+    {
+      "name": "Peraglyphis Common, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Peraglyphis xenuncus Razowski, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836417"
+    }
+,
+    {
+      "name": "Pseudargyrotoza Obraztsov, 1954",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudargyrotoza conwagana (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247680"
+    }
+,
+    {
+      "name": "Argyrotoza conwagana (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933946"
+    }
+,
+    {
+      "name": "Pyralis conwagana Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915319"
+    }
+,
+    {
+      "name": "Tortrix conwayana (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825865"
+    }
+,
+    {
+      "name": "Tortrix hoffmanseggana Hübner, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933944"
+    }
+,
+    {
+      "name": "Tortrix hofmanseggana Hübner, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933945"
+    }
+,
+    {
+      "name": "schoenotenini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/tortricidae/tortricinae/schoenotenini/"
+    }
+,
+    {
+      "name": "sparganothini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/tortricidae/tortricinae/sparganothini/"
+    }
+,
+    {
+      "name": "tortricini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/tortricidae/tortricinae/tortricini/"
+    }
+
+  ]
+}

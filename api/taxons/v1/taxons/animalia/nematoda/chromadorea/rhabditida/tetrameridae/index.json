@@ -1,0 +1,42 @@
+
+{
+  "name": "tetrameridae",
+  "children": [
+
+    {
+      "name": "Tetrameridae Travassos, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "crassicaudinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/rhabditida/tetrameridae/crassicaudinae/"
+    }
+,
+    {
+      "name": "Geopetitia Chabaud, 1951",
+      "url": ""
+    }
+,
+    {
+      "name": "Geopetitia pari Chabaud, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/238758"
+    }
+,
+    {
+      "name": "Tetrameres Creplin, 1846",
+      "url": ""
+    }
+,
+    {
+      "name": "Gynaecophila Gubanov, 1950",
+      "url": ""
+    }
+,
+    {
+      "name": "Tetrameres wetzeli Schmidt, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959034"
+    }
+
+  ]
+}

@@ -1,0 +1,32 @@
+
+{
+  "name": "lecithasteridae",
+  "children": [
+
+    {
+      "name": "Lecithasteridae Odhner, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "hysterolecithinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/lecithasteridae/hysterolecithinae/"
+    }
+,
+    {
+      "name": "lecithasterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/lecithasteridae/lecithasterinae/"
+    }
+,
+    {
+      "name": "prolecithinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/lecithasteridae/prolecithinae/"
+    }
+,
+    {
+      "name": "quadrifoliovariinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/lecithasteridae/quadrifoliovariinae/"
+    }
+
+  ]
+}

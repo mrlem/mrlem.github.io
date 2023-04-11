@@ -1,0 +1,27 @@
+
+{
+  "name": "scyllaridae",
+  "children": [
+
+    {
+      "name": "Scyllaridae Latreille, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "arctidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/scyllaridae/arctidinae/"
+    }
+,
+    {
+      "name": "ibacinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/scyllaridae/ibacinae/"
+    }
+,
+    {
+      "name": "scyllarinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/decapoda/scyllaridae/scyllarinae/"
+    }
+
+  ]
+}

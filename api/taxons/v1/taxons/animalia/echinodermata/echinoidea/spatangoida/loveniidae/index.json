@@ -1,0 +1,62 @@
+
+{
+  "name": "loveniidae",
+  "children": [
+
+    {
+      "name": "Loveniidae Lambert, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "echinocardiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/echinoidea/spatangoida/loveniidae/echinocardiinae/"
+    }
+,
+    {
+      "name": "Araeolampas Serafy, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "Araeolampas fulva (A. Agassiz, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988036"
+    }
+,
+    {
+      "name": "Homolampas fulva A. Agassiz, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988037"
+    }
+,
+    {
+      "name": "Lovenia Desor in Agassiz & Desor, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Lovenia elongata (Gray, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628552"
+    }
+,
+    {
+      "name": "Lorenia elongata (Gray, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689676"
+    }
+,
+    {
+      "name": "Lovenia hystrix L. Agassiz & Desor, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689678"
+    }
+,
+    {
+      "name": "Spatangus elongatus Gray, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689677"
+    }
+,
+    {
+      "name": "Lovenia triforis Koehler, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988837"
+    }
+
+  ]
+}

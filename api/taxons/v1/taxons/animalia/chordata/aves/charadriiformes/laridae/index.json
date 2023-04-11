@@ -1,0 +1,52 @@
+
+{
+  "name": "laridae",
+  "children": [
+
+    {
+      "name": "Laridae Vigors, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "anoinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/charadriiformes/laridae/anoinae/"
+    }
+,
+    {
+      "name": "gyginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/charadriiformes/laridae/gyginae/"
+    }
+,
+    {
+      "name": "Larosterna Blyth, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "Larosterna inca (Lesson, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933209"
+    }
+,
+    {
+      "name": "Sterna Inca Lesson, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933211"
+    }
+,
+    {
+      "name": "larinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/charadriiformes/laridae/larinae/"
+    }
+,
+    {
+      "name": "rynchopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/charadriiformes/laridae/rynchopinae/"
+    }
+,
+    {
+      "name": "sterninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/charadriiformes/laridae/sterninae/"
+    }
+
+  ]
+}

@@ -1,0 +1,42 @@
+
+{
+  "name": "lagriinae",
+  "children": [
+
+    {
+      "name": "Lagriinae Latreille, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "adeliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/lagriinae/adeliini/"
+    }
+,
+    {
+      "name": "belopini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/lagriinae/belopini/"
+    }
+,
+    {
+      "name": "cossyphini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/lagriinae/cossyphini/"
+    }
+,
+    {
+      "name": "goniaderini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/lagriinae/goniaderini/"
+    }
+,
+    {
+      "name": "lagriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/lagriinae/lagriini/"
+    }
+,
+    {
+      "name": "lupropini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/lagriinae/lupropini/"
+    }
+
+  ]
+}

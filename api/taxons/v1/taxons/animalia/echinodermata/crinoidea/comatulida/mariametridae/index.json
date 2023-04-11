@@ -1,0 +1,472 @@
+
+{
+  "name": "mariametridae",
+  "children": [
+
+    {
+      "name": "Mariametridae A.H. Clark, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Dichrometra AH Clark, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Dichrometra articulata (Müller, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988834"
+    }
+,
+    {
+      "name": "Antedon articulata (Müller, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988836"
+    }
+,
+    {
+      "name": "Comatula articulata Müller, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988835"
+    }
+,
+    {
+      "name": "Liparometra articulata (Müller, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988838"
+    }
+,
+    {
+      "name": "Dichrometra flagellata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628774"
+    }
+,
+    {
+      "name": "Alecto elongata Müller, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678068"
+    }
+,
+    {
+      "name": "Alecto flagellata Müller, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678075"
+    }
+,
+    {
+      "name": "Antedon elongata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678071"
+    }
+,
+    {
+      "name": "Antedon flagellata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678074"
+    }
+,
+    {
+      "name": "Antedon pulcher Hartlaub, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678072"
+    }
+,
+    {
+      "name": "Comatula elongata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678069"
+    }
+,
+    {
+      "name": "Comatula flagellata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678070"
+    }
+,
+    {
+      "name": "Dichrometra pulcher (Hartlaub, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678073"
+    }
+,
+    {
+      "name": "Lamprometra AH Clark, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Lamprometra palmata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628772"
+    }
+,
+    {
+      "name": "Alecto palmata Müller, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678048"
+    }
+,
+    {
+      "name": "Antedon aequipinna Carpenter, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678029"
+    }
+,
+    {
+      "name": "Antedon amboinensis Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678034"
+    }
+,
+    {
+      "name": "Antedon brevicuneata Carpenter, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678027"
+    }
+,
+    {
+      "name": "Antedon conjungens Carpenter, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678032"
+    }
+,
+    {
+      "name": "Antedon gyges Bell, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678038"
+    }
+,
+    {
+      "name": "Antedon imparipinna Carpenter, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678042"
+    }
+,
+    {
+      "name": "Antedon klunzingeri Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678041"
+    }
+,
+    {
+      "name": "Antedon laevicirra Carpenter, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678028"
+    }
+,
+    {
+      "name": "Antedon lepida Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678033"
+    }
+,
+    {
+      "name": "Antedon moorei Bell, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678037"
+    }
+,
+    {
+      "name": "Antedon occulta Carpenter, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678031"
+    }
+,
+    {
+      "name": "Antedon okelli Chadwick, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678036"
+    }
+,
+    {
+      "name": "Antedon palmata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678043"
+    }
+,
+    {
+      "name": "Antedon similis Carpenter, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678030"
+    }
+,
+    {
+      "name": "Antedon subtilis Hartlaub, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678035"
+    }
+,
+    {
+      "name": "Antedon tenera Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678021"
+    }
+,
+    {
+      "name": "Dichrometra gyges (Bell, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678022"
+    }
+,
+    {
+      "name": "Dichrometra klunzingeri (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678047"
+    }
+,
+    {
+      "name": "Dichrometra palmata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678045"
+    }
+,
+    {
+      "name": "Dichrometra protectus (Carpenter, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678046"
+    }
+,
+    {
+      "name": "Dichrometra tenera (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678023"
+    }
+,
+    {
+      "name": "Lamprometra brachypecha H.L. Clark, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678040"
+    }
+,
+    {
+      "name": "Lamprometra gyges (Bell, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678020"
+    }
+,
+    {
+      "name": "Lamprometra klunzingeri (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678044"
+    }
+,
+    {
+      "name": "Lamprometra palmata gyges (Bell, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678025"
+    }
+,
+    {
+      "name": "Lamprometra palmata palmata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678024"
+    }
+,
+    {
+      "name": "Lamprometra palmata parmata (Müller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678026"
+    }
+,
+    {
+      "name": "Lamprometra protecta (Carpenter, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678019"
+    }
+,
+    {
+      "name": "Lamprometra protectus (Carpenter, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678039"
+    }
+,
+    {
+      "name": "Liparometra AH Clark, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Liparometra regalis (Carpenter, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650065"
+    }
+,
+    {
+      "name": "Antedon regalis Carpenter, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676603"
+    }
+,
+    {
+      "name": "Dichrometra regalis (Carpenter, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676605"
+    }
+,
+    {
+      "name": "Himerometra regalis (Carpenter, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676604"
+    }
+,
+    {
+      "name": "Oxymetra AH Clark, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Oxymetra erinacea (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628862"
+    }
+,
+    {
+      "name": "Antedon erinacea Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/675888"
+    }
+,
+    {
+      "name": "Oxymetra finschii (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/650022"
+    }
+,
+    {
+      "name": "Antedon finschii Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693661"
+    }
+,
+    {
+      "name": "Dichrometra aranea AH Clark, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693663"
+    }
+,
+    {
+      "name": "Himerometra gracilipes AH Clark, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693662"
+    }
+,
+    {
+      "name": "Oxymetra aranea (AH Clark, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693668"
+    }
+,
+    {
+      "name": "Selenemetra aranea (AH Clark, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693667"
+    }
+,
+    {
+      "name": "Selenemetra finschii (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693666"
+    }
+,
+    {
+      "name": "Selenemetra gracilipes AH Clark, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693665"
+    }
+,
+    {
+      "name": "Selenemetra viridis AH Clark, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693664"
+    }
+,
+    {
+      "name": "Stephanometra AH Clark, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Stephanometra indica (Smith, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628773"
+    }
+,
+    {
+      "name": "Antedon flavomaculata Bell, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678056"
+    }
+,
+    {
+      "name": "Antedon indica (Smith, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678053"
+    }
+,
+    {
+      "name": "Antedon marginata Chadwick, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678065"
+    }
+,
+    {
+      "name": "Antedon monacantha Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678055"
+    }
+,
+    {
+      "name": "Antedon oxyacantha Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678054"
+    }
+,
+    {
+      "name": "Antedon protecta Carpenter, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678052"
+    }
+,
+    {
+      "name": "Antedon protectus Carpenter, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678066"
+    }
+,
+    {
+      "name": "Antedon spicata Carpenter, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678064"
+    }
+,
+    {
+      "name": "Antedon spinipinna Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678057"
+    }
+,
+    {
+      "name": "Antedon tuberculata Hartlaub, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678058"
+    }
+,
+    {
+      "name": "Comatula indica Smith, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678063"
+    }
+,
+    {
+      "name": "Stephanometra indica indica (Smith, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678050"
+    }
+,
+    {
+      "name": "Stephanometra indica protecta (Carpenter, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678051"
+    }
+,
+    {
+      "name": "Stephanometra indica protectus (Carpenter, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678049"
+    }
+,
+    {
+      "name": "Stephanometra marginata AH Clark, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678067"
+    }
+,
+    {
+      "name": "Stephanometra monacantha (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678060"
+    }
+,
+    {
+      "name": "Stephanometra oxyacantha (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628918"
+    }
+,
+    {
+      "name": "Stephanometra spicata (Carpenter, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628919"
+    }
+,
+    {
+      "name": "Stephanometra spinipinna (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678061"
+    }
+,
+    {
+      "name": "Stephanometra stypacantha H.L. Clark, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678062"
+    }
+,
+    {
+      "name": "Stephanometra tuberculata (Hartlaub, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678059"
+    }
+,
+    {
+      "name": "Stephanometra tenuipinna (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628863"
+    }
+,
+    {
+      "name": "Antedon tenuipinna Hartlaub, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/675889"
+    }
+,
+    {
+      "name": "Himerometra echinus AH Clark, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/675891"
+    }
+,
+    {
+      "name": "Himerometra tenuipinna (Hartlaub, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/675890"
+    }
+,
+    {
+      "name": "Stephanometra coronata AH Clark, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/675892"
+    }
+,
+    {
+      "name": "Stephanometra echinus (AH Clark, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/628917"
+    }
+
+  ]
+}

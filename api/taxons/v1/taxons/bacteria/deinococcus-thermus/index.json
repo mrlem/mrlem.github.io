@@ -1,0 +1,17 @@
+
+{
+  "name": "deinococcus-thermus",
+  "children": [
+
+    {
+      "name": "Deinococcus-Thermus ",
+      "url": ""
+    }
+,
+    {
+      "name": "deinococci",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/deinococcus-thermus/deinococci/"
+    }
+
+  ]
+}

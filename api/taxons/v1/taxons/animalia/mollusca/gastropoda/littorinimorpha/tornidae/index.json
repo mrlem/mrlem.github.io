@@ -1,0 +1,502 @@
+
+{
+  "name": "tornidae",
+  "children": [
+
+    {
+      "name": "Tornidae Sacco, 1896 (1884)",
+      "url": ""
+    }
+,
+    {
+      "name": "Anticlimax Pilsbry & McGinty, 1946",
+      "url": ""
+    }
+,
+    {
+      "name": "Canimarina Aguayo & Borro, 1946",
+      "url": ""
+    }
+,
+    {
+      "name": "Anticlimax boucheti Rubio & Rolán, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789973"
+    }
+,
+    {
+      "name": "Anticlimax crassilabris (Aguayo & Borro, 1946)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641153"
+    }
+,
+    {
+      "name": "Canimarina crassilabris (Aguayo & Borro, 1946)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711373"
+    }
+,
+    {
+      "name": "Cyclostremiscus crassilabris Aguayo & Borro, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693563"
+    }
+,
+    {
+      "name": "Solariorbis decipiens Olsson & McGinty, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693564"
+    }
+,
+    {
+      "name": "Anticlimax faviformis Rubio & Rolán, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789974"
+    }
+,
+    {
+      "name": "Anticlimax fecunda Rubio & Rolán, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/789977"
+    }
+,
+    {
+      "name": "Anticlimax glabra Rubio, Rolán & Pelorce, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641155"
+    }
+,
+    {
+      "name": "Canimarina glabra (Rubio, Rolán & Pelorce, 2011)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825667"
+    }
+,
+    {
+      "name": "Anticlimax juanae Rubio & Rolán, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790147"
+    }
+,
+    {
+      "name": "Anticlimax proboscidea (Aguayo, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711327"
+    }
+,
+    {
+      "name": "Teinostoma proboscidea Aguayo, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711359"
+    }
+,
+    {
+      "name": "Anticlimax textilis Rubio & Rolán, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790148"
+    }
+,
+    {
+      "name": "Circuitus Rubio & Rolán, 2017",
+      "url": ""
+    }
+,
+    {
+      "name": "Circuitus caledonicus Rubio & Rolán, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843679"
+    }
+,
+    {
+      "name": "Cochliolepis Stimpson, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Cochliolepis adamsii (P. Fischer, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606256"
+    }
+,
+    {
+      "name": "Adeorbis adamsii P. Fischer, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684015"
+    }
+,
+    {
+      "name": "Cochliolepis parasitica Stimpson, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606111"
+    }
+,
+    {
+      "name": "Cyclostremiscus Pilsbry & Olsson, 1945",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyclostremiscus cubanus (Pilsbry & Aguayo, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641161"
+    }
+,
+    {
+      "name": "Circulus cubanus Pilsbry & Aguayo, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676460"
+    }
+,
+    {
+      "name": "Cyclostremiscus puntagordensis Weisbord, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676461"
+    }
+,
+    {
+      "name": "Cyclostremiscus diminutus Rubio, Rolán & Pelorce, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641162"
+    }
+,
+    {
+      "name": "Cyclostremiscus jeannae Pilsbry & McGinty, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641163"
+    }
+,
+    {
+      "name": "Cyclostremiscus nodiferus Pilsbry & Olsson, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970404"
+    }
+,
+    {
+      "name": "Cyclostremiscus vanbruggeni De Jong & Coomans, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711418"
+    }
+,
+    {
+      "name": "Discopsis de Folin, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Discopsis omalos (de Folin, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605984"
+    }
+,
+    {
+      "name": "Adeorbis omalos de Folin, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/686573"
+    }
+,
+    {
+      "name": "Episcynia Mörch, 1875",
+      "url": ""
+    }
+,
+    {
+      "name": "Episcynia inornata (d'Orbigny, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606112"
+    }
+,
+    {
+      "name": "Solarium inornatum d'Orbigny, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/686830"
+    }
+,
+    {
+      "name": "Trochus inornatus d’Orbigny, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/686829"
+    }
+,
+    {
+      "name": "Lophocochlias Pilsbry, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Lophocochlias parvissimus (Hedley, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826498"
+    }
+,
+    {
+      "name": "Haplocochlias (Lophocochlias) minutissimus Pilsbry, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813749"
+    }
+,
+    {
+      "name": "Liotia parvissima Hedley, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018417"
+    }
+,
+    {
+      "name": "Lophocochlias minutissimus (Pilsbry, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527501"
+    }
+,
+    {
+      "name": "Parviturbo parvissimus (Hedley, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780220"
+    }
+,
+    {
+      "name": "Parviturboides parvissimus (Hedley, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780219"
+    }
+,
+    {
+      "name": "Lophocochlias procerus Rubio & Rolán, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813750"
+    }
+,
+    {
+      "name": "Neusas Warén & Bouchet, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "Neusas distorta Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900311"
+    }
+,
+    {
+      "name": "Neusas inesae Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900314"
+    }
+,
+    {
+      "name": "Neusas juliae Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900317"
+    }
+,
+    {
+      "name": "Parviturboides Pilsbry & McGinty, 1949",
+      "url": ""
+    }
+,
+    {
+      "name": "Parviturboides interruptus (C. B. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641165"
+    }
+,
+    {
+      "name": "Cyclostrema sanibelense Pilsbry, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676462"
+    }
+,
+    {
+      "name": "Cyclostrema zacalles Mazÿck, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676464"
+    }
+,
+    {
+      "name": "Vitrinella interrupta C. B. Adams, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676463"
+    }
+,
+    {
+      "name": "Pleuromalaxis Pilsbry & McGinty, 1945",
+      "url": ""
+    }
+,
+    {
+      "name": "Pleuromalaxis balesi (Pilsbry & McGinty, 1945)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606113"
+    }
+,
+    {
+      "name": "Pseudomalaxis balesi Pilsbry & McGinty, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684091"
+    }
+,
+    {
+      "name": "Ponderinella B. A. Marshall, 1988",
+      "url": ""
+    }
+,
+    {
+      "name": "Ponderinella difficilis Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900321"
+    }
+,
+    {
+      "name": "Pseudoliotia Tate, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoliotia asteriscus (Gould, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719808"
+    }
+,
+    {
+      "name": "Pseudoliotia asterisca (Gould, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527502"
+    }
+,
+    {
+      "name": "Pseudoliotia distincta Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956504"
+    }
+,
+    {
+      "name": "Pseudoliotia gabrielruedai Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956526"
+    }
+,
+    {
+      "name": "Pseudoliotia inanis Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956529"
+    }
+,
+    {
+      "name": "Pseudoliotia plurifunis Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956537"
+    }
+,
+    {
+      "name": "Pseudoliotia plusnodosa Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956530"
+    }
+,
+    {
+      "name": "Pseudoliotia seposita Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956533"
+    }
+,
+    {
+      "name": "Pseudoliotia teresae Rubio & Rolán, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956534"
+    }
+,
+    {
+      "name": "Sigaretornus Iredale, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Sigaretornus planus (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970592"
+    }
+,
+    {
+      "name": "Adeorbis plana (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970594"
+    }
+,
+    {
+      "name": "Cyclostrema plana A. Adams, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970593"
+    }
+,
+    {
+      "name": "Tornus planus (A. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970595"
+    }
+,
+    {
+      "name": "Solariorbis Conrad, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Solariorbis antillensis De Jong & Coomans, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641167"
+    }
+,
+    {
+      "name": "Solariorbis petitii (P. Fischer, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606274"
+    }
+,
+    {
+      "name": "Skenea petitii P. Fischer, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685482"
+    }
+,
+    {
+      "name": "Solariorbis ruris Rubio, Fernández-Garcés & Rolán, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641169"
+    }
+,
+    {
+      "name": "Teinostoma H. Adams & A. Adams, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Teinostoma baldingeri Rubio, Fernández-Garcés & Rolán, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641171"
+    }
+,
+    {
+      "name": "Teinostoma biscaynense Pilsbry & McGinty, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762488"
+    }
+,
+    {
+      "name": "Teinostoma cienfuegosense Rubio, Fernández-Garcés & Rolán, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641173"
+    }
+,
+    {
+      "name": "Teinostoma impleta (Laseron, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527503"
+    }
+,
+    {
+      "name": "Teinostoma lerema Pilsbry & McGinty, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641175"
+    }
+,
+    {
+      "name": "Teinostoma megastoma (C. B. Adams, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641176"
+    }
+,
+    {
+      "name": "Vitrinella megastoma C. B. Adams, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694887"
+    }
+,
+    {
+      "name": "Teinostoma morlierei Jousseaume, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606020"
+    }
+,
+    {
+      "name": "Teinostoma oppletum Hedley, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842589"
+    }
+,
+    {
+      "name": "Teinostoma semistriatum (d'Orbigny, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641203"
+    }
+,
+    {
+      "name": "Teinostoma clavium Pilsbry & McGinty, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605564"
+    }
+,
+    {
+      "name": "Trochus semistriatus d'Orbigny, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676465"
+    }
+,
+    {
+      "name": "Teinostoma vayssierei Couturier, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527504"
+    }
+,
+    {
+      "name": "Tornus Turton & Kingston, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Tornus schrammii (P. Fischer, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641208"
+    }
+,
+    {
+      "name": "Cyclostrema schrammii P. Fischer, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/676466"
+    }
+,
+    {
+      "name": "Cyclostremiscus schrammii (P. Fischer, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605979"
+    }
+,
+    {
+      "name": "Tornus subcarinatus (Montagu, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62231"
+    }
+,
+    {
+      "name": "Helix subcarinata Montagu, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681240"
+    }
+
+  ]
+}

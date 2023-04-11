@@ -1,0 +1,42 @@
+
+{
+  "name": "uraniidae",
+  "children": [
+
+    {
+      "name": "Uraniidae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Uranioidea Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "epipleminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/uraniidae/epipleminae/"
+    }
+,
+    {
+      "name": "Mania Hübner, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Mania empedocles (Cramer, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984026"
+    }
+,
+    {
+      "name": "microniinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/uraniidae/microniinae/"
+    }
+,
+    {
+      "name": "uraniinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/uraniidae/uraniinae/"
+    }
+
+  ]
+}

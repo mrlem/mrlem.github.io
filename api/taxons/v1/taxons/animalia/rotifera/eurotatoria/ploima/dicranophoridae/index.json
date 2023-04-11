@@ -1,0 +1,442 @@
+
+{
+  "name": "dicranophoridae",
+  "children": [
+
+    {
+      "name": "Dicranophoridae Harring, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Albertia Dujardin, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Albertia naidis Bousfield, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78190"
+    }
+,
+    {
+      "name": "Albertia soyeri Coineau & kunst, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78191"
+    }
+,
+    {
+      "name": "Albertia vermiculus Dujardin, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/296913"
+    }
+,
+    {
+      "name": "Albertia vermisculus Dujardin, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78192"
+    }
+,
+    {
+      "name": "Allodicranophorus De Smet, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Allodicranophorus bulgaricus (Althaus, 1957)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890512"
+    }
+,
+    {
+      "name": "Dicranophorus bulgaricus Althaus, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890513"
+    }
+,
+    {
+      "name": "Aspelta Harring & Myers, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Aspelta circinator (Gosse, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/296919"
+    }
+,
+    {
+      "name": "Aspelta circinnator (Gosse, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78209"
+    }
+,
+    {
+      "name": "Diglena circinator Gosse, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904248"
+    }
+,
+    {
+      "name": "Aspelta clydona Harring & Myers, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892206"
+    }
+,
+    {
+      "name": "Aspelta harringi antonowiezae d'Hondt, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892208"
+    }
+,
+    {
+      "name": "Aspelta harringi Remane, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78210"
+    }
+,
+    {
+      "name": "Aspelta secretus (Donner, 1951)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521748"
+    }
+,
+    {
+      "name": "Dicranophorus secretus Donner, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78328"
+    }
+,
+    {
+      "name": "Balatro Claparede, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Balatro calvus Claparède, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/296933"
+    }
+,
+    {
+      "name": "Dicranophoroides De Smet, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "Dicranophoroides caudatus (Ehrenberg, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/296935"
+    }
+,
+    {
+      "name": "Dicranophorus caudatus (Ehrb., 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78322"
+    }
+,
+    {
+      "name": "Diglena caudatus Ehrenberg, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904407"
+    }
+,
+    {
+      "name": "Dicranophorus Nitzsch, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Dicranophorus cambari Wulfert, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828227"
+    }
+,
+    {
+      "name": "Dicranophorus difflugiarum (Penard, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934997"
+    }
+,
+    {
+      "name": "Diglena difflugiarum Penard, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934998"
+    }
+,
+    {
+      "name": "Dicranophorus epicharis Harring & Myers, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934999"
+    }
+,
+    {
+      "name": "Dicranophorus forcipatus (Müller, 1786)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78323"
+    }
+,
+    {
+      "name": "Cercaria forcipatus Müller, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824726"
+    }
+,
+    {
+      "name": "Dicranophorus grandis (Ehrenberg, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78324"
+    }
+,
+    {
+      "name": "Diglena grandis Ehrenberg, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904409"
+    }
+,
+    {
+      "name": "Dicranophorus luetkeni (Bergendal, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/296955"
+    }
+,
+    {
+      "name": "Arthroglena luetkeni Bergendal, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904410"
+    }
+,
+    {
+      "name": "Dicranophorus lutkeni (Bergendal, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78325"
+    }
+,
+    {
+      "name": "Dicranophorus prionacis Harring & myers, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78327"
+    }
+,
+    {
+      "name": "Dicranophorus uncinatus (Milne, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935002"
+    }
+,
+    {
+      "name": "Encentrum Ehrenberg, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Encentrum algente Harring, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/296971"
+    }
+,
+    {
+      "name": "Encentrum aluligerum De Smet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890514"
+    }
+,
+    {
+      "name": "Encentrum felis (Müller, 1773)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78344"
+    }
+,
+    {
+      "name": "Vorticella felis Müller, 1773",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904427"
+    }
+,
+    {
+      "name": "Encentrum foroiuliense De Smet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890515"
+    }
+,
+    {
+      "name": "Encentrum frenoti De Smet, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824444"
+    }
+,
+    {
+      "name": "Encentrum grande (Western, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78345"
+    }
+,
+    {
+      "name": "Pleurotrocha grande Western, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904428"
+    }
+,
+    {
+      "name": "Encentrum kutikovae De Smet & Chernyshev, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890516"
+    }
+,
+    {
+      "name": "Encentrum liepolti (Donner, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521747"
+    }
+,
+    {
+      "name": "Dicranophorus liepolti Donner, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/296954"
+    }
+,
+    {
+      "name": "Encentrum limicola Otto, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/297002"
+    }
+,
+    {
+      "name": "Encentrum loefgreni De Smet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890517"
+    }
+,
+    {
+      "name": "Encentrum longirostrum Tzschaschel, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890518"
+    }
+,
+    {
+      "name": "Encentrum marinum (Dujardin, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78349"
+    }
+,
+    {
+      "name": "Furcularia marinum Dujardin, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892212"
+    }
+,
+    {
+      "name": "Encentrum mustela (Milne, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78351"
+    }
+,
+    {
+      "name": "Pleurotrocha mustela Milne, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824727"
+    }
+,
+    {
+      "name": "Encentrum psammophilum Althaus, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890520"
+    }
+,
+    {
+      "name": "Encentrum pugiodigitatum De Smet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890519"
+    }
+,
+    {
+      "name": "Encentrum putorius Wulfert, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935004"
+    }
+,
+    {
+      "name": "Encentrum rousseleti (Lie-Pettersen, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78352"
+    }
+,
+    {
+      "name": "Diglena rousseleti Lie-Pettersen, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892213"
+    }
+,
+    {
+      "name": "Encentrum saundersiae (Hudson, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78353"
+    }
+,
+    {
+      "name": "Taphrocampa saundersiae Hudson, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904429"
+    }
+,
+    {
+      "name": "Encentrum striatum Althaus, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890521"
+    }
+,
+    {
+      "name": "Encentrum uncinatoides De Smet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890522"
+    }
+,
+    {
+      "name": "Encentrum uncinatum (Milne, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/297051"
+    }
+,
+    {
+      "name": "Diglena uncinatum Milne, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824728"
+    }
+,
+    {
+      "name": "Encentrum valkanovi Althaus, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890523"
+    }
+,
+    {
+      "name": "Erignatha Harring & Myers, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Erignatha clastopis (Gosse, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/297057"
+    }
+,
+    {
+      "name": "Diglena clastopis Gosse, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904436"
+    }
+,
+    {
+      "name": "Erignatha clastopsis (Gosse, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78368"
+    }
+,
+    {
+      "name": "Erignatha thienemanni Remane, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78369"
+    }
+,
+    {
+      "name": "Myersinella Wiszniewski, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Myersinella longiforceps De Smet, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890525"
+    }
+,
+    {
+      "name": "Myersinella uncodonta De Smet, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890526"
+    }
+,
+    {
+      "name": "Paradicranophorus Wiszniewski, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Paradicranophorus halophilus De Smet, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890528"
+    }
+,
+    {
+      "name": "Parencentrum Wiszniewski, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Parencentrum lutetiae (Harring & Myers, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/297071"
+    }
+,
+    {
+      "name": "Encentrum lutetiae Harring & Myers, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904909"
+    }
+,
+    {
+      "name": "Encentrum lutetia (Harring & myers, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78347"
+    }
+,
+    {
+      "name": "Encetrum lutetiae (Harring & myers, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78348"
+    }
+,
+    {
+      "name": "Wierzejskiella Wiszniewski, 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "Wierzejskiella velox (Wiszniewski, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/78766"
+    }
+,
+    {
+      "name": "Encentrum velox Wiszniewski, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905653"
+    }
+
+  ]
+}

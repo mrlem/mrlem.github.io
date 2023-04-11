@@ -1,0 +1,47 @@
+
+{
+  "name": "dytiscidae",
+  "children": [
+
+    {
+      "name": "Dytiscidae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "agabinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/agabinae/"
+    }
+,
+    {
+      "name": "colymbetinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/colymbetinae/"
+    }
+,
+    {
+      "name": "copelatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/copelatinae/"
+    }
+,
+    {
+      "name": "dytiscinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/dytiscinae/"
+    }
+,
+    {
+      "name": "hydrodytinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/hydrodytinae/"
+    }
+,
+    {
+      "name": "hydroporinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/hydroporinae/"
+    }
+,
+    {
+      "name": "laccophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/laccophilinae/"
+    }
+
+  ]
+}

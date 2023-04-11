@@ -1,0 +1,27 @@
+
+{
+  "name": "diversisporales",
+  "children": [
+
+    {
+      "name": "Diversisporales C.Walker & A.Schüßler, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "acaulosporaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/glomeromycota/glomeromycetes/diversisporales/acaulosporaceae/"
+    }
+,
+    {
+      "name": "diversisporaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/glomeromycota/glomeromycetes/diversisporales/diversisporaceae/"
+    }
+,
+    {
+      "name": "gigasporaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/glomeromycota/glomeromycetes/diversisporales/gigasporaceae/"
+    }
+
+  ]
+}

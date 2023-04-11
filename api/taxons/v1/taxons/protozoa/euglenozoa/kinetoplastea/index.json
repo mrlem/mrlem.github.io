@@ -1,0 +1,52 @@
+
+{
+  "name": "kinetoplastea",
+  "children": [
+
+    {
+      "name": "Kinetoplastea Honigberg, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Kinetoplastida ",
+      "url": ""
+    }
+,
+    {
+      "name": "eubodonida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/euglenozoa/kinetoplastea/eubodonida/"
+    }
+,
+    {
+      "name": "Hemistasia Griessmann, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemistasia phaeocystidicola (Scherffel) Elbrächter & Schnepf, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996404"
+    }
+,
+    {
+      "name": "Oxyrrhis phaeocysticola Scherffel, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996391"
+    }
+,
+    {
+      "name": "Metakinetoplastina ",
+      "url": ""
+    }
+,
+    {
+      "name": "parabodonida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/euglenozoa/kinetoplastea/parabodonida/"
+    }
+,
+    {
+      "name": "trypanosomatida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/euglenozoa/kinetoplastea/trypanosomatida/"
+    }
+
+  ]
+}

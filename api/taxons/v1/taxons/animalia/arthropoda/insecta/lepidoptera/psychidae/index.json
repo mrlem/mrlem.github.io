@@ -1,0 +1,87 @@
+
+{
+  "name": "psychidae",
+  "children": [
+
+    {
+      "name": "Psychidae Boisduval, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "arrhenophaninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/arrhenophaninae/"
+    }
+,
+    {
+      "name": "epichnopteriginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/epichnopteriginae/"
+    }
+,
+    {
+      "name": "eumasiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/eumasiinae/"
+    }
+,
+    {
+      "name": "Cryptothelea Duncan & Westwood, 1841",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptothelea surinamensis (Möschler, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988658"
+    }
+,
+    {
+      "name": "Psyche surinamensis Möschler, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988659"
+    }
+,
+    {
+      "name": "Metura Walker, 1855",
+      "url": ""
+    }
+,
+    {
+      "name": "Metura elongatus (Saunders, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964704"
+    }
+,
+    {
+      "name": "Oiketicus elongatus Saunders, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964705"
+    }
+,
+    {
+      "name": "Metura oceanica Viette, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850256"
+    }
+,
+    {
+      "name": "naryciinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/naryciinae/"
+    }
+,
+    {
+      "name": "oiketicinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/oiketicinae/"
+    }
+,
+    {
+      "name": "psychinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/psychinae/"
+    }
+,
+    {
+      "name": "taleporiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/taleporiinae/"
+    }
+,
+    {
+      "name": "typhoniinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/psychidae/typhoniinae/"
+    }
+
+  ]
+}

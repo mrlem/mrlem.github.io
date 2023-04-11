@@ -1,0 +1,27 @@
+
+{
+  "name": "calamoceratidae",
+  "children": [
+
+    {
+      "name": "Calamoceratidae Ulmer, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "calamoceratinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/trichoptera/calamoceratidae/calamoceratinae/"
+    }
+,
+    {
+      "name": "Anisocentropus McLachlan, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisocentropus voeltzkowi Ulmer, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715519"
+    }
+
+  ]
+}

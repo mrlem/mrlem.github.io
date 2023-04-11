@@ -1,0 +1,27 @@
+
+{
+  "name": "chrysididae",
+  "children": [
+
+    {
+      "name": "Chrysididae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "amiseginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/chrysididae/amiseginae/"
+    }
+,
+    {
+      "name": "chrysidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/chrysididae/chrysidinae/"
+    }
+,
+    {
+      "name": "cleptinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/chrysididae/cleptinae/"
+    }
+
+  ]
+}

@@ -1,0 +1,32 @@
+
+{
+  "name": "fulgoridae",
+  "children": [
+
+    {
+      "name": "Fulgoridae Latreille, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "apheninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/fulgoridae/apheninae/"
+    }
+,
+    {
+      "name": "fulgorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/fulgoridae/fulgorinae/"
+    }
+,
+    {
+      "name": "phenacinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/fulgoridae/phenacinae/"
+    }
+,
+    {
+      "name": "poiocerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/fulgoridae/poiocerinae/"
+    }
+
+  ]
+}

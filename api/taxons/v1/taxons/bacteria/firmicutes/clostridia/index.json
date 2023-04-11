@@ -1,0 +1,27 @@
+
+{
+  "name": "clostridia",
+  "children": [
+
+    {
+      "name": "Clostridia Rainey, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "clostridiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/firmicutes/clostridia/clostridiales/"
+    }
+,
+    {
+      "name": "eubacteriales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/firmicutes/clostridia/eubacteriales/"
+    }
+,
+    {
+      "name": "halanaerobiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/firmicutes/clostridia/halanaerobiales/"
+    }
+
+  ]
+}

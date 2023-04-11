@@ -1,0 +1,87 @@
+
+{
+  "name": "euglyphida",
+  "children": [
+
+    {
+      "name": "Euglyphida Copeland, 1956, emend. Cavalier-Smith, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "assulinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/cercozoa/imbricatea/euglyphida/assulinidae/"
+    }
+,
+    {
+      "name": "cyphoderiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/cercozoa/imbricatea/euglyphida/cyphoderiidae/"
+    }
+,
+    {
+      "name": "euglyphidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/cercozoa/imbricatea/euglyphida/euglyphidae/"
+    }
+,
+    {
+      "name": "Euglyphina Kosakyan, Gomaa, Lara & Lahr, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "Euglyphidion Bonnet, 1960",
+      "url": ""
+    }
+,
+    {
+      "name": "Euglyphidion enigmaticum Bonnet, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961413"
+    }
+,
+    {
+      "name": "Tracheleuglypha Deflandre, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Tracheleuglypha acolla Bonnet & Thomas, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922417"
+    }
+,
+    {
+      "name": "Tracheleuglypha acola Bonnet & Thomas, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/917031"
+    }
+,
+    {
+      "name": "Tracheleuglypha acolla var. aspera Bonnet & Thomas, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961407"
+    }
+,
+    {
+      "name": "Tracheleuglypha dentata (Vejdovsky, 1882) Deflandre, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/73368"
+    }
+,
+    {
+      "name": "Euglypha beta Vejdovsky, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366179"
+    }
+,
+    {
+      "name": "paulinellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/cercozoa/imbricatea/euglyphida/paulinellidae/"
+    }
+,
+    {
+      "name": "sphenoderiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/cercozoa/imbricatea/euglyphida/sphenoderiidae/"
+    }
+,
+    {
+      "name": "trinematidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/cercozoa/imbricatea/euglyphida/trinematidae/"
+    }
+
+  ]
+}

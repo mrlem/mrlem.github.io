@@ -1,0 +1,42 @@
+
+{
+  "name": "selenopidae",
+  "children": [
+
+    {
+      "name": "Selenopidae Simon, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Selenops Latreille, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Selenops aissus Walckenaer, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440015"
+    }
+,
+    {
+      "name": "Selenops dufouri Vinson, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907657"
+    }
+,
+    {
+      "name": "Selenops kalinago Crews, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782712"
+    }
+,
+    {
+      "name": "Selenops micropalpus Muma, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782711"
+    }
+,
+    {
+      "name": "Selenops souliga Crews, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813774"
+    }
+
+  ]
+}

@@ -1,0 +1,32 @@
+
+{
+  "name": "glossosomatidae",
+  "children": [
+
+    {
+      "name": "Glossosomatidae Wallengren, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "agapetinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/trichoptera/glossosomatidae/agapetinae/"
+    }
+,
+    {
+      "name": "glossosomatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/trichoptera/glossosomatidae/glossosomatinae/"
+    }
+,
+    {
+      "name": "Protoptila Banks, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Protoptila dominicensis Flint, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641574"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "glomeromycetes",
+  "children": [
+
+    {
+      "name": "Glomeromycetes Caval.-Sm., 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "archaeosporales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/glomeromycota/glomeromycetes/archaeosporales/"
+    }
+,
+    {
+      "name": "diversisporales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/glomeromycota/glomeromycetes/diversisporales/"
+    }
+,
+    {
+      "name": "glomerales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/glomeromycota/glomeromycetes/glomerales/"
+    }
+
+  ]
+}

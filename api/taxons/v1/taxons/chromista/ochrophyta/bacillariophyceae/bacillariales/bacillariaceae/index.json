@@ -1,0 +1,3627 @@
+
+{
+  "name": "bacillariaceae",
+  "children": [
+
+    {
+      "name": "Bacillariaceae Ehrenberg, 1831",
+      "url": ""
+    }
+,
+    {
+      "name": "Bacillaria Gmelin, 1791",
+      "url": ""
+    }
+,
+    {
+      "name": "Bacillaria paxillifera (O.F.Müll.) T.Marsson, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/543356"
+    }
+,
+    {
+      "name": "Bacillaria paradoxa J.F.Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/74722"
+    }
+,
+    {
+      "name": "Bacillaria paxillifer (O.F.Müll.) Hendey, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545409"
+    }
+,
+    {
+      "name": "Diatoma paxillifera (O.F.Müll.) Bréb., 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681159"
+    }
+,
+    {
+      "name": "Homoeocladia paxillifer (O.F.Müll.) Elmore, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681160"
+    }
+,
+    {
+      "name": "Nitzschia paradoxa (Gmelin) Grunow in Cleve & Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545005"
+    }
+,
+    {
+      "name": "Nitzschia paxillifer (O.F.Müll.) Heib., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545004"
+    }
+,
+    {
+      "name": "Oscillaria paxillifera (O.F.Müll.) Schrank, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681162"
+    }
+,
+    {
+      "name": "Oscillatoria paxillifera (O.F.Müll.) Schrank ex Gomont, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681161"
+    }
+,
+    {
+      "name": "Oscillatoria paxillifer (O.F.Müll.) Schrank, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681163"
+    }
+,
+    {
+      "name": "Vibrio paxillifer O.F.Müll., 1786",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545003"
+    }
+,
+    {
+      "name": "Bacillaria paxillifera var. tumidula (Grunow) Witkowski, Lange-Bert. & Metzeltin, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655303"
+    }
+,
+    {
+      "name": "Bacillaria paradoxa var. tumidula Grunow",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/74723"
+    }
+,
+    {
+      "name": "Bacillaria paradoxa var. tumidula (Grunow) De Toni, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/697145"
+    }
+,
+    {
+      "name": "Nitzschia paradoxa var. tumidula Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/697144"
+    }
+,
+    {
+      "name": "Bacillaria pectinalis Nitzsch, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951179"
+    }
+,
+    {
+      "name": "Diatoma pectinale (Nitzsch) Kützing, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951180"
+    }
+,
+    {
+      "name": "Bacillaria socialis (Gregory) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842613"
+    }
+,
+    {
+      "name": "Nitzschia socialis Gregory, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727462"
+    }
+,
+    {
+      "name": "Cylindrotheca Rabenh., 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Ceratoneis Ehrenberg, 1839",
+      "url": ""
+    }
+,
+    {
+      "name": "Cylindrotheca closterium (Ehrenb.) Reimann & J.C.Lewin, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669242"
+    }
+,
+    {
+      "name": "Ceratoneis closterium Ehrenb., 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653781"
+    }
+,
+    {
+      "name": "Nitzschia closterium f. tenuissima E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823283"
+    }
+,
+    {
+      "name": "Nitzschia closterium (Ehrenberg) W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76097"
+    }
+,
+    {
+      "name": "Nitzschiella closterium (Ehrenberg) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/586685"
+    }
+,
+    {
+      "name": "Cylindrotheca gracilis (Bréb. ex Kütz.) Grunow, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75633"
+    }
+,
+    {
+      "name": "Ceratoneis gracilis Bréb. ex Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547217"
+    }
+,
+    {
+      "name": "Cylindrotheca gerstenbergeri Rabenh., 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547218"
+    }
+,
+    {
+      "name": "Nitzschia taenia W. Sm., 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547602"
+    }
+,
+    {
+      "name": "Nitzschiella gracilis (Bréb. ex Kütz.) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681623"
+    }
+,
+    {
+      "name": "Denticula Kütz., 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Denticula elegans Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75714"
+    }
+,
+    {
+      "name": "Odontidium elegans (Kütz.) O'Meara, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005412"
+    }
+,
+    {
+      "name": "Rhabdium elegans (Kütz.) Trev., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005409"
+    }
+,
+    {
+      "name": "Denticula elegans var. robusta Manguin, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/887275"
+    }
+,
+    {
+      "name": "Denticula frigida Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950980"
+    }
+,
+    {
+      "name": "Denticula tenuis var. frigida (Kütz.) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810451"
+    }
+,
+    {
+      "name": "Rhabdium frigidum (Kütz.) Trev., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950983"
+    }
+,
+    {
+      "name": "Denticula fusiformis Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852826"
+    }
+,
+    {
+      "name": "Denticula hustedtii Simonsen & T.Kanaya, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935892"
+    }
+,
+    {
+      "name": "Denticula inflata W.Smith, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950321"
+    }
+,
+    {
+      "name": "Denticula tenuis var. inflata (W. Smith) Grunow in Van Heurck, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950322"
+    }
+,
+    {
+      "name": "Denticula kuetzingii Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658283"
+    }
+,
+    {
+      "name": "Denticula denticula (Grunow) Schonfeldt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688051"
+    }
+,
+    {
+      "name": "Nitzschia denticula Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76104"
+    }
+,
+    {
+      "name": "Denticula nicobarica Grunow, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935893"
+    }
+,
+    {
+      "name": "Crucidenticula nicobarica (Grunow) Akiba & Yanagisawa, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935894"
+    }
+,
+    {
+      "name": "Denticulopsis nicobarica (Grunow) Simonsen, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935895"
+    }
+,
+    {
+      "name": "Denticula obtusa W.Smith, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965844"
+    }
+,
+    {
+      "name": "Denticula parva Hust., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658281"
+    }
+,
+    {
+      "name": "Denticula subtilis Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658279"
+    }
+,
+    {
+      "name": "Denticula rainierensis Sovereign, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687972"
+    }
+,
+    {
+      "name": "Denticula sundaysensis Archibald, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810452"
+    }
+,
+    {
+      "name": "Denticula tenuis Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75716"
+    }
+,
+    {
+      "name": "Odontidium tenue (Kütz.) O'Meara, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681772"
+    }
+,
+    {
+      "name": "Odontidium tenue (Kütz.) Pfitzer, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681773"
+    }
+,
+    {
+      "name": "Rhabdium tenue (Kütz.) Trevisan, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681774"
+    }
+,
+    {
+      "name": "Denticula tenuis var. crassula (Nägeli ex Kütz.) West & G.S.West, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75717"
+    }
+,
+    {
+      "name": "Denticula crassula Naegeli ex Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950460"
+    }
+,
+    {
+      "name": "Denticula thermalis Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75718"
+    }
+,
+    {
+      "name": "Denticula elegans var. thermalis (Kütz.) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005414"
+    }
+,
+    {
+      "name": "Denticula ventricosa Kütz.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75719"
+    }
+,
+    {
+      "name": "Denticula watanabei Gerd Moser, Lange-Bert. & Metzeltin, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828424"
+    }
+,
+    {
+      "name": "Denticulopsis R. Simonsen, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Denticulopsis lauta (Bailey) Simonsen, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005411"
+    }
+,
+    {
+      "name": "Denticella lauta (Bailey) Ehrenberg, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005413"
+    }
+,
+    {
+      "name": "Denticula lauta Bailey, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926978"
+    }
+,
+    {
+      "name": "Denticulopsis maccollumii Simonsen, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935918"
+    }
+,
+    {
+      "name": "Fragilariopsis Hust., 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Fragilariopsis angulata Hasle",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823455"
+    }
+,
+    {
+      "name": "Fragilariopsis curta (Van Heurck) Hust., 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823132"
+    }
+,
+    {
+      "name": "Fragilaria curta Van Heurck, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823133"
+    }
+,
+    {
+      "name": "Fragilariopsis linearis var. curta (Van Heurck) Frenguelli, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823456"
+    }
+,
+    {
+      "name": "Nitzschia curta (Van Heurck) Hasle, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823457"
+    }
+,
+    {
+      "name": "Fragilariopsis cylindrus (Grunow) Krieger, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829714"
+    }
+,
+    {
+      "name": "Fragilaria cylindrus f. minor E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823134"
+    }
+,
+    {
+      "name": "Fragilaria cylindrus Grunow, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811468"
+    }
+,
+    {
+      "name": "Nitzschia cylindrus (Grunow) Hasle, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811467"
+    }
+,
+    {
+      "name": "Fragilariopsis doliolus (Wallich) Medlin & P.A.Sims, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727558"
+    }
+,
+    {
+      "name": "Pseudoeunotia doliolus (Wallich) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727856"
+    }
+,
+    {
+      "name": "Synedra doliolus G.C.Wall., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914212"
+    }
+,
+    {
+      "name": "Fragilariopsis kerguelensis (O'Meara) Hust., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654005"
+    }
+,
+    {
+      "name": "Fragilaria antarctica Castracane, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688718"
+    }
+,
+    {
+      "name": "Fragilariopsis antarctica (Castracane) Hust., 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688719"
+    }
+,
+    {
+      "name": "Nitzschia kerguelensis (O'Meara) Hasle, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688720"
+    }
+,
+    {
+      "name": "Terebraria kerguelensis O'Meara, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688721"
+    }
+,
+    {
+      "name": "Trachysphenia australis var. kerguelensis (O'Meara) De Toni, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688717"
+    }
+,
+    {
+      "name": "Fragilariopsis linearis (Castracane) Frenguelli, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823137"
+    }
+,
+    {
+      "name": "Fragilaria linearis var. intermedia E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823139"
+    }
+,
+    {
+      "name": "Fragilaria linearis Castracane, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823138"
+    }
+,
+    {
+      "name": "Fragilariopsis obliquecostata (van Heurck) Heiden, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823141"
+    }
+,
+    {
+      "name": "Fragilaria obliquecostata van Heurck, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961447"
+    }
+,
+    {
+      "name": "Fragilariopsis oceanica (Cleve) Hasle, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810714"
+    }
+,
+    {
+      "name": "Fragilaria oceanica Cleve, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810715"
+    }
+,
+    {
+      "name": "Fragilariopsis rhombica (O'Meara) Hust., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823144"
+    }
+,
+    {
+      "name": "Diatoma rhombica E.O'Meara, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823142"
+    }
+,
+    {
+      "name": "Fragilaria rhombica (O'Meara) Heiden & Kolbe, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005453"
+    }
+,
+    {
+      "name": "Neodiatoma rhombica (O'Meara) Kuntze, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005460"
+    }
+,
+    {
+      "name": "Odontidium rhombicum (O'Meara) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1005461"
+    }
+,
+    {
+      "name": "Gomphonitzschia Grunow, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Gomphonitzschia exigua Sovereign, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811711"
+    }
+,
+    {
+      "name": "Grunowia Rabenh., 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Grunowia solgensis (Cleve-Euler) M.Aboal, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726079"
+    }
+,
+    {
+      "name": "Nitzschia denticula var. delognei Grunow",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76105"
+    }
+,
+    {
+      "name": "Nitzschia solgensis Cleve-Euler, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658264"
+    }
+,
+    {
+      "name": "Grunowia tabellaria (Grunow) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810475"
+    }
+,
+    {
+      "name": "Denticula tabellaria Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810478"
+    }
+,
+    {
+      "name": "Homoeocladia tabellaria (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810479"
+    }
+,
+    {
+      "name": "Nitzschia sinuata var. tabellaria (Grunow) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76400"
+    }
+,
+    {
+      "name": "Nitzschia tabellaria (Grunow) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810476"
+    }
+,
+    {
+      "name": "Hantzschia Grunow, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "Hantzschia amphioxys (Ehrenberg) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75343"
+    }
+,
+    {
+      "name": "Eunotia amphioxys Ehrenberg, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823160"
+    }
+,
+    {
+      "name": "Hantzschia abundans Lange-Bert., 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658197"
+    }
+,
+    {
+      "name": "Nitzschia amphioxys (Ehrenberg) W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823161"
+    }
+,
+    {
+      "name": "Hantzschia amphioxys f. capitata O.Müller, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75344"
+    }
+,
+    {
+      "name": "Hantzschia amphioxys f. densestriata Fontell, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75345"
+    }
+,
+    {
+      "name": "Hantzschia amphioxys var. major Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934454"
+    }
+,
+    {
+      "name": "Hantzschia amphioxys var. pusilla (Grunow) Dippel, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75346"
+    }
+,
+    {
+      "name": "Nitzschia pusilla Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76386"
+    }
+,
+    {
+      "name": "Synedra pusilla Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548579"
+    }
+,
+    {
+      "name": "Hantzschia amphioxys var. vivax Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75347"
+    }
+,
+    {
+      "name": "Hantzschia calcifuga Reichardt & Lange-Bert., 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810453"
+    }
+,
+    {
+      "name": "Hantzschia elongata (Hantzsch) Grun., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75348"
+    }
+,
+    {
+      "name": "Nitzschia vivax var. elongata Hantzsch, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961472"
+    }
+,
+    {
+      "name": "Hantzschia eximia Gerd Moser, Lange-Bert. & Metzeltin, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836962"
+    }
+,
+    {
+      "name": "Hantzschia marina (Donkin) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811465"
+    }
+,
+    {
+      "name": "Epithemia marina Donkin, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811466"
+    }
+,
+    {
+      "name": "Hantzschia mongolica Metzeltin, Lange-Bert. & Nergui, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934247"
+    }
+,
+    {
+      "name": "Hantzschia possessionensis Van de Vijver & Beyens, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822404"
+    }
+,
+    {
+      "name": "Hantzschia sigma Hust., 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836963"
+    }
+,
+    {
+      "name": "Hantzschia spectabilis (Ehrenberg) Hust., 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006872"
+    }
+,
+    {
+      "name": "Nitzschia spectabilis (Ehrenberg) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76403"
+    }
+,
+    {
+      "name": "Synedra spectabilis Ehrenberg, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006857"
+    }
+,
+    {
+      "name": "Synedra spectabilis Ehrenberg, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548564"
+    }
+,
+    {
+      "name": "Hantzschia virgata (Roper) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75349"
+    }
+,
+    {
+      "name": "Nitzschia virgata Roper, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961473"
+    }
+,
+    {
+      "name": "Hantzschia virgata var. capitellata Hust., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/75350"
+    }
+,
+    {
+      "name": "Nitzschia virgata var. capitellata (Hust.) Freng., 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006360"
+    }
+,
+    {
+      "name": "Hantzschia virgata var. gracilis Hust., 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811464"
+    }
+,
+    {
+      "name": "Hantzschia vivacior Lange-Bert., 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811715"
+    }
+,
+    {
+      "name": "Hantzschia vivax (W.Smith) Tempère, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006885"
+    }
+,
+    {
+      "name": "Nitzschia amphioxys var. vivax (W.Smith) Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006875"
+    }
+,
+    {
+      "name": "Nitzschia vivax W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76424"
+    }
+,
+    {
+      "name": "Nitzschia Hassall, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Homoeocladia C.A.Agardh, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Nitzschia abbreviata Hust., 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811725"
+    }
+,
+    {
+      "name": "Nitzschia accommodata Hust., 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934229"
+    }
+,
+    {
+      "name": "Nitzschia acicularioides Hust., 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934512"
+    }
+,
+    {
+      "name": "Nitzschia acicularis (Kütz.) W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76075"
+    }
+,
+    {
+      "name": "Homoeocladia acicularis (Kütz.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681802"
+    }
+,
+    {
+      "name": "Nitzschiella acicularis (Kütz.) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681801"
+    }
+,
+    {
+      "name": "Synedra acicularis Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548530"
+    }
+,
+    {
+      "name": "Nitzschia acidoclinata Lange-Bert., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658200"
+    }
+,
+    {
+      "name": "Nitzschia acula (Kütz.) Hantzsch, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76076"
+    }
+,
+    {
+      "name": "Synedra acula Kützing, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961474"
+    }
+,
+    {
+      "name": "Nitzschia acuta Hantzsch, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76078"
+    }
+,
+    {
+      "name": "Nitzschia adeliana E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823280"
+    }
+,
+    {
+      "name": "Nitzschia adeliana var. major E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823281"
+    }
+,
+    {
+      "name": "Nitzschia aequorea Hust., 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934516"
+    }
+,
+    {
+      "name": "Nitzschia affinis Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853066"
+    }
+,
+    {
+      "name": "Nitzschia agnewii Cholnoky, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658201"
+    }
+,
+    {
+      "name": "Nitzschia agnita Hust., 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658202"
+    }
+,
+    {
+      "name": "Nitzschia alba J.C.Lewin & R.A.Lewin, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792327"
+    }
+,
+    {
+      "name": "Nitzschia alexandrina (Cholnoky) Lange-Bert. & Simonsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76079"
+    }
+,
+    {
+      "name": "Nitzschia elliptica var. alexandrina Cholnoky, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961475"
+    }
+,
+    {
+      "name": "Nitzschia alicae Hlúbiková & Ector, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934513"
+    }
+,
+    {
+      "name": "Nitzschia alpina Hust., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823361"
+    }
+,
+    {
+      "name": "Nitzschia amphibia Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76080"
+    }
+,
+    {
+      "name": "Bacillaria amphibia (Grunow) Elmore, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681804"
+    }
+,
+    {
+      "name": "Homoeocladia amphibia (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681803"
+    }
+,
+    {
+      "name": "Nitzschia amphibia f. frauenfeldii (Grunow) H.Lange-Bert., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891921"
+    }
+,
+    {
+      "name": "Nitzschia denticuloides Hust., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891924"
+    }
+,
+    {
+      "name": "Nitzschia frauenfeldii Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891922"
+    }
+,
+    {
+      "name": "Nitzschia amphibia var. acustiuscula Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76081"
+    }
+,
+    {
+      "name": "Nitzschia amphibia var. intermedia Mayer, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76082"
+    }
+,
+    {
+      "name": "Nitzschia amphioxoides Hust., 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76083"
+    }
+,
+    {
+      "name": "Nitzschia amplectens Hust., 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76084"
+    }
+,
+    {
+      "name": "Nitzschia angularis W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727464"
+    }
+,
+    {
+      "name": "Nitzschia angustiforaminata Lange-Bert., 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658204"
+    }
+,
+    {
+      "name": "Nitzschia archibaldii Lange-Bert., 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76088"
+    }
+,
+    {
+      "name": "Nitzschia arcuata Gregory ex Grev., 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658205"
+    }
+,
+    {
+      "name": "Nitzschia aremonica Archibald, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837253"
+    }
+,
+    {
+      "name": "Nitzschia aurariae Cholnoky, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658206"
+    }
+,
+    {
+      "name": "Nitzschia bacata Hust., 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837255"
+    }
+,
+    {
+      "name": "Nitzschia bacata var. lancettula Manguin, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/887257"
+    }
+,
+    {
+      "name": "Nitzschia bacillum Hust., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852319"
+    }
+,
+    {
+      "name": "Nitzschia bergii Cleve, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658207"
+    }
+,
+    {
+      "name": "Nitzschia biacrula M.H.Hohn & Hellermann, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891926"
+    }
+,
+    {
+      "name": "Nitzschia bilobata W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76089"
+    }
+,
+    {
+      "name": "Homoeocladia bilobata (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006806"
+    }
+,
+    {
+      "name": "Nitzschia bilobata var. ambigua Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853067"
+    }
+,
+    {
+      "name": "Nitzschia brebissonii W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76090"
+    }
+,
+    {
+      "name": "Homoeocladia brebissonii (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006808"
+    }
+,
+    {
+      "name": "Nitzschia bremensis Hust., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76091"
+    }
+,
+    {
+      "name": "Nitzschia bremensis var. brunsvigensis Hust., 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76092"
+    }
+,
+    {
+      "name": "Nitzschia brevior (Manguin ex Kociolek & Reviers) Gerd Moser, Lange-Bert. & Metzeltin, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837254"
+    }
+,
+    {
+      "name": "Nitzschia luzonensis f. brevior Manguin ex Kociolek & Reviers, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837257"
+    }
+,
+    {
+      "name": "Nitzschia brevissima Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658208"
+    }
+,
+    {
+      "name": "Nitzschia bulnheimiana (Rabenh.) H. L. Smith, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658210"
+    }
+,
+    {
+      "name": "Homoeocladia bulnheimiana Rabenh., 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837533"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. bulnheimiana (Rabenh.) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837532"
+    }
+,
+    {
+      "name": "Nitzschia capitellata Hust., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76094"
+    }
+,
+    {
+      "name": "Nitzschia clarissima H.Perag. & Perag., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727611"
+    }
+,
+    {
+      "name": "Nitzschia clausii Hantzsch, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76096"
+    }
+,
+    {
+      "name": "Nitzschia curvula var. subcapitata Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681836"
+    }
+,
+    {
+      "name": "Nitzschia sigma var. clausii (Hantzsch) Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681837"
+    }
+,
+    {
+      "name": "Nitzschia communis Rabenh., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76098"
+    }
+,
+    {
+      "name": "Nitzschia communis f. acuta Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853068"
+    }
+,
+    {
+      "name": "Nitzschia communis f. lata Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853069"
+    }
+,
+    {
+      "name": "Nitzschia communis var. obtusa Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76099"
+    }
+,
+    {
+      "name": "Nitzschia commutata Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76100"
+    }
+,
+    {
+      "name": "Homoeocladia commutata (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006807"
+    }
+,
+    {
+      "name": "Nitzschia pseudoamphyoxys Hust.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681838"
+    }
+,
+    {
+      "name": "Nitzschia congolensis Hust., 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76101"
+    }
+,
+    {
+      "name": "Nitzschia costei Tudesque, Rimet & Ector, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810467"
+    }
+,
+    {
+      "name": "Nitzschia coutei Maillard, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812018"
+    }
+,
+    {
+      "name": "Nitzschia curvirostris Cleve, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727507"
+    }
+,
+    {
+      "name": "Nitzschia cuspidata Hasle, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955425"
+    }
+,
+    {
+      "name": "Pseudonitzschia cuspidata (Hasle) Hasle, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955426"
+    }
+,
+    {
+      "name": "Nitzschia delauneyi Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853070"
+    }
+,
+    {
+      "name": "Nitzschia desertorum Hust., 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658229"
+    }
+,
+    {
+      "name": "Nitzschia dippelii Grunow, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76106"
+    }
+,
+    {
+      "name": "Homoeocladia dippelii (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006810"
+    }
+,
+    {
+      "name": "Nitzschia dissipata (Kütz.) Rabenh., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76107"
+    }
+,
+    {
+      "name": "Homoeocladia dissipata (Kütz.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681841"
+    }
+,
+    {
+      "name": "Nitzschia palea f. dissipata (Kütz.) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681840"
+    }
+,
+    {
+      "name": "Nitzschia palea var. dissipata (Kütz.) Schonfeldt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681839"
+    }
+,
+    {
+      "name": "Synedra dissipata Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548533"
+    }
+,
+    {
+      "name": "Nitzschia dissipata f. maewensis Foged, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925488"
+    }
+,
+    {
+      "name": "Nitzschia dissipata var. media (Hantzsch) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76108"
+    }
+,
+    {
+      "name": "Nitzschia media Hantzsch, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658251"
+    }
+,
+    {
+      "name": "Nitzschia tenuis var. media (Hantzsch) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/686971"
+    }
+,
+    {
+      "name": "Nitzschia dissipatoides Archibald, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821782"
+    }
+,
+    {
+      "name": "Nitzschia distans W.Greg., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727463"
+    }
+,
+    {
+      "name": "Homoeocladia distans (Gregory) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006813"
+    }
+,
+    {
+      "name": "Nitzschia distans var. tumescens Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727797"
+    }
+,
+    {
+      "name": "Nitzschia draveillensis Coste & Ricard, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76109"
+    }
+,
+    {
+      "name": "Nitzschia dubia W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76110"
+    }
+,
+    {
+      "name": "Homoeocladia dubia (W.Smith) Elmore, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681874"
+    }
+,
+    {
+      "name": "Homoeocladia dubia (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681875"
+    }
+,
+    {
+      "name": "Nitzschia dubia var. latestriata Østrup, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945382"
+    }
+,
+    {
+      "name": "Nitzschia ebroicensis Maillard, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76111"
+    }
+,
+    {
+      "name": "Nitzschia paleacea var. ebroicensis Maillard",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76376"
+    }
+,
+    {
+      "name": "Nitzschia elegantula Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529059"
+    }
+,
+    {
+      "name": "Nitzschia microcephala var. elegantula (Grunow) van Heurck, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76367"
+    }
+,
+    {
+      "name": "Nitzschia epiphyticoides Hust., 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891929"
+    }
+,
+    {
+      "name": "Nitzschia epithemoides Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930206"
+    }
+,
+    {
+      "name": "Nitzschia epithemiformis Lange-Bert., 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886572"
+    }
+,
+    {
+      "name": "Nitzschia epithemioides Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76112"
+    }
+,
+    {
+      "name": "Nitzschia epithemoides var. disputata (J.R.Carter) Lange-Bert., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006801"
+    }
+,
+    {
+      "name": "Nitzschia disputata Carter, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658228"
+    }
+,
+    {
+      "name": "Nitzschia fasciculata (Grunow) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76113"
+    }
+,
+    {
+      "name": "Nitzschia sigma var. fasciculata Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548535"
+    }
+,
+    {
+      "name": "Nitzschia filiformis (W.Smith) Van Heurck, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76114"
+    }
+,
+    {
+      "name": "Homoeocladia filiformis W.Smith, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961476"
+    }
+,
+    {
+      "name": "Nitzschia filiformis var. conferta (P.G.Richt.) Lange-Bert., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658245"
+    }
+,
+    {
+      "name": "Homoeocladia conferta P.G.Richt., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891928"
+    }
+,
+    {
+      "name": "Nitzschia conferta (P.G.Richt.) Mig., 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891927"
+    }
+,
+    {
+      "name": "Nitzschia flexa Schum., 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76115"
+    }
+,
+    {
+      "name": "Nitzschia vermicularis var. flexa (Schum.) Cleve-Euler, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886573"
+    }
+,
+    {
+      "name": "Nitzschia flexoides Geitler, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852265"
+    }
+,
+    {
+      "name": "Nitzschia fonticola (Grunow) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76116"
+    }
+,
+    {
+      "name": "Homoeocladia romana (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006854"
+    }
+,
+    {
+      "name": "Nitzschia kuetzingiana var. romana Grunow in Cleve & Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548566"
+    }
+,
+    {
+      "name": "Nitzschia kützingiana var. fonticola Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681876"
+    }
+,
+    {
+      "name": "Nitzschia palea var. fonticola Grunow, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681877"
+    }
+,
+    {
+      "name": "Nitzschia romana Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76389"
+    }
+,
+    {
+      "name": "Nitzschia fonticola var. pelagica Hust., 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76117"
+    }
+,
+    {
+      "name": "Nitzschia frequens Hust., 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810468"
+    }
+,
+    {
+      "name": "Nitzschia capitellata var. frequens (Hust.) Lange-Bert.,",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006817"
+    }
+,
+    {
+      "name": "Nitzschia frigida Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811469"
+    }
+,
+    {
+      "name": "Homoeocladia frigida (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006818"
+    }
+,
+    {
+      "name": "Nitzschia frustulum (Kütz.) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76118"
+    }
+,
+    {
+      "name": "Nitzschia austriaca Hust., 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669277"
+    }
+,
+    {
+      "name": "Synedra frustulum Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548570"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. kerguelenensis Manguin, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/887294"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. minutula Grunow, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934362"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. perminuta Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76120"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. perpusilla (Rabenh.) Van Heurck, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76121"
+    }
+,
+    {
+      "name": "Nitzschia perpusilla Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899504"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. tenella Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76123"
+    }
+,
+    {
+      "name": "Nitzschia fruticosa Hust., 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658232"
+    }
+,
+    {
+      "name": "Nitzschia gessneri Hust., 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658235"
+    }
+,
+    {
+      "name": "Nitzschia gisela Lange-Bert., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810472"
+    }
+,
+    {
+      "name": "Nitzschia graciliformis Lange-Bert. & Simonsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76341"
+    }
+,
+    {
+      "name": "Nitzschia gracilis Hantzsch, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76342"
+    }
+,
+    {
+      "name": "Homoeocladia gracilis (Hantzsch) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681980"
+    }
+,
+    {
+      "name": "Nitzschia gracilis f. acicularoides Coste & Ricard, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76343"
+    }
+,
+    {
+      "name": "Nitzschia granii G.R.Hasle, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955427"
+    }
+,
+    {
+      "name": "Nitzschia guadalupensis Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853071"
+    }
+,
+    {
+      "name": "Nitzschia hantzschiana Rabenh., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76344"
+    }
+,
+    {
+      "name": "Homoeocladia hantzschiana (Rabenh.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681984"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. hantzschiana (Rabenh.) Comber, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681983"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. hantzschiana (Rabenh.) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681982"
+    }
+,
+    {
+      "name": "Nitzschia tenuis var. parva Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681981"
+    }
+,
+    {
+      "name": "Nitzschia heufleriana Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76345"
+    }
+,
+    {
+      "name": "Hantzschia heufleriana (Grunow) Heinzerl., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886575"
+    }
+,
+    {
+      "name": "Homoeocladia heufleriana (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886574"
+    }
+,
+    {
+      "name": "Nitzschia hiengheneana Manguin ex Kociolek & Reviers, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837537"
+    }
+,
+    {
+      "name": "Nitzschia holsatica Hust., 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76346"
+    }
+,
+    {
+      "name": "Nitzschia actinastroides (Lemmermann) van Goor, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681987"
+    }
+,
+    {
+      "name": "Nitzschia intermedia f. actinastroides (Lemmermann) Lange-Bert., 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681985"
+    }
+,
+    {
+      "name": "Synedra actinastroides Lemmermann, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681986"
+    }
+,
+    {
+      "name": "Nitzschia homburgiensis Lange-Bert., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658237"
+    }
+,
+    {
+      "name": "Nitzschia hybrida Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76349"
+    }
+,
+    {
+      "name": "Homoeocladia hybrida (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006819"
+    }
+,
+    {
+      "name": "Nitzschia impressa Hust., 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76351"
+    }
+,
+    {
+      "name": "Nitzschia inconspicua Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521481"
+    }
+,
+    {
+      "name": "Homoeocladia inconspicua (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689295"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. inconspicua (Grunow) Grunow, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689294"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. subsalina Hust., 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76122"
+    }
+,
+    {
+      "name": "Nitzschia perpusilla var. inconspicua Grunow",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689293"
+    }
+,
+    {
+      "name": "Nitzschia incurva Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811470"
+    }
+,
+    {
+      "name": "Nitzschia lorenziana var. incurva (Grunow) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76363"
+    }
+,
+    {
+      "name": "Nitzschiella incurva (Grunow) H.Perag. & Perag., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006820"
+    }
+,
+    {
+      "name": "Nitzschia incurva var. incurva Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811471"
+    }
+,
+    {
+      "name": "Nitzschia incurva var. lorenziana R.Ross, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006832"
+    }
+,
+    {
+      "name": "Homoeocladia lorenziana (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006834"
+    }
+,
+    {
+      "name": "Nitzschia lorenziana Grunow, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76362"
+    }
+,
+    {
+      "name": "Nitzschiella lorenziana (Grunow) H.Perag. & Perag., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006831"
+    }
+,
+    {
+      "name": "Nitzschia ingenua Hust., 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837538"
+    }
+,
+    {
+      "name": "Nitzschia insignis W.Greg., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727561"
+    }
+,
+    {
+      "name": "Homoeocladia insignis (Gregory) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006822"
+    }
+,
+    {
+      "name": "Pritchardia insignis (Gregory) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006821"
+    }
+,
+    {
+      "name": "Nitzschia intermedia Hantzsch ex Cleve & Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658239"
+    }
+,
+    {
+      "name": "Homoeocladia intermedia (Hantzsch) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688733"
+    }
+,
+    {
+      "name": "Nitzschia subtilis var. intermedia (Hantzsch) Schonfeldt, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688732"
+    }
+,
+    {
+      "name": "Nitzschia invisitata Hust., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811729"
+    }
+,
+    {
+      "name": "Nitzschia jucunda Hust., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810473"
+    }
+,
+    {
+      "name": "Nitzschia kanakarum Gerd Moser, Lange-Bert. & Metzeltin, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837539"
+    }
+,
+    {
+      "name": "Nitzschia sigma var. fonticola Hust., 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837540"
+    }
+,
+    {
+      "name": "Nitzschia kuetzingiana Hilse, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76352"
+    }
+,
+    {
+      "name": "Nitzschia kuetzingiana var. exilis Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76353"
+    }
+,
+    {
+      "name": "Nitzschia kurzii Rabenh., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658240"
+    }
+,
+    {
+      "name": "Homoeocladia kurzii (Ranbenh.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006826"
+    }
+,
+    {
+      "name": "Nitzschia obtusa var. kurzii (Rabenh.) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006824"
+    }
+,
+    {
+      "name": "Nitzschia labella Gerd Moser, Lange-Bert. & Metzeltin, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837541"
+    }
+,
+    {
+      "name": "Nitzschia lacunarum Hust., 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76354"
+    }
+,
+    {
+      "name": "Nitzschia lacuum Lange-Bert., 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658241"
+    }
+,
+    {
+      "name": "Nitzschia lanceola (Grunow) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837542"
+    }
+,
+    {
+      "name": "Tryblionella lanceola Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837543"
+    }
+,
+    {
+      "name": "Nitzschia lange-bertalotii Coste & Ricard, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811730"
+    }
+,
+    {
+      "name": "Nitzschia lecointei van Heurck, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823285"
+    }
+,
+    {
+      "name": "Nitzschia lanceolata f. australis E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823288"
+    }
+,
+    {
+      "name": "Nitzschia lanceolata var. spicula E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823287"
+    }
+,
+    {
+      "name": "Nitzschia liebethruthii Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658243"
+    }
+,
+    {
+      "name": "Homoeocladia liebethruthii (Rabenh.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006825"
+    }
+,
+    {
+      "name": "Nitzschia ligowskii Witkowski, Lange-Bert., Kociolek & Brzezinska, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651063"
+    }
+,
+    {
+      "name": "Nitzschia subconstricta Grunow (ms)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/694256"
+    }
+,
+    {
+      "name": "Nitzschia limes Pant., 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76355"
+    }
+,
+    {
+      "name": "Nitzschia linearis W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76356"
+    }
+,
+    {
+      "name": "Frustulia linearis C.Agardh",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548574"
+    }
+,
+    {
+      "name": "Homoeocladia linearis (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006827"
+    }
+,
+    {
+      "name": "Nitzschia linearis var. subtilis (Grunow) Hust., 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/543034"
+    }
+,
+    {
+      "name": "Bacillaria subtilis (Kütz.) Elmore, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683933"
+    }
+,
+    {
+      "name": "Nitzschia subtilis (Kütz.) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76406"
+    }
+,
+    {
+      "name": "Synedra subtilis Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683932"
+    }
+,
+    {
+      "name": "Synedra tenuis var. subtilis (Kütz.) Brun, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683931"
+    }
+,
+    {
+      "name": "Nitzschia linearis var. tenuis (W.Smith) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76357"
+    }
+,
+    {
+      "name": "Nitzschia tenuis W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658270"
+    }
+,
+    {
+      "name": "Nitzschia longissima (Bréb.) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76358"
+    }
+,
+    {
+      "name": "Ceratoneis longissima Bréb. in Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548575"
+    }
+,
+    {
+      "name": "Nitzschia birostrata W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681988"
+    }
+,
+    {
+      "name": "Nitzschiella longissima (Bréb.) Rabenh.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681989"
+    }
+,
+    {
+      "name": "Nitzschia longissima var. cylindrica Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853072"
+    }
+,
+    {
+      "name": "Nitzschia lorenziana var. muscicola Gerd Moser, Lange-Bert. & Metzeltin, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837546"
+    }
+,
+    {
+      "name": "Nitzschia lorenziana var. subtilis Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76364"
+    }
+,
+    {
+      "name": "Nitzschia macilenta Gregory, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964198"
+    }
+,
+    {
+      "name": "Homoeocladia macilenta (Gregory) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964200"
+    }
+,
+    {
+      "name": "Nitzschia majuscula Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727562"
+    }
+,
+    {
+      "name": "Homoeocladia majuscula (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006823"
+    }
+,
+    {
+      "name": "Nitzschia marginulata var. didyma Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727815"
+    }
+,
+    {
+      "name": "Tryblionella marginulata var. didyma (Grunow) E.Y.Haworth & M.G.Kelly, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006836"
+    }
+,
+    {
+      "name": "Nitzschia martiana (C.Agardh) Van Heurck, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974397"
+    }
+,
+    {
+      "name": "Homoeocladia martiana C.Agardh, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/974398"
+    }
+,
+    {
+      "name": "Nitzschia maxima Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727679"
+    }
+,
+    {
+      "name": "Nitzschia microcephala Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76366"
+    }
+,
+    {
+      "name": "Homoeocladia microcephala (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006835"
+    }
+,
+    {
+      "name": "Nitzschia modesta Hust., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851032"
+    }
+,
+    {
+      "name": "Nitzschia monachorum Lange-Bert., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658252"
+    }
+,
+    {
+      "name": "Nitzschia nana Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529060"
+    }
+,
+    {
+      "name": "Nitzschia ignorata Krasske, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76350"
+    }
+,
+    {
+      "name": "Nitzschia neocaledonica Manguin ex Kociolek & Reviers, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837547"
+    }
+,
+    {
+      "name": "Nitzschia nicobarica (Grunow) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727689"
+    }
+,
+    {
+      "name": "Nitzschia panduriformis var. nicobarica Grunow, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961540"
+    }
+,
+    {
+      "name": "Nitzschia normanii Van Heurck, 1880-1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926988"
+    }
+,
+    {
+      "name": "Nitzschia nyassensis O.F.Müll., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/891930"
+    }
+,
+    {
+      "name": "Nitzschia obtusa W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76369"
+    }
+,
+    {
+      "name": "Bacillaria obtusa (W.Smith) Elmore, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681641"
+    }
+,
+    {
+      "name": "Nitzschia obtusa var. nana Grunow, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548576"
+    }
+,
+    {
+      "name": "Nitzschia obtusa var. schweinfurthii Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76371"
+    }
+,
+    {
+      "name": "Nitzschia oligotraphenta (Lange-Bert.) Lange-Bert., 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934235"
+    }
+,
+    {
+      "name": "Nitzschia dissipata subsp. oligotraphenta Lange-Bert., 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934238"
+    }
+,
+    {
+      "name": "Nitzschia ovalis H.J.Arnott, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76372"
+    }
+,
+    {
+      "name": "Homoeocladia ovalis (H.J.Arnott) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006838"
+    }
+,
+    {
+      "name": "Nitzschia pacifica Cupp, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942699"
+    }
+,
+    {
+      "name": "Pseudonitzschia pacifica (Cupp) Hustedt, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942700"
+    }
+,
+    {
+      "name": "Nitzschia paleacea (Grunow) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76375"
+    }
+,
+    {
+      "name": "Nitzschia subtilis var. paleacea Grunow in Cleve & Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548578"
+    }
+,
+    {
+      "name": "Nitzschia paleaeformis Hust., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658253"
+    }
+,
+    {
+      "name": "Nitzschia palea (Kütz.) W. Smith, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521482"
+    }
+,
+    {
+      "name": "Homoeocladia palea (v) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689296"
+    }
+,
+    {
+      "name": "Synedra palea Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548577"
+    }
+,
+    {
+      "name": "Nitzschia palea f. sparsipunctata Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853073"
+    }
+,
+    {
+      "name": "Nitzschia palea var. debilis (Kütz.) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658263"
+    }
+,
+    {
+      "name": "Synedra debilis Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687968"
+    }
+,
+    {
+      "name": "Nitzschia palea var. tenuirostris Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76374"
+    }
+,
+    {
+      "name": "Nitzschia capitallata var. tenuirostris (Grunow in Van Heurck) Bukhtiyarova, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010567"
+    }
+,
+    {
+      "name": "Nitzschia capitellata var. tenuirostris (Grunow) Bukht., 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010625"
+    }
+,
+    {
+      "name": "Nitzschia gandersheimiensis f. tenuirostris (Grunow in Van Heurck) Lange-Bertalot, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1010568"
+    }
+,
+    {
+      "name": "Nitzschia panduriformis var. minor Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76378"
+    }
+,
+    {
+      "name": "Psammodictyon panduriforme var. minor (Grunow) E.Y.Haw. & M.G.Kelly, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886576"
+    }
+,
+    {
+      "name": "Nitzschia parvula Lewis, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76379"
+    }
+,
+    {
+      "name": "Homoeocladia parvula (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006839"
+    }
+,
+    {
+      "name": "Nitzschia perminuta (Grunow) Perag., 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658254"
+    }
+,
+    {
+      "name": "Nitzschia frustulum var. perminutum Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688737"
+    }
+,
+    {
+      "name": "Nitzschia hiemalis Hust., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688738"
+    }
+,
+    {
+      "name": "Nitzschia palea var. perminuta Grunow in Cleve & Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688739"
+    }
+,
+    {
+      "name": "Nitzschia polaris Grunow ex Cleve, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811472"
+    }
+,
+    {
+      "name": "Homoeocladia polaris (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006841"
+    }
+,
+    {
+      "name": "Nitzschia pseudocommunis Hust., 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76381"
+    }
+,
+    {
+      "name": "Nitzschia pseudofonticola Hust., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658255"
+    }
+,
+    {
+      "name": "Nitzschia pseudosigma Hust., 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76382"
+    }
+,
+    {
+      "name": "Nitzschia pumila Hust., 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658256"
+    }
+,
+    {
+      "name": "Nitzschia punctata var. longissima Grunow",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76385"
+    }
+,
+    {
+      "name": "Nitzschia pura Hust., 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658257"
+    }
+,
+    {
+      "name": "Nitzschia puriformis Hlúbiková & Ector, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651064"
+    }
+,
+    {
+      "name": "Nitzschia recta Hantzsch ex Rabenh., 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76387"
+    }
+,
+    {
+      "name": "Nitzschia vitrea var. recta (Hantzsch, Grunow) van Heurck, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681805"
+    }
+,
+    {
+      "name": "Nitzschia rectiformis Hust., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809461"
+    }
+,
+    {
+      "name": "Nitzschia rectilonga Takano, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811473"
+    }
+,
+    {
+      "name": "Nitzschia rectirobusta Lange-Bert., 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934363"
+    }
+,
+    {
+      "name": "Nitzschia reversa W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837552"
+    }
+,
+    {
+      "name": "Ceratoneis reversa (W.Smith) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006829"
+    }
+,
+    {
+      "name": "Nitzschia closterum var. reversa (W.Smith) Hauck, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006828"
+    }
+,
+    {
+      "name": "Nitzschia longissima var. reversa Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76360"
+    }
+,
+    {
+      "name": "Nitzschiella reversa (W.Smith) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006830"
+    }
+,
+    {
+      "name": "Nitzschia rimosa Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853074"
+    }
+,
+    {
+      "name": "Nitzschia romanoides Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853075"
+    }
+,
+    {
+      "name": "Nitzschia rosenstockii Lange-Bert., 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658258"
+    }
+,
+    {
+      "name": "Nitzschia rostellata Hust., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658259"
+    }
+,
+    {
+      "name": "Nitzschia scalpelliformis Grunow in Cleve & Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658260"
+    }
+,
+    {
+      "name": "Nitzschia obtusa subsp. scalpelliformis Grunow in Cleve & Möller",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925491"
+    }
+,
+    {
+      "name": "Nitzschia obtusa var. scapelliformis Grunow",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76370"
+    }
+,
+    {
+      "name": "Nitzschia serrata Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853076"
+    }
+,
+    {
+      "name": "Nitzschia sigma (Kütz.) W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76392"
+    }
+,
+    {
+      "name": "Homoeocladia sigma (Kütz.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681806"
+    }
+,
+    {
+      "name": "Sigmatella sigma (Kütz.) Frenguelli, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681807"
+    }
+,
+    {
+      "name": "Synedra sigma Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548581"
+    }
+,
+    {
+      "name": "Nitzschia sigma f. longissima Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853077"
+    }
+,
+    {
+      "name": "Nitzschia sigma var. intercedens Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76394"
+    }
+,
+    {
+      "name": "Nitzschia sigma var. rigida Grunow ex Van Heurck, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76395"
+    }
+,
+    {
+      "name": "Amphipleura rigida Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006842"
+    }
+,
+    {
+      "name": "Nitzschia rigida (Kütz.) H.Perag. & Perag., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76388"
+    }
+,
+    {
+      "name": "Sigmatella sigma var. rigida (Kütz.) Freng., 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006853"
+    }
+,
+    {
+      "name": "Nitzschia sigma var. rigidula (H.Perag. & Perag.) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76396"
+    }
+,
+    {
+      "name": "Nitzschia rigida var. rigidula H.Perag. & Perag., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006855"
+    }
+,
+    {
+      "name": "Nitzschia sigmoidea (Nitzsch) W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76397"
+    }
+,
+    {
+      "name": "Bacillaria sigmoidea Nitzsch, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548582"
+    }
+,
+    {
+      "name": "Cymbella sigmoidea (Nitzsch) C.Agardh, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681810"
+    }
+,
+    {
+      "name": "Frustulia sigmoidea (Nitzsch) Jenner, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681811"
+    }
+,
+    {
+      "name": "Homoeocladia sigmoidea (Nitzsch) Elmore, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681809"
+    }
+,
+    {
+      "name": "Nitzschia elongata Hassal, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681808"
+    }
+,
+    {
+      "name": "Synedra sigmoidea (Nitzsch) Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681812"
+    }
+,
+    {
+      "name": "Nitzschia sinuata (Thwaites) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76399"
+    }
+,
+    {
+      "name": "Bacillaria sinuata (Thwaites) Elmore, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006866"
+    }
+,
+    {
+      "name": "Denticula sinuata Thwaites, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006862"
+    }
+,
+    {
+      "name": "Dimeregramma sinuatum (Thwaites) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006868"
+    }
+,
+    {
+      "name": "Grunowia sinuata (Thwaites) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829497"
+    }
+,
+    {
+      "name": "Homoeocladia sinuata (Thwaites) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006863"
+    }
+,
+    {
+      "name": "Odontidium sinuatum (Thwaites) O'Meara, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006865"
+    }
+,
+    {
+      "name": "Nitzschia sociabilis Hust., 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76402"
+    }
+,
+    {
+      "name": "Nitzschia subtubicola H.Germ., 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886577"
+    }
+,
+    {
+      "name": "Nitzschia solita Hust., 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658265"
+    }
+,
+    {
+      "name": "Nitzschia soratensis Morales & Vis, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810474"
+    }
+,
+    {
+      "name": "Nitzschia spathulata W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727465"
+    }
+,
+    {
+      "name": "Nitzschia stellata Manguin, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823292"
+    }
+,
+    {
+      "name": "Nitzschia strigillata Hust., 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837554"
+    }
+,
+    {
+      "name": "Nitzschia subacicularis Hust., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658267"
+    }
+,
+    {
+      "name": "Nitzschia subbacata Manguin ex Kociolek & Reviers, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837555"
+    }
+,
+    {
+      "name": "Nitzschia subcapitellata Hust., 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658268"
+    }
+,
+    {
+      "name": "Nitzschia subcommunis Hust., 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812019"
+    }
+,
+    {
+      "name": "Nitzschia sublinearis Hust., 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76401"
+    }
+,
+    {
+      "name": "Nitzschia subulata (Breb.) De Toni, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950339"
+    }
+,
+    {
+      "name": "Ceratoneis subulata Bréb., 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950336"
+    }
+,
+    {
+      "name": "Homoeocladia subulata (Breb.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950338"
+    }
+,
+    {
+      "name": "Nitzschiella subulata (Bréb.) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950340"
+    }
+,
+    {
+      "name": "Nitzschia supralitorea Lange-Bert., 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658269"
+    }
+,
+    {
+      "name": "Nitzschia tenuirostris Manguin, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/853092"
+    }
+,
+    {
+      "name": "Nitzschia tergestina (Kütz.) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76407"
+    }
+,
+    {
+      "name": "Synedra tergestina Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/886578"
+    }
+,
+    {
+      "name": "Nitzschia terrestris (J.B.Petersen) Hust., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658271"
+    }
+,
+    {
+      "name": "Nitzschia vermicularis var. terrestris J.B.Petersen, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687969"
+    }
+,
+    {
+      "name": "Nitzschia thermalis (Ehrenberg) Auerswald, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76408"
+    }
+,
+    {
+      "name": "Cymatopleura thermalis (Ehrenberg) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006869"
+    }
+,
+    {
+      "name": "Navicula thermalis Ehrenberg",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681920"
+    }
+,
+    {
+      "name": "Surirella thermalis (Ehrenberg) Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681921"
+    }
+,
+    {
+      "name": "Nitzschia thermalis var. intermedia Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76409"
+    }
+,
+    {
+      "name": "Nitzschia thermalis var. littoralis Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76410"
+    }
+,
+    {
+      "name": "Nitzschia thermalis var. minor Hilse, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76411"
+    }
+,
+    {
+      "name": "Nitzschia thermaloides Hust., 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/627731"
+    }
+,
+    {
+      "name": "Nitzschia tropica Hust., 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658272"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella var. obtusiuscula Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76415"
+    }
+,
+    {
+      "name": "Nitzschia tubicola Grunow in Cleve & Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658273"
+    }
+,
+    {
+      "name": "Homoeocladia tubicola (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837556"
+    }
+,
+    {
+      "name": "Nitzschia adamata Hust., 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810464"
+    }
+,
+    {
+      "name": "Nitzschia gandersheimiensis Krasske, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76340"
+    }
+,
+    {
+      "name": "Nitzschia umbonata (Ehrenberg) Lange-Bert., 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76419"
+    }
+,
+    {
+      "name": "Navicula umbonata Ehrenberg, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548584"
+    }
+,
+    {
+      "name": "Nitzschia diducta Hust., 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681930"
+    }
+,
+    {
+      "name": "Nitzschia fossalis Hust., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681931"
+    }
+,
+    {
+      "name": "Nitzschia stagnorum Rabenh., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76404"
+    }
+,
+    {
+      "name": "Surirella umbonata (Ehrenberg) G.L.Rabenh., 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681932"
+    }
+,
+    {
+      "name": "Nitzschia valdecostata Lange-Bert. & Simonsen, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852266"
+    }
+,
+    {
+      "name": "Nitzschia valdestriata Aleem & Hust., 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658274"
+    }
+,
+    {
+      "name": "Nitzschia valida Cleve & Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727563"
+    }
+,
+    {
+      "name": "Homoeocladia valida (Cleve & Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006877"
+    }
+,
+    {
+      "name": "Nitzschia ventricosa Kitton, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727624"
+    }
+,
+    {
+      "name": "Homoeocladia ventricosa (Kitton) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006878"
+    }
+,
+    {
+      "name": "Nitzschia vermicularis (Kütz.) Hantzsch, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76420"
+    }
+,
+    {
+      "name": "Bacillaria vermicularis (Kütz.) Elmore, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006888"
+    }
+,
+    {
+      "name": "Frustulia vermicularis Kütz., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548585"
+    }
+,
+    {
+      "name": "Homoeocladia vermicularis (Kütz.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006886"
+    }
+,
+    {
+      "name": "Sigmatella vermicularis (Kütz.) Bréb. & Godey, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006887"
+    }
+,
+    {
+      "name": "Synedra vermicularis (Kütz.) Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914260"
+    }
+,
+    {
+      "name": "Nitzschia vexans Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837557"
+    }
+,
+    {
+      "name": "Nitzschia compressa var. vexans (Grunow) Lange-Bert., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006889"
+    }
+,
+    {
+      "name": "Nitzschia vidovichii (Grunow) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727604"
+    }
+,
+    {
+      "name": "Homoeocladia vidovichii Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883834"
+    }
+,
+    {
+      "name": "Nitzschia vitrea G. Norman, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76421"
+    }
+,
+    {
+      "name": "Homoeocladia vitrea (Norman) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681934"
+    }
+,
+    {
+      "name": "Nitzschia linearis var. vitrea (Norman) Hust., 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681933"
+    }
+,
+    {
+      "name": "Nitzschia vitrea var. maior Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76422"
+    }
+,
+    {
+      "name": "Nitzschia vitrea var. salinarum Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76423"
+    }
+,
+    {
+      "name": "Nitzschia vitrea var. tenuistriata Manguin, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837558"
+    }
+,
+    {
+      "name": "Nitzschia vixpalea H.Lange-Bert. & M.Werum, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934184"
+    }
+,
+    {
+      "name": "Nitzschia woltereckii Hust., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837559"
+    }
+,
+    {
+      "name": "Nitzschia wuellerstorffii Lange-Bert., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658275"
+    }
+,
+    {
+      "name": "Psammodictyon D.G.Mann, 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "Psammodictyon bombiforme (Grunow) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727899"
+    }
+,
+    {
+      "name": "Nitzschia constricta var. bombiformis Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727900"
+    }
+,
+    {
+      "name": "Psammodictyon constrictum (Gregory) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959843"
+    }
+,
+    {
+      "name": "Tryblionella constricta W.Gregory, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959845"
+    }
+,
+    {
+      "name": "Psammodictyon panduriforme (W.Greg.) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727405"
+    }
+,
+    {
+      "name": "Homoeocladia panduriformis (Gregory) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007308"
+    }
+,
+    {
+      "name": "Nitzschia latestriata var. panduriformis (Gregory) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007301"
+    }
+,
+    {
+      "name": "Nitzschia panduriformis W.Greg., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76377"
+    }
+,
+    {
+      "name": "Tryblionella panduriformis var. minor (Gregory) Freng., 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007306"
+    }
+,
+    {
+      "name": "Tryblionella panduriformis (Gregory) Pelletan, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007307"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia H.Perag., 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudonitzschia H.Perag., 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudo-nitzschia antarctica E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823348"
+    }
+,
+    {
+      "name": "Pseudonitzschia antarctica E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823264"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia australis Freng., 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654743"
+    }
+,
+    {
+      "name": "Nitzschia pseudoseriata G.R.Hasle, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687842"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia barkeleyi (Hust.) E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823266"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia barkeleyi var. obtusa E. Manguin, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823271"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia batesiana H.C.Lim, S.T.Teng, C.P.Leaw & P.T.Lim, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956220"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia caciantha Lundholm, Moestrup & Hasle, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956221"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia calliantha Lundholm, Moestrup & Hasle, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654745"
+    }
+,
+    {
+      "name": "Pseudo-nitschia calliantha Lundholm, Moestrup, Hasle & Hoef-Emden, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687843"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia decipiens Lundholm & Moestrup, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956222"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia delicatissima (Cleve) Heiden, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654746"
+    }
+,
+    {
+      "name": "Homoeocladia delicatissima (Cleve) Meunier",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687799"
+    }
+,
+    {
+      "name": "Nitzschia actydrophila Hasle, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687800"
+    }
+,
+    {
+      "name": "Nitzschia delicatissima Cleve, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687798"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia fraudulenta (Cleve) Hasle, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811474"
+    }
+,
+    {
+      "name": "Nitzschia fraudulenta Cleve, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007317"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia seriata var. fraudulenta (Cleve) H.Perag., 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007318"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia fukuyoi H.Ch.Lim, S.T.Teng, Ch.P.Leaw & P.T.Lim, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956223"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia galaxiae N.Lundholm & Ø.Moestrup, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987294"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia heimii Manguin, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823272"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia inflatula (G.R.Hasle) G.R.Hasle, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999001"
+    }
+,
+    {
+      "name": "Nitzschia inflatula G.R.Hasle, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999002"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia lundholmiae H.C.Lim, S.T.Teng, C.P.Leaw & P.T.Lim, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956224"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia multiseries (Hasle) Hasle, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956225"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia pungens f. multiseries Hasle, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956226"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia multistriata (Takano) Takano, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647577"
+    }
+,
+    {
+      "name": "Nitzschia multistriata Takano, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/680095"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia plurisecta Orive & Pérez-Aicua, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943630"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia prolongatoides (G.R.Hasle) G.R.Hasle, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823289"
+    }
+,
+    {
+      "name": "Nitzschia prolongata Manguin, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823290"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia pseudodelicatissima (Hasle) Hasle, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/627085"
+    }
+,
+    {
+      "name": "Nitzschia pseudodelicatissima Hasle, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883835"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia pungens (Grunow ex Cleve) Hasle, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/627086"
+    }
+,
+    {
+      "name": "Nitzschia pungens Grunow ex Cleve, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883836"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia seriata (Cleve) H.Perag., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654749"
+    }
+,
+    {
+      "name": "Homoeocladia seriata (Cleve) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007319"
+    }
+,
+    {
+      "name": "Nitzschia seriata Cleve, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688420"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia seriata f. seriata ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688421"
+    }
+,
+    {
+      "name": "Pseudo-nitzschia subpacifica (Hasle) Hasle, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654750"
+    }
+,
+    {
+      "name": "Nitzschia subpacifica Hasle, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/688422"
+    }
+,
+    {
+      "name": "Simonsenia Lange-Bert., 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Simonsenia delognei (Grunow) Lange-Bert., 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658285"
+    }
+,
+    {
+      "name": "Homoeocladia delognei (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007504"
+    }
+,
+    {
+      "name": "Nitzschia atomus Hust., 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698243"
+    }
+,
+    {
+      "name": "Nitzschia delognei Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007503"
+    }
+,
+    {
+      "name": "Tryblionella W. Smith, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Tryblionella acuminata W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530237"
+    }
+,
+    {
+      "name": "Homoeocladia acuminata (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008094"
+    }
+,
+    {
+      "name": "Nitzschia acuminata (W.Smith) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76077"
+    }
+,
+    {
+      "name": "Tryblionella angustata var. acuminata (W.Smith) Brun, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008095"
+    }
+,
+    {
+      "name": "Tryblionella acuta (Cleve) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842615"
+    }
+,
+    {
+      "name": "Homoeocladia acuta (Cleve) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842617"
+    }
+,
+    {
+      "name": "Nitzschia acuta Cleve, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/842616"
+    }
+,
+    {
+      "name": "Tryblionella aerophila (Hust.) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837252"
+    }
+,
+    {
+      "name": "Nitzschia aerophila Hust., 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837250"
+    }
+,
+    {
+      "name": "Tryblionella angustata W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530238"
+    }
+,
+    {
+      "name": "Homoeocladia angustata (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678709"
+    }
+,
+    {
+      "name": "Nitzschia angustata (W.Smith) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76085"
+    }
+,
+    {
+      "name": "Tryblionella angustata var. acuta (Grunow) Bukht., 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809480"
+    }
+,
+    {
+      "name": "Nitzschia angustata var. acuta Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76086"
+    }
+,
+    {
+      "name": "Tryblionella angustatula (Lange-Bert.) Cantonati & Lange-Bert., 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006791"
+    }
+,
+    {
+      "name": "Nitzschia angustatula Lange-Bert., 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658203"
+    }
+,
+    {
+      "name": "Tryblionella apiculata Gregory, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530239"
+    }
+,
+    {
+      "name": "Homoeocladia apiculata (Gregory) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678712"
+    }
+,
+    {
+      "name": "Nitzschia apiculata (Gregory) Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76087"
+    }
+,
+    {
+      "name": "Nitzschia constricta (Kütz.) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678711"
+    }
+,
+    {
+      "name": "Nitzschia dubia var. constricta (Kütz.) Carruthers, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678710"
+    }
+,
+    {
+      "name": "Synedra constricta Kütz., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548370"
+    }
+,
+    {
+      "name": "Tryblionella constricta (Kütz.) Poulin, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678713"
+    }
+,
+    {
+      "name": "Tryblionella brunoi (Lange-Bert.) Cantonati & Lange-Bert., 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006809"
+    }
+,
+    {
+      "name": "Nitzschia brunoi Lange-Bert., 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658209"
+    }
+,
+    {
+      "name": "Tryblionella calida (Grunow) D.G.Mann in Round, Crawford & D.G. Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658199"
+    }
+,
+    {
+      "name": "Homoeocladia calida (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008096"
+    }
+,
+    {
+      "name": "Nitzschia calida Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76093"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella var. calida (Grunow) Van Heurck, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008093"
+    }
+,
+    {
+      "name": "Tryblionella circumsuta (Bailey) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530240"
+    }
+,
+    {
+      "name": "Baileya circumsuta (J.W.Bailey) Marsson, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678714"
+    }
+,
+    {
+      "name": "Homoeocladia circumsuta (Bailey) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008097"
+    }
+,
+    {
+      "name": "Nitzschia circumsuta (Bailey) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76095"
+    }
+,
+    {
+      "name": "Surirella circumsuta J.W. Bailey, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548375"
+    }
+,
+    {
+      "name": "Tryblionella coarctata (Grunow) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837258"
+    }
+,
+    {
+      "name": "Nitzschia coarctata Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837256"
+    }
+,
+    {
+      "name": "Nitzschia punctata var. coarctata (Grunow) Hust., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76384"
+    }
+,
+    {
+      "name": "Tryblionella cocconeiformis (Grunow) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837259"
+    }
+,
+    {
+      "name": "Nitzschia cocconeiformis Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837260"
+    }
+,
+    {
+      "name": "Tryblionella compressa (J.W.Bailey) M.Poulin, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542946"
+    }
+,
+    {
+      "name": "Dinopyxis compressa (Bailey) F.Stein, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683575"
+    }
+,
+    {
+      "name": "Exuviaella compressa (Bailey) Ostenf., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008098"
+    }
+,
+    {
+      "name": "Nitzschia compressa (Bailey) C.S. Boyer, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548429"
+    }
+,
+    {
+      "name": "Prorocentrum bidens Schiller, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552640"
+    }
+,
+    {
+      "name": "Prorocentrum compressum (J.W.Bailey) Abé ex J.D.Dodge, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366024"
+    }
+,
+    {
+      "name": "Pyxidicula compressa Bailey, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683574"
+    }
+,
+    {
+      "name": "Tryblionella debilis Arnott ex O'Meara, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530241"
+    }
+,
+    {
+      "name": "Homoeocladia debilis (Arnott ex O'Meara) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678716"
+    }
+,
+    {
+      "name": "Nitzschia debilis (Arnott) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76102"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella var. debilis (Arnott) Hust., 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76413"
+    }
+,
+    {
+      "name": "Tryblionella gracilis var. subsalina (O'Meara) Aboal, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006876"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella var. subsalina (O'Meara) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76417"
+    }
+,
+    {
+      "name": "Tryblionella subsalina O'Meara, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006871"
+    }
+,
+    {
+      "name": "Tryblionella graeffii (Grunow ex Cleve) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727901"
+    }
+,
+    {
+      "name": "Homoeocladia graeffii (Grunow ex Cleve) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008099"
+    }
+,
+    {
+      "name": "Nitzschia graeffii Grunow ex Cleve, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727902"
+    }
+,
+    {
+      "name": "Tryblionella granulata (Grunow) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837534"
+    }
+,
+    {
+      "name": "Nitzschia granulata Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837535"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681927"
+    }
+,
+    {
+      "name": "Homoeocladia tryblionella (Hantzsch) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681928"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella Hantzsch, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76412"
+    }
+,
+    {
+      "name": "Surirella gracilis (W.Smith) Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76617"
+    }
+,
+    {
+      "name": "Tryblionella gracilis W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530242"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana var. australica Playfair",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681922"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana var. calida (Grunow) Van Heurck",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681925"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana var. maxima (Grunow) Frenguelli, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681924"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana var. minor Playfair",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681923"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana var. ovata (Lagerstedt) Playfair",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681926"
+    }
+,
+    {
+      "name": "Tryblionella tryblionella (Hantzsch) Prochazka, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/681929"
+    }
+,
+    {
+      "name": "Tryblionella hungarica (Grunow) Frenguelli, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542945"
+    }
+,
+    {
+      "name": "Homoeocladia hungarica (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683561"
+    }
+,
+    {
+      "name": "Nitzschia hungarica Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76347"
+    }
+,
+    {
+      "name": "Tryblionella hungarica var. linearis (Grunow) M.Aboal, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/726081"
+    }
+,
+    {
+      "name": "Nitzschia hungarica var. linearis Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76348"
+    }
+,
+    {
+      "name": "Tryblionella jelineckii (Grunow) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727903"
+    }
+,
+    {
+      "name": "Homoeocladia jelineckii (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008100"
+    }
+,
+    {
+      "name": "Nitzschia jelineckii Grunow, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727905"
+    }
+,
+    {
+      "name": "Tryblionella levidensis W. Smith, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530243"
+    }
+,
+    {
+      "name": "Denticula levidensis (W.Smith) De Toni, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678719"
+    }
+,
+    {
+      "name": "Nitzschia levidensis var. salinarum (Grunow) Krammer & Lange-Bert., 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837544"
+    }
+,
+    {
+      "name": "Nitzschia levidensis (W. Smith) Grunow in Van Heurck, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548381"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella var. levidensis (W.Smith) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76414"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella var. salinarum Grunow in Cleve & Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76416"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana var. levidensis (W.Smith) Frenguelli, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678717"
+    }
+,
+    {
+      "name": "Tryblionella tryblionella var. levidensis (W.Smith) Prochazka, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678718"
+    }
+,
+    {
+      "name": "Tryblionella littoralis (Grunow) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658198"
+    }
+,
+    {
+      "name": "Homoeocladia litoralis (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698214"
+    }
+,
+    {
+      "name": "Nitzschia littoralis Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698215"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella var. littoralis (Grunow) Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698216"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana var. littoralis (Grunow) Tauson, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698212"
+    }
+,
+    {
+      "name": "Tryblionella tryblionella var. littoralis (Grunow) Prochazka, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698213"
+    }
+,
+    {
+      "name": "Tryblionella marginata W.Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950416"
+    }
+,
+    {
+      "name": "Tryblionella marginulata (Grunow) D.G.Mann, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727517"
+    }
+,
+    {
+      "name": "Homoeocladia marginulata (Grunow) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008101"
+    }
+,
+    {
+      "name": "Nitzschia marginulata Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727706"
+    }
+,
+    {
+      "name": "Tryblionella navicularis (Bréb.) Ralfs, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530244"
+    }
+,
+    {
+      "name": "Homoeocladia navicularis (Bréb.) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678720"
+    }
+,
+    {
+      "name": "Nitzschia navicularis (Bréb.) Grunow, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76368"
+    }
+,
+    {
+      "name": "Surirella navicularis Bréb. ex Kütz., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548427"
+    }
+,
+    {
+      "name": "Zotheca navicularis (Bréb.) Pant., 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678721"
+    }
+,
+    {
+      "name": "Tryblionella plana (W. Smith) Pelletan, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530245"
+    }
+,
+    {
+      "name": "Homoeocladia plana (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006840"
+    }
+,
+    {
+      "name": "Nitzschia plana W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76380"
+    }
+,
+    {
+      "name": "Tryblionella punctata W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548428"
+    }
+,
+    {
+      "name": "Homoeocladia punctata (W.Smith) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683576"
+    }
+,
+    {
+      "name": "Nitzschia punctata (W. Smith) Grunow, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76383"
+    }
+,
+    {
+      "name": "Zotheca punctata (W.Smith) Pant., 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683577"
+    }
+,
+    {
+      "name": "Tryblionella salinarum (Grunow) Pant., 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530246"
+    }
+,
+    {
+      "name": "Nitzschia calida var. salinarum (Grunow) Freng., 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008103"
+    }
+,
+    {
+      "name": "Nitzschia salinarum Grunow, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008102"
+    }
+,
+    {
+      "name": "Tryblionella scalaris (Ehrenberg) P.Siver & P.B.Hamilton, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670194"
+    }
+,
+    {
+      "name": "Homoeocladia scalaris (Ehrenberg) Kuntze, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689714"
+    }
+,
+    {
+      "name": "Nitzschia scalaris (Ehrenberg) W. Smith, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76390"
+    }
+,
+    {
+      "name": "Pritchardia scalaris (Ehrenberg) Rabenh., 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689715"
+    }
+,
+    {
+      "name": "Synedra scalaris Ehrenberg, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548580"
+    }
+,
+    {
+      "name": "Tryblionella victoriae Grunow, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/530247"
+    }
+,
+    {
+      "name": "Nitzschia levidensis var. victoriae (Grunow) Cholnoky, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678722"
+    }
+,
+    {
+      "name": "Nitzschia spectabilis var. victoriae (Grunow) Lak, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678723"
+    }
+,
+    {
+      "name": "Nitzschia tryblionella var. victoriae (Grunow) Grunow, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/76418"
+    }
+,
+    {
+      "name": "Nitzschia victoriae (Grunow) Cleve, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678726"
+    }
+,
+    {
+      "name": "Tryblionella hantzschiana var. victoriae (Grunow) Playfair, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678725"
+    }
+,
+    {
+      "name": "Tryblionella tryblionella var. victoriae (Grunow) Radzimowsky, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/678724"
+    }
+
+  ]
+}

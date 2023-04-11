@@ -1,0 +1,967 @@
+
+{
+  "name": "hyponectriaceae",
+  "children": [
+
+    {
+      "name": "Hyponectriaceae Petr., 1923",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisostomula areola (Fuckel) Höhn., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/45388"
+    }
+,
+    {
+      "name": "Sphaerella areola Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977024"
+    }
+,
+    {
+      "name": "Apiothyrium Petr., 1947",
+      "url": ""
+    }
+,
+    {
+      "name": "Apiothyrium arcticum Petr., 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865471"
+    }
+,
+    {
+      "name": "Arwidssonia B.Erikss., 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "Arwidssonia empetri (Rehm) B.Erikss., 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49914"
+    }
+,
+    {
+      "name": "Heterosphaeria empetri Rehm, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872023"
+    }
+,
+    {
+      "name": "Sphaeropezia empetri (DC.) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49913"
+    }
+,
+    {
+      "name": "Arwidssonia loiseleriae B. Erikss.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865527"
+    }
+,
+    {
+      "name": "Cesatiella Sacc., 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Cesatiella lancastriensis Grove, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46129"
+    }
+,
+    {
+      "name": "Chaetapiospora Petr., 1947",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetapiospora rhododendri (Tengwall) Arx, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46156"
+    }
+,
+    {
+      "name": "Coleroa rhododendri (Tengwall) Săvul. & Eliade, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978257"
+    }
+,
+    {
+      "name": "Venturia rhododendri Tengwall, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978256"
+    }
+,
+    {
+      "name": "Charonectria Sacc., 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Charonectria consolationis Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865697"
+    }
+,
+    {
+      "name": "Nectriella consolationis (Sacc.) E.Müll., 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872812"
+    }
+,
+    {
+      "name": "Charonectria succinea var. bractearum Sacc., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869562"
+    }
+,
+    {
+      "name": "Discosphaerina Höhn., 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Discosphaerina cytisi (Fuckel) Sivan., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47173"
+    }
+,
+    {
+      "name": "Guignardia cytisi (Fuckel) Arx & E.Müll., 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47174"
+    }
+,
+    {
+      "name": "Myriocarpa cytisi Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877052"
+    }
+,
+    {
+      "name": "Discosphaerina fulvida (F.R.Sand.) Sivan., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47177"
+    }
+,
+    {
+      "name": "Aureobasidium lini (Laff.) Herm.-Nijh., 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874417"
+    }
+,
+    {
+      "name": "Guignardia fulvida F.R.Sand., 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978925"
+    }
+,
+    {
+      "name": "Kabatiella lini (Laff.) Karak., 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978927"
+    }
+,
+    {
+      "name": "Polyspora lini Laff., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978926"
+    }
+,
+    {
+      "name": "Discosphaerina miribelii (Aa) Sivan., 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47178"
+    }
+,
+    {
+      "name": "Columnosphaeria miribelii (Aa) M.E.Barr, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883307"
+    }
+,
+    {
+      "name": "Guignardia miribelii Aa, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47179"
+    }
+,
+    {
+      "name": "Macrophoma miribelii (Fr.) Berl. & Voglino, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876873"
+    }
+,
+    {
+      "name": "Phacidium buxi Lasch, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874418"
+    }
+,
+    {
+      "name": "Phoma mirbelii (Fr.) Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856032"
+    }
+,
+    {
+      "name": "Sarcophoma miribelii (Fr.) Höhn., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874419"
+    }
+,
+    {
+      "name": "Sphaeria mirbelii Fr., 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877969"
+    }
+,
+    {
+      "name": "Sphaeria miribelii Fr., 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979527"
+    }
+,
+    {
+      "name": "Sphaeropsis mirbelii (Fr.) Lév., 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877970"
+    }
+,
+    {
+      "name": "Discosphaerina sorbi L.Holm, K.Holm & M.E.Barr, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854860"
+    }
+,
+    {
+      "name": "Exarmidium P.Karst., 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "Clypeothecium Petr., 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Exarmidium hemisphaericum (Fr.) Aptroot, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866224"
+    }
+,
+    {
+      "name": "Clypeothecium weirii Petr., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877016"
+    }
+,
+    {
+      "name": "Coniosphaeria albocincta (Cooke & Ellis) Cooke",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877020"
+    }
+,
+    {
+      "name": "Exarmidium morthieri (Fuckel) M.E.Barr & Boise, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877011"
+    }
+,
+    {
+      "name": "Exarmidium weirii (Petr.) Petr., 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877017"
+    }
+,
+    {
+      "name": "Massarina azadirachticola Purohit & S.P.Joshi, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877018"
+    }
+,
+    {
+      "name": "Massarina juniperi S.K.Bose, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877019"
+    }
+,
+    {
+      "name": "Massarina morthieri (Fuckel) Arx & E.Müll., 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877012"
+    }
+,
+    {
+      "name": "Odontotrema hemisphaericum (Fr.) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877008"
+    }
+,
+    {
+      "name": "Sphaeria albocincta Cooke & Ellis, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877021"
+    }
+,
+    {
+      "name": "Sphaeria soluta Cooke & Ellis, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877024"
+    }
+,
+    {
+      "name": "Stictis hemisphaerica Fr., 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877009"
+    }
+,
+    {
+      "name": "Trematosphaeria morthieri Fuckel, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877013"
+    }
+,
+    {
+      "name": "Trematostoma morthieri (Fuckel) Shear, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877014"
+    }
+,
+    {
+      "name": "Xylographa hemisphaerica (Fr.) Fuckel, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877010"
+    }
+,
+    {
+      "name": "Xylopezia hemisphaerica (Fr.) Sherwood, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883401"
+    }
+,
+    {
+      "name": "Zignoella albocincta (Cooke & Ellis) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877022"
+    }
+,
+    {
+      "name": "Zignoella diaphana var. albocincta (Cooke & Ellis) Ellis & Everh.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877023"
+    }
+,
+    {
+      "name": "Zignoella diaphana var. soluta (Cooke & Ellis) Ellis & Everh.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877025"
+    }
+,
+    {
+      "name": "Zignoella morthieri (Fuckel) Sacc., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877015"
+    }
+,
+    {
+      "name": "Zignoella soluta (Cooke & Ellis) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877026"
+    }
+,
+    {
+      "name": "Exarmidium hysteriiforme P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866225"
+    }
+,
+    {
+      "name": "Dothidea hysteriiformis P.Karst., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877027"
+    }
+,
+    {
+      "name": "Rhopographus hysteriiformis (P.Karst.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877028"
+    }
+,
+    {
+      "name": "Exarmidium inclusum (Pers.) Aptroot, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866226"
+    }
+,
+    {
+      "name": "Exarmidium diaphanum (Cooke & Ellis) M.E.Barr & Boise, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877029"
+    }
+,
+    {
+      "name": "Odontotrema inclusum (Pers.) P.Karst., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877033"
+    }
+,
+    {
+      "name": "Patellaria inclusa P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877034"
+    }
+,
+    {
+      "name": "Peziza inclusa Pers., 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877035"
+    }
+,
+    {
+      "name": "Pseudostictis inclusa Lambotte, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877036"
+    }
+,
+    {
+      "name": "Psilosphaeria diaphana (Cooke & Ellis) Cooke, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877030"
+    }
+,
+    {
+      "name": "Sphaeria diaphana Cooke & Ellis, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877031"
+    }
+,
+    {
+      "name": "Sphaeria minutissima P.Karst. [nom. illeg.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877040"
+    }
+,
+    {
+      "name": "Stictis inclusa (Pers.) Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877037"
+    }
+,
+    {
+      "name": "Xylopezia inclusa (Pers.) Sherwood, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877038"
+    }
+,
+    {
+      "name": "Zignoella diaphana (Cooke & Ellis) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877032"
+    }
+,
+    {
+      "name": "Zignoella jurana Sacc. & Berl., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877041"
+    }
+,
+    {
+      "name": "Zignoella minutissima subsp. clavispora P.Karst.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877042"
+    }
+,
+    {
+      "name": "Zignoella minutissima Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877039"
+    }
+,
+    {
+      "name": "Zignoella translucens P.Karst., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877043"
+    }
+,
+    {
+      "name": "Hyponectria Sacc., 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisostomula Höhn., 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "Hyponectria buxi (Alb. & Schwein.) Sacc., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/50157"
+    }
+,
+    {
+      "name": "Diplodia buxi Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876870"
+    }
+,
+    {
+      "name": "Dothiorella candollei (Berk. & Broome) Petr., 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866230"
+    }
+,
+    {
+      "name": "Laestadia buxi Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860494"
+    }
+,
+    {
+      "name": "Macrophoma candollei (Berk. & Broome) Berl. & Voglino, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876872"
+    }
+,
+    {
+      "name": "Phoma candollei (Berk. & Broome) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856530"
+    }
+,
+    {
+      "name": "Sphaerella buxi (Desm.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875476"
+    }
+,
+    {
+      "name": "Sphaerella buxi Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876871"
+    }
+,
+    {
+      "name": "Sphaeria atrovirens var. buxi Alb. & Schwein., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979526"
+    }
+,
+    {
+      "name": "Sphaeria buxi (Alb. & Schwein.) DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883334"
+    }
+,
+    {
+      "name": "Sphaeria buxi Desm., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/50158"
+    }
+,
+    {
+      "name": "Sphaeropsis candollei Berk. & Broome, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879060"
+    }
+,
+    {
+      "name": "Trochila buxi Capron, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/50156"
+    }
+,
+    {
+      "name": "Hyponectria cookeana (Auersw.) M.E.Barr, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866216"
+    }
+,
+    {
+      "name": "Anisostomula cookeana (Auersw.) Höhn., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876874"
+    }
+,
+    {
+      "name": "Guignardia cookeana (Auersw.) Viala & Ravaz ex Feltgen, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876875"
+    }
+,
+    {
+      "name": "Laestadia cookeana (Auersw.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876876"
+    }
+,
+    {
+      "name": "Sphaerella cookeana Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979528"
+    }
+,
+    {
+      "name": "Sphaeria cookeana (Auersw.) Mussat, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876877"
+    }
+,
+    {
+      "name": "Hyponectria cooperta (Desm.) M.E.Barr, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995010"
+    }
+,
+    {
+      "name": "Hyponectria cooptera (Desm.) M.E.Barr, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866217"
+    }
+,
+    {
+      "name": "Laestadia cooperta (Desm.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860497"
+    }
+,
+    {
+      "name": "Sphaerella cooperta (Desm.) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875478"
+    }
+,
+    {
+      "name": "Sphaeria cooperta Desm., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875479"
+    }
+,
+    {
+      "name": "Linocarpon Syd. & P.Syd., 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Linocarpon livistonae (Henn.) K.D.Hyde, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804205"
+    }
+,
+    {
+      "name": "Ophiobolus livistonae Henn., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908060"
+    }
+,
+    {
+      "name": "Linocarpon verminosum (Mont.) K.D.Hyde, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804206"
+    }
+,
+    {
+      "name": "Sphaeria verminosa Mont., 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908050"
+    }
+,
+    {
+      "name": "Physalospora Niessl, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Benedekiella Negru & Verona, 1964",
+      "url": ""
+    }
+,
+    {
+      "name": "Physalospora alpestris Niessl, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856495"
+    }
+,
+    {
+      "name": "Physalospora amianticola Vouaux, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856496"
+    }
+,
+    {
+      "name": "Physalospora aquatica Ingold, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856497"
+    }
+,
+    {
+      "name": "Physalospora arctostaphyli B.Erikss., 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856498"
+    }
+,
+    {
+      "name": "Physalospora cattleyae Maubl. & Lasnier, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856499"
+    }
+,
+    {
+      "name": "Physalospora cladoniae (Stein) Vouaux, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659154"
+    }
+,
+    {
+      "name": "Thrombium cladoniae Stein, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661418"
+    }
+,
+    {
+      "name": "Physalospora corni (Sacc.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856500"
+    }
+,
+    {
+      "name": "Botryosphaeria corni Sacc., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981357"
+    }
+,
+    {
+      "name": "Physalospora cydoniae G.Arnaud, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856501"
+    }
+,
+    {
+      "name": "Physalospora empetri Rostr., 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856502"
+    }
+,
+    {
+      "name": "Botryosphaeria empetri (Rostr.) Arx & E.Müll., 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878989"
+    }
+,
+    {
+      "name": "Discosphaerina empetri (Rostr.) Lar.N.Vassiljeva, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878990"
+    }
+,
+    {
+      "name": "Physalospora euphorbiae (Plowr. & W.Phillips) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856503"
+    }
+,
+    {
+      "name": "Sphaerella euphorbiae Plowr. & W.Phillips, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981359"
+    }
+,
+    {
+      "name": "Physalospora foeniculacea (Mont.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856504"
+    }
+,
+    {
+      "name": "Sphaeria foeniculacea Mont., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878991"
+    }
+,
+    {
+      "name": "Physalospora fusispora Sacc. & Roum., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856505"
+    }
+,
+    {
+      "name": "Physalospora gregaria Sacc., 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856506"
+    }
+,
+    {
+      "name": "Dothiorella gregaria Sacc., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878992"
+    }
+,
+    {
+      "name": "Physalospora hyperborea Bäumler, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856507"
+    }
+,
+    {
+      "name": "Physalospora iridicola Roum. & Fautrey, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856508"
+    }
+,
+    {
+      "name": "Physalospora leptogiophila (Minks ex Winter) Vouaux",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659153"
+    }
+,
+    {
+      "name": "Leptorhaphis leptogiophila Minks ex G.Winter, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662852"
+    }
+,
+    {
+      "name": "Physalospora lonicerae Grove, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856509"
+    }
+,
+    {
+      "name": "Physalospora malbranchei P.Karst., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856510"
+    }
+,
+    {
+      "name": "Physalospora minutula Sacc. & Speg., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856511"
+    }
+,
+    {
+      "name": "Physalospora nebulosa Malbr., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856512"
+    }
+,
+    {
+      "name": "Physalospora obiones (P.Crouan & H.Crouan) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981363"
+    }
+,
+    {
+      "name": "Physalospora obionis (P.Crouan & H.Crouan) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856513"
+    }
+,
+    {
+      "name": "Sphaeria obiones P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981362"
+    }
+,
+    {
+      "name": "Sphaeria obionis P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878993"
+    }
+,
+    {
+      "name": "Physalospora oenanthes (P.Crouan & H.Crouan) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856514"
+    }
+,
+    {
+      "name": "Sphaeria oenanthes P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878994"
+    }
+,
+    {
+      "name": "Physalospora ononidis Richon, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856515"
+    }
+,
+    {
+      "name": "Physalospora palustris (Mont.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856555"
+    }
+,
+    {
+      "name": "Metasphaeria palustris (Mont.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879068"
+    }
+,
+    {
+      "name": "Stigmatea palustris Mont., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879069"
+    }
+,
+    {
+      "name": "Physalospora populina Maubl., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856556"
+    }
+,
+    {
+      "name": "Physalospora rhododendri (De Not.) Rehm, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856557"
+    }
+,
+    {
+      "name": "Sphaerella rhododendri De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879252"
+    }
+,
+    {
+      "name": "Physalospora vaccinii (Shear) Arx & E.Müll., 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856558"
+    }
+,
+    {
+      "name": "Acanthorhynchus vaccinii Shear, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879070"
+    }
+,
+    {
+      "name": "Physalospora vitis-idaeae Rehm, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856559"
+    }
+,
+    {
+      "name": "Pseudomassaria Jacz., 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Aplacodina Ruhland, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudomassaria chondrospora (Ces.) Jacz., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866353"
+    }
+,
+    {
+      "name": "Cryptosporella chondrospora (Ces.) Rehm, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878422"
+    }
+,
+    {
+      "name": "Sphaeria chondrospora Ces., 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878423"
+    }
+,
+    {
+      "name": "Pseudomassaria corni (Sowerby) Arx, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866354"
+    }
+,
+    {
+      "name": "Didymella corni (Sowerby) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878424"
+    }
+,
+    {
+      "name": "Sphaeria corni Sowerby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878425"
+    }
+,
+    {
+      "name": "Pseudomassaria inconspicua (Johanson) M.E.Barr, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866355"
+    }
+,
+    {
+      "name": "Didymella inconspicua Johanson, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878427"
+    }
+,
+    {
+      "name": "Pseudapiospora sibirica Petr., 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878426"
+    }
+,
+    {
+      "name": "Pseudomassaria islandica (Johanson) M.E.Barr, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866356"
+    }
+,
+    {
+      "name": "Chaetapiospora islandica (Johanson) Petr., 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46155"
+    }
+,
+    {
+      "name": "Chaetopiospora islandica (Johanson) Petr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878428"
+    }
+,
+    {
+      "name": "Venturia islandica Johanson, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878429"
+    }
+,
+    {
+      "name": "Pseudomassaria leucothoës (Cooke) Petr. & Syd., 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866357"
+    }
+,
+    {
+      "name": "Pseudomassaria leucothoes (Cooke) Petr. & Syd., 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981728"
+    }
+,
+    {
+      "name": "Sphaerella leucothoes Cooke, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981726"
+    }
+,
+    {
+      "name": "Pseudomassaria lycopodina (P.Karst.) Arx, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866358"
+    }
+,
+    {
+      "name": "Mycosphaerella lycopodina (P.Karst.) Starbäck, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883262"
+    }
+,
+    {
+      "name": "Pseudapiospora lycopodina (P.Karst.) L.Holm, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878430"
+    }
+,
+    {
+      "name": "Sphaerella lycopodina P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878431"
+    }
+,
+    {
+      "name": "Pseudomassaria minor (M.E.Barr) M.E.Barr, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866359"
+    }
+,
+    {
+      "name": "Chaetapiospora minor M.E.Barr, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878432"
+    }
+,
+    {
+      "name": "Pseudomassaria sepincoliformis (De Not.) Arx, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981731"
+    }
+,
+    {
+      "name": "Apiosporella sepincolaeformis (De Not.) Theiss., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878433"
+    }
+,
+    {
+      "name": "Didymella sepincolaeformis (De Not.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878434"
+    }
+,
+    {
+      "name": "Pseudomassaria sepincolaeformis (De Not.) Arx, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866360"
+    }
+,
+    {
+      "name": "Sphaerella sepincolaeformis De Not., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878435"
+    }
+,
+    {
+      "name": "Sphaerella sepincoliformis De Not., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981730"
+    }
+,
+    {
+      "name": "Pseudomassaria thistletonia (Cooke) Arx, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866361"
+    }
+,
+    {
+      "name": "Physalospora thistletonia Cooke, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878436"
+    }
+,
+    {
+      "name": "Pseudomassaria vaccinii Dennis, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866362"
+    }
+
+  ]
+}

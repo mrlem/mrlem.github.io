@@ -1,0 +1,52 @@
+
+{
+  "name": "nematinae",
+  "children": [
+
+    {
+      "name": "Nematinae C.G. Thomson, 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "dineurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/nematinae/dineurini/"
+    }
+,
+    {
+      "name": "hemichroini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/nematinae/hemichroini/"
+    }
+,
+    {
+      "name": "mesoneurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/nematinae/mesoneurini/"
+    }
+,
+    {
+      "name": "nematini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/nematinae/nematini/"
+    }
+,
+    {
+      "name": "nescianeurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/nematinae/nescianeurini/"
+    }
+,
+    {
+      "name": "pristiphorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/nematinae/pristiphorini/"
+    }
+,
+    {
+      "name": "pseudodineurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/nematinae/pseudodineurini/"
+    }
+,
+    {
+      "name": "stauronematini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/nematinae/stauronematini/"
+    }
+
+  ]
+}

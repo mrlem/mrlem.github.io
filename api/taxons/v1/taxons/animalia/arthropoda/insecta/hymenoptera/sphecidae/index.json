@@ -1,0 +1,32 @@
+
+{
+  "name": "sphecidae",
+  "children": [
+
+    {
+      "name": "Sphecidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "ammophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/sphecidae/ammophilinae/"
+    }
+,
+    {
+      "name": "chloriontinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/sphecidae/chloriontinae/"
+    }
+,
+    {
+      "name": "sceliphrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/sphecidae/sceliphrinae/"
+    }
+,
+    {
+      "name": "sphecinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/sphecidae/sphecinae/"
+    }
+
+  ]
+}

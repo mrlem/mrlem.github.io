@@ -1,0 +1,27 @@
+
+{
+  "name": "lophogastrida",
+  "children": [
+
+    {
+      "name": "Lophogastrida Boas, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "eucopiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/lophogastrida/eucopiidae/"
+    }
+,
+    {
+      "name": "gnathophausiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/lophogastrida/gnathophausiidae/"
+    }
+,
+    {
+      "name": "lophogastridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/lophogastrida/lophogastridae/"
+    }
+
+  ]
+}

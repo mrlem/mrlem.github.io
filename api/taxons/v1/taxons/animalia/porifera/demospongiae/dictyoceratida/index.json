@@ -1,0 +1,42 @@
+
+{
+  "name": "dictyoceratida",
+  "children": [
+
+    {
+      "name": "Dictyoceratida Minchin, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Verticillitida Termier & Termier in Termier, Termier & Vachard, 1977",
+      "url": ""
+    }
+,
+    {
+      "name": "dysideidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/dictyoceratida/dysideidae/"
+    }
+,
+    {
+      "name": "irciniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/dictyoceratida/irciniidae/"
+    }
+,
+    {
+      "name": "spongiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/dictyoceratida/spongiidae/"
+    }
+,
+    {
+      "name": "thorectidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/dictyoceratida/thorectidae/"
+    }
+,
+    {
+      "name": "verticillitidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/porifera/demospongiae/dictyoceratida/verticillitidae/"
+    }
+
+  ]
+}

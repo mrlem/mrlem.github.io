@@ -1,0 +1,47 @@
+
+{
+  "name": "spirostreptida",
+  "children": [
+
+    {
+      "name": "Spirostreptida Brandt, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Cambalidea Cook, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Cambaloidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "cambalopsidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/spirostreptida/cambalopsidae/"
+    }
+,
+    {
+      "name": "pseudonannolenidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/spirostreptida/pseudonannolenidae/"
+    }
+,
+    {
+      "name": "spirostreptidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/spirostreptida/spirostreptidae/"
+    }
+,
+    {
+      "name": "Spirostreptidea Brandt, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Spirostreptoidea Pocock, 1894",
+      "url": ""
+    }
+
+  ]
+}

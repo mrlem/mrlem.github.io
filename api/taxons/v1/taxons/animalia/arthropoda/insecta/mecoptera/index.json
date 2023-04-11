@@ -1,0 +1,27 @@
+
+{
+  "name": "mecoptera",
+  "children": [
+
+    {
+      "name": "Mecoptera Packard, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "bittacidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mecoptera/bittacidae/"
+    }
+,
+    {
+      "name": "boreidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mecoptera/boreidae/"
+    }
+,
+    {
+      "name": "panorpidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mecoptera/panorpidae/"
+    }
+
+  ]
+}

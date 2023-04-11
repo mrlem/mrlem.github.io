@@ -1,0 +1,37 @@
+
+{
+  "name": "clinostomidae",
+  "children": [
+
+    {
+      "name": "Clinostomidae Lühe, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "clinostominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/diplostomida/clinostomidae/clinostominae/"
+    }
+,
+    {
+      "name": "Euclinostomum Travassos, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Euclinostomum heterostomum (Rudolphi, 1809)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/236805"
+    }
+,
+    {
+      "name": "Distoma heterostomum Rudolphi, 1809",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959167"
+    }
+,
+    {
+      "name": "Euclinostomum skrjabini Kuraschvili,, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/406628"
+    }
+
+  ]
+}

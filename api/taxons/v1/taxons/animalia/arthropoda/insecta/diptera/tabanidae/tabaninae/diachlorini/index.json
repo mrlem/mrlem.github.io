@@ -1,0 +1,857 @@
+
+{
+  "name": "diachlorini",
+  "children": [
+
+    {
+      "name": "Diachlorini Lutz, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthocera Macquart, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthocera gorayebi Henriques & Rafael, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851212"
+    }
+,
+    {
+      "name": "Acanthocera marginalis Walker, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851213"
+    }
+,
+    {
+      "name": "Aphopeas Enderlein, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Aphopeas chazeaui (Trojan, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911787"
+    }
+,
+    {
+      "name": "Dasybasis chazeaui Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438866"
+    }
+,
+    {
+      "name": "Aphopeas danielae (Trojan, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911788"
+    }
+,
+    {
+      "name": "Dasybasis danielae Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438867"
+    }
+,
+    {
+      "name": "Aphopeas kuniae (Mackerras & Rageau, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911789"
+    }
+,
+    {
+      "name": "Chasmiella kuniae (Mackerras & Rageau, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807122"
+    }
+,
+    {
+      "name": "Cydistomyia kuniae Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438565"
+    }
+,
+    {
+      "name": "Dasybasis kuniae (Mackerras & Rageau, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890550"
+    }
+,
+    {
+      "name": "Dasybasis lydiae Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438868"
+    }
+,
+    {
+      "name": "Aphopeas rageaui (Mackerras, 1962)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911790"
+    }
+,
+    {
+      "name": "Dasybasis rageaui Mackerras, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438571"
+    }
+,
+    {
+      "name": "Bolbodimyia Bigot, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Bolbodimyia brunneipennis Stone, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851215"
+    }
+,
+    {
+      "name": "Catachlorops Lutz, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Catachlorops amazonicus Henriques & Gorayeb, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851216"
+    }
+,
+    {
+      "name": "Catachlorops balachowskyi Fairchild, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851217"
+    }
+,
+    {
+      "name": "Catachlorops halteratus Krober, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438527"
+    }
+,
+    {
+      "name": "Catachlorops rubiginosus (Summers, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851218"
+    }
+,
+    {
+      "name": "Dichelacera rubiginosus Summers, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919457"
+    }
+,
+    {
+      "name": "Catachlorops rufescens (Fabricius, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851219"
+    }
+,
+    {
+      "name": "Tabanus rufescens Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919458"
+    }
+,
+    {
+      "name": "Chasmia Enderlein, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "Chasmia bozennae (Trojan, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890544"
+    }
+,
+    {
+      "name": "Chasmiella bozennae Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438858"
+    }
+,
+    {
+      "name": "Chasmia brunnea Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438282"
+    }
+,
+    {
+      "name": "Chasmia cohici (Mackerras & Rageau, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890545"
+    }
+,
+    {
+      "name": "Chasmiella cohici (Mackerras & Rageau, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807121"
+    }
+,
+    {
+      "name": "Cydistomyia cohici Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438561"
+    }
+,
+    {
+      "name": "Chasmia conradi (Trojan, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890546"
+    }
+,
+    {
+      "name": "Chasmiella conradi Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438859"
+    }
+,
+    {
+      "name": "Chasmia leszeki (Trojan, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890547"
+    }
+,
+    {
+      "name": "Chasmiella leszeki Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438860"
+    }
+,
+    {
+      "name": "Chasmia maculata Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438283"
+    }
+,
+    {
+      "name": "Chasmia neocaledonica Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438284"
+    }
+,
+    {
+      "name": "Chlorotabanus Lutz, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Chlorotabanus flagellatus Krolow & Henriques, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851220"
+    }
+,
+    {
+      "name": "Chlorotabanus inanis (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752670"
+    }
+,
+    {
+      "name": "Tabanus inanis Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919459"
+    }
+,
+    {
+      "name": "Chlorotabanus leucochlorus Fairchild, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851221"
+    }
+,
+    {
+      "name": "Chlorotabanus leuconotus Krolow & Henriques, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752671"
+    }
+,
+    {
+      "name": "Chlorotabanus mexicanus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752672"
+    }
+,
+    {
+      "name": "Tabanus mexicanus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850676"
+    }
+,
+    {
+      "name": "Cryptotylus Lutz, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptotylus cauri Stone, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851222"
+    }
+,
+    {
+      "name": "Cryptotylus unicolor (Wiedemann, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752673"
+    }
+,
+    {
+      "name": "Ommalia viridis Enderlein, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919467"
+    }
+,
+    {
+      "name": "Tabanus castaneus Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919463"
+    }
+,
+    {
+      "name": "Tabanus ferrugineus Thunberg, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919462"
+    }
+,
+    {
+      "name": "Tabanus ochraceus Macquart, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919464"
+    }
+,
+    {
+      "name": "Tabanus princeps Brèthes, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919466"
+    }
+,
+    {
+      "name": "Tabanus sulphureus Macquart, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919465"
+    }
+,
+    {
+      "name": "Tabanus unicolor Wiedemann, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919460"
+    }
+,
+    {
+      "name": "Cydistomyia Taylor, 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "Cydistomyia atrata Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438285"
+    }
+,
+    {
+      "name": "Cydistomyia brachypalpus Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438861"
+    }
+,
+    {
+      "name": "Cydistomyia bugnicourti Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438560"
+    }
+,
+    {
+      "name": "Cydistomyia caledonica (Ricardo, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807123"
+    }
+,
+    {
+      "name": "Atylotus albonotatus Bigot, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890548"
+    }
+,
+    {
+      "name": "Cydistomyia albonotatus (Bigot, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962663"
+    }
+,
+    {
+      "name": "Tabanus albonotatus (Bigot, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962285"
+    }
+,
+    {
+      "name": "Tabanus caledonicus Ricardo, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890549"
+    }
+,
+    {
+      "name": "Cydistomyia colasbelcouri Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438562"
+    }
+,
+    {
+      "name": "Cydistomyia diasi Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438563"
+    }
+,
+    {
+      "name": "Cydistomyia kraussi Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438286"
+    }
+,
+    {
+      "name": "Cydistomyia lifuensis (Bigot, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807124"
+    }
+,
+    {
+      "name": "Cydistomyia massali Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828316"
+    }
+,
+    {
+      "name": "Tabanus lifuensis Bigot, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438268"
+    }
+,
+    {
+      "name": "Cydistomyia longicornis Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438287"
+    }
+,
+    {
+      "name": "Cydistomyia longipennis Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438288"
+    }
+,
+    {
+      "name": "Cydistomyia longistyla Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438289"
+    }
+,
+    {
+      "name": "Cydistomyia matilei Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438863"
+    }
+,
+    {
+      "name": "Cydistomyia metallica Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438290"
+    }
+,
+    {
+      "name": "Cydistomyia minuta Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438291"
+    }
+,
+    {
+      "name": "Cydistomyia pinensis Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438292"
+    }
+,
+    {
+      "name": "Cydistomyia quadrimaculata Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438293"
+    }
+,
+    {
+      "name": "Cydistomyia risbeci Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438566"
+    }
+,
+    {
+      "name": "Cydistomyia danutae Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438862"
+    }
+,
+    {
+      "name": "Cydistomyia roubaudi Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438567"
+    }
+,
+    {
+      "name": "Cydistomyia toumanoffi Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438568"
+    }
+,
+    {
+      "name": "Dasybasis Macquart, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasybasis evenhuisi Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438294"
+    }
+,
+    {
+      "name": "Dasybasis gracilipalpis Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438295"
+    }
+,
+    {
+      "name": "Dasybasis grenieri (Mackerras & Rageau, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828344"
+    }
+,
+    {
+      "name": "Cydistomyia grenieri Mackerras & Rageau, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438564"
+    }
+,
+    {
+      "name": "Cydistomyia norae Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438864"
+    }
+,
+    {
+      "name": "Dasybasis ponandouensis Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438296"
+    }
+,
+    {
+      "name": "Dasybasis rubricallosa (Ricardo, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807120"
+    }
+,
+    {
+      "name": "Tabanus rubricallosus Ricardo, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890551"
+    }
+,
+    {
+      "name": "Dasybasis setipalpis Burger, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438297"
+    }
+,
+    {
+      "name": "Dasybasis tiwakai (Trojan, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890552"
+    }
+,
+    {
+      "name": "Cydistomyia tiwakai Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438865"
+    }
+,
+    {
+      "name": "Diachlorus Osten Sacken, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Diachlorus bicinctus (Fabricius, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851224"
+    }
+,
+    {
+      "name": "Diabasis diversipes Macquart, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919525"
+    }
+,
+    {
+      "name": "Pseudoselasoma bicinctum Enderlein, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919526"
+    }
+,
+    {
+      "name": "Tabanus bicinctus Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919527"
+    }
+,
+    {
+      "name": "Diachlorus curvipes (Fabricius, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851225"
+    }
+,
+    {
+      "name": "Chrysops terminalis Macquart, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919528"
+    }
+,
+    {
+      "name": "Chrysops varipes Walker, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919529"
+    }
+,
+    {
+      "name": "Haematopota curvipes Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919530"
+    }
+,
+    {
+      "name": "Diachlorus fuscistigma Lutz, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851226"
+    }
+,
+    {
+      "name": "Diachlorus scutellatus (Macquart, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851227"
+    }
+,
+    {
+      "name": "Tabanus scutellatus Macquart, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919531"
+    }
+,
+    {
+      "name": "Dichelacera Macquart, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Dichelacera damicornis (Fabricius, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851229"
+    }
+,
+    {
+      "name": "Dichelacera capricornis Krober, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919532"
+    }
+,
+    {
+      "name": "Tabanus damicornis Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919533"
+    }
+,
+    {
+      "name": "Dichelacera marginata Macquart, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851230"
+    }
+,
+    {
+      "name": "Dichelacera t-nigrum Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851231"
+    }
+,
+    {
+      "name": "Lepiselaga Macquart, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Lepiselaga crassipes (Fabricius, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751800"
+    }
+,
+    {
+      "name": "Haematopota crassipes Fabricius, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919534"
+    }
+,
+    {
+      "name": "Lepidoselaga fenestrata Hack, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919535"
+    }
+,
+    {
+      "name": "Lepidoselaga major Szilady, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919536"
+    }
+,
+    {
+      "name": "Lepidoselaga recta Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919537"
+    }
+,
+    {
+      "name": "Tabanus lepidotus Wiedemann, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919538"
+    }
+,
+    {
+      "name": "Leucotabanus Lutz, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Leucotabanus albovarius (Walker, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851233"
+    }
+,
+    {
+      "name": "Leucotabanus leuconotum Fairchild, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919540"
+    }
+,
+    {
+      "name": "Tabanus albovarius Walker, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919539"
+    }
+,
+    {
+      "name": "Tabanus unicinctus Walker, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919541"
+    }
+,
+    {
+      "name": "Leucotabanus exaestuans (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851234"
+    }
+,
+    {
+      "name": "Tabanus albicans Macquart, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919543"
+    }
+,
+    {
+      "name": "Tabanus albiscutellatus Macquart, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919544"
+    }
+,
+    {
+      "name": "Tabanus cingulifer Walker, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919545"
+    }
+,
+    {
+      "name": "Tabanus exaestuans Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919542"
+    }
+,
+    {
+      "name": "Tabanus leucaspis Wiedemann, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919546"
+    }
+,
+    {
+      "name": "Tabanus melanoptera Brethes, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919547"
+    }
+,
+    {
+      "name": "Leucotabanus janinae Fairchild, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851235"
+    }
+,
+    {
+      "name": "Mackerrasus Trojan, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Plesiobasis Trojan, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "Mackerrasus tillierorum (Trojan, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911793"
+    }
+,
+    {
+      "name": "Dasybasis tillierorum Trojan, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438869"
+    }
+,
+    {
+      "name": "Plesiobasis tillierorum (Trojan, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911794"
+    }
+,
+    {
+      "name": "Phaeotabanus Lutz, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Phaeotabanus cajennensis (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751801"
+    }
+,
+    {
+      "name": "Tabanus cajennensis Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919548"
+    }
+,
+    {
+      "name": "Tabanus decoloratus Krober, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919549"
+    }
+,
+    {
+      "name": "Phaeotabanus fervens (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751802"
+    }
+,
+    {
+      "name": "Tabanus fervens Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850675"
+    }
+,
+    {
+      "name": "Phaeotabanus nigriflavus (Kröber, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851236"
+    }
+,
+    {
+      "name": "Phaeotabanus obscurepilis Krober, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919550"
+    }
+,
+    {
+      "name": "Tabanus nigriflavus Krober, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438526"
+    }
+,
+    {
+      "name": "Phaeotabanus phaeopterus Fairchild, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851237"
+    }
+,
+    {
+      "name": "Philipotabanus Fairchild, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Philipotabanus stigmaticalis (Kröber, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851239"
+    }
+,
+    {
+      "name": "Tabanus stigmaticalis Kröber, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919551"
+    }
+,
+    {
+      "name": "Stenotabanus Lutz, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenotabanus cinereus Wiedemann, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752087"
+    }
+,
+    {
+      "name": "Stibasoma Schiner, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Stibasoma festivum (Wiedemann, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851241"
+    }
+,
+    {
+      "name": "Stibasoma dyridophorum Knab, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919554"
+    }
+,
+    {
+      "name": "Tabanus festivum Wiedemann, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919553"
+    }
+,
+    {
+      "name": "Tabanus mallophoroides Walker, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919552"
+    }
+,
+    {
+      "name": "Stypommisa Enderlein, 1923",
+      "url": ""
+    }
+,
+    {
+      "name": "Stypommisa captiroptera (Kröber, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851243"
+    }
+,
+    {
+      "name": "Stenotabanus xenium Fairchild, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919555"
+    }
+,
+    {
+      "name": "Tabanus captiropterus Kröber, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919556"
+    }
+,
+    {
+      "name": "Stypommisa glandicolor (Lutz, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851244"
+    }
+,
+    {
+      "name": "Tabanus glandicolor Lutz, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919557"
+    }
+,
+    {
+      "name": "Stypommisa modica (Hine, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851245"
+    }
+,
+    {
+      "name": "Stypommia ruficornis Krober, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919558"
+    }
+,
+    {
+      "name": "Tabanus modicus Hine, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919559"
+    }
+,
+    {
+      "name": "Stypommisa tantula (Hine, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851246"
+    }
+,
+    {
+      "name": "Tabanus tantulus Hine, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/919560"
+    }
+
+  ]
+}

@@ -1,0 +1,2567 @@
+
+{
+  "name": "gnomoniaceae",
+  "children": [
+
+    {
+      "name": "Gnomoniaceae G.Winter, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Alnecium Voglmayr & Jaklitsch, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Alnecium auctum (Berk. & Broome) Voglmayr & Jaklitsch, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995238"
+    }
+,
+    {
+      "name": "Calospora aucta (Berk. & Broome) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877926"
+    }
+,
+    {
+      "name": "Cryptospora aucta (Berk. & Broome) Tul. & C.Tul., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877927"
+    }
+,
+    {
+      "name": "Melanconis aucta (Berk. & Broome) Wehm., 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877928"
+    }
+,
+    {
+      "name": "Prosthecium auctum (Berk. & Broome) Petr., 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866304"
+    }
+,
+    {
+      "name": "Pseudovalsa aucta (Berk. & Broome) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877929"
+    }
+,
+    {
+      "name": "Sphaeria aucta Berk. & Broome, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877930"
+    }
+,
+    {
+      "name": "Amphiporthe Petr., 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphiporthe castanea (Tul. & C.Tul.) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865466"
+    }
+,
+    {
+      "name": "Cryptodiaporthe castanea (Tul. & C.Tul.) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46590"
+    }
+,
+    {
+      "name": "Dendrostoma castaneum (Tul. & C.Tul.) Voglmayr & Jaklitsch, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976930"
+    }
+,
+    {
+      "name": "Sphaeria castanea Tul.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871738"
+    }
+,
+    {
+      "name": "Valsa castanea Tul. & C.Tul., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976929"
+    }
+,
+    {
+      "name": "Amphiporthe hranicensis (Petr.) Petr., 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865467"
+    }
+,
+    {
+      "name": "Cryptodiaporthe hranicensis (Petr.) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46592"
+    }
+,
+    {
+      "name": "Diaporthe hranicensis Petr., 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871739"
+    }
+,
+    {
+      "name": "Amphiporthe tiliae (Sacc.) Rossman & Castl., 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994473"
+    }
+,
+    {
+      "name": "Cytospora tiliae Sacc., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865974"
+    }
+,
+    {
+      "name": "Asteroma DC., 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Actinonemella Höhn., 1916",
+      "url": ""
+    }
+,
+    {
+      "name": "Asteroma aceris Roberge ex Desm., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865560"
+    }
+,
+    {
+      "name": "Asteroma achenarum Roberge ex Desm., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870980"
+    }
+,
+    {
+      "name": "Asteroma alni Allesch., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905066"
+    }
+,
+    {
+      "name": "Asteroma angulatum (Desm.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865561"
+    }
+,
+    {
+      "name": "Asterina angulata Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977213"
+    }
+,
+    {
+      "name": "Asteroma apressum Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865562"
+    }
+,
+    {
+      "name": "Asteroma atratum Chevall., 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865563"
+    }
+,
+    {
+      "name": "Asteroma betulae Roberge ex Desm., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865564"
+    }
+,
+    {
+      "name": "Asteroma bupleuri Sacc. & Roum., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865566"
+    }
+,
+    {
+      "name": "Asteroma cacaliae Desm., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865567"
+    }
+,
+    {
+      "name": "Asteroma calvadosii Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865568"
+    }
+,
+    {
+      "name": "Asteroma capreae Desm., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865569"
+    }
+,
+    {
+      "name": "Asteroma castaneae Desm., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865570"
+    }
+,
+    {
+      "name": "Asteroma cerasi Roberge ex Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865571"
+    }
+,
+    {
+      "name": "Asteroma cerasi var. ramulicolum Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865572"
+    }
+,
+    {
+      "name": "Asteroma circinans Desm., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865573"
+    }
+,
+    {
+      "name": "Asteroma comptum Roberge ex Desm., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865574"
+    }
+,
+    {
+      "name": "Asteroma confervoides Grognot, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865575"
+    }
+,
+    {
+      "name": "Asteroma confusum Grognot, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870981"
+    }
+,
+    {
+      "name": "Asteroma corni Desm., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865576"
+    }
+,
+    {
+      "name": "Asteroma daturae Brunaud, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865577"
+    }
+,
+    {
+      "name": "Asteroma delicatulum Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865578"
+    }
+,
+    {
+      "name": "Asteroma elegans Roberge ex Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865579"
+    }
+,
+    {
+      "name": "Asteroma equiseti Grognot, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870982"
+    }
+,
+    {
+      "name": "Asteroma frigidum Sacc., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865580"
+    }
+,
+    {
+      "name": "Asteroma fugax Roberge ex Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870983"
+    }
+,
+    {
+      "name": "Asteroma gallicolum Desm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865624"
+    }
+,
+    {
+      "name": "Asteroma geographicum (DC.) Desm., 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865581"
+    }
+,
+    {
+      "name": "Sphaeria geographica DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872209"
+    }
+,
+    {
+      "name": "Asteroma graphoides Roberge ex Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865582"
+    }
+,
+    {
+      "name": "Asteroma grognotii Sacc. & P.Syd., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865583"
+    }
+,
+    {
+      "name": "Asterina megalospora Berk. & M.A.Curtis, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977216"
+    }
+,
+    {
+      "name": "Asteroma gallicola Grognot ex Sacc., 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977218"
+    }
+,
+    {
+      "name": "Asteroma gallicolum Grognot ex Sacc., 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872210"
+    }
+,
+    {
+      "name": "Asteroma hederae Quest.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865584"
+    }
+,
+    {
+      "name": "Asteroma immaculatum Grognot, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865585"
+    }
+,
+    {
+      "name": "Asteroma incomptum Roberge ex Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870984"
+    }
+,
+    {
+      "name": "Asteroma inconspicuum (Cavara) B.Sutton, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865586"
+    }
+,
+    {
+      "name": "Gloeosporium inconspicuum Cavara, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977230"
+    }
+,
+    {
+      "name": "Asteroma inflatum Roberge ex Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865587"
+    }
+,
+    {
+      "name": "Asteroma latebrarum Grognot, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865588"
+    }
+,
+    {
+      "name": "Asteroma laureolae Chevall., 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865589"
+    }
+,
+    {
+      "name": "Asteroma lonicerae Desm., 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865590"
+    }
+,
+    {
+      "name": "Asteroma medusula Durieu & Mont., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865591"
+    }
+,
+    {
+      "name": "Asteroma mespilii Roberge",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865592"
+    }
+,
+    {
+      "name": "Asteroma microspermum (Peck) B.Sutton, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865593"
+    }
+,
+    {
+      "name": "Septoria microsperma Peck, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977231"
+    }
+,
+    {
+      "name": "Asteroma nervisequium (DC.) Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865594"
+    }
+,
+    {
+      "name": "Dothidea nervisequia (DC.) Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872211"
+    }
+,
+    {
+      "name": "Sphaeria nervisequia DC.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872212"
+    }
+,
+    {
+      "name": "Asteroma nitidum Desm., 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865595"
+    }
+,
+    {
+      "name": "Asteroma obscurum Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865596"
+    }
+,
+    {
+      "name": "Asteroma phaseoli Brunaud, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865597"
+    }
+,
+    {
+      "name": "Asteroma piri Roberge ex Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865598"
+    }
+,
+    {
+      "name": "Asteroma pomari Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865599"
+    }
+,
+    {
+      "name": "Asteroma pomarii Grognot, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865625"
+    }
+,
+    {
+      "name": "Asteroma populi Roberge ex Desm., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865600"
+    }
+,
+    {
+      "name": "Asteroma prunellae Purton, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865601"
+    }
+,
+    {
+      "name": "Asteroma brunellae Allesch., 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905067"
+    }
+,
+    {
+      "name": "Asteroma punicae (Mont.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865602"
+    }
+,
+    {
+      "name": "Sphaeria punicae Mont., 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872213"
+    }
+,
+    {
+      "name": "Asteroma pyracanthae (Desm.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865603"
+    }
+,
+    {
+      "name": "Asterina pyracanthae Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883238"
+    }
+,
+    {
+      "name": "Asteroma radiosum Fr., 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865604"
+    }
+,
+    {
+      "name": "Asteroma robergei (Desm.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865605"
+    }
+,
+    {
+      "name": "Actinonema robergei Desm., 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872214"
+    }
+,
+    {
+      "name": "Asteroma salicis Roberge ex Desm., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865606"
+    }
+,
+    {
+      "name": "Asteroma scrophulariae Brunaud, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865607"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum Grognot, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865608"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum var. aconiti Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865609"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum var. entogenum Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865610"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum var. gei Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865611"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum var. iridis Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865612"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum var. petroselini Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865613"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum var. sambuci Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865614"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum var. subparalellum Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865615"
+    }
+,
+    {
+      "name": "Asteroma tenerrimum var. tropaeoli Grognot",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865616"
+    }
+,
+    {
+      "name": "Asteroma trifolii Grognot, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865618"
+    }
+,
+    {
+      "name": "Asteroma ulmi Klotzsch, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865619"
+    }
+,
+    {
+      "name": "Asteroma umbonatum (Desm.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865620"
+    }
+,
+    {
+      "name": "Asterina umbonata Desm., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872215"
+    }
+,
+    {
+      "name": "Asteroma vaccinii Vlassova, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905385"
+    }
+,
+    {
+      "name": "Asteroma vagans Desm., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865621"
+    }
+,
+    {
+      "name": "Asteroma vernicosum (DC.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865622"
+    }
+,
+    {
+      "name": "Sphaeria vernicosa DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880768"
+    }
+,
+    {
+      "name": "Asteroma virgiliae Roberge ex Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865623"
+    }
+,
+    {
+      "name": "Chondroplea Kleb., 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Chondroplea populea (Sacc. & Briard) Kleb., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883290"
+    }
+,
+    {
+      "name": "Dothichiza populea Sacc. & Briard, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869808"
+    }
+,
+    {
+      "name": "Cryptodiaporthe Petr., 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptodiaporthe acerina J.Reid & Cain, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854672"
+    }
+,
+    {
+      "name": "Cryptodiaporthe aubertii (Westend.) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46589"
+    }
+,
+    {
+      "name": "Diaporthe aubertii (Westend.) Lambotte, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873745"
+    }
+,
+    {
+      "name": "Diaporthe prominula E.Bommer, M.Rousseau & Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873747"
+    }
+,
+    {
+      "name": "Diaporthe valida Nitschke, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873748"
+    }
+,
+    {
+      "name": "Diaporthe wibbei Nitschke, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873749"
+    }
+,
+    {
+      "name": "Phomopsis incommoda (Trail) Grove, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873750"
+    }
+,
+    {
+      "name": "Sphaeria aubertii Westend., 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873746"
+    }
+,
+    {
+      "name": "Cryptodiaporthe corni (Wehm.) Petr., 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854674"
+    }
+,
+    {
+      "name": "Apioporthe corni Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873751"
+    }
+,
+    {
+      "name": "Cryptodiaporthe galericulata (Tul. & C.Tul.) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46591"
+    }
+,
+    {
+      "name": "Diaporthe galericulata (Tul. & C.Tul.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873752"
+    }
+,
+    {
+      "name": "Malacostroma carneum (van Thümen) Höhn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873754"
+    }
+,
+    {
+      "name": "Valsa galericulata Tul. & C.Tul., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873753"
+    }
+,
+    {
+      "name": "Cryptodiaporthe lebiseyi (Desm.) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46594"
+    }
+,
+    {
+      "name": "Diaporthe lebiseyi (Desm.) Niessl, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873755"
+    }
+,
+    {
+      "name": "Sphaeria lebiseyi Desm., 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873756"
+    }
+,
+    {
+      "name": "Cryptodiaporthe populea (Sacc.) Butin, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46595"
+    }
+,
+    {
+      "name": "Diaporthe populea Sacc., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873758"
+    }
+,
+    {
+      "name": "Cryptodiaporthe pyrrhocystis (Berk. & Broome) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46596"
+    }
+,
+    {
+      "name": "Diaporthe pyrrhocystis (Berk. & Broome) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873759"
+    }
+,
+    {
+      "name": "Diatrype pyrrhocystis Berk. & Broome, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873760"
+    }
+,
+    {
+      "name": "Cryptodiaporthe robergeana (Desm.) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46597"
+    }
+,
+    {
+      "name": "Diaporthe robergeana (Desm.) Niessl, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873761"
+    }
+,
+    {
+      "name": "Sphaeria robergeana Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873762"
+    }
+,
+    {
+      "name": "Depazea Fr., 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Depazea chatiniana Crié, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865986"
+    }
+,
+    {
+      "name": "Depazea polygonaticola Desp.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874100"
+    }
+,
+    {
+      "name": "Phyllosticta cruenta Kx.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874101"
+    }
+,
+    {
+      "name": "Sphaeria convallariaecola De Candolle",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874102"
+    }
+,
+    {
+      "name": "Depazea crispans Fr., 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865987"
+    }
+,
+    {
+      "name": "Depazea cymbalariae Lacaille, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865988"
+    }
+,
+    {
+      "name": "Depazea esculicola Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865989"
+    }
+,
+    {
+      "name": "Depazea fagicola (Fr.) Mussat, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865990"
+    }
+,
+    {
+      "name": "Sphaerella fagicola (Fr.) Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978713"
+    }
+,
+    {
+      "name": "Sphaeria fagicola Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978712"
+    }
+,
+    {
+      "name": "Depazea gentianaecola (DC.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865991"
+    }
+,
+    {
+      "name": "Depazea gentianicola (DC.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978716"
+    }
+,
+    {
+      "name": "Leptothyrium gentianicola (DC.) Bäumler, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978715"
+    }
+,
+    {
+      "name": "Sphaeria gentiacaecola DC.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883261"
+    }
+,
+    {
+      "name": "Sphaeria lichenoides var. gentianicola DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978714"
+    }
+,
+    {
+      "name": "Depazea purpurascens J.Kickx f., 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865992"
+    }
+,
+    {
+      "name": "Depazea tremulaecola DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865993"
+    }
+,
+    {
+      "name": "Depazea tulasneana Crié",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865994"
+    }
+,
+    {
+      "name": "Depazea veronicae Lacaille, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865995"
+    }
+,
+    {
+      "name": "Diplodina Westend., 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Diplodina acerum Sacc. & Briard, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855011"
+    }
+,
+    {
+      "name": "Diplodina acervata (Lév.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855012"
+    }
+,
+    {
+      "name": "Diplodia acervata Lév., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874472"
+    }
+,
+    {
+      "name": "Diplodina alchemillae Kuhnh.-Lord., 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855013"
+    }
+,
+    {
+      "name": "Diplodina amaranthi Fautrey, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855014"
+    }
+,
+    {
+      "name": "Diplodina antirrhini Fautrey, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855015"
+    }
+,
+    {
+      "name": "Diplodina arenicola A.L.Guyot, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854883"
+    }
+,
+    {
+      "name": "Diplodina ascochytoides (Sacc.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855016"
+    }
+,
+    {
+      "name": "Diplodia ascochytoides Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978882"
+    }
+,
+    {
+      "name": "Diplodina berberidina Allesch., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855017"
+    }
+,
+    {
+      "name": "Diplodina berberidina f. decaisneana C. Moreau",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869858"
+    }
+,
+    {
+      "name": "Diplodina bidentis Fautrey & Rolland, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855018"
+    }
+,
+    {
+      "name": "Diplodina buddlejae C.Moreau, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002938"
+    }
+,
+    {
+      "name": "Diplodina castaneae Prill. & Delacr., 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855020"
+    }
+,
+    {
+      "name": "Diplodina claudelii Vouaux, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659888"
+    }
+,
+    {
+      "name": "Diplodina clematidina Fautrey & Roum., 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855021"
+    }
+,
+    {
+      "name": "Diplodina coronillae Brunaud, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855022"
+    }
+,
+    {
+      "name": "Diplodina eleagni Brunaud",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855023"
+    }
+,
+    {
+      "name": "Diplodina epidermidis Lambotte & Fautrey, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855024"
+    }
+,
+    {
+      "name": "Diplodina grossulariae Sacc. & Briard, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855025"
+    }
+,
+    {
+      "name": "Diplodina helianthi Fautrey, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855026"
+    }
+,
+    {
+      "name": "Diplodina helichrysi Pass., 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855027"
+    }
+,
+    {
+      "name": "Diplodina humuli Brunaud, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855028"
+    }
+,
+    {
+      "name": "Diplodina juglandis Brunaud, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855030"
+    }
+,
+    {
+      "name": "Diplodina laburni Brunaud, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855031"
+    }
+,
+    {
+      "name": "Diplodina ligustri Delacr., 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855032"
+    }
+,
+    {
+      "name": "Diplodina ovalifolii Brunaud, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855033"
+    }
+,
+    {
+      "name": "Diplodina parietariae Brunaud, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855034"
+    }
+,
+    {
+      "name": "Diplodina peltigerae Vouaux, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659887"
+    }
+,
+    {
+      "name": "Diplodina phlogis Fautrey, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855035"
+    }
+,
+    {
+      "name": "Diplodina photiniae Brunaud, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855036"
+    }
+,
+    {
+      "name": "Diplodina rosae Brunaud, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855037"
+    }
+,
+    {
+      "name": "Diplodina semiimmersa P.Karst. & Har., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855038"
+    }
+,
+    {
+      "name": "Diplodina staphyleae Brunaud, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855039"
+    }
+,
+    {
+      "name": "Diplodina thesii G.Boyer & Jacz., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855040"
+    }
+,
+    {
+      "name": "Diplodina tropaeoli Roum. & Fautrey, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855041"
+    }
+,
+    {
+      "name": "Diplodina truncata (Lév.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855042"
+    }
+,
+    {
+      "name": "Diplodia truncata Lév., 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874473"
+    }
+,
+    {
+      "name": "Diplodina verbenacea Har. & Briard, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855043"
+    }
+,
+    {
+      "name": "Diplodina veronicae Brunaud, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855044"
+    }
+,
+    {
+      "name": "Diplodina vitis Brunaud, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855045"
+    }
+,
+    {
+      "name": "Discosporium Höhn., 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Discosporium populeum (Sacc.) B.Sutton, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870922"
+    }
+,
+    {
+      "name": "Dothiorella populea (Sacc.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866242"
+    }
+,
+    {
+      "name": "Phoma populea Sacc., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877218"
+    }
+,
+    {
+      "name": "Discula Sacc., 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Discula betulae Pennycook, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905096"
+    }
+,
+    {
+      "name": "Gloeosporium betulae Westend., 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905979"
+    }
+,
+    {
+      "name": "Discula campestris (Pass.) Arx, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905438"
+    }
+,
+    {
+      "name": "Gloeosporium campestre Pass., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906053"
+    }
+,
+    {
+      "name": "Discula melanotricha (Castagne) Petr., 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016566"
+    }
+,
+    {
+      "name": "Myxosporium melanotrichum (Castagne) Sacc., 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868067"
+    }
+,
+    {
+      "name": "Naemaspora melanotricha Castagne, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879566"
+    }
+,
+    {
+      "name": "Gnomonia Ces. & De Not., 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Gnomonia amoena (Nees & T.Nees) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855636"
+    }
+,
+    {
+      "name": "Gnomoniella amoena (Nees & T.Nees) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876404"
+    }
+,
+    {
+      "name": "Sphaeria amoena Nees & T.Nees, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876405"
+    }
+,
+    {
+      "name": "Gnomonia betulae-pubescentis M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855637"
+    }
+,
+    {
+      "name": "Gnomonia carpinicola (Höhn.) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855638"
+    }
+,
+    {
+      "name": "Apioplagiostoma carpinicola (Höhn.) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876406"
+    }
+,
+    {
+      "name": "Gnomonia stahlii Kleb., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883380"
+    }
+,
+    {
+      "name": "Plagiostomella carpinicola Höhn., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883643"
+    }
+,
+    {
+      "name": "Gnomonia chamaemori Fr., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855654"
+    }
+,
+    {
+      "name": "Cryptoderis chamaemori (Fr.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876510"
+    }
+,
+    {
+      "name": "Gnomoniopsis chamaemori (Fr.) Berl., 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876511"
+    }
+,
+    {
+      "name": "Sphaeria chamaemori Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876512"
+    }
+,
+    {
+      "name": "Gnomonia curvirostrata (Sowerby) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855655"
+    }
+,
+    {
+      "name": "Gnomonia delacerans Rehm",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855656"
+    }
+,
+    {
+      "name": "Gnomonia dryadis Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855657"
+    }
+,
+    {
+      "name": "Gnomonia emarginata Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969066"
+    }
+,
+    {
+      "name": "Gnomoniella emarginata (Fuckel) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972466"
+    }
+,
+    {
+      "name": "Gnomonia fautreyi Rolland, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855658"
+    }
+,
+    {
+      "name": "Gnomonia fimicola M.Moreau, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855659"
+    }
+,
+    {
+      "name": "Gnomonia fragariae Kleb., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855660"
+    }
+,
+    {
+      "name": "Gnomonia gei Pat. & Doass., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855661"
+    }
+,
+    {
+      "name": "Gnomonia geranii-macrorrhizi Fakirova, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855662"
+    }
+,
+    {
+      "name": "Gnomonia gnomon (Tode) J.Schröt., 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855663"
+    }
+,
+    {
+      "name": "Cerastoma gnomon (Tode) Quél., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876513"
+    }
+,
+    {
+      "name": "Gnomonia vulgaris Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876514"
+    }
+,
+    {
+      "name": "Sphaeria gnomon Tode, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876515"
+    }
+,
+    {
+      "name": "Gnomonia graphis Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855664"
+    }
+,
+    {
+      "name": "Gnomonia kisslingii M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855665"
+    }
+,
+    {
+      "name": "Gnomonia lonicerae M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855666"
+    }
+,
+    {
+      "name": "Gnomonia nantensis M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855667"
+    }
+,
+    {
+      "name": "Gnomonia norvegica M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855668"
+    }
+,
+    {
+      "name": "Gnomonia palustris M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855669"
+    }
+,
+    {
+      "name": "Gnomonia pseudoamoena M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855670"
+    }
+,
+    {
+      "name": "Gnomonia radicicola Noordel., Kesteren & Veenb.-Rijks, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855671"
+    }
+,
+    {
+      "name": "Gnomonia rhois Richon, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855672"
+    }
+,
+    {
+      "name": "Gnomonia riparia Niessl, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855673"
+    }
+,
+    {
+      "name": "Cryptoderis riparia (Niessl) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876516"
+    }
+,
+    {
+      "name": "Gnomonia rostellata (Fr.) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47615"
+    }
+,
+    {
+      "name": "Cerastoma rostellata (Fr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876517"
+    }
+,
+    {
+      "name": "Cryptodiaporthe rostellata (Fr.) Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883381"
+    }
+,
+    {
+      "name": "Diaporthe rostellata (Fr.) Nitschke, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876518"
+    }
+,
+    {
+      "name": "Gnomonia rubi (Rehm) G.Winter, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876520"
+    }
+,
+    {
+      "name": "Sphaeria rostellata Fr., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876519"
+    }
+,
+    {
+      "name": "Gnomonia rubi-idaei M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855674"
+    }
+,
+    {
+      "name": "Gnomonia salicis-auritae M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855675"
+    }
+,
+    {
+      "name": "Gnomonia sentierensis M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855676"
+    }
+,
+    {
+      "name": "Gnomonia skiftei M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855677"
+    }
+,
+    {
+      "name": "Gnomonia tetraspora G.Winter, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855678"
+    }
+,
+    {
+      "name": "Gnomonia tithymalina Sacc. & Briard, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855679"
+    }
+,
+    {
+      "name": "Gnomonia trientensis M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855680"
+    }
+,
+    {
+      "name": "Gnomonia vallesiaca M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855681"
+    }
+,
+    {
+      "name": "Gnomonia vescae M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855682"
+    }
+,
+    {
+      "name": "Gnomonia viburni-opuli M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855683"
+    }
+,
+    {
+      "name": "Gnomoniella Sacc., 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Gnomoniella abortiva M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866178"
+    }
+,
+    {
+      "name": "Gnomoniella ammannii M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866179"
+    }
+,
+    {
+      "name": "Gnomoniella amygdalinae (Fuckel) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979256"
+    }
+,
+    {
+      "name": "Diaporthe amygdalinae Fuckel, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876521"
+    }
+,
+    {
+      "name": "Gnomonia amygdalinae Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876522"
+    }
+,
+    {
+      "name": "Gnomoniella amygdalina (Fuckel) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866180"
+    }
+,
+    {
+      "name": "Plagiostoma amygdalinae (Fuckel) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979257"
+    }
+,
+    {
+      "name": "Gnomoniella avellanae Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969067"
+    }
+,
+    {
+      "name": "Sphaeria avellanae J.C.Schmidt, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969068"
+    }
+,
+    {
+      "name": "Gnomoniella brunaudiana Pass., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866181"
+    }
+,
+    {
+      "name": "Gnomoniella devexa var. media Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868882"
+    }
+,
+    {
+      "name": "Gnomoniella euphorbiae-verrucosae M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866202"
+    }
+,
+    {
+      "name": "Gnomoniella hippocastani Brunaud, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866203"
+    }
+,
+    {
+      "name": "Gnomoniella idaeicola (P.Karst.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866204"
+    }
+,
+    {
+      "name": "Gnomonia idaeicola P.Karst., 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979261"
+    }
+,
+    {
+      "name": "Gnomoniella microspora M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866205"
+    }
+,
+    {
+      "name": "Gnomoniella rubicola Pass., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866207"
+    }
+,
+    {
+      "name": "Gnomoniella tubaeformis (Tode) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866208"
+    }
+,
+    {
+      "name": "Asteroma alneum (Pers.) B.Sutton, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876594"
+    }
+,
+    {
+      "name": "Cerastoma tubaeforme (Tode) Quél., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876595"
+    }
+,
+    {
+      "name": "Discosia alnea (Pers.) Berk., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972365"
+    }
+,
+    {
+      "name": "Dothidea alnea (Pers.) Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969041"
+    }
+,
+    {
+      "name": "Guignardia tubaeformis (Tode) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876596"
+    }
+,
+    {
+      "name": "Sphaeria tubaeformis Tode, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876597"
+    }
+,
+    {
+      "name": "Xyloma alneum Pers., 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969042"
+    }
+,
+    {
+      "name": "Gnomoniella vagans Johanson, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866209"
+    }
+,
+    {
+      "name": "Gnomoniella vasarii M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866210"
+    }
+,
+    {
+      "name": "Gnomoniopsis Berl., 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Gnomoniopsis comari (P.Karst.) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866211"
+    }
+,
+    {
+      "name": "Gnomonia comari P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876598"
+    }
+,
+    {
+      "name": "Gnomonia fragariae var. fruticola G. Arnaud",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876599"
+    }
+,
+    {
+      "name": "Gnomonia fruticola (G. Arnaud) Fall",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876600"
+    }
+,
+    {
+      "name": "Gnomonia herbicola A.L.Sm., 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876601"
+    }
+,
+    {
+      "name": "Gnomoniella guttulata Starbäck, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876602"
+    }
+,
+    {
+      "name": "Zythia fragariae Laib., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876603"
+    }
+,
+    {
+      "name": "Gnomoniopsis smithogilvyi L.A.Shuttlew., E.C.Y.Liew & D.I.Guest, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016527"
+    }
+,
+    {
+      "name": "Gnomoniopsis castaneae Tamietti, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016528"
+    }
+,
+    {
+      "name": "Linospora arctica P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870934"
+    }
+,
+    {
+      "name": "Linospora caudata P.Larsen, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870936"
+    }
+,
+    {
+      "name": "Linospora ceuthocarpa (Fr.) Lind, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870937"
+    }
+,
+    {
+      "name": "Ceuthocarpon populinum (Duby ex Pers.) P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875824"
+    }
+,
+    {
+      "name": "Hypospila populina (Duby ex Pers.) Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875825"
+    }
+,
+    {
+      "name": "Sphaeria ceuthocarpa Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875823"
+    }
+,
+    {
+      "name": "Xyloma populinum Duby ex Pers., 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883678"
+    }
+,
+    {
+      "name": "Linospora faginea (Sacc.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870938"
+    }
+,
+    {
+      "name": "Linospora magnagutiana subsp. faginea Sacc., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980219"
+    }
+,
+    {
+      "name": "Linospora ischnotheca (Desm.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870971"
+    }
+,
+    {
+      "name": "Sphaeria ischnotheca Desm., 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875828"
+    }
+,
+    {
+      "name": "Linospora ochracea Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870939"
+    }
+,
+    {
+      "name": "Linosporopsis ochracea (Sacc.) Voglmayr & Beenken, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980230"
+    }
+,
+    {
+      "name": "Sphaeria ochracea Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875829"
+    }
+,
+    {
+      "name": "Linospora salicis-helveticae M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870940"
+    }
+,
+    {
+      "name": "Linospora salicis-reticulatae M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870941"
+    }
+,
+    {
+      "name": "Linospora saligna (Ehrh. ex Pers.) Traverso, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006234"
+    }
+,
+    {
+      "name": "Hypospila viburni Buckn., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006236"
+    }
+,
+    {
+      "name": "Isothea saligna (Ehrh. ex Pers.) Berk., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875820"
+    }
+,
+    {
+      "name": "Linospora capreae (DC.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870935"
+    }
+,
+    {
+      "name": "Linospora viburni (Buckn.) Berl. & Voglino, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875822"
+    }
+,
+    {
+      "name": "Phoma saligna (Ehrh. ex Pers.) Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883631"
+    }
+,
+    {
+      "name": "Sphaeria capreae DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875821"
+    }
+,
+    {
+      "name": "Xyloma salignum Ehrh. ex Pers., 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006235"
+    }
+,
+    {
+      "name": "Linospora vulgaris Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/870942"
+    }
+,
+    {
+      "name": "Mamiania Ces. & De Not., 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Mamiania fimbriata (Pers.) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866092"
+    }
+,
+    {
+      "name": "Cerastoma fimbriata (Pers.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875400"
+    }
+,
+    {
+      "name": "Gnomoniella fimbriata (Pers.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875401"
+    }
+,
+    {
+      "name": "Guignardia fimbriata (Pers.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875402"
+    }
+,
+    {
+      "name": "Sphaeria carpini Hoffm. [nom. illeg.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875404"
+    }
+,
+    {
+      "name": "Sphaeria fimbriata Pers., 1796",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875403"
+    }
+,
+    {
+      "name": "Ophiognomonia (Sacc.) Sacc.",
+      "url": ""
+    }
+,
+    {
+      "name": "Ophiognomonia alni-viridis (Podl. & Svrček) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866636"
+    }
+,
+    {
+      "name": "Gnomonia alni-viridis Podl. & Svrček, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880265"
+    }
+,
+    {
+      "name": "Ophiognomonia intermedia (Rehm) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866637"
+    }
+,
+    {
+      "name": "Discula betulina (Westend.) Arx, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012321"
+    }
+,
+    {
+      "name": "Gnomonia intermedia Rehm, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880266"
+    }
+,
+    {
+      "name": "Ophiognomonia langii M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866638"
+    }
+,
+    {
+      "name": "Ophiognomonia lapponica Vestergr., 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866639"
+    }
+,
+    {
+      "name": "Ophiognomonia leptostyla (Fr.) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866640"
+    }
+,
+    {
+      "name": "Gloeosporium juglandis (Lib.) Trel., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880267"
+    }
+,
+    {
+      "name": "Gnomonia leptostyla (Fr.) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883500"
+    }
+,
+    {
+      "name": "Leptothyrium juglandis Lib., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880268"
+    }
+,
+    {
+      "name": "Marssonia juglandis (Lib.) Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880269"
+    }
+,
+    {
+      "name": "Marssoniella juglandis (Lib.) Höhn., 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880270"
+    }
+,
+    {
+      "name": "Neomarssoniella juglandis (Lib.) U.Braun, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880271"
+    }
+,
+    {
+      "name": "Sphaeria leptostyla Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880272"
+    }
+,
+    {
+      "name": "Ophiognomonia melanostyla (DC.) Sacc., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866641"
+    }
+,
+    {
+      "name": "Cerastoma gnomon var. melanostyla (DC.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880273"
+    }
+,
+    {
+      "name": "Cryptoderis melanostyla (DC.) G.Winter, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880274"
+    }
+,
+    {
+      "name": "Gnomonia melanostyla (DC.) Auersw.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880275"
+    }
+,
+    {
+      "name": "Gnomoniella melanostyla (DC.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880276"
+    }
+,
+    {
+      "name": "Pleuroceras melanostyla (DC.) Höhn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880277"
+    }
+,
+    {
+      "name": "Sphaeria melanostyla DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880278"
+    }
+,
+    {
+      "name": "Ophiognomonia nana (Rehm) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994990"
+    }
+,
+    {
+      "name": "Gnomoniella nana Rehm, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866206"
+    }
+,
+    {
+      "name": "Ophiognomonia padicola (Lib.) M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866642"
+    }
+,
+    {
+      "name": "Actinonema padi (DC.) Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880280"
+    }
+,
+    {
+      "name": "Asteroma padi DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880281"
+    }
+,
+    {
+      "name": "Asteroma padi Grev.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880279"
+    }
+,
+    {
+      "name": "Cylindrosporella padi (DC.) Arx, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880282"
+    }
+,
+    {
+      "name": "Gloeosporium padi (DC.) Died.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880283"
+    }
+,
+    {
+      "name": "Gnomonia padicola (Lib.) Kleb., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880284"
+    }
+,
+    {
+      "name": "Sphaeria padicola Lib., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880285"
+    }
+,
+    {
+      "name": "Ophiognomonia setacea (Pers.) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866644"
+    }
+,
+    {
+      "name": "Cerastoma setacea (Pers.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880289"
+    }
+,
+    {
+      "name": "Gnomonia setacea f. alni Vleugel, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880288"
+    }
+,
+    {
+      "name": "Gnomonia setacea (Pers.) Ces. & De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880290"
+    }
+,
+    {
+      "name": "Sphaeria setacea Pers., 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880291"
+    }
+,
+    {
+      "name": "Phragmoporthe Petr., 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "Phragmoporthe conformis (Berk. & Broome) Petr., 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866341"
+    }
+,
+    {
+      "name": "Calospora conformis (Berk. & Broome) Starbäck, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878381"
+    }
+,
+    {
+      "name": "Gnomonia conformis (Berk. & Broome) Ferd. & Winge, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878382"
+    }
+,
+    {
+      "name": "Metasphaeria conformis (Berk. & Broome) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883443"
+    }
+,
+    {
+      "name": "Sphaeria conformis Berk. & Broome, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878383"
+    }
+,
+    {
+      "name": "Sphaerulina alni A.L.Sm., 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878384"
+    }
+,
+    {
+      "name": "Plagiostoma Fuckel, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Chalcosphaeria Höhn., 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Phoma Fr., 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Plagiostoma acerophilum (Dearn. & House) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866298"
+    }
+,
+    {
+      "name": "Gnomoniopsis acerophila Dearn. & House, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981512"
+    }
+,
+    {
+      "name": "Plagiostoma aesculi (Fuckel) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970675"
+    }
+,
+    {
+      "name": "Cryptodiaporthe aesculi (Fuckel) Petr., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46588"
+    }
+,
+    {
+      "name": "Cryptospora aesculi Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970676"
+    }
+,
+    {
+      "name": "Discella aesculi (Corda) Oudem., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873741"
+    }
+,
+    {
+      "name": "Fusicoccum aesculi Corda, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006110"
+    }
+,
+    {
+      "name": "Plagiostoma alneum (Fr.) Arx, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866299"
+    }
+,
+    {
+      "name": "Gnomonia alnea (Fr.) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883425"
+    }
+,
+    {
+      "name": "Gnomonia arnstatiense Auersw.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877894"
+    }
+,
+    {
+      "name": "Gnomonia vleugelii Kleb.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877895"
+    }
+,
+    {
+      "name": "Gnomonina rehmii (Sacc.) Höhn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877891"
+    }
+,
+    {
+      "name": "Guignardia alnea (Fr.) J.Schröt., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877887"
+    }
+,
+    {
+      "name": "Hypospila rehmii Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877892"
+    }
+,
+    {
+      "name": "Laestadia alnea (Fr.) Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877888"
+    }
+,
+    {
+      "name": "Plagiostoma arnstadtiense (Auersw.) M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877896"
+    }
+,
+    {
+      "name": "Plagiostoma rehmii (Sacc.) Arx, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877893"
+    }
+,
+    {
+      "name": "Plagiostoma vleugelii (Kleb.) Höhn., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877897"
+    }
+,
+    {
+      "name": "Sphaerella alnea (Fr.) Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877889"
+    }
+,
+    {
+      "name": "Sphaeria alnea Fr., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877890"
+    }
+,
+    {
+      "name": "Plagiostoma apiculatum (Wallr.) L.C.Mejía, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905544"
+    }
+,
+    {
+      "name": "Ceuthospora calathiformis Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873742"
+    }
+,
+    {
+      "name": "Cryptodiaporthe apiculata (Wallr.) Petr., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854673"
+    }
+,
+    {
+      "name": "Cryptodiaporthe salicina Wehm., 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46599"
+    }
+,
+    {
+      "name": "Cytospora salicis (Corda) Rabenh., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873771"
+    }
+,
+    {
+      "name": "Diaporthe spina Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873744"
+    }
+,
+    {
+      "name": "Naemaspora salicis Corda, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883645"
+    }
+,
+    {
+      "name": "Sphaeria apiculata Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873743"
+    }
+,
+    {
+      "name": "Sphaeria salicina Pers., 1796",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873769"
+    }
+,
+    {
+      "name": "Valsa salicina (Pers.) Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873770"
+    }
+,
+    {
+      "name": "Plagiostoma attenuata (Crié) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866300"
+    }
+,
+    {
+      "name": "Plagiostoma bavaricum (Rehm) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866301"
+    }
+,
+    {
+      "name": "Hypospila bavarica Rehm, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981511"
+    }
+,
+    {
+      "name": "Plagiostoma campylostyla (Auersw.) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866302"
+    }
+,
+    {
+      "name": "Gnomonia betulae Vleugel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877898"
+    }
+,
+    {
+      "name": "Gnomonia campylostyla Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877899"
+    }
+,
+    {
+      "name": "Gnomoniella campylostyla (Auersw.) Starbäck",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877900"
+    }
+,
+    {
+      "name": "Plagiostoma carpinea (Sacc.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866306"
+    }
+,
+    {
+      "name": "Plagiostoma cookeana (Auersw.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866307"
+    }
+,
+    {
+      "name": "Plagiostoma devexum (Desm.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866308"
+    }
+,
+    {
+      "name": "Ceriosporella polygoni A.L.Sm. & Ramsb., 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877972"
+    }
+,
+    {
+      "name": "Gnomonia devexa (Desm.) Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877973"
+    }
+,
+    {
+      "name": "Gnomoniella devexa (Desm.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877974"
+    }
+,
+    {
+      "name": "Sphaeria devexa Desm., 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877975"
+    }
+,
+    {
+      "name": "Plagiostoma dilatatum L.C.Mejía, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905545"
+    }
+,
+    {
+      "name": "Plagiostoma euphorbiaceum (Sacc. & Briard) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866309"
+    }
+,
+    {
+      "name": "Gnomonia euphorbiacea Sacc. & Briard, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877976"
+    }
+,
+    {
+      "name": "Plagiostoma euphorbiae (Fuckel) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866310"
+    }
+,
+    {
+      "name": "Gnomoniella euphorbiae (Fuckel) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866201"
+    }
+,
+    {
+      "name": "Sphaeria euphorbiae Fuckel, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877977"
+    }
+,
+    {
+      "name": "Plagiostoma excentrica (Sacc.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866311"
+    }
+,
+    {
+      "name": "Plagiostoma geranii (Hollós) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866312"
+    }
+,
+    {
+      "name": "Gnomonia geranii Hollós, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877978"
+    }
+,
+    {
+      "name": "Plagiostoma inclinatum (Auersw.) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867059"
+    }
+,
+    {
+      "name": "Gnomonia inclinata Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877979"
+    }
+,
+    {
+      "name": "Sphaeria inclinata Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877980"
+    }
+,
+    {
+      "name": "Plagiostoma lugubre (P.Karst.) Bolay, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866313"
+    }
+,
+    {
+      "name": "Gnomonia lugubris P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877981"
+    }
+,
+    {
+      "name": "Gnomoniella lugubris (P.Karst.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877982"
+    }
+,
+    {
+      "name": "Plagiostoma perpusilla (Desm.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866314"
+    }
+,
+    {
+      "name": "Plagiostoma petrakii (E.Müll.) M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866315"
+    }
+,
+    {
+      "name": "Plagiostigme petrakii E.Müll., 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877983"
+    }
+,
+    {
+      "name": "Plagiostoma pulchellum (Sacc. & Briard) L.C.Mejía, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994480"
+    }
+,
+    {
+      "name": "Diaporthe pulchella Sacc. & Briard, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854815"
+    }
+,
+    {
+      "name": "Plagiostoma punctoidea (Cooke) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866316"
+    }
+,
+    {
+      "name": "Plagiostoma robertiani (Petr.) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866317"
+    }
+,
+    {
+      "name": "Gnomonia robertiani Petr., 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877984"
+    }
+,
+    {
+      "name": "Plagiostoma salicellum (Fr.) Sogonov, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978917"
+    }
+,
+    {
+      "name": "Cryptodiaporthe salicella (Fr.) Petr., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46598"
+    }
+,
+    {
+      "name": "Cryptospora salicella (Fr.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873763"
+    }
+,
+    {
+      "name": "Diaporthe salicella (Fr.) Sacc., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873764"
+    }
+,
+    {
+      "name": "Diplodina microsperma (Moug.) B.Sutton, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873768"
+    }
+,
+    {
+      "name": "Gnomonia salicella (Fr.) J.Schröt., 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873765"
+    }
+,
+    {
+      "name": "Halonia salicella (Fr.) Quél., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873766"
+    }
+,
+    {
+      "name": "Sphaeria salicella Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873767"
+    }
+,
+    {
+      "name": "Stilbospora microsperma Moug., 1795",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875850"
+    }
+,
+    {
+      "name": "Plagiostoma systema-solare (Fuckel) Malbr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866318"
+    }
+,
+    {
+      "name": "Sphaeria systema-solare Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877985"
+    }
+,
+    {
+      "name": "Plagiostoma tormentillae (Lind) Bolay, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866319"
+    }
+,
+    {
+      "name": "Gnomoniella tormentillae Lind, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877986"
+    }
+,
+    {
+      "name": "Plagiostoma veneta (Sacc.) Fuckel",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866320"
+    }
+,
+    {
+      "name": "Pleuroceras Riess, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Linospora Fuckel, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Pleuroceras arollanum M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866347"
+    }
+,
+    {
+      "name": "Pleuroceras bottnicum (Lind & Vleugel) M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866348"
+    }
+,
+    {
+      "name": "Cryptoderis bottnica Lind & Vleugel, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878401"
+    }
+,
+    {
+      "name": "Cylindrosporella bottnica (Lind & Vleugel) Nannf., 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878400"
+    }
+,
+    {
+      "name": "Pleuroceras groenlandicum (Rostr.) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866349"
+    }
+,
+    {
+      "name": "Asteroma vleugelianum (Bubák) B.Sutton, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878402"
+    }
+,
+    {
+      "name": "Cylindrosporella vleugeliana (Bubák) Nannf., 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878403"
+    }
+,
+    {
+      "name": "Gloeosporium vleugelianum Bubák, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878404"
+    }
+,
+    {
+      "name": "Hypospila groenlandica Rostr., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878405"
+    }
+,
+    {
+      "name": "Pleuroceras insularis (Johanson) Monod",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866350"
+    }
+,
+    {
+      "name": "Cryptoderis lamprotheca (Desm.) Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878406"
+    }
+,
+    {
+      "name": "Linospora insularis Johanson, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878409"
+    }
+,
+    {
+      "name": "Pleuroceras ciliatum Riess, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878408"
+    }
+,
+    {
+      "name": "Sphaeria cryptoderis Lév., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878410"
+    }
+,
+    {
+      "name": "Sphaeria lamprotheca Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878407"
+    }
+,
+    {
+      "name": "Pleuroceras pleurostyla (Auersw.) M.E.Barr, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866351"
+    }
+,
+    {
+      "name": "Gnomonia pleurostyla Auersw., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878411"
+    }
+,
+    {
+      "name": "Pleuroceras propinquum (Bubák & Vleugel) M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866363"
+    }
+,
+    {
+      "name": "Cryptoderis propinqua Bubák & Vleugel, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878490"
+    }
+,
+    {
+      "name": "Pleuroceras pseudoplatani (Tubeuf) M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866364"
+    }
+,
+    {
+      "name": "Gnomonia pseudoplatani Tubeuf, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878491"
+    }
+,
+    {
+      "name": "Ophiognomonia pseudoplatani (Tubeuf) D.K.Barrett & R.B.Pearce, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878492"
+    }
+,
+    {
+      "name": "Pleuroceras rousseaui M.Monod, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866365"
+    }
+,
+    {
+      "name": "Rehmiella G.Winter, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "Rehmiella alpina G.Winter, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970800"
+    }
+,
+    {
+      "name": "Sirococcus Preuss, 1855",
+      "url": ""
+    }
+,
+    {
+      "name": "Sirococcus conigenus (Pers.) P.F.Cannon & Minter, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995009"
+    }
+,
+    {
+      "name": "Dichaena strobilina (Holle & J.C.Schmidt ex Fr.) Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867449"
+    }
+,
+    {
+      "name": "Discella strobilina (Desm.) Died., 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876735"
+    }
+,
+    {
+      "name": "Helotium conigenum (Pers.) Quél. [nom. illeg.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883133"
+    }
+,
+    {
+      "name": "Hypoderma conigenum (Pers.) DC., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860688"
+    }
+,
+    {
+      "name": "Hysterium conigenum Pers., 1796",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876642"
+    }
+,
+    {
+      "name": "Sphaeria conigena (Pers.) Rabenh., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871761"
+    }
+,
+    {
+      "name": "Sphaeria strobilina Holle & J.C.Schmidt ex Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876736"
+    }
+,
+    {
+      "name": "Sporonema strobilinum Desm., 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869497"
+    }
+,
+    {
+      "name": "Sirococcus conorum Sacc. & Roum., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866856"
+    }
+,
+    {
+      "name": "Sirococcus posidoniae Rolland, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866857"
+    }
+,
+    {
+      "name": "Xenotypa Petr., 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Xenotypa aterrima (Fr.) Petr., 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866676"
+    }
+,
+    {
+      "name": "Eutypa aterrima (Fr.) Nannf., 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881196"
+    }
+,
+    {
+      "name": "Eutypa hydnoidea (Fr.) Höhn., 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881194"
+    }
+,
+    {
+      "name": "Hydnum aterrimum Fr., 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881197"
+    }
+,
+    {
+      "name": "Radulum aterrimum (Fr.) Fr., 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881198"
+    }
+,
+    {
+      "name": "Sphaeronema hydnoideum Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881195"
+    }
+,
+    {
+      "name": "Zythia Fr., 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Zythia maxima Fautrey, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866716"
+    }
+
+  ]
+}

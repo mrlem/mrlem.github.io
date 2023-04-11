@@ -1,0 +1,57 @@
+
+{
+  "name": "diaperinae",
+  "children": [
+
+    {
+      "name": "Diaperinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "crypticini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/crypticini/"
+    }
+,
+    {
+      "name": "diaperini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/diaperini/"
+    }
+,
+    {
+      "name": "gnathidiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/gnathidiini/"
+    }
+,
+    {
+      "name": "hyociini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/hyociini/"
+    }
+,
+    {
+      "name": "hypophlaeini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/hypophlaeini/"
+    }
+,
+    {
+      "name": "myrmechixenini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/myrmechixenini/"
+    }
+,
+    {
+      "name": "phaleriini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/phaleriini/"
+    }
+,
+    {
+      "name": "scaphidemini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/scaphidemini/"
+    }
+,
+    {
+      "name": "trachyscelini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/tenebrionidae/diaperinae/trachyscelini/"
+    }
+
+  ]
+}

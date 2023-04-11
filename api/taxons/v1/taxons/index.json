@@ -1,0 +1,47 @@
+
+{
+  "name": "root",
+  "children": [
+
+    {
+      "name": "Biota Endl.(D.Don)",
+      "url": ""
+    }
+,
+    {
+      "name": "animalia",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/"
+    }
+,
+    {
+      "name": "archaea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/archaea/"
+    }
+,
+    {
+      "name": "bacteria",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/"
+    }
+,
+    {
+      "name": "chromista",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/"
+    }
+,
+    {
+      "name": "fungi",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/"
+    }
+,
+    {
+      "name": "plantae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/plantae/"
+    }
+,
+    {
+      "name": "protozoa",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/"
+    }
+
+  ]
+}

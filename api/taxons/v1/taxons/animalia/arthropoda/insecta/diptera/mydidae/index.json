@@ -1,0 +1,27 @@
+
+{
+  "name": "mydidae",
+  "children": [
+
+    {
+      "name": "Mydidae Latreille, 1809",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptomydas Gerstaecker, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptomydas corsicanus Bequaert, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/224814"
+    }
+,
+    {
+      "name": "mydinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/mydidae/mydinae/"
+    }
+
+  ]
+}

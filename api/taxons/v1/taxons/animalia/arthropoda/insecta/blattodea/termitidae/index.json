@@ -1,0 +1,37 @@
+
+{
+  "name": "termitidae",
+  "children": [
+
+    {
+      "name": "Termitidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "amitermitinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/blattodea/termitidae/amitermitinae/"
+    }
+,
+    {
+      "name": "apicotermitinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/blattodea/termitidae/apicotermitinae/"
+    }
+,
+    {
+      "name": "nasutitermitinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/blattodea/termitidae/nasutitermitinae/"
+    }
+,
+    {
+      "name": "syntermitinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/blattodea/termitidae/syntermitinae/"
+    }
+,
+    {
+      "name": "termitinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/blattodea/termitidae/termitinae/"
+    }
+
+  ]
+}

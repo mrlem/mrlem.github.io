@@ -1,0 +1,57 @@
+
+{
+  "name": "chrysomelinae",
+  "children": [
+
+    {
+      "name": "Chrysomelinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "chrysomelini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/chrysomelinae/chrysomelini/"
+    }
+,
+    {
+      "name": "doryphorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/chrysomelinae/doryphorini/"
+    }
+,
+    {
+      "name": "gonioctenini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/chrysomelinae/gonioctenini/"
+    }
+,
+    {
+      "name": "Paropsisterna Motschulsky, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Paropsisterna cloelia (Stål, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964380"
+    }
+,
+    {
+      "name": "Chrysophtharta cloelia Stål, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589909"
+    }
+,
+    {
+      "name": "Zira Reid & Smith, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Zira nitens Reid & Smith, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/793906"
+    }
+,
+    {
+      "name": "timarchini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/chrysomelidae/chrysomelinae/timarchini/"
+    }
+
+  ]
+}

@@ -1,0 +1,332 @@
+
+{
+  "name": "vitrininae",
+  "children": [
+
+    {
+      "name": "Vitrininae Fitzinger, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Eucobresia H.B. Baker, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Eucobresia diaphana (Draparnaud, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/163168"
+    }
+,
+    {
+      "name": "Helicolimax vitrea A. Férussac, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413447"
+    }
+,
+    {
+      "name": "Helix limacina Alten, 1812",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413444"
+    }
+,
+    {
+      "name": "Vitrina diaphana Draparnaud, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847067"
+    }
+,
+    {
+      "name": "Vitrina heynemanni C. Koch, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413442"
+    }
+,
+    {
+      "name": "Vitrina jetschini Westerlund, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413443"
+    }
+,
+    {
+      "name": "Vitrina membranacea Koch, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413445"
+    }
+,
+    {
+      "name": "Vitrina villae Pollonera, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413446"
+    }
+,
+    {
+      "name": "Eucobresia glacialis (Forbes, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/163170"
+    }
+,
+    {
+      "name": "Vitrina glacialis Forbes, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/928025"
+    }
+,
+    {
+      "name": "Eucobresia nivalis (Dumont & Mortillet, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/163169"
+    }
+,
+    {
+      "name": "Vitrina albina Koch, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413448"
+    }
+,
+    {
+      "name": "Vitrina alpestris Clessin, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413449"
+    }
+,
+    {
+      "name": "Vitrina charpentieri Stabile, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413450"
+    }
+,
+    {
+      "name": "Vitrina nivalis Dumont & Mortillet, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/928026"
+    }
+,
+    {
+      "name": "Vitrina piniana Pollonera, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413451"
+    }
+,
+    {
+      "name": "Hessemilimax Schileyko, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Hessemilimax kotulae (Westerlund, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847283"
+    }
+,
+    {
+      "name": "Semilimax kotulae (Westerlund, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/163165"
+    }
+,
+    {
+      "name": "Vitrina bicolor Westerlund, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413453"
+    }
+,
+    {
+      "name": "Vitrina goeotiformis Pollonera, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413454"
+    }
+,
+    {
+      "name": "Vitrina kotulae Westerlund, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/928035"
+    }
+,
+    {
+      "name": "Vitrina sapinea Piaget, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413455"
+    }
+,
+    {
+      "name": "Vitrina transsilvanica M. von Kimakowicz, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413456"
+    }
+,
+    {
+      "name": "Semilimax Gray, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Semilimax pyrenaicus (A. Férussac, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/163166"
+    }
+,
+    {
+      "name": "Helicolimax pyrenaica A. Férussac, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/928100"
+    }
+,
+    {
+      "name": "Vitrina hibernica J. Taylor, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413457"
+    }
+,
+    {
+      "name": "Semilimax semilimax (J. Férussac, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/163164"
+    }
+,
+    {
+      "name": "Helix semilimax J. Férussac, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925134"
+    }
+,
+    {
+      "name": "Testacella germaniae Oken, 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413460"
+    }
+,
+    {
+      "name": "Vitrina elongata Draparnaud, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413458"
+    }
+,
+    {
+      "name": "Vitrina excisa Westerlund, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413459"
+    }
+,
+    {
+      "name": "Vitrina lusatica Jordan, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413461"
+    }
+,
+    {
+      "name": "Vitrina truncata O. Boettger, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413462"
+    }
+,
+    {
+      "name": "Vitrina Draparnaud, 1801",
+      "url": ""
+    }
+,
+    {
+      "name": "Vitrina pellucida (O.F. Müller, 1774)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/64197"
+    }
+,
+    {
+      "name": "Helix elliptica T. Brown, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413433"
+    }
+,
+    {
+      "name": "Helix limacoides Alten, 1812",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413437"
+    }
+,
+    {
+      "name": "Helix pellucida O.F. Müller, 1774",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777797"
+    }
+,
+    {
+      "name": "Hyalina pellucida (O. F. Müller, 1774)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/928542"
+    }
+,
+    {
+      "name": "Vitrina alaskana Dall, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/928543"
+    }
+,
+    {
+      "name": "Vitrina alpina Gredler, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413425"
+    }
+,
+    {
+      "name": "Vitrina bellardii Pollonera, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413426"
+    }
+,
+    {
+      "name": "Vitrina beryllina C. Pfeiffer, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413427"
+    }
+,
+    {
+      "name": "Vitrina bielzi M. von Kimakowicz, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413428"
+    }
+,
+    {
+      "name": "Vitrina brunnensis Ulicny, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413429"
+    }
+,
+    {
+      "name": "Vitrina depressa Jeffreys, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413430"
+    }
+,
+    {
+      "name": "Vitrina dillwynii Jeffreys, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413431"
+    }
+,
+    {
+      "name": "Vitrina domestica Ström, 1765",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413432"
+    }
+,
+    {
+      "name": "Vitrina elongata Jeffreys, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413434"
+    }
+,
+    {
+      "name": "Vitrina globosa O. Boettger, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413435"
+    }
+,
+    {
+      "name": "Vitrina hiemalis Koch, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413436"
+    }
+,
+    {
+      "name": "Vitrina muelleri Jeffreys, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413438"
+    }
+,
+    {
+      "name": "Vitrina pellucida pellucida (O.F. Müller, 1774)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/532906"
+    }
+,
+    {
+      "name": "Vitrina perforata Westerlund, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413439"
+    }
+,
+    {
+      "name": "Vitrina pfeifferi Newcomb, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/930548"
+    }
+,
+    {
+      "name": "Vitrina rhodopensis A.J. Wagner, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413441"
+    }
+,
+    {
+      "name": "Vitrina servainiana Saint-Simon, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413440"
+    }
+,
+    {
+      "name": "Vitrinobrachium Künkel, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Vitrinobrachium breve (A. Férussac, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/163167"
+    }
+,
+    {
+      "name": "Helicolimax brevis A. Férussac, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/928127"
+    }
+,
+    {
+      "name": "Vitrina bosniaca O. Boettger, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/413452"
+    }
+
+  ]
+}

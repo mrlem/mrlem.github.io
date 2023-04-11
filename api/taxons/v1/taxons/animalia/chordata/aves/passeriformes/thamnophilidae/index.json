@@ -1,0 +1,27 @@
+
+{
+  "name": "thamnophilidae",
+  "children": [
+
+    {
+      "name": "Thamnophilidae Swainson, 1824",
+      "url": ""
+    }
+,
+    {
+      "name": "euchrepomidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/passeriformes/thamnophilidae/euchrepomidinae/"
+    }
+,
+    {
+      "name": "myrmornithinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/passeriformes/thamnophilidae/myrmornithinae/"
+    }
+,
+    {
+      "name": "thamnophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/aves/passeriformes/thamnophilidae/thamnophilinae/"
+    }
+
+  ]
+}

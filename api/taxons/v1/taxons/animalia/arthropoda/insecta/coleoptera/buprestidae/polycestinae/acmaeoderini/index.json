@@ -1,0 +1,657 @@
+
+{
+  "name": "acmaeoderini",
+  "children": [
+
+    {
+      "name": "Acmaeoderini Kerremans, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Acmaeodera Eschscholtz, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Acmaeodera bipunctata (Olivier, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11340"
+    }
+,
+    {
+      "name": "Buprestis bipunctata Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394166"
+    }
+,
+    {
+      "name": "Acmaeodera bipunctata bipunctata (Olivier, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250845"
+    }
+,
+    {
+      "name": "Acmaeodera bipunctata jacqueti Pic, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935555"
+    }
+,
+    {
+      "name": "Acmaeodera ceylonensis Obenberger, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394670"
+    }
+,
+    {
+      "name": "Acmaeodera jacqueti Pic, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394675"
+    }
+,
+    {
+      "name": "Acmaeodera pittneri Rosenhauer, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394671"
+    }
+,
+    {
+      "name": "Acmaeodera riffensis Cobos, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394672"
+    }
+,
+    {
+      "name": "Acmaeodera sexpustulata Laporte de Castelnau & Gory, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394673"
+    }
+,
+    {
+      "name": "Acmaeodera vaillant Spinola, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394674"
+    }
+,
+    {
+      "name": "Acmaeodera bipunctata obenbergeriana Schaefer, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250846"
+    }
+,
+    {
+      "name": "Acmaeodera obenbergeri Schaefer, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394676"
+    }
+,
+    {
+      "name": "Acmaeodera cylindrica (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222183"
+    }
+,
+    {
+      "name": "Acmaeodera acuminipennis Laporte de Castelnau & Gory, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394653"
+    }
+,
+    {
+      "name": "Acmaeodera convolvuli Waltl, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394654"
+    }
+,
+    {
+      "name": "Buprestis cylindrica Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800915"
+    }
+,
+    {
+      "name": "Acmaeodera degener (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222186"
+    }
+,
+    {
+      "name": "Acmaeodera prunneri Gené, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11345"
+    }
+,
+    {
+      "name": "Elater degener Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893923"
+    }
+,
+    {
+      "name": "Acmaeodera degener quattuordecimpunctata (Villers, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250841"
+    }
+,
+    {
+      "name": "Acmaeodera incana Saunders, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394657"
+    }
+,
+    {
+      "name": "Acmaeodera insolita Théry, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394662"
+    }
+,
+    {
+      "name": "Acmaeodera multipunctata Lucas, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394658"
+    }
+,
+    {
+      "name": "Acmaeodera octodecimguttata Laporte de Castelnau & Gory, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394659"
+    }
+,
+    {
+      "name": "Buprestis degener quattuordecimpunctata Villers, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893925"
+    }
+,
+    {
+      "name": "Buprestis quattuordecemguttata Fabricius, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394660"
+    }
+,
+    {
+      "name": "Buprestis quattuordecimguttata Herbst, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394661"
+    }
+,
+    {
+      "name": "Acmaeodera flavomarginata (Gray, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639874"
+    }
+,
+    {
+      "name": "Buprestis flavomarginata Gray, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012672"
+    }
+,
+    {
+      "name": "Acmaeodera pilosellae (Bonelli, 1812)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222184"
+    }
+,
+    {
+      "name": "Buprestis pilosellae Bonelli, 1812",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800916"
+    }
+,
+    {
+      "name": "Acmaeodera pilosellae pilosellae (Bonelli, 1812)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250840"
+    }
+,
+    {
+      "name": "Acmaeodera dayremi Théry, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394656"
+    }
+,
+    {
+      "name": "Acmaeodera flavonotata var. dayremi Théry, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992332"
+    }
+,
+    {
+      "name": "Buprestis discoidea Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394655"
+    }
+,
+    {
+      "name": "Acmaeodera quadrifasciata (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222187"
+    }
+,
+    {
+      "name": "Buprestis quadrifasciata Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893926"
+    }
+,
+    {
+      "name": "Acmaeodera quadrifasciata octodecimpunctata Gory, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250842"
+    }
+,
+    {
+      "name": "Acmaeodera prunneri octodecimpunctata Gory, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926930"
+    }
+,
+    {
+      "name": "Acmaeodera quadrifasciata pruneri Spinola, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250843"
+    }
+,
+    {
+      "name": "Acmaeodera boryi Géné, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394663"
+    }
+,
+    {
+      "name": "Acmaeodera dolorosa Abeille de Perrin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394664"
+    }
+,
+    {
+      "name": "Acmaeodera quadrifasciata quadrifasciata (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250844"
+    }
+,
+    {
+      "name": "Acmaeodera graptelytra Obenberger, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394665"
+    }
+,
+    {
+      "name": "Acmaeodera kabyliana Obenberger, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394666"
+    }
+,
+    {
+      "name": "Acmaeodera mutabilis Spinola, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394667"
+    }
+,
+    {
+      "name": "Acmaeodera octodecimguttata Théry, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394668"
+    }
+,
+    {
+      "name": "Acmaeodera punctata ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11346"
+    }
+,
+    {
+      "name": "Acmaeodera punctulata Escalera, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394669"
+    }
+,
+    {
+      "name": "Acmaeodera quadrifasciata var. punctulata Escalera, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992338"
+    }
+,
+    {
+      "name": "Acmaeodera revelierei Mulsant & Rey, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222185"
+    }
+,
+    {
+      "name": "Acmaeodera villiersi Descarpentries, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639873"
+    }
+,
+    {
+      "name": "Acmaeodera Eschscholtz, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Acmaeotethya Volkovitsh, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Palaeotethya Volkovitsh, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Acmaeoderella Cobos, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Acmaeoderella adspersula (Illiger, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222182"
+    }
+,
+    {
+      "name": "Acmaeodera adspersula Illiger",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11339"
+    }
+,
+    {
+      "name": "Buprestis adspersula Illiger, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800920"
+    }
+,
+    {
+      "name": "Acmaeoderella adspersula adspersula (Illiger, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250839"
+    }
+,
+    {
+      "name": "Acmaeodera antennosa Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394651"
+    }
+,
+    {
+      "name": "Acmaeodera dermestoides Solier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394650"
+    }
+,
+    {
+      "name": "Acmaeodera exclamationis Obenberger, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394652"
+    }
+,
+    {
+      "name": "Acmaeoderella adspersula var. exclamationis Obenberger, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992344"
+    }
+,
+    {
+      "name": "Acmaeoderella coarctata (Lucas, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/273477"
+    }
+,
+    {
+      "name": "Acmaeoderella coarctata coarctata (Lucas, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/273478"
+    }
+,
+    {
+      "name": "Acmaeodera maurorum Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/427209"
+    }
+,
+    {
+      "name": "Acmaeodera navasi Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/427212"
+    }
+,
+    {
+      "name": "Acmaeoderella corsica (Obenberger, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222178"
+    }
+,
+    {
+      "name": "Acmaeodera corsica Obenberger, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893927"
+    }
+,
+    {
+      "name": "Acmaeoderella cyanipennis (Lucas, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222179"
+    }
+,
+    {
+      "name": "Acmaeodera cyanipennis Lucas, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893928"
+    }
+,
+    {
+      "name": "Acmaeoderella cyanipennis cyanipennis (Lucas, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250836"
+    }
+,
+    {
+      "name": "Acmaeodera coelicolor Abeille de Perrin, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394640"
+    }
+,
+    {
+      "name": "Acmaeodera virgo Abeille de Perrin, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394642"
+    }
+,
+    {
+      "name": "Acmaeoderella cyanipennis hispana (Abeille de Perrin, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795561"
+    }
+,
+    {
+      "name": "Acmaeodera hispana Abeille de Perrin, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394641"
+    }
+,
+    {
+      "name": "Acmaeoderella discoida (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222176"
+    }
+,
+    {
+      "name": "Acmaeodera albosetosa Rosenhauer, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394621"
+    }
+,
+    {
+      "name": "Acmaeodera argyrochaeta Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394628"
+    }
+,
+    {
+      "name": "Acmaeodera barbara Gory, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394622"
+    }
+,
+    {
+      "name": "Acmaeodera carthaginiensis Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394634"
+    }
+,
+    {
+      "name": "Acmaeodera chevrolati Levrat, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394624"
+    }
+,
+    {
+      "name": "Acmaeodera discoidea (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/927316"
+    }
+,
+    {
+      "name": "Acmaeodera eumicra Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394635"
+    }
+,
+    {
+      "name": "Acmaeodera ferghanensis Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394627"
+    }
+,
+    {
+      "name": "Acmaeodera laesicollis Chevrolat, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394625"
+    }
+,
+    {
+      "name": "Acmaeodera levrati Marseul, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394623"
+    }
+,
+    {
+      "name": "Acmaeodera lineolata Marseul, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394629"
+    }
+,
+    {
+      "name": "Acmaeodera parandelli Théry, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394633"
+    }
+,
+    {
+      "name": "Acmaeodera praeoccupata Lotte, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394630"
+    }
+,
+    {
+      "name": "Acmaeodera pygmaea Obenberger, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394626"
+    }
+,
+    {
+      "name": "Acmaeodera siciliana Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394632"
+    }
+,
+    {
+      "name": "Acmaeodera theryi Pic, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394631"
+    }
+,
+    {
+      "name": "Buprestis discoidea Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800917"
+    }
+,
+    {
+      "name": "Acmaeoderella flavofasciata (Piller & Mitterpacher, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222177"
+    }
+,
+    {
+      "name": "Acmaeodera flavofasciata (Piller & Mitterpacher, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/11342"
+    }
+,
+    {
+      "name": "Acmoedera flavofasciata (Piller & Mitterpacher, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/887309"
+    }
+,
+    {
+      "name": "Buprestis flavofasciata Piller & Mitterpacher, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800918"
+    }
+,
+    {
+      "name": "Acmaeoderella flavofasciata flavofasciata (Piller & Mitterpacher, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250835"
+    }
+,
+    {
+      "name": "Acmaeodera dispersenotata Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394638"
+    }
+,
+    {
+      "name": "Acmaeodera unifasciata Rey, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394639"
+    }
+,
+    {
+      "name": "Buprestis hirta Villers, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394637"
+    }
+,
+    {
+      "name": "Buprestis taeniata Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394636"
+    }
+,
+    {
+      "name": "Acmaeoderella lanuginosa (Gyllenhall, 1817)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222180"
+    }
+,
+    {
+      "name": "Acmaeodera lanuginosa auct. non Laporte de Castelnau & Gory, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/427195"
+    }
+,
+    {
+      "name": "Buprestis lanuginosa Gyllenhall, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893929"
+    }
+,
+    {
+      "name": "Acmaeoderella lanuginosa reducta (Schaefer, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250838"
+    }
+,
+    {
+      "name": "Acmaeodera lanuginosa reducta Schaefer, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926975"
+    }
+,
+    {
+      "name": "Acmaeodera reducta Schaefer, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/893930"
+    }
+,
+    {
+      "name": "Acmaeoderella perroti (Schaefer, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795234"
+    }
+,
+    {
+      "name": "Acmaeodera perroti Schaefer, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/348301"
+    }
+,
+    {
+      "name": "Acmaeoderella perroti perroti (Schaefer, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795562"
+    }
+,
+    {
+      "name": "Acmaeoderella cyanipennis perroti (Schaefer, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250837"
+    }
+,
+    {
+      "name": "Acmaeoderella virgulata (Illiger, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/222181"
+    }
+,
+    {
+      "name": "Acmaeodera flavovittata Lucas, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394643"
+    }
+,
+    {
+      "name": "Acmaeodera inedita Lotte, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394645"
+    }
+,
+    {
+      "name": "Acmaeodera levantina Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394644"
+    }
+,
+    {
+      "name": "Acmaeodera levrati Obenberger, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394646"
+    }
+,
+    {
+      "name": "Acmaeodera lineola Marseul, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394649"
+    }
+,
+    {
+      "name": "Acmaeodera nigra Ragusa, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394647"
+    }
+,
+    {
+      "name": "Acmaeodera scabiosae Chevrolat, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/394648"
+    }
+,
+    {
+      "name": "Buprestis virgulata Illiger, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/800919"
+    }
+,
+    {
+      "name": "Acmaeoderella Cobos, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Carininota Volkovitsh, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Euacmaeoderella Volkovitsh, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Liogastria Volkovitsh, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Omphalothorax Volkovitsh, 1979",
+      "url": ""
+    }
+
+  ]
+}

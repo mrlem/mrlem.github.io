@@ -1,0 +1,32 @@
+
+{
+  "name": "pachylasmatidae",
+  "children": [
+
+    {
+      "name": "Pachylasmatidae Utinomi, 1968",
+      "url": ""
+    }
+,
+    {
+      "name": "bathylasmatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/hexanauplia/sessilia/pachylasmatidae/bathylasmatinae/"
+    }
+,
+    {
+      "name": "hexelasmatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/hexanauplia/sessilia/pachylasmatidae/hexelasmatinae/"
+    }
+,
+    {
+      "name": "metalasmatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/hexanauplia/sessilia/pachylasmatidae/metalasmatinae/"
+    }
+,
+    {
+      "name": "pachylasmatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/hexanauplia/sessilia/pachylasmatidae/pachylasmatinae/"
+    }
+
+  ]
+}

@@ -1,0 +1,292 @@
+
+{
+  "name": "eratoidae",
+  "children": [
+
+    {
+      "name": "Eratoidae Gill, 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "Eratoinae Gill, 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "Alaerato Cate, 1977",
+      "url": ""
+    }
+,
+    {
+      "name": "Alaerato angistoma (Sowerby II, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655965"
+    }
+,
+    {
+      "name": "Proterato angistoma (Sowerby, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655966"
+    }
+,
+    {
+      "name": "Alaerato fusconubecula Fehse, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956387"
+    }
+,
+    {
+      "name": "Alaerato gallinacea (Hinds, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655961"
+    }
+,
+    {
+      "name": "Erato gallinacea (Hinds, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698032"
+    }
+,
+    {
+      "name": "Ovulum gallinaceum Hinds, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698033"
+    }
+,
+    {
+      "name": "Proterato gallinacea (Hinds, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655962"
+    }
+,
+    {
+      "name": "Archierato Schilder, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Archierato guadeloupensis Fehse & Simone, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963655"
+    }
+,
+    {
+      "name": "Archierato janae Fehse & Simone, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963658"
+    }
+,
+    {
+      "name": "Archierato martinicensis (Schilder, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963659"
+    }
+,
+    {
+      "name": "Hespererato martinicensis Schilder, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949191"
+    }
+,
+    {
+      "name": "Hespererato maugeriae martinicensis Schilder, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963660"
+    }
+,
+    {
+      "name": "Archierato maugeriae (J.E. Gray, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972147"
+    }
+,
+    {
+      "name": "Erato maugeriae J.E. Gray in G. B. Sowerby I, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972148"
+    }
+,
+    {
+      "name": "Hespererato maugeriae (J. E. Gray, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606119"
+    }
+,
+    {
+      "name": "Cypraeerato Schilder, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Cypraeerato boucheti (Drivas & Jay, 1986)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956384"
+    }
+,
+    {
+      "name": "Proterato (Eratoena) boucheti Drivas & Jay, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956386"
+    }
+,
+    {
+      "name": "Cypraeerato nitida Fehse, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956388"
+    }
+,
+    {
+      "name": "Cypraeerato rangiroa Fehse, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720371"
+    }
+,
+    {
+      "name": "Eratoena Iredale, 1935",
+      "url": ""
+    }
+,
+    {
+      "name": "Eratoena corrugata (Hinds, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655968"
+    }
+,
+    {
+      "name": "Ovulum corrugatum Hinds, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698066"
+    }
+,
+    {
+      "name": "Proterato corrugata (Hinds, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655970"
+    }
+,
+    {
+      "name": "Eratoena gemma (Bavay, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914771"
+    }
+,
+    {
+      "name": "Cypraeerato gemma (Bavay, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656117"
+    }
+,
+    {
+      "name": "Erato gemma Bavay, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914772"
+    }
+,
+    {
+      "name": "Proterato gemma (Bavay, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656132"
+    }
+,
+    {
+      "name": "Eratoena gourgueti Fehse, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720351"
+    }
+,
+    {
+      "name": "Eratoena moolenbeeki Fehse, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/894872"
+    }
+,
+    {
+      "name": "Eratoena nana (Sowerby II, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900398"
+    }
+,
+    {
+      "name": "Erato nana Sowerby II, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/900399"
+    }
+,
+    {
+      "name": "Eratoena sandwichensis (G. B. Sowerby II, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915008"
+    }
+,
+    {
+      "name": "Erato sandwichensis G. B. Sowerby II, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915009"
+    }
+,
+    {
+      "name": "Proterato sandwichensis (G.B. Sowerby II, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527581"
+    }
+,
+    {
+      "name": "Sulcerato sandwichensis (G.B. Sowerby II, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699550"
+    }
+,
+    {
+      "name": "Eratoena smithi (Schilder, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655963"
+    }
+,
+    {
+      "name": "Proterato smithi Schilder, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655964"
+    }
+,
+    {
+      "name": "Eratoena sulcifera (Gray in G.B. Sowerby I, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591660"
+    }
+,
+    {
+      "name": "Erato sulcifera Gray in G.B. Sowerby I, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690257"
+    }
+,
+    {
+      "name": "Proterato capensis Schilder, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690258"
+    }
+,
+    {
+      "name": "Proterato sulcifera (Gray in G.B. Sowerby I, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591721"
+    }
+,
+    {
+      "name": "Proterato sulcifera (Sowerby, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527583"
+    }
+,
+    {
+      "name": "Erato Risso, 1826",
+      "url": ""
+    }
+,
+    {
+      "name": "Erato voluta (Montagu, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62482"
+    }
+,
+    {
+      "name": "Proterato Schilder, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Proterato schneideri (Schilder, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527582"
+    }
+,
+    {
+      "name": "Sulcerato Finlay, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Sulcerato pagoboi (T. Cossignani & V. Cossignani, 1997)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899955"
+    }
+,
+    {
+      "name": "Erato pagoboi T. Cossignani & V. Cossignani, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899956"
+    }
+,
+    {
+      "name": "Eratoena pagoboi (T. Cossignani & V. Cossignani, 1997)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899957"
+    }
+,
+    {
+      "name": "Sulcerato rapa Fehse, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/948433"
+    }
+,
+    {
+      "name": "Sulcerato recondita (Melvill & Standen, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727069"
+    }
+
+  ]
+}

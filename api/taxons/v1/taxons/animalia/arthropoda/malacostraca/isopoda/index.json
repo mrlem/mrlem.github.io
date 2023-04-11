@@ -1,0 +1,522 @@
+
+{
+  "name": "isopoda",
+  "children": [
+
+    {
+      "name": "Isopoda Latreille, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "acanthaspidiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/acanthaspidiidae/"
+    }
+,
+    {
+      "name": "aegidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/aegidae/"
+    }
+,
+    {
+      "name": "agnaridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/agnaridae/"
+    }
+,
+    {
+      "name": "alloniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/alloniscidae/"
+    }
+,
+    {
+      "name": "ancinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/ancinidae/"
+    }
+,
+    {
+      "name": "antarcturidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/antarcturidae/"
+    }
+,
+    {
+      "name": "antheluridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/antheluridae/"
+    }
+,
+    {
+      "name": "anthuridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/anthuridae/"
+    }
+,
+    {
+      "name": "Anthuroidea Leach, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthuridea Monod, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "anuropidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/anuropidae/"
+    }
+,
+    {
+      "name": "arcturidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/arcturidae/"
+    }
+,
+    {
+      "name": "arcturididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/arcturididae/"
+    }
+,
+    {
+      "name": "armadillidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/armadillidae/"
+    }
+,
+    {
+      "name": "armadillidiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/armadillidiidae/"
+    }
+,
+    {
+      "name": "asellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/asellidae/"
+    }
+,
+    {
+      "name": "Aselloidea Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Asellota Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "austrarcturellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/austrarcturellidae/"
+    }
+,
+    {
+      "name": "bathytropidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bathytropidae/"
+    }
+,
+    {
+      "name": "bopyridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bopyridae/"
+    }
+,
+    {
+      "name": "Bopyroidea Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "buddelundiellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/buddelundiellidae/"
+    }
+,
+    {
+      "name": "cabiropidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/cabiropidae/"
+    }
+,
+    {
+      "name": "chaetiliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/chaetiliidae/"
+    }
+,
+    {
+      "name": "cirolanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/cirolanidae/"
+    }
+,
+    {
+      "name": "corallanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/corallanidae/"
+    }
+,
+    {
+      "name": "crinoniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/crinoniscidae/"
+    }
+,
+    {
+      "name": "cryptoniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/cryptoniscidae/"
+    }
+,
+    {
+      "name": "Cryptoniscoidea Kossmann, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "cylisticidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/cylisticidae/"
+    }
+,
+    {
+      "name": "Cymothoida Wägele, 1989",
+      "url": ""
+    }
+,
+    {
+      "name": "cymothoidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/cymothoidae/"
+    }
+,
+    {
+      "name": "Cymothooidea Leach, 1814",
+      "url": ""
+    }
+,
+    {
+      "name": "dajidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/dajidae/"
+    }
+,
+    {
+      "name": "dendrotionidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/dendrotionidae/"
+    }
+,
+    {
+      "name": "desmosomatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/desmosomatidae/"
+    }
+,
+    {
+      "name": "detonidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/detonidae/"
+    }
+,
+    {
+      "name": "entoniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/entoniscidae/"
+    }
+,
+    {
+      "name": "entophilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/entophilidae/"
+    }
+,
+    {
+      "name": "Epicaridea Latreille, 1831",
+      "url": ""
+    }
+,
+    {
+      "name": "eubelidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/eubelidae/"
+    }
+,
+    {
+      "name": "expanathuridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/expanathuridae/"
+    }
+,
+    {
+      "name": "gnathiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/gnathiidae/"
+    }
+,
+    {
+      "name": "gnathostenetroididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/gnathostenetroididae/"
+    }
+,
+    {
+      "name": "Gnathostenetroidoidea Kussakin, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "hadromastacidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/hadromastacidae/"
+    }
+,
+    {
+      "name": "halophilosciidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/halophilosciidae/"
+    }
+,
+    {
+      "name": "haplomunnidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/haplomunnidae/"
+    }
+,
+    {
+      "name": "haploniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/haploniscidae/"
+    }
+,
+    {
+      "name": "hemioniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/hemioniscidae/"
+    }
+,
+    {
+      "name": "holognathidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/holognathidae/"
+    }
+,
+    {
+      "name": "hyssuridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/hyssuridae/"
+    }
+,
+    {
+      "name": "idoteidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/idoteidae/"
+    }
+,
+    {
+      "name": "ionidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/ionidae/"
+    }
+,
+    {
+      "name": "ischnomesidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/ischnomesidae/"
+    }
+,
+    {
+      "name": "janirellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/janirellidae/"
+    }
+,
+    {
+      "name": "janiridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/janiridae/"
+    }
+,
+    {
+      "name": "Janiroidea Sars, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "joeropsididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/joeropsididae/"
+    }
+,
+    {
+      "name": "keuphyliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/keuphyliidae/"
+    }
+,
+    {
+      "name": "lepidocharontidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/lepidocharontidae/"
+    }
+,
+    {
+      "name": "leptanthuridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/leptanthuridae/"
+    }
+,
+    {
+      "name": "ligiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/ligiidae/"
+    }
+,
+    {
+      "name": "limnoriidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/limnoriidae/"
+    }
+,
+    {
+      "name": "Limnoriidea Brandt & Poore, 2002",
+      "url": ""
+    }
+,
+    {
+      "name": "Limnorioidea White, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "macrostylidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/macrostylidae/"
+    }
+,
+    {
+      "name": "microcerberidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/microcerberidae/"
+    }
+,
+    {
+      "name": "Microcerberidea Lang, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "microparasellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/microparasellidae/"
+    }
+,
+    {
+      "name": "munnidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnidae/"
+    }
+,
+    {
+      "name": "munnopsidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/munnopsidae/"
+    }
+,
+    {
+      "name": "nannoniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/nannoniscidae/"
+    }
+,
+    {
+      "name": "oniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/oniscidae/"
+    }
+,
+    {
+      "name": "Oniscidea Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "paramunnidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/paramunnidae/"
+    }
+,
+    {
+      "name": "paranthuridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/paranthuridae/"
+    }
+,
+    {
+      "name": "philosciidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/philosciidae/"
+    }
+,
+    {
+      "name": "platyarthridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/platyarthridae/"
+    }
+,
+    {
+      "name": "pleurocopidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/pleurocopidae/"
+    }
+,
+    {
+      "name": "podasconidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/podasconidae/"
+    }
+,
+    {
+      "name": "porcellionidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/porcellionidae/"
+    }
+,
+    {
+      "name": "santiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/santiidae/"
+    }
+,
+    {
+      "name": "scleropactidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/scleropactidae/"
+    }
+,
+    {
+      "name": "scyphacidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/scyphacidae/"
+    }
+,
+    {
+      "name": "serolidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/serolidae/"
+    }
+,
+    {
+      "name": "Seroloidea Dana, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "sphaeromatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/sphaeromatidae/"
+    }
+,
+    {
+      "name": "Sphaeromatidea Wägele, 1989",
+      "url": ""
+    }
+,
+    {
+      "name": "Sphaeromatoidea Latreille, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "stenasellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/stenasellidae/"
+    }
+,
+    {
+      "name": "stenetriidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/stenetriidae/"
+    }
+,
+    {
+      "name": "Stenetrioidea Hansen, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "stenoniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/stenoniscidae/"
+    }
+,
+    {
+      "name": "styloniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/styloniscidae/"
+    }
+,
+    {
+      "name": "tendosphaeridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/tendosphaeridae/"
+    }
+,
+    {
+      "name": "trachelipodidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/trachelipodidae/"
+    }
+,
+    {
+      "name": "trichoniscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/trichoniscidae/"
+    }
+,
+    {
+      "name": "tridentellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/tridentellidae/"
+    }
+,
+    {
+      "name": "tylidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/tylidae/"
+    }
+,
+    {
+      "name": "Valvifera G. O. Sars, 1883",
+      "url": ""
+    }
+
+  ]
+}

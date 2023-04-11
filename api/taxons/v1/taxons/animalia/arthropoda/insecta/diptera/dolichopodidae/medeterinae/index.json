@@ -1,0 +1,577 @@
+
+{
+  "name": "medeterinae",
+  "children": [
+
+    {
+      "name": "Medeterinae Lioy, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Corindia Bickel, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Corindia amieuensis Bickel, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809079"
+    }
+,
+    {
+      "name": "Corindia flaviscuta Bickel, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809080"
+    }
+,
+    {
+      "name": "Dolichophorus Lichtwardt, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Dolichophorus kerteszi Lichtwardt, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22642"
+    }
+,
+    {
+      "name": "Medeterus resplendens Strobl, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398840"
+    }
+,
+    {
+      "name": "Medetera Fischer von Waldheim, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Medetera abstrusa Thuneberg, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22857"
+    }
+,
+    {
+      "name": "Medetera acanthura Negrobov & Thuneberg, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967690"
+    }
+,
+    {
+      "name": "Medetera aglaops Pollet, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018495"
+    }
+,
+    {
+      "name": "Medetera albiseta Parent, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225340"
+    }
+,
+    {
+      "name": "Medetera ambigua (Zetterstedt, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22858"
+    }
+,
+    {
+      "name": "Zetterstedt ambiguus Zetterstedt, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944686"
+    }
+,
+    {
+      "name": "Medetera apicalis (Zetterstedt, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22859"
+    }
+,
+    {
+      "name": "Hydrophorus apicalis Zetterstedt, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944687"
+    }
+,
+    {
+      "name": "Medetera belgica Parent, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018498"
+    }
+,
+    {
+      "name": "Medetera bispinosa Negrobov, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22861"
+    }
+,
+    {
+      "name": "Medetera corsicana Pollet, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018496"
+    }
+,
+    {
+      "name": "Medetera dendrobaena Kowarz, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22864"
+    }
+,
+    {
+      "name": "Medetera diadema (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22865"
+    }
+,
+    {
+      "name": "Hydrophorus aeneivittata Macquart, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398958"
+    }
+,
+    {
+      "name": "Medetera carnivora Fischer von Waldheim, 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398959"
+    }
+,
+    {
+      "name": "Medetera ehrenbergi Becker, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398960"
+    }
+,
+    {
+      "name": "Musca diadema Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944691"
+    }
+,
+    {
+      "name": "Musca rostrata Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398961"
+    }
+,
+    {
+      "name": "Medetera dichrocera Kowarz, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967691"
+    }
+,
+    {
+      "name": "Medetera excellens Frey, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22866"
+    }
+,
+    {
+      "name": "Medetera excisa Parent, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225341"
+    }
+,
+    {
+      "name": "Medetera fasciata Frey, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225342"
+    }
+,
+    {
+      "name": "Medetera flavipes Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22868"
+    }
+,
+    {
+      "name": "Medetera glauca Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225343"
+    }
+,
+    {
+      "name": "Medetera glaucella Kowarz, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22869"
+    }
+,
+    {
+      "name": "Medetera gracilicauda Parent, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225344"
+    }
+,
+    {
+      "name": "Medetera grisescens de Meijere, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/911809"
+    }
+,
+    {
+      "name": "Medetera impigra Collin, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22870"
+    }
+,
+    {
+      "name": "Medetera infumata Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22871"
+    }
+,
+    {
+      "name": "Medetera morio Fischer von Waldheim, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398963"
+    }
+,
+    {
+      "name": "Medetera insignis Girschner, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398962"
+    }
+,
+    {
+      "name": "Medetera jacula (Fallén, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22874"
+    }
+,
+    {
+      "name": "Hydrophorus jaculus Fallén, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944692"
+    }
+,
+    {
+      "name": "Hydrophorus truncorum Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398965"
+    }
+,
+    {
+      "name": "Medetera nigricans Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398964"
+    }
+,
+    {
+      "name": "Medetera jugalis Collin, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967692"
+    }
+,
+    {
+      "name": "Medetera kerzhneri Negrobov, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225345"
+    }
+,
+    {
+      "name": "Medetera kowarzi Negrobov, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225346"
+    }
+,
+    {
+      "name": "Medetera lamprostoma Loew, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727382"
+    }
+,
+    {
+      "name": "Medetera lamprostomoides Negrobov & Stackelberg, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727383"
+    }
+,
+    {
+      "name": "Medetera melancholica Lundbeck, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967694"
+    }
+,
+    {
+      "name": "Medetera micacea Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22878"
+    }
+,
+    {
+      "name": "Medetera acuta Negrobov, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398966"
+    }
+,
+    {
+      "name": "Medetera morgei Negrobov, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225347"
+    }
+,
+    {
+      "name": "Medetera muralis Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22879"
+    }
+,
+    {
+      "name": "Medetera melanopleura Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398967"
+    }
+,
+    {
+      "name": "Medetera tertia Becker, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398968"
+    }
+,
+    {
+      "name": "Medetera murina Becker, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225348"
+    }
+,
+    {
+      "name": "Medetera brolemanni Parent, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398969"
+    }
+,
+    {
+      "name": "Medetera cryophorus Séguy, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398970"
+    }
+,
+    {
+      "name": "Medetera nitida (Macquart, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22880"
+    }
+,
+    {
+      "name": "Hydrophorus nitidus Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944693"
+    }
+,
+    {
+      "name": "Medetera ambigua Perris, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398971"
+    }
+,
+    {
+      "name": "Medetera stackelbergi Parent, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398972"
+    }
+,
+    {
+      "name": "Medetera obesa Kowarz, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225349"
+    }
+,
+    {
+      "name": "Medetera obscura (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225350"
+    }
+,
+    {
+      "name": "Hydrophorus obscura Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944688"
+    }
+,
+    {
+      "name": "Medetera robusta Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398973"
+    }
+,
+    {
+      "name": "Medetera robusta Ounap, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398974"
+    }
+,
+    {
+      "name": "Medetera pallipes (Zetterstedt, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22883"
+    }
+,
+    {
+      "name": "Hydrophorus pallipes Zetterstedt, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944689"
+    }
+,
+    {
+      "name": "Medetera dendrophila Becker, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398975"
+    }
+,
+    {
+      "name": "Medetera perfida Parent, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22885"
+    }
+,
+    {
+      "name": "Medetera petrophila Kowarz, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22886"
+    }
+,
+    {
+      "name": "Medetera petrophiloides Parent, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22887"
+    }
+,
+    {
+      "name": "Medetera pinicola Kowarz, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22888"
+    }
+,
+    {
+      "name": "Medetera nuortevai Thuneberg, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398976"
+    }
+,
+    {
+      "name": "Medetera piceae Ounap, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398977"
+    }
+,
+    {
+      "name": "Medetera plumbella Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22889"
+    }
+,
+    {
+      "name": "Hydrophorus minutus Zetterstedt, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398979"
+    }
+,
+    {
+      "name": "Medetera minutulus von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398978"
+    }
+,
+    {
+      "name": "Medetera rectipyga Pollet, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018497"
+    }
+,
+    {
+      "name": "Medetera salomonis Parent, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438792"
+    }
+,
+    {
+      "name": "Medetera saxatilis Collin, 1941",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22891"
+    }
+,
+    {
+      "name": "Medetera seguyi Parent, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22892"
+    }
+,
+    {
+      "name": "Medetera seguyi seguyi Parent, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/251733"
+    }
+,
+    {
+      "name": "Medetera setiventris Thuneberg, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22894"
+    }
+,
+    {
+      "name": "Medetera signaticornis Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22895"
+    }
+,
+    {
+      "name": "Medetera subglauca Becker, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/398980"
+    }
+,
+    {
+      "name": "Medetera striata Parent, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22896"
+    }
+,
+    {
+      "name": "Medetera tenuicauda Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225351"
+    }
+,
+    {
+      "name": "Medetera tristis (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22897"
+    }
+,
+    {
+      "name": "Hydrophorus tristis Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944690"
+    }
+,
+    {
+      "name": "Medetera truncorum Meigen, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22898"
+    }
+,
+    {
+      "name": "Pindaia Bickel, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Pindaia dispersia Bickel, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809082"
+    }
+,
+    {
+      "name": "Systenus Loew, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Systenus leucurus Loew, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22916"
+    }
+,
+    {
+      "name": "Systenus pallipes (von Roser, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22917"
+    }
+,
+    {
+      "name": "Rhaphium adpropinquans Loew, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399088"
+    }
+,
+    {
+      "name": "Rhaphium pallipes von Roser, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944616"
+    }
+,
+    {
+      "name": "Systenus pallidus Vaillant, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399089"
+    }
+,
+    {
+      "name": "Systenus scholtzii (Loew, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22918"
+    }
+,
+    {
+      "name": "Rhaphium scholtzii Loew, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944617"
+    }
+,
+    {
+      "name": "Systenus alpinus Vaillant, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/399090"
+    }
+,
+    {
+      "name": "Thrypticus Gerstäcker, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Thrypticus atomus Frey, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968055"
+    }
+,
+    {
+      "name": "Thrypticus bellus Loew, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22903"
+    }
+,
+    {
+      "name": "Thrypticus divisus (Strobl, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22904"
+    }
+,
+    {
+      "name": "Chrysotus divisus Strobl, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944622"
+    }
+,
+    {
+      "name": "Thrypticus crassiseta Oldenberg, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22905"
+    }
+,
+    {
+      "name": "Thrypticus laetus Verrall, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/225411"
+    }
+,
+    {
+      "name": "Thrypticus pollinosus Verrall, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/283361"
+    }
+,
+    {
+      "name": "Thrypticus smaragdinus Gerstäcker, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22907"
+    }
+,
+    {
+      "name": "Thrypticus tarsalis Parent, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/968056"
+    }
+,
+    {
+      "name": "Thrypticus violaceus Van Duzee, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998530"
+    }
+
+  ]
+}

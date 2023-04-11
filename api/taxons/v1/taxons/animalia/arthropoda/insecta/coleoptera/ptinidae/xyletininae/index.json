@@ -1,0 +1,22 @@
+
+{
+  "name": "xyletininae",
+  "children": [
+
+    {
+      "name": "Xyletininae Gistel, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "lasiodermini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/xyletininae/lasiodermini/"
+    }
+,
+    {
+      "name": "xyletinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/ptinidae/xyletininae/xyletinini/"
+    }
+
+  ]
+}

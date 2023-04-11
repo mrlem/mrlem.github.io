@@ -1,0 +1,37 @@
+
+{
+  "name": "chalcididae",
+  "children": [
+
+    {
+      "name": "Chalcididae Latreille, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "brachymeriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/chalcididae/brachymeriinae/"
+    }
+,
+    {
+      "name": "chalcidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/chalcididae/chalcidinae/"
+    }
+,
+    {
+      "name": "dirhininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/chalcididae/dirhininae/"
+    }
+,
+    {
+      "name": "epitraninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/chalcididae/epitraninae/"
+    }
+,
+    {
+      "name": "haltichellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/chalcididae/haltichellinae/"
+    }
+
+  ]
+}

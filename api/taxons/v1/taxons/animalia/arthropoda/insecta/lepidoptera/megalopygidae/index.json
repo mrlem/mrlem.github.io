@@ -1,0 +1,22 @@
+
+{
+  "name": "megalopygidae",
+  "children": [
+
+    {
+      "name": "Megalopygidae Herrich-Schäffer, 1855",
+      "url": ""
+    }
+,
+    {
+      "name": "megalopyginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/megalopygidae/megalopyginae/"
+    }
+,
+    {
+      "name": "trosiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/megalopygidae/trosiinae/"
+    }
+
+  ]
+}

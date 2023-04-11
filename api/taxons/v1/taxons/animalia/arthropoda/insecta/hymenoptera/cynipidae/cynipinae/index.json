@@ -1,0 +1,52 @@
+
+{
+  "name": "cynipinae",
+  "children": [
+
+    {
+      "name": "Cynipinae Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "aulacideini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/aulacideini/"
+    }
+,
+    {
+      "name": "aylacini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/aylacini/"
+    }
+,
+    {
+      "name": "cynipini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/cynipini/"
+    }
+,
+    {
+      "name": "diastrophini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/diastrophini/"
+    }
+,
+    {
+      "name": "diplolepidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/diplolepidini/"
+    }
+,
+    {
+      "name": "pediaspidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/pediaspidini/"
+    }
+,
+    {
+      "name": "phanacidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/phanacidini/"
+    }
+,
+    {
+      "name": "synergini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/synergini/"
+    }
+
+  ]
+}

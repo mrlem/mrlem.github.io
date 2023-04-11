@@ -1,0 +1,4067 @@
+
+{
+  "name": "polychaeta",
+  "children": [
+
+    {
+      "name": "Polychaeta Grube, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Aberrantidae Wolf, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Aberranta Hartman, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Aberranta banyulensis Mackie, Pleijel & Rouse, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/443454"
+    }
+,
+    {
+      "name": "amphinomida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/amphinomida/"
+    }
+,
+    {
+      "name": "Arenicolidae Johnston, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "Abarenicola Wells, 1959",
+      "url": ""
+    }
+,
+    {
+      "name": "Abarenicola affinis (Ashworth, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/835961"
+    }
+,
+    {
+      "name": "Abarenicola affinis affinis (Ashworth, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843659"
+    }
+,
+    {
+      "name": "Arenicola assimilis affinis Ashworth, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/835962"
+    }
+,
+    {
+      "name": "Abarenicola assimilis (Ehlers, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836607"
+    }
+,
+    {
+      "name": "Arenicola assimilis Ehlers, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836608"
+    }
+,
+    {
+      "name": "Abarenicola claparedi (Levinsen, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/531330"
+    }
+,
+    {
+      "name": "Abarenicola claparedei (Levinsen, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371817"
+    }
+,
+    {
+      "name": "Abarenicola claparedii [auctt.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566620"
+    }
+,
+    {
+      "name": "Arenicola claparedi Levinsen, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566693"
+    }
+,
+    {
+      "name": "Arenicola claparedii Levinsen, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/531396"
+    }
+,
+    {
+      "name": "Arenicola Lamarck, 1801",
+      "url": ""
+    }
+,
+    {
+      "name": "Arenicola defodiens Cadman & Nelson-Smith, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360050"
+    }
+,
+    {
+      "name": "Arenicola marina (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/518"
+    }
+,
+    {
+      "name": "Arenicola abildgaardti Castelnau, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566688"
+    }
+,
+    {
+      "name": "Arenicola carbonaria Leach, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566692"
+    }
+,
+    {
+      "name": "Arenicola clavata Ranzani, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566694"
+    }
+,
+    {
+      "name": "Arenicola natalis Girard, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566699"
+    }
+,
+    {
+      "name": "Arenicola piscatorum Lamarck, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566701"
+    }
+,
+    {
+      "name": "Arenicola tinctoria Leach, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566703"
+    }
+,
+    {
+      "name": "Clymenides sulfurea Claparède, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566719"
+    }
+,
+    {
+      "name": "Lumbricus marinus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546930"
+    }
+,
+    {
+      "name": "Lumbricus papillosus Fabricius, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566720"
+    }
+,
+    {
+      "name": "Nereis lumbricoides Pallas, 1788",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566687"
+    }
+,
+    {
+      "name": "Arenicolides Mesnil, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Arenicolides branchialis (Audouin & Milne Edwards, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371815"
+    }
+,
+    {
+      "name": "Arenicola bobretzkii Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566689"
+    }
+,
+    {
+      "name": "Arenicola branchialis Audouin & Milne Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566690"
+    }
+,
+    {
+      "name": "Arenicola cyanea Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566695"
+    }
+,
+    {
+      "name": "Arenicola dioscurica Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566696"
+    }
+,
+    {
+      "name": "Arenicola dorvilliana Leach in Johnston, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566697"
+    }
+,
+    {
+      "name": "Arenicola grubei Claperede",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/517"
+    }
+,
+    {
+      "name": "Arenicola grubii Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547078"
+    }
+,
+    {
+      "name": "Arenicola montagui Leach in Johnston, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566698"
+    }
+,
+    {
+      "name": "Arenicola nodosa Leach in Johnston, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566700"
+    }
+,
+    {
+      "name": "Arenicolides grubii (Claparède, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371813"
+    }
+,
+    {
+      "name": "Arenicolides ecaudata (Johnston, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371814"
+    }
+,
+    {
+      "name": "Arenicola boeckii Rathke, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566691"
+    }
+,
+    {
+      "name": "Arenicola ecaudata Johnston, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547020"
+    }
+,
+    {
+      "name": "Clymenides ecaudatus Mesnil, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566704"
+    }
+,
+    {
+      "name": "Branchiomaldane Langerhans, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Branchiomaldane vincenti Langerhans, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371812"
+    }
+,
+    {
+      "name": "Clymenides incertus Mesnil, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566718"
+    }
+,
+    {
+      "name": "Canalipalpata Rouse & Fauchald, 1997 non Linnaean",
+      "url": ""
+    }
+,
+    {
+      "name": "Capitellidae Grube, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Barantolla Southern, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Barantolla lepte Hutchings, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952151"
+    }
+,
+    {
+      "name": "Capitella Blainville, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "Capitellides Mesnil, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Capitella capitata (Fabricius, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/512"
+    }
+,
+    {
+      "name": "Ancistria acuta Verrill, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566723"
+    }
+,
+    {
+      "name": "Capitella capitata belgica Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588340"
+    }
+,
+    {
+      "name": "Capitella capitata danica Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588341"
+    }
+,
+    {
+      "name": "Capitella capitata hebridarum Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588342"
+    }
+,
+    {
+      "name": "Capitella capitata neapolitana Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588343"
+    }
+,
+    {
+      "name": "Capitella capitata suchumica Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588344"
+    }
+,
+    {
+      "name": "Capitella fabricii Blainville, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566730"
+    }
+,
+    {
+      "name": "Capitella prototypa Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566733"
+    }
+,
+    {
+      "name": "Capitella similis Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566735"
+    }
+,
+    {
+      "name": "Lombricus canalium Nardo, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566738"
+    }
+,
+    {
+      "name": "Lumbriconais marina Örsted, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566739"
+    }
+,
+    {
+      "name": "Lumbricus capitatus Fabricius, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546933"
+    }
+,
+    {
+      "name": "Lumbricus litoralis Johnston, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545087"
+    }
+,
+    {
+      "name": "Matla bengalensis Stephenson, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566740"
+    }
+,
+    {
+      "name": "Saenuris barbata Grube, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547426"
+    }
+,
+    {
+      "name": "Valla ciliata Johnston, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566721"
+    }
+,
+    {
+      "name": "Capitella capitata antarctica Monro, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821576"
+    }
+,
+    {
+      "name": "Capitella capitata tripartita Hartman, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828519"
+    }
+,
+    {
+      "name": "Capitella tripartita Hartman, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713639"
+    }
+,
+    {
+      "name": "Capitella giardi (Mesnil, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360463"
+    }
+,
+    {
+      "name": "Capitellides giardi Mesnil, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388758"
+    }
+,
+    {
+      "name": "Capitomastus giardi capitellides Hartmann-Schröder, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684826"
+    }
+,
+    {
+      "name": "Capitomastus giardi (Mesnil, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547079"
+    }
+,
+    {
+      "name": "Capitella hermaphrodita Boletzky & Dohle, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360464"
+    }
+,
+    {
+      "name": "Capitella minima Langerhans, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360465"
+    }
+,
+    {
+      "name": "Capitomastus minima (Langerhans, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529389"
+    }
+,
+    {
+      "name": "Capitomastus minimus (Langerhans, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388759"
+    }
+,
+    {
+      "name": "Capitella perarmata (Gravier, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821577"
+    }
+,
+    {
+      "name": "Isomastus perarmatus Gravier, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821578"
+    }
+,
+    {
+      "name": "Capitella singularis (Fauvel, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836609"
+    }
+,
+    {
+      "name": "Branchiocapitella singularis Fauvel, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836610"
+    }
+,
+    {
+      "name": "Capitella teleta Blake, Grassle & Eckelbarger, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952440"
+    }
+,
+    {
+      "name": "Capitella teres (Treadwell, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828520"
+    }
+,
+    {
+      "name": "Capitellides teres Treadwell, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/672120"
+    }
+,
+    {
+      "name": "Capitellethus Chamberlin, 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "Capitellethus dispar (Ehlers, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371837"
+    }
+,
+    {
+      "name": "Capitellides dispar Ehlers, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566722"
+    }
+,
+    {
+      "name": "Notomastus eisigi Benham, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566742"
+    }
+,
+    {
+      "name": "Dasybranchus Grube, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasybranchus bipartitus (Schmarda, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774098"
+    }
+,
+    {
+      "name": "Oncoscolex bipartitus Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957378"
+    }
+,
+    {
+      "name": "Dasybranchus caducus (Grube, 1846)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371836"
+    }
+,
+    {
+      "name": "Dasybranchus cirratus Grube, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566736"
+    }
+,
+    {
+      "name": "Dasybranchus umbrinus Grube, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566737"
+    }
+,
+    {
+      "name": "Dasymallus caducus Grube, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547025"
+    }
+,
+    {
+      "name": "Notomastus roseus Langerhans, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566745"
+    }
+,
+    {
+      "name": "Dasybranchus gajolae Eisig, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371834"
+    }
+,
+    {
+      "name": "Dasybranchus platyceps Hartman, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/674173"
+    }
+,
+    {
+      "name": "Decamastus Hartman, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Decamastus nudus Thomassin, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/671942"
+    }
+,
+    {
+      "name": "Heteromastus Eisig, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Heteromastus filiformis (Claparède, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514"
+    }
+,
+    {
+      "name": "Ancistria capillaris Verrill, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566724"
+    }
+,
+    {
+      "name": "Ancistria minima Quatrefages, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566725"
+    }
+,
+    {
+      "name": "Areniella filiformis Verrill, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566728"
+    }
+,
+    {
+      "name": "Capitella costana Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566729"
+    }
+,
+    {
+      "name": "Capitella filiformis Claparède, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547085"
+    }
+,
+    {
+      "name": "Capitella fimbriata van Beneden, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566731"
+    }
+,
+    {
+      "name": "Notomastus filiformis Verrill, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566743"
+    }
+,
+    {
+      "name": "Notomastus laevis Webster, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566744"
+    }
+,
+    {
+      "name": "Leiocapitella Hartman, 1947",
+      "url": ""
+    }
+,
+    {
+      "name": "Leiocapitella dollfusi (Fauvel, 1936)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371826"
+    }
+,
+    {
+      "name": "Mastobranchus dollfusi Fauvel, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957379"
+    }
+,
+    {
+      "name": "Leiochrides Augener, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Leiochrides africanus Augener, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774101"
+    }
+,
+    {
+      "name": "Leiochrides australis Augener, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669125"
+    }
+,
+    {
+      "name": "Mastobranchus Eisig, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Mastobranchus trinchesii Eisig, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371819"
+    }
+,
+    {
+      "name": "Mediomastus Hartman, 1944",
+      "url": ""
+    }
+,
+    {
+      "name": "Mediomastus acutus Hartman, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774109"
+    }
+,
+    {
+      "name": "Mediomastus capensis Day, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924951"
+    }
+,
+    {
+      "name": "Mediomastus cirripes Ben-Eliahu, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371831"
+    }
+,
+    {
+      "name": "Mediomastus fragilis Rasmussen, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371832"
+    }
+,
+    {
+      "name": "Notomastus M. Sars, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Clistomastus Eisig, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Notomastus aberans Day, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/362882"
+    }
+,
+    {
+      "name": "Notomastus exsertilis Saint-Joseph, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509"
+    }
+,
+    {
+      "name": "Notomastus latericeus Sars, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/510"
+    }
+,
+    {
+      "name": "Arenia cruenta Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566726"
+    }
+,
+    {
+      "name": "Arenia fragilis Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566727"
+    }
+,
+    {
+      "name": "Capitella rubicunda Keferstein, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566734"
+    }
+,
+    {
+      "name": "Notomastus benedeni Claparède, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566741"
+    }
+,
+    {
+      "name": "Notomastus lineatus Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934425"
+    }
+,
+    {
+      "name": "Notomastus sarsii Claparède, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934426"
+    }
+,
+    {
+      "name": "Notomastus mossambicus (Thomassin, 1970)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924955"
+    }
+,
+    {
+      "name": "Paraleiocapitella mossambica Thomassin, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924963"
+    }
+,
+    {
+      "name": "Notomastus ouanaryensis (Gravier, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/672116"
+    }
+,
+    {
+      "name": "Eisigella ouanaryensis Gravier, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698120"
+    }
+,
+    {
+      "name": "Peresiella Harmelin, 1968",
+      "url": ""
+    }
+,
+    {
+      "name": "Peresiella clymenoides Harmelin, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/986648"
+    }
+,
+    {
+      "name": "Pseudocapitella Fauvel, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudocapitella incerta Fauvel, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944967"
+    }
+,
+    {
+      "name": "Pseudoleiocapitella Harmelin, 1964",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoleiocapitella fauveli Harmelin, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371820"
+    }
+,
+    {
+      "name": "Pseudonotomastus Warren & Parker, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudonotomastus southerni Warren & Parker, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371829"
+    }
+,
+    {
+      "name": "Scyphoproctus Gravier, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Scyphoproctus armatus (Fauvel, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670710"
+    }
+,
+    {
+      "name": "Pulliella armata Fauvel, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670676"
+    }
+,
+    {
+      "name": "Scyphoproctus djiboutiensis Gravier, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774114"
+    }
+,
+    {
+      "name": "Scyphoproctus guadalupensis Gillet, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/672194"
+    }
+,
+    {
+      "name": "Chaetopteridae Audouin & Milne Edwards, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetopterus Cuvier, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetopterus variopedatus (Renier, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784947"
+    }
+,
+    {
+      "name": "Chaetopterus afer Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566749"
+    }
+,
+    {
+      "name": "Chaetopterus antarcticus Kinberg, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566750"
+    }
+,
+    {
+      "name": "Chaetopterus appendiculatus Grube, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566751"
+    }
+,
+    {
+      "name": "Chaetopterus australis Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566752"
+    }
+,
+    {
+      "name": "Chaetopterus brevis Lespés, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566753"
+    }
+,
+    {
+      "name": "Chaetopterus crosslandi Caullery, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566755"
+    }
+,
+    {
+      "name": "Chaetopterus hamatus Schmarda, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566756"
+    }
+,
+    {
+      "name": "Chaetopterus insignis Baird, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566757"
+    }
+,
+    {
+      "name": "Chaetopterus kagosimensis Izuka, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566758"
+    }
+,
+    {
+      "name": "Chaetopterus leuckarti Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566759"
+    }
+,
+    {
+      "name": "Chaetopterus longimanus Crossland, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566760"
+    }
+,
+    {
+      "name": "Chaetopterus luteus Stimpson, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566761"
+    }
+,
+    {
+      "name": "Chaetopterus norvegicus M. Sars, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360657"
+    }
+,
+    {
+      "name": "Chaetopterus quatrefagesii Jourdain, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566764"
+    }
+,
+    {
+      "name": "Chaetopterus sarsi Boeck in Sars, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581952"
+    }
+,
+    {
+      "name": "Chaetopterus sarsii Boeck in Sars, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360656"
+    }
+,
+    {
+      "name": "Chaetopterus valencinii Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566766"
+    }
+,
+    {
+      "name": "Chaetopterus varieopedatus [auctt.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683204"
+    }
+,
+    {
+      "name": "Chaetopterus variopedatus macropus Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589200"
+    }
+,
+    {
+      "name": "Chaetopterus variopedatus Cuvier, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/571"
+    }
+,
+    {
+      "name": "Tricoelia variopedata Renier, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547132"
+    }
+,
+    {
+      "name": "Mesochaetopterus Potts, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesochaetopterus minutus Potts, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371351"
+    }
+,
+    {
+      "name": "Mesochaetopterus rogeri Martin, Gil, Carreras-Carbonell & Bhaud, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727363"
+    }
+,
+    {
+      "name": "Mesochaetopterus selangora (Rullier, 1976)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987510"
+    }
+,
+    {
+      "name": "Sasekumaria selangora Rullier, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987509"
+    }
+,
+    {
+      "name": "Phyllochaetopterus Grube, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Phyllochaetopreus [auctt. misspelling]",
+      "url": ""
+    }
+,
+    {
+      "name": "Phyllochaetopterus anglicus Potts, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669316"
+    }
+,
+    {
+      "name": "Phyllochaetopreus anglicus Potts, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371359"
+    }
+,
+    {
+      "name": "Phyllochaetopterus anglica Potts, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689754"
+    }
+,
+    {
+      "name": "Phyllochaetopterus herdmani (Hornell in Willey, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670739"
+    }
+,
+    {
+      "name": "Spiochaetopterus herdmani Hornell in Willey, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687110"
+    }
+,
+    {
+      "name": "Phyllochaetopterus major Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371357"
+    }
+,
+    {
+      "name": "Phyllochaetopterus verrilli Treadwell, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762112"
+    }
+,
+    {
+      "name": "Spiochaetopterus M Sars, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Spiochaetopterus costarum (Claparède, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371354"
+    }
+,
+    {
+      "name": "Telepsavus bonhourei Gravier, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566785"
+    }
+,
+    {
+      "name": "Telepsavus costarum Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566786"
+    }
+,
+    {
+      "name": "Telepsavus vitrarius Ehlers, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566787"
+    }
+,
+    {
+      "name": "Spiochaetopterus typicus M Sars, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371353"
+    }
+,
+    {
+      "name": "Cossuridae Day, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Cossura Webster & Benedict, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Cossura longocirrata Webster & Benedict, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938846"
+    }
+,
+    {
+      "name": "Cossura pygodactylata Jones, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379830"
+    }
+,
+    {
+      "name": "Cossura lepida Tamai, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566335"
+    }
+,
+    {
+      "name": "Cossura soyeri Laubier, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852182"
+    }
+,
+    {
+      "name": "Dinophilidae Remane, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Dinophilus Schmidt, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Dinophilus gyrociliatus O. Schmidt, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/383754"
+    }
+,
+    {
+      "name": "Dinophilus taeniatus Harmer, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/383757"
+    }
+,
+    {
+      "name": "Trilobodrilus Remane, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Trilobodrilus axi Westheide, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/383772"
+    }
+,
+    {
+      "name": "Trilobodrilus heideri Remane, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/383773"
+    }
+,
+    {
+      "name": "Echiura ",
+      "url": ""
+    }
+,
+    {
+      "name": "echiuroidea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/echiuroidea/"
+    }
+,
+    {
+      "name": "Errantia Audouin & H Milne Edwards, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "Aciculata Rouse & Fauchald, 1997 non Linnaean",
+      "url": ""
+    }
+,
+    {
+      "name": "eunicida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/eunicida/"
+    }
+,
+    {
+      "name": "Histriobdellidae Vaillant, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Histriobdella Van Beneden, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Histriobdella homari Van Beneden, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/383793"
+    }
+,
+    {
+      "name": "Histriodrilus benedeni Foettinger, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587513"
+    }
+,
+    {
+      "name": "Maldanidae Malmgren, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Euclymeninae Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Axiothella Verrill, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Axiothella australis Augener, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987166"
+    }
+,
+    {
+      "name": "Axiothella crozetensis Gillet, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824418"
+    }
+,
+    {
+      "name": "Axiothella quadrimaculata Augener, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987170"
+    }
+,
+    {
+      "name": "Microclymene quadrimaculata (Augener, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987171"
+    }
+,
+    {
+      "name": "Clymenella Verrill, 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "Clymenella torquata (Leidy, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360784"
+    }
+,
+    {
+      "name": "Clymene torquatus Leidy, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547059"
+    }
+,
+    {
+      "name": "Paraxiothea latens Webster, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587538"
+    }
+,
+    {
+      "name": "Euclymene Verrill, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Euclymene collaris (Claparède, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960043"
+    }
+,
+    {
+      "name": "Clymene collaris (Claparède, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960042"
+    }
+,
+    {
+      "name": "Euclymene droebachiensis (Sars, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371865"
+    }
+,
+    {
+      "name": "Clymene droebachiensis M. Sars in G.O. Sars, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588382"
+    }
+,
+    {
+      "name": "Euclymene insecta (Ehlers, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669152"
+    }
+,
+    {
+      "name": "Clymenella insecta Ehlers, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695992"
+    }
+,
+    {
+      "name": "Praxillella insecta (Ehlers, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695991"
+    }
+,
+    {
+      "name": "Euclymene lombricoides (Quatrefages, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/531311"
+    }
+,
+    {
+      "name": "Axiothella zetlandica McIntosh, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588377"
+    }
+,
+    {
+      "name": "Clymene brachysoma Orlandi, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588379"
+    }
+,
+    {
+      "name": "Clymene lombricoides Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549151"
+    }
+,
+    {
+      "name": "Clymene lumbricoides de Quatrefagues, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546637"
+    }
+,
+    {
+      "name": "Clymene modesta Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/531397"
+    }
+,
+    {
+      "name": "Clymene zostericola Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588425"
+    }
+,
+    {
+      "name": "Euclymene lumbricoides [auct. misspelling]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371870"
+    }
+,
+    {
+      "name": "Euclymene oerstedi (Claparède, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371863"
+    }
+,
+    {
+      "name": "Caesicirrus neglectus Arwidsson, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588378"
+    }
+,
+    {
+      "name": "Clymene claparedei Orlandi, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588380"
+    }
+,
+    {
+      "name": "Clymene digitata Grube, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588381"
+    }
+,
+    {
+      "name": "Clymene oerstedii Claparède, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/531386"
+    }
+,
+    {
+      "name": "Euclymene oerstedii (Claparède, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/531295"
+    }
+,
+    {
+      "name": "Johnstonia gracilis Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993267"
+    }
+,
+    {
+      "name": "Leiocephalus coronatus Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588426"
+    }
+,
+    {
+      "name": "Euclymene palermitana (Grube, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371869"
+    }
+,
+    {
+      "name": "Clymene palermitana Grube, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588424"
+    }
+,
+    {
+      "name": "Heteroclymene Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Heteroclymene robusta Arwidsson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778612"
+    }
+,
+    {
+      "name": "Euclymene robusta (Arwidsson, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371868"
+    }
+,
+    {
+      "name": "Macroclymene Verrill, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Macroclymene santanderensis (Rioja, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371859"
+    }
+,
+    {
+      "name": "Clymene santanderensis Rioja, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645845"
+    }
+,
+    {
+      "name": "Euclymene santanderensis (Rioja, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645843"
+    }
+,
+    {
+      "name": "Maldanella McIntosh, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Maldanella antarctica McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838225"
+    }
+,
+    {
+      "name": "Maldanella harai (Izuka, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941510"
+    }
+,
+    {
+      "name": "Clymene harai Izuka, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/941511"
+    }
+,
+    {
+      "name": "Microclymene Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Microclymene acirrata Arwidsson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/942050"
+    }
+,
+    {
+      "name": "Microclymene tricirrata Arwidsson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371845"
+    }
+,
+    {
+      "name": "Clymenura tricirrata (Arwidsson, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371876"
+    }
+,
+    {
+      "name": "Praxillella Verrill, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Praxillella abyssorum (McIntosh, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838873"
+    }
+,
+    {
+      "name": "Praxilla abyssorum McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957380"
+    }
+,
+    {
+      "name": "Praxillella affinis (M. Sars in G.O. Sars, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371854"
+    }
+,
+    {
+      "name": "Clymene affinis M. Sars in G.O. Sars, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549153"
+    }
+,
+    {
+      "name": "Clymene lophoseta Orlandi, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588385"
+    }
+,
+    {
+      "name": "Euclymene affinis (M. Sars in G.O. Sars, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852282"
+    }
+,
+    {
+      "name": "Praxillella assimilis (McIntosh, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838147"
+    }
+,
+    {
+      "name": "Praxilla assimilis McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838148"
+    }
+,
+    {
+      "name": "Praxillella gracilis (M. Sars, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371855"
+    }
+,
+    {
+      "name": "Clymene gracilis Sars, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549152"
+    }
+,
+    {
+      "name": "Praxillella kerguelensis (McIntosh, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838149"
+    }
+,
+    {
+      "name": "Praxilla kerguelensis McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838150"
+    }
+,
+    {
+      "name": "Praxillella praetermissa (Malmgren, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371856"
+    }
+,
+    {
+      "name": "Clymene intermedia Örsted, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588384"
+    }
+,
+    {
+      "name": "Clymene praetermissa (Malmgren, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852187"
+    }
+,
+    {
+      "name": "Euclymene praetermissa (Malmgren, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546902"
+    }
+,
+    {
+      "name": "Praxilla arctica Malmgren, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588427"
+    }
+,
+    {
+      "name": "Praxilla praetermissa Malmgren, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547061"
+    }
+,
+    {
+      "name": "Praxillella praetermissa capensis McIntosh, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589073"
+    }
+,
+    {
+      "name": "Leiochonini Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Leiochone Grube, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Leiochone johnstoni McIntosh, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549706"
+    }
+,
+    {
+      "name": "Clymenura johnstoni (McIntosh, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371872"
+    }
+,
+    {
+      "name": "Leiochone leiopygos (Grube, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645840"
+    }
+,
+    {
+      "name": "Clymene leiopygos Grube, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679227"
+    }
+,
+    {
+      "name": "Clymenura clypeata (Saint-Joseph, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371873"
+    }
+,
+    {
+      "name": "Clymenura leiopygos (Grube, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371874"
+    }
+,
+    {
+      "name": "Leiochone clypeata Saint-Joseph, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/523"
+    }
+,
+    {
+      "name": "Leiochone tricirrata Bellan & Reys, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713573"
+    }
+,
+    {
+      "name": "Clymene Savigny, in Lamarck, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Clymene truncata Quatrefages, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962626"
+    }
+,
+    {
+      "name": "Clymene uranthus Savigny, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976246"
+    }
+,
+    {
+      "name": "Isocirrus Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Isocirrus yungi Gravier, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821579"
+    }
+,
+    {
+      "name": "Johnstonia de Quatrefages, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Johnstonia clymenoides Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368"
+    }
+,
+    {
+      "name": "Johnstonia clymenoide Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587537"
+    }
+,
+    {
+      "name": "Micromaldane Monro, 1939",
+      "url": ""
+    }
+,
+    {
+      "name": "Micromaldane ornithochaeta Mesnil, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371844"
+    }
+,
+    {
+      "name": "Proclymene Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Proclymene muelleri (Sars, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371849"
+    }
+,
+    {
+      "name": "Clymene muelleri Sars, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587536"
+    }
+,
+    {
+      "name": "Lumbriclymeninae Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Lumbriclymene Sars, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Lumbriclymene cylindricauda Sars, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/940621"
+    }
+,
+    {
+      "name": "Lumbriclymene minor Arwidsson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371861"
+    }
+,
+    {
+      "name": "Lumbriclymenella Arwidsson, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Lumbriclymenella robusta Arwidsson, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987505"
+    }
+,
+    {
+      "name": "Praxillura Verrill, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "Praxillura longissima Arwidsson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371850"
+    }
+,
+    {
+      "name": "Maldaninae Malmgren, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Asychis Kinberg, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Asychis collariceps (Augener, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776925"
+    }
+,
+    {
+      "name": "Maldane collariceps Augener, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957381"
+    }
+,
+    {
+      "name": "Chirimia Light, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Chirimia biceps (M. Sars, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852240"
+    }
+,
+    {
+      "name": "Clymene biceps M. Sars, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957382"
+    }
+,
+    {
+      "name": "Maldane Grube, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Maldane cincta Saint-Joseph, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934635"
+    }
+,
+    {
+      "name": "Clymenella cincta (Saint-Joseph, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521"
+    }
+,
+    {
+      "name": "Maldane glebifex Grube, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371842"
+    }
+,
+    {
+      "name": "Maldane glebifex transversimaculata Arwidsson, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589135"
+    }
+,
+    {
+      "name": "Maldane sarsi Malmgren, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371843"
+    }
+,
+    {
+      "name": "Clymene koreni Hansen, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578420"
+    }
+,
+    {
+      "name": "Maldane sarsi tropica Monro, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589136"
+    }
+,
+    {
+      "name": "Metasychis Light, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Metasychis gotoi (Izuka, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852184"
+    }
+,
+    {
+      "name": "Asychis gotoi (Izuka, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852185"
+    }
+,
+    {
+      "name": "Maldane gotoi Izuka, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852186"
+    }
+,
+    {
+      "name": "Nicomachinae Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Nicomache Malmgren, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Loxochona Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Nicomache (Loxochona) trispinata Arwidsson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544327"
+    }
+,
+    {
+      "name": "Nicomache trispinata Ardwidsson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371884"
+    }
+,
+    {
+      "name": "Nicomache lumbricalis (Fabricius, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371883"
+    }
+,
+    {
+      "name": "Clymene lumbricalis Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577654"
+    }
+,
+    {
+      "name": "Clymene microcephala Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577655"
+    }
+,
+    {
+      "name": "Nicomache capensis McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577659"
+    }
+,
+    {
+      "name": "Nicomache carinata Moore, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577660"
+    }
+,
+    {
+      "name": "Sabella lumbricalis Fabricius, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547060"
+    }
+,
+    {
+      "name": "Nicomache maculata Arwidsson, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371880"
+    }
+,
+    {
+      "name": "Petaloproctus Quatrefages, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Petaloproctus borealis Ardwisson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973961"
+    }
+,
+    {
+      "name": "Petaloproctus terricolus Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529382"
+    }
+,
+    {
+      "name": "Clymene spatulata Grube, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577656"
+    }
+,
+    {
+      "name": "Maldane cristagalli Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577657"
+    }
+,
+    {
+      "name": "Nicomache mcintoshi Marenzeller, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577661"
+    }
+,
+    {
+      "name": "Petaloproctus terricola Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527"
+    }
+,
+    {
+      "name": "Notoproctinae Detinova, 1985",
+      "url": ""
+    }
+,
+    {
+      "name": "Notoproctus Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Notoproctus oculatus Arwidsson, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943124"
+    }
+,
+    {
+      "name": "Rhodininae Arwidsson, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhodine Malmgren, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhodine intermedia Arwidsson, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843191"
+    }
+,
+    {
+      "name": "Rhodine loveni Malmgren, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371886"
+    }
+,
+    {
+      "name": "Rhodine loveni robustior Tauber, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589144"
+    }
+,
+    {
+      "name": "Nerillidae Levinsen, 1883",
+      "url": ""
+    }
+,
+    {
+      "name": "Meganerilla Boaden, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "Meganerilla clavata Magagnini, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366365"
+    }
+,
+    {
+      "name": "Mesonerilla Remane, 1949",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesonerilla armoricana Swedmark, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366360"
+    }
+,
+    {
+      "name": "Mesonerilla biantennata Jouin, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366359"
+    }
+,
+    {
+      "name": "Mesonerilla biantennata pacifica Jouin, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017135"
+    }
+,
+    {
+      "name": "Mesonerilla fagei Swedmark, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366363"
+    }
+,
+    {
+      "name": "Mesonerilla intermedia Wilke, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366362"
+    }
+,
+    {
+      "name": "Mesonerilla roscovita Levi, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366361"
+    }
+,
+    {
+      "name": "Micronerilla ",
+      "url": ""
+    }
+,
+    {
+      "name": "Micronerilla minuta (Swedmark, 1959)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366380"
+    }
+,
+    {
+      "name": "Mesonerilla minuta Swedmark, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956661"
+    }
+,
+    {
+      "name": "Nerilla Schmidt, 1848",
+      "url": ""
+    }
+,
+    {
+      "name": "Nerilla antennata Schmidt, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366369"
+    }
+,
+    {
+      "name": "Nerillidium Remane, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Nerillidium gracile Remane, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366376"
+    }
+,
+    {
+      "name": "Nerillidium macropharyngeum Jouin, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934874"
+    }
+,
+    {
+      "name": "Nerillidium mediterraneum Remane, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366377"
+    }
+,
+    {
+      "name": "Nerillidium renaudae Jouin, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934881"
+    }
+,
+    {
+      "name": "Nerillidium troglochaetoides Remane, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366375"
+    }
+,
+    {
+      "name": "Nerillidopsis Jouin, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Nerillidopsis hyalina Jouin, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366378"
+    }
+,
+    {
+      "name": "Troglochaetus Delachaux, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Troglochaetus beranecki Delachaux, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/236780"
+    }
+,
+    {
+      "name": "Troglochaetus simplex (Levi, 1953)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914934"
+    }
+,
+    {
+      "name": "Nerillidium simplex Levi, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366374"
+    }
+,
+    {
+      "name": "Opheliidae Malmgren, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Ammotrypanella McIntosh, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Ammotrypanella keenani Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937253"
+    }
+,
+    {
+      "name": "Ammotrypanella kersteni Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937254"
+    }
+,
+    {
+      "name": "Armandia Filippi, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Armandia cirrhosa Filippi, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/538"
+    }
+,
+    {
+      "name": "Armandia dollfusi Saint-Joseph, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567153"
+    }
+,
+    {
+      "name": "Armandia flagellifera Southern, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567154"
+    }
+,
+    {
+      "name": "Armandia oligops Marenzeller, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567155"
+    }
+,
+    {
+      "name": "Armandia intermedia Fauvel, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669084"
+    }
+,
+    {
+      "name": "Armandia lanceolata Willey, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669109"
+    }
+,
+    {
+      "name": "Armandia leptocirris (Grube, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669150"
+    }
+,
+    {
+      "name": "Armandia leptocirrus Grube, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695984"
+    }
+,
+    {
+      "name": "Armandia maculata (Webster, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951959"
+    }
+,
+    {
+      "name": "Ophelina maculata Webster, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951960"
+    }
+,
+    {
+      "name": "Armandia polyophthalma Kükenthal, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/540"
+    }
+,
+    {
+      "name": "Armandia polyophthalmus Kükenthal, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/539"
+    }
+,
+    {
+      "name": "Polyophthalmus Quatrefages, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Polyophthalmus pictus (Dujardin, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371890"
+    }
+,
+    {
+      "name": "Armandia robertianae McIntosh, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567156"
+    }
+,
+    {
+      "name": "Nais picta Dujardin, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546486"
+    }
+,
+    {
+      "name": "Polyophthalmus agilis Quatrefages, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567157"
+    }
+,
+    {
+      "name": "Polyophthalmus australis Grube, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567158"
+    }
+,
+    {
+      "name": "Polyophthalmus ceylonensis Kükenthal, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567159"
+    }
+,
+    {
+      "name": "Polyophthalmus collaris Michaelsen, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567160"
+    }
+,
+    {
+      "name": "Polyophthalmus dubius Quatrefages, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567161"
+    }
+,
+    {
+      "name": "Polyophthalmus ehrenbergi Quatrefages, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567162"
+    }
+,
+    {
+      "name": "Polyophthalmus floridanus Augener, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567163"
+    }
+,
+    {
+      "name": "Polyophthalmus incertus Treadwell, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567164"
+    }
+,
+    {
+      "name": "Polyophthalmus longisetosus Michaelsen, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567165"
+    }
+,
+    {
+      "name": "Polyophthalmus pallidus Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567166"
+    }
+,
+    {
+      "name": "Polyophthalmus papillatus Treadwell, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567167"
+    }
+,
+    {
+      "name": "Polyophthalmus pictus pontica Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588408"
+    }
+,
+    {
+      "name": "Polyophthalmus striatus Kükenthal, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567168"
+    }
+,
+    {
+      "name": "Opheliinae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Ophelia Savigny, 1822",
+      "url": ""
+    }
+,
+    {
+      "name": "Ophelia amoureuxi Bellan & Costa, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852135"
+    }
+,
+    {
+      "name": "Ophelia aulogaster (Rathke, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713989"
+    }
+,
+    {
+      "name": "Ammotrypane aulogaster Rathke, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645842"
+    }
+,
+    {
+      "name": "Ophelia barquii Fauvel, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934891"
+    }
+,
+    {
+      "name": "Ophelia radiata barquii Fauvel, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934892"
+    }
+,
+    {
+      "name": "Ophelia bicornis Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/535"
+    }
+,
+    {
+      "name": "Ophelia borealis Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363017"
+    }
+,
+    {
+      "name": "Ophelia celtica Amoureux & Dauvin, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363018"
+    }
+,
+    {
+      "name": "Ophelia denticulata Verrill, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713641"
+    }
+,
+    {
+      "name": "Ophelia limacina (Rathke, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363014"
+    }
+,
+    {
+      "name": "Ammotrypane limacina Rathke, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577690"
+    }
+,
+    {
+      "name": "Ophelia eruciformis Johnston, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577696"
+    }
+,
+    {
+      "name": "Ophelia taurica Bobretzky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577698"
+    }
+,
+    {
+      "name": "Ophelia neglecta Schneider, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363015"
+    }
+,
+    {
+      "name": "Ophelia radiata (Delle Chiaje, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536"
+    }
+,
+    {
+      "name": "Lumbricus pusillus Delle Chiaje in Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577691"
+    }
+,
+    {
+      "name": "Lumbricus radiatus Delle Chiaje, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577692"
+    }
+,
+    {
+      "name": "Neomeris urophylla Costa, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577693"
+    }
+,
+    {
+      "name": "Ophelia coarctata Milne Edwards, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577694"
+    }
+,
+    {
+      "name": "Ophelia contractata Milne Edwards in Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577695"
+    }
+,
+    {
+      "name": "Ophelia neapolitana Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577697"
+    }
+,
+    {
+      "name": "Ophelia rathkei McIntosh, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363016"
+    }
+,
+    {
+      "name": "Ophelia cluthensis McGuire, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685787"
+    }
+,
+    {
+      "name": "Ophelia remanei Augener, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/685788"
+    }
+,
+    {
+      "name": "Ophelia roscoffensis Augener, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363022"
+    }
+,
+    {
+      "name": "Ophelia limacina roscoffensis Augener, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589201"
+    }
+,
+    {
+      "name": "Thoracophelia Ehlers, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Euzonus Grube, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Thoracophelia flabellifera Ziegelmeier, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828554"
+    }
+,
+    {
+      "name": "Euzonus flabelligerus [Auctt.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371891"
+    }
+,
+    {
+      "name": "Ophelininae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Ophelina Örsted, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Ammotrypane Rathke, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Ophelina abranchiata Støp-Bowitz, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943165"
+    }
+,
+    {
+      "name": "Ammotrypane abranchiata (Støp-Bowitz, 1948)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943166"
+    }
+,
+    {
+      "name": "Ophelina acuminata Örsted, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371902"
+    }
+,
+    {
+      "name": "Ammotrypane ingebrigtsenii Kükenthal, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577700"
+    }
+,
+    {
+      "name": "Ophelia acuminata Oersted, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546630"
+    }
+,
+    {
+      "name": "Ophelina aulogaster (Rathke, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970931"
+    }
+,
+    {
+      "name": "Ophelina curli Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937255"
+    }
+,
+    {
+      "name": "Ophelina cylindricaudata (Hansen, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852341"
+    }
+,
+    {
+      "name": "Ammotrypane cylindricaudatus Hansen, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852342"
+    }
+,
+    {
+      "name": "Ophelina ganae Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937256"
+    }
+,
+    {
+      "name": "Ophelina gymnopyge (Ehlers, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837551"
+    }
+,
+    {
+      "name": "Ammotrypane gymnopyge Ehlers, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815616"
+    }
+,
+    {
+      "name": "Ophelina juhazi Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937257"
+    }
+,
+    {
+      "name": "Ophelina martinezarbizui Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937258"
+    }
+,
+    {
+      "name": "Ophelina meyerae Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937259"
+    }
+,
+    {
+      "name": "Ophelina modesta Støp-Bowitz, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828597"
+    }
+,
+    {
+      "name": "Ophelina margaleffi Sardá, Gil, Taboada & Gili, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713498"
+    }
+,
+    {
+      "name": "Ophelina nunnallyi Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937260"
+    }
+,
+    {
+      "name": "Ophelina syringopyge (Ehlers, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814951"
+    }
+,
+    {
+      "name": "Ammotrypane syringopyge Ehlers, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814952"
+    }
+,
+    {
+      "name": "Orbiniidae Hartman, 1942",
+      "url": ""
+    }
+,
+    {
+      "name": "Questidae Hartman, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Questa Hartman, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Questa ersei Jamieson & Webb, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987671"
+    }
+,
+    {
+      "name": "Questa retrospermatica Giere, Ebbe & Erséus, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993273"
+    }
+,
+    {
+      "name": "Scoloplosia Rullier, 1972",
+      "url": ""
+    }
+,
+    {
+      "name": "Scoloplosia minima Rullier, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669206"
+    }
+,
+    {
+      "name": "Orbiniinae Hartman, 1942",
+      "url": ""
+    }
+,
+    {
+      "name": "Berkeleyia Hartman, 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Berkeleyia profunda Hartman, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993929"
+    }
+,
+    {
+      "name": "Leitoscoloplos Day, 1977",
+      "url": ""
+    }
+,
+    {
+      "name": "Leitoscoloplos fragilis (Verrill, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987489"
+    }
+,
+    {
+      "name": "Anthostoma fragile Verrill, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987491"
+    }
+,
+    {
+      "name": "Haploscoloplos fragilis (Verrill, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987492"
+    }
+,
+    {
+      "name": "Scoloplos fragilis (Verrill, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987493"
+    }
+,
+    {
+      "name": "Leitoscoloplos kerguelensis (McIntosh, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371905"
+    }
+,
+    {
+      "name": "Haploscoloplos kerguelensis (McIntosh, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821567"
+    }
+,
+    {
+      "name": "Scoloplos kerguelensis McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836606"
+    }
+,
+    {
+      "name": "Leitoscoloplos mawsoni (Benham, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824436"
+    }
+,
+    {
+      "name": "Scoloplos mawsoni Benham, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824437"
+    }
+,
+    {
+      "name": "Leodamas Kinberg, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Scoloplos (Leodamas) Kinberg, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Leodamas johnstonei (Day, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987730"
+    }
+,
+    {
+      "name": "Scoloplos (Leodamas) johnstonei Day, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987732"
+    }
+,
+    {
+      "name": "Scoloplos johnstonei Day, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987731"
+    }
+,
+    {
+      "name": "Leodamas marginatus (Ehlers, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816670"
+    }
+,
+    {
+      "name": "Aricia marginata var. macleani Benham, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824435"
+    }
+,
+    {
+      "name": "Aricia marginata Ehlers, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814947"
+    }
+,
+    {
+      "name": "Nainereis marginata (Ehlers, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816671"
+    }
+,
+    {
+      "name": "Scoloplos (Leodamas) marginatus (Ehlers, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814946"
+    }
+,
+    {
+      "name": "Scoloplos marginatus mcleani (Benham, 1921)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824434"
+    }
+,
+    {
+      "name": "Scoloplos marginatus (Ehlers, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821568"
+    }
+,
+    {
+      "name": "Naineris Blainville, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "Naineris laevigata (Grube, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371907"
+    }
+,
+    {
+      "name": "Aricia laevigata Grube, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566617"
+    }
+,
+    {
+      "name": "Nainereis laevigata (Grube, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814945"
+    }
+,
+    {
+      "name": "Theodisca anserina Claparède, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566651"
+    }
+,
+    {
+      "name": "Theodisca liriostoma Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566652"
+    }
+,
+    {
+      "name": "Naineris quadricuspida (Fabricius, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371909"
+    }
+,
+    {
+      "name": "Nais quadricuspida Fabricius, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546966"
+    }
+,
+    {
+      "name": "Scoloplos minor Örsted, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566650"
+    }
+,
+    {
+      "name": "Theodisca mamillata Cunningham & Ramage, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566653"
+    }
+,
+    {
+      "name": "Naineris retusiceps Chamberlin, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987517"
+    }
+,
+    {
+      "name": "Naineris setosa (Verrill, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/672819"
+    }
+,
+    {
+      "name": "Anthostoma latacapitata Treadwell, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687451"
+    }
+,
+    {
+      "name": "Aricia setosa Verrill, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687452"
+    }
+,
+    {
+      "name": "Orbinia Quatrefages, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Aricia Savigny, 1822",
+      "url": ""
+    }
+,
+    {
+      "name": "Orbinia Quatrefages, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Orbinia bioreti (Fauvel, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363054"
+    }
+,
+    {
+      "name": "Aricia bioreti Fauvel, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546631"
+    }
+,
+    {
+      "name": "Orbinia latreillii (Audouin & H Milne Edwards, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/188654"
+    }
+,
+    {
+      "name": "Aricia latreillei Audouin & Milne-Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/602"
+    }
+,
+    {
+      "name": "Aricia latreillii Audouin & Milne Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546645"
+    }
+,
+    {
+      "name": "Aricia longithorax Eisig, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695936"
+    }
+,
+    {
+      "name": "Orbinia latreilli [Auctt.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695935"
+    }
+,
+    {
+      "name": "Orbinia sertulata (Savigny, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363052"
+    }
+,
+    {
+      "name": "Aricia cuvieri perpapillata Eisig, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588414"
+    }
+,
+    {
+      "name": "Aricia cuvieri Audouin & Milne Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566611"
+    }
+,
+    {
+      "name": "Aricia cuvierii Audoin & Milne Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547030"
+    }
+,
+    {
+      "name": "Aricia sertulata Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566648"
+    }
+,
+    {
+      "name": "Orbinia cuvierii (Audouin & Milne Edwards, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363055"
+    }
+,
+    {
+      "name": "Orbinia (Orbinia) sertulata (Savigny, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544350"
+    }
+,
+    {
+      "name": "Phylo Kinberg, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Phylo foetida (Claparède, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/188653"
+    }
+,
+    {
+      "name": "Aricia foetida Claparède, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546632"
+    }
+,
+    {
+      "name": "Aricia foetida Claperede, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/601"
+    }
+,
+    {
+      "name": "Phylo foetida atlantica (Fauvel, 1924)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781046"
+    }
+,
+    {
+      "name": "Aricia foetida var. atlantica Fauvel, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784363"
+    }
+,
+    {
+      "name": "Phylo grubei (McIntosh, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363284"
+    }
+,
+    {
+      "name": "Aricia grubei McIntosh, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566614"
+    }
+,
+    {
+      "name": "Phylo norvegicus (M. Sars in G.O. Sars, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363283"
+    }
+,
+    {
+      "name": "Aricia groenlandica McIntosh, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566612"
+    }
+,
+    {
+      "name": "Aricia norvegica M. Sars in G.O. Sars, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566613"
+    }
+,
+    {
+      "name": "Protoaricia Czerniavsky, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Protoaricia oerstedii (Claparède, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934406"
+    }
+,
+    {
+      "name": "Aricia oerstedii Claparède, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934408"
+    }
+,
+    {
+      "name": "Scoloplos Blainville, 1828",
+      "url": ""
+    }
+,
+    {
+      "name": "Scolaricia Eisig, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Scoloplos armiger (Müller, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604"
+    }
+,
+    {
+      "name": "Lumbricus armiger Müller, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957383"
+    }
+,
+    {
+      "name": "Scoloplos elongatus Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935014"
+    }
+,
+    {
+      "name": "Scoloplos (Scoloplos) armiger (Müller, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544357"
+    }
+,
+    {
+      "name": "Scoloplos madagascariensis (Fauvel, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810092"
+    }
+,
+    {
+      "name": "Scoloplos madagascarensis Fauvel, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898923"
+    }
+,
+    {
+      "name": "Scoloplos robustus Rullier, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/672820"
+    }
+,
+    {
+      "name": "Scoloplos typicus (Eisig, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908344"
+    }
+,
+    {
+      "name": "Scolaricia lucia Eisig, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566649"
+    }
+,
+    {
+      "name": "Scolaricia typica Eisig, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/371912"
+    }
+,
+    {
+      "name": "Paraonidae Cerruti, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Aricidea Webster, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "Acmira Hartley, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Aricidea abranchiata Hartman, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937932"
+    }
+,
+    {
+      "name": "Aricidea annae Laubier, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852179"
+    }
+,
+    {
+      "name": "Aricidea belgicae (Fauvel, 1936)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821569"
+    }
+,
+    {
+      "name": "Aedicira belgicae (Fauvel, 1936)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821570"
+    }
+,
+    {
+      "name": "Paradoneis belgicae Fauvel, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821572"
+    }
+,
+    {
+      "name": "Paraonis belgicae Fauvel, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821571"
+    }
+,
+    {
+      "name": "Aricidea (Acmira) assimilis Tebble, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852180"
+    }
+,
+    {
+      "name": "Aricidea mutabilis Laubier & Ramos, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852181"
+    }
+,
+    {
+      "name": "Aricidea (Acmira) catherinae Laubier, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852234"
+    }
+,
+    {
+      "name": "Aricidea (Acmira) cerrutii Laubier, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544701"
+    }
+,
+    {
+      "name": "Acmira cerrutii (Laubier, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582662"
+    }
+,
+    {
+      "name": "Aricidea cerrutii Laubier, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379798"
+    }
+,
+    {
+      "name": "Aricidea jeffreysii auct. non (McIntosh, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547013"
+    }
+,
+    {
+      "name": "Aricidea (Acmira) lopezi Berkeley & Berkeley, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544337"
+    }
+,
+    {
+      "name": "Aricidea fauveli Hartman, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379816"
+    }
+,
+    {
+      "name": "Aricidea lopezi Berkeley & Berkeley, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546757"
+    }
+,
+    {
+      "name": "Aricidea (Acmira) simonae Laubier & Ramos, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713637"
+    }
+,
+    {
+      "name": "Aricidea simonae Laubier & Ramos, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379815"
+    }
+,
+    {
+      "name": "Aricidea (Aricidea) capensis Day, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544368"
+    }
+,
+    {
+      "name": "Aricidea capensis Day, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379809"
+    }
+,
+    {
+      "name": "Aricidea (Aricidea) capensis bansei Laubier & Ramos, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828515"
+    }
+,
+    {
+      "name": "Aricidea capensis bansei Laubier & Ramos, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/384228"
+    }
+,
+    {
+      "name": "Aricidea (Aricidea) fragilis Webster, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544369"
+    }
+,
+    {
+      "name": "Aricidea fragilis Webster, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379808"
+    }
+,
+    {
+      "name": "Aricidea (Aricidea) minuta Southward, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828517"
+    }
+,
+    {
+      "name": "Aricidea minuta Southward, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379796"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) antennata Annenkova, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828507"
+    }
+,
+    {
+      "name": "Aricidea antennata Annenkova, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720680"
+    }
+,
+    {
+      "name": "Aricidea (Allia) antennata Annenkova, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713631"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) bifurcata Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828508"
+    }
+,
+    {
+      "name": "Aricidea (Allia) bifurcata Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713633"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) claudiae Laubier, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828516"
+    }
+,
+    {
+      "name": "Aricidea claudiae Laubier, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379799"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) longisetosa Sardá, Gil, Taboada & Gili, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828509"
+    }
+,
+    {
+      "name": "Aricidea (Allia) longisetosa Sardá, Gil, Taboada & Gili, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713497"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) maialenae Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828510"
+    }
+,
+    {
+      "name": "Aricidea (Allia) maialenae Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713635"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) mirunekoa Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828511"
+    }
+,
+    {
+      "name": "Aricidea (Allia) mirunekoa Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713634"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) monicae Laubier, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828512"
+    }
+,
+    {
+      "name": "Aricidea (Allia) monicae Laubier, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544340"
+    }
+,
+    {
+      "name": "Aricidea monicae Laubier, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379794"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) nekanae Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828513"
+    }
+,
+    {
+      "name": "Aricidea (Allia) nekanae Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713636"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) sardai Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828514"
+    }
+,
+    {
+      "name": "Aricidea (Allia) sardai Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713632"
+    }
+,
+    {
+      "name": "Aricidea (Strelzovia) suecica Eliason, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828518"
+    }
+,
+    {
+      "name": "Allia suecia (Eliason, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582663"
+    }
+,
+    {
+      "name": "Aricidea heteroseta Hartman, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566667"
+    }
+,
+    {
+      "name": "Aricidea suecica Eliason, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379813"
+    }
+,
+    {
+      "name": "Aricidea laubieri Hartley, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921495"
+    }
+,
+    {
+      "name": "Aricidea neosuecica Hartman, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937933"
+    }
+,
+    {
+      "name": "Aricidea pseudoarticulata Hobson, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934893"
+    }
+,
+    {
+      "name": "Aricidea fragilis mediterranea Laubier & Ramos, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/934894"
+    }
+,
+    {
+      "name": "Aricidea tetrabranchia Hartman & Fauchald, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937934"
+    }
+,
+    {
+      "name": "Aricidea wassi Pettibone, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/951958"
+    }
+,
+    {
+      "name": "Aricidea Webster, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "Strelzovia Aguirrezabalaga, 2012",
+      "url": ""
+    }
+,
+    {
+      "name": "Aricidea (Allia) Strelzov, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Cirrophorus Ehlers, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Cirrophorus branchiatus Ehlers, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379791"
+    }
+,
+    {
+      "name": "Cirrophorus lyriformis (Annenkova, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938821"
+    }
+,
+    {
+      "name": "Paraonis (Paraonides) lyriformis Annenkova, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938822"
+    }
+,
+    {
+      "name": "Levinsenia Mesnil, 1897",
+      "url": ""
+    }
+,
+    {
+      "name": "Levinsenia flava (Strelzov, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713622"
+    }
+,
+    {
+      "name": "Tauberia flava Strelzov, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713624"
+    }
+,
+    {
+      "name": "Levinsenia gracilis (Tauber, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379781"
+    }
+,
+    {
+      "name": "Aonides gracilis Tauber, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713590"
+    }
+,
+    {
+      "name": "Paraonis filiformis Hartman, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713591"
+    }
+,
+    {
+      "name": "Paraonis gracilis (Tauber, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713589"
+    }
+,
+    {
+      "name": "Paraonis ivanovi Annenkova, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713592"
+    }
+,
+    {
+      "name": "Levinsenia kantauriensis Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713628"
+    }
+,
+    {
+      "name": "Levinsenia uncinata (Hartman, 1965)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944313"
+    }
+,
+    {
+      "name": "Paraonis uncinatus Hartman, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944314"
+    }
+,
+    {
+      "name": "Paradoneis Hartman, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Paradoneis abranchiata Hartman, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938819"
+    }
+,
+    {
+      "name": "Cirrophorus abranchiatus ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938820"
+    }
+,
+    {
+      "name": "Paradoneis armata Glémarec, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379788"
+    }
+,
+    {
+      "name": "Paradoneis bathyilvana Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713629"
+    }
+,
+    {
+      "name": "Paradoneis drachi Laubier & Ramos, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379790"
+    }
+,
+    {
+      "name": "Paradoneis eliasoni Mackie, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379789"
+    }
+,
+    {
+      "name": "Paradoneis lyra (Southern, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379784"
+    }
+,
+    {
+      "name": "Cirrophorus lyra (Southern, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/545428"
+    }
+,
+    {
+      "name": "Paraonis lyra Southern, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546938"
+    }
+,
+    {
+      "name": "Paradoneis lyra guadalupensis (Amoureux, 1985)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/723782"
+    }
+,
+    {
+      "name": "Cirrophorus lyra guadalupensis Amoureux, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/672840"
+    }
+,
+    {
+      "name": "Paradoneis mikeli Aguirrezabalaga & Gil, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713630"
+    }
+,
+    {
+      "name": "Paraonides Cerruti, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Paraonides myriamae Katzmann & Laubier, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379782"
+    }
+,
+    {
+      "name": "Paraonides neapolitana (Cerruti, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944311"
+    }
+,
+    {
+      "name": "Paraonis (Paraonides) neapolitana Cerruti, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944312"
+    }
+,
+    {
+      "name": "Paraonides rubriceps Hartman & Fauchald, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938823"
+    }
+,
+    {
+      "name": "Cirrophorus rubriceps (Hartman & Fauchald, 1971)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/938824"
+    }
+,
+    {
+      "name": "Paraonis Cerruti, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Paraonis fulgens (Levinsen, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/388599"
+    }
+,
+    {
+      "name": "Aonides fulgens Levinsen, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546487"
+    }
+,
+    {
+      "name": "Paradoneis fulgens (Levinsen, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379785"
+    }
+,
+    {
+      "name": "Paraonis gracilis Monro, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/944310"
+    }
+,
+    {
+      "name": "Parergodrilidae Reisinger, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Parergodrilus Reisinger, 1925",
+      "url": ""
+    }
+,
+    {
+      "name": "Parergodrilus heideri Reisinger, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/236781"
+    }
+,
+    {
+      "name": "Stygocapitella Knöllner, 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "Stygocapitella josemariobrancoi Cerca, Meyer, Purschke & Tosten, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943350"
+    }
+,
+    {
+      "name": "Stygocapitella subterranea Knöllner, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/366358"
+    }
+,
+    {
+      "name": "Stypocapitella subterranea Knöllner, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566705"
+    }
+,
+    {
+      "name": "phyllodocida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/phyllodocida/"
+    }
+,
+    {
+      "name": "Polychaeta incertae sedis ",
+      "url": ""
+    }
+,
+    {
+      "name": "Polygordiidae Czerniavsky, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Polygordius Schneider, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Polygordius appendiculatus Fraipont, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379883"
+    }
+,
+    {
+      "name": "Polygordius appendiculata Fraipont, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547086"
+    }
+,
+    {
+      "name": "Polygordius kurthsusanae Tustison, Ramey-Balci & Rouse, 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962720"
+    }
+,
+    {
+      "name": "Polygordius lacteus Schneider, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379881"
+    }
+,
+    {
+      "name": "Linotrypane apogon McIntosh, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566773"
+    }
+,
+    {
+      "name": "Polygordius ponticus Salensky, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566775"
+    }
+,
+    {
+      "name": "Polygordius triestinus Woltereck in Hempelmann, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379880"
+    }
+,
+    {
+      "name": "Polygordius villoti Perrier, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379879"
+    }
+,
+    {
+      "name": "Protodrilidae Hatschek, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Astomus Jouin, 1979",
+      "url": ""
+    }
+,
+    {
+      "name": "Astomus taenioides Jouin, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761866"
+    }
+,
+    {
+      "name": "Parenterodrilus taenioides (Jouin, 1979)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761867"
+    }
+,
+    {
+      "name": "Claudrilus Martínez, Di Domenico, Rouse & Worsaae, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Claudrilus draco (Martínez, Di Domenico, Jörger, Norenburg & Worsaae, 2013)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952562"
+    }
+,
+    {
+      "name": "Protodrilus draco Martínez, Di Domenico, Jörger, Norenburg & Worsaae, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952563"
+    }
+,
+    {
+      "name": "Claudrilus hypoleucus (Armenante, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915013"
+    }
+,
+    {
+      "name": "Protodrilus hypoleucus Armenante, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379906"
+    }
+,
+    {
+      "name": "Protodrilus ypoleucus Armenante, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566857"
+    }
+,
+    {
+      "name": "Megadrilus Martınez, Di Domenico, Rouse & Worsaae, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Megadrilus purpureus (Schneider, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898128"
+    }
+,
+    {
+      "name": "Polygordius purpureus Schneider, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566855"
+    }
+,
+    {
+      "name": "Protodrilus purpureus (Schneider, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379890"
+    }
+,
+    {
+      "name": "Meiodrilus Martínez, Di Domenico, Rouse & Worsaae, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Meiodrilus adhaerens (Jägersten, 1952)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/915011"
+    }
+,
+    {
+      "name": "Protodrilus adhaerens Jägersten, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379904"
+    }
+,
+    {
+      "name": "Protodrilus Hatschek, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Protodrilus affinis Jouin, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379905"
+    }
+,
+    {
+      "name": "Protodrilus albicans Jouin, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379902"
+    }
+,
+    {
+      "name": "Protodrilus ciliatus Jägersten, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379894"
+    }
+,
+    {
+      "name": "Protodrilus gracilis von Nordheim, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379900"
+    }
+,
+    {
+      "name": "Protodrilus hatscheki Pierantoni, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379896"
+    }
+,
+    {
+      "name": "Protodrilus indicus Aiyar & Alikuhni, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669142"
+    }
+,
+    {
+      "name": "Protodrilus oculifer Pierantoni, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379903"
+    }
+,
+    {
+      "name": "Protodrilus bahusiensis Jägersten, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/903102"
+    }
+,
+    {
+      "name": "Protodrilus rubropharyngeus Jägersten, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379888"
+    }
+,
+    {
+      "name": "Protodriloididae Purschke & Jouin, 1988",
+      "url": ""
+    }
+,
+    {
+      "name": "Protodriloides Jouin, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Protodriloides chaetifer (Remane, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379887"
+    }
+,
+    {
+      "name": "Protodrilus chaetifer Remane, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956730"
+    }
+,
+    {
+      "name": "Protodriloides symbioticus (Giard, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379886"
+    }
+,
+    {
+      "name": "Protodrilus symbioticus Giard, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956731"
+    }
+,
+    {
+      "name": "Psammodrilidae Swedmark, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Psammodrilus Swedmark, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Psammodriloides Swedmark, 1958",
+      "url": ""
+    }
+,
+    {
+      "name": "Psammodrilus balanoglossoides Swedmark, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379829"
+    }
+,
+    {
+      "name": "Psammodrilus fauveli (Swedmark, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669569"
+    }
+,
+    {
+      "name": "Psammodriloides fauveli Swedmark, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379828"
+    }
+,
+    {
+      "name": "sabellida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/sabellida/"
+    }
+,
+    {
+      "name": "Saccocirridae Czerniavsky, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Saccocirrus Bobretzky, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Saccocirrus papillocercus Bobretzky, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379908"
+    }
+,
+    {
+      "name": "Spio nemertinaeformis Czerniavsky, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566955"
+    }
+,
+    {
+      "name": "Scalibregmatidae Malmgren, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Scalibregmidae Malmgren, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Asclerocheilus Ashworth, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Asclerocheilus intermedius (Saint-Joseph, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/386779"
+    }
+,
+    {
+      "name": "Lipobranchius intermedius Saint-Joseph, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547028"
+    }
+,
+    {
+      "name": "Sclerocheilus caecus Saint-Joseph, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566965"
+    }
+,
+    {
+      "name": "Hyboscolex Schmarda, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Hyboscolex longiseta Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843189"
+    }
+,
+    {
+      "name": "Oncoscolex dicranochaetus Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843190"
+    }
+,
+    {
+      "name": "Lipobranchius Cunningham & Ramage, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Lipobranchius jeffreysii (McIntosh, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542625"
+    }
+,
+    {
+      "name": "Eumenia jeffreysii McIntosh, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547029"
+    }
+,
+    {
+      "name": "Lipobranchius jeffreysi (McIntosh, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/386780"
+    }
+,
+    {
+      "name": "Oligobregma Kudenov & Blake, 1978",
+      "url": ""
+    }
+,
+    {
+      "name": "Oligobregma brasierae Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937261"
+    }
+,
+    {
+      "name": "Oligobregma tani Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937263"
+    }
+,
+    {
+      "name": "Oligobregma whaleyi Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937264"
+    }
+,
+    {
+      "name": "Polyphysia Quatrefages, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Polyphysia crassa (Örsted, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/386782"
+    }
+,
+    {
+      "name": "Eumenia crassa Örsted, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546548"
+    }
+,
+    {
+      "name": "Eumenia ebranchiata Baird in McIntosh, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566956"
+    }
+,
+    {
+      "name": "Eumeniopsis typica Sars in Bidenkap, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566959"
+    }
+,
+    {
+      "name": "Polyphysia quaterbranchia Furreg, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566962"
+    }
+,
+    {
+      "name": "Pseudoscalibregma Ashworth, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoscalibregma parvum (Hansen, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/386783"
+    }
+,
+    {
+      "name": "Eumenia longisetosa Théel, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566957"
+    }
+,
+    {
+      "name": "Eumenia reticulata McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566958"
+    }
+,
+    {
+      "name": "Scalibregma parvum Hansen, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546633"
+    }
+,
+    {
+      "name": "Scalibregma Rathke, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Scalibregma celticum Mackie, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/386784"
+    }
+,
+    {
+      "name": "Scalibregma inflatum Rathke, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/386785"
+    }
+,
+    {
+      "name": "Eumenia crassa arctica Wirén, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588422"
+    }
+,
+    {
+      "name": "Oligobranchus groenlandicus Sars, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566960"
+    }
+,
+    {
+      "name": "Oligobranchus roseus Sars, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566961"
+    }
+,
+    {
+      "name": "Scalibregma abyssorum Hansen, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566963"
+    }
+,
+    {
+      "name": "Scalibregma brevicauda Verrill, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566964"
+    }
+,
+    {
+      "name": "Scalibregma inflatum corethrurum Michaelsen, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588423"
+    }
+,
+    {
+      "name": "Scalibregma minutum Webster & Benedict, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546616"
+    }
+,
+    {
+      "name": "Sclerobregma Hartman, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Sclerobregma branchiatum Hartman, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946804"
+    }
+,
+    {
+      "name": "Sclerocheilus Grube, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "Sclerocheilus antarcticus Ashworth, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814949"
+    }
+,
+    {
+      "name": "Eumenia oculata Gravier, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814950"
+    }
+,
+    {
+      "name": "Sclerocheilus minutus Grube, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/386787"
+    }
+,
+    {
+      "name": "Scolecida Rouse & Fauchald, 1997 non Linnaean",
+      "url": ""
+    }
+,
+    {
+      "name": "Sedentaria Lamarck, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Spintheridae Augener, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Spinther Johnston, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Sphinter ",
+      "url": ""
+    }
+,
+    {
+      "name": "Spinther arcticus (M. Sars, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379855"
+    }
+,
+    {
+      "name": "Oniscosoma arcticum Sars, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566573"
+    }
+,
+    {
+      "name": "Spinther miniaceus Grube, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566575"
+    }
+,
+    {
+      "name": "Spinther citrinus (Stimpson, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379856"
+    }
+,
+    {
+      "name": "Cryptonota citrina Stimpson, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956732"
+    }
+,
+    {
+      "name": "Spinther oniscoides Johnson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379858"
+    }
+,
+    {
+      "name": "Spinther major Levinsen, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566574"
+    }
+,
+    {
+      "name": "spionida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/spionida/"
+    }
+,
+    {
+      "name": "terebellida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/annelida/polychaeta/terebellida/"
+    }
+,
+    {
+      "name": "Travisiidae Hartmann-Schröder, 1971",
+      "url": ""
+    }
+,
+    {
+      "name": "Travisia Johnston, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Kesun Chamberlin, 1919",
+      "url": ""
+    }
+,
+    {
+      "name": "Travisia forbesii Johnston, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/548"
+    }
+,
+    {
+      "name": "Ammotrypane oestroides Rathke, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578383"
+    }
+,
+    {
+      "name": "Ophelia mamillata crassa Örsted, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589149"
+    }
+,
+    {
+      "name": "Ophelia mamillata Örsted, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578384"
+    }
+,
+    {
+      "name": "Travisia forbesi Johnston, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/531331"
+    }
+,
+    {
+      "name": "Travisia fusus (Chamberlin, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828532"
+    }
+,
+    {
+      "name": "Kesun fusus Chamberlin, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762111"
+    }
+,
+    {
+      "name": "Travisia gravieri McIntosh, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/940024"
+    }
+,
+    {
+      "name": "Travisia kerguelensis McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838169"
+    }
+,
+    {
+      "name": "Travisia zieglerae Wiklund, Neal, Glover, Drennan, Rabone & Dahlgren, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937265"
+    }
+
+  ]
+}

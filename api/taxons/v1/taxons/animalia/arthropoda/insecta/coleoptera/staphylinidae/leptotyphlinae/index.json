@@ -1,0 +1,32 @@
+
+{
+  "name": "leptotyphlinae",
+  "children": [
+
+    {
+      "name": "Leptotyphlinae Fauvel, 1874",
+      "url": ""
+    }
+,
+    {
+      "name": "cephalotyphlini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/leptotyphlinae/cephalotyphlini/"
+    }
+,
+    {
+      "name": "entomoculiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/leptotyphlinae/entomoculiini/"
+    }
+,
+    {
+      "name": "leptotyphlini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/leptotyphlinae/leptotyphlini/"
+    }
+,
+    {
+      "name": "metrotyphlini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/leptotyphlinae/metrotyphlini/"
+    }
+
+  ]
+}

@@ -1,0 +1,37 @@
+
+{
+  "name": "membracinae",
+  "children": [
+
+    {
+      "name": "Membracinae Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "aconophorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/membracidae/membracinae/aconophorini/"
+    }
+,
+    {
+      "name": "hoplophorionini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/membracidae/membracinae/hoplophorionini/"
+    }
+,
+    {
+      "name": "hypsoprorini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/membracidae/membracinae/hypsoprorini/"
+    }
+,
+    {
+      "name": "membracini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/membracidae/membracinae/membracini/"
+    }
+,
+    {
+      "name": "talipedini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/membracidae/membracinae/talipedini/"
+    }
+
+  ]
+}

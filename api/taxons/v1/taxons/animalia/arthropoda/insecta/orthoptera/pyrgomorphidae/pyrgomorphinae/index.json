@@ -1,0 +1,27 @@
+
+{
+  "name": "pyrgomorphinae",
+  "children": [
+
+    {
+      "name": "Pyrgomorphinae Brunner von Wattenwyl, 1874",
+      "url": ""
+    }
+,
+    {
+      "name": "atractomorphini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/pyrgomorphidae/pyrgomorphinae/atractomorphini/"
+    }
+,
+    {
+      "name": "omurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/pyrgomorphidae/pyrgomorphinae/omurini/"
+    }
+,
+    {
+      "name": "pyrgomorphini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/pyrgomorphidae/pyrgomorphinae/pyrgomorphini/"
+    }
+
+  ]
+}

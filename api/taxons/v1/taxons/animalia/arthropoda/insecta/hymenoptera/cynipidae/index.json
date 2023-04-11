@@ -1,0 +1,37 @@
+
+{
+  "name": "cynipidae",
+  "children": [
+
+    {
+      "name": "Cynipidae Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "cynipinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/cynipidae/cynipinae/"
+    }
+,
+    {
+      "name": "Barbotinia Nieves-Aldrey, 1994-15",
+      "url": ""
+    }
+,
+    {
+      "name": "Barbotinia oraniensis (Barbotin, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014197"
+    }
+,
+    {
+      "name": "Synophrus Hartig, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Synophrus politus Hartig, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013409"
+    }
+
+  ]
+}

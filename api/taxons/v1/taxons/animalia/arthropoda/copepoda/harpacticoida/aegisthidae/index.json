@@ -1,0 +1,32 @@
+
+{
+  "name": "aegisthidae",
+  "children": [
+
+    {
+      "name": "Aegisthidae Giesbrecht, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Cerviniidae Sars M., 1903",
+      "url": ""
+    }
+,
+    {
+      "name": "aegisthinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/harpacticoida/aegisthidae/aegisthinae/"
+    }
+,
+    {
+      "name": "cerviniinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/harpacticoida/aegisthidae/cerviniinae/"
+    }
+,
+    {
+      "name": "cerviniopseinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/harpacticoida/aegisthidae/cerviniopseinae/"
+    }
+
+  ]
+}

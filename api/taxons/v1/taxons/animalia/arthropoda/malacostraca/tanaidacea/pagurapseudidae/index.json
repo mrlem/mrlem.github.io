@@ -1,0 +1,27 @@
+
+{
+  "name": "pagurapseudidae",
+  "children": [
+
+    {
+      "name": "Pagurapseudidae Lang, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Indoapseudes Bacescu, 1976",
+      "url": ""
+    }
+,
+    {
+      "name": "Indoapseudes choristhema Bamber, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017178"
+    }
+,
+    {
+      "name": "pagurapseudinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/tanaidacea/pagurapseudidae/pagurapseudinae/"
+    }
+
+  ]
+}

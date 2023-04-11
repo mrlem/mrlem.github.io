@@ -1,0 +1,22 @@
+
+{
+  "name": "archaea",
+  "children": [
+
+    {
+      "name": "Archaea Woese, Kandler & Wheelis, 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "euryarchaeota",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/archaea/euryarchaeota/"
+    }
+,
+    {
+      "name": "thaumarchaeota",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/archaea/thaumarchaeota/"
+    }
+
+  ]
+}

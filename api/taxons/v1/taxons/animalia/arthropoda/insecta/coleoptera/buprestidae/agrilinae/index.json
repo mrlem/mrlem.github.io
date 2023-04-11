@@ -1,0 +1,32 @@
+
+{
+  "name": "agrilinae",
+  "children": [
+
+    {
+      "name": "Agrilinae Laporte de Castelnau, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "agrilini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/agrilinae/agrilini/"
+    }
+,
+    {
+      "name": "aphanisticini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/agrilinae/aphanisticini/"
+    }
+,
+    {
+      "name": "coraebini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/agrilinae/coraebini/"
+    }
+,
+    {
+      "name": "tracheini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/buprestidae/agrilinae/tracheini/"
+    }
+
+  ]
+}

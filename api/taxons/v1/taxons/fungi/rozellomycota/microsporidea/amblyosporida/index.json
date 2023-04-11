@@ -1,0 +1,22 @@
+
+{
+  "name": "amblyosporida",
+  "children": [
+
+    {
+      "name": "Amblyosporida Tokarev & Issi, 2020",
+      "url": ""
+    }
+,
+    {
+      "name": "caudosporidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/amblyosporida/caudosporidae/"
+    }
+,
+    {
+      "name": "gurleyidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/amblyosporida/gurleyidae/"
+    }
+
+  ]
+}

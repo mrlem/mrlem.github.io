@@ -1,0 +1,427 @@
+
+{
+  "name": "aeolidiidae",
+  "children": [
+
+    {
+      "name": "Aeolidiidae Gray, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Aeolidia Cuvier, 1798",
+      "url": ""
+    }
+,
+    {
+      "name": "Aeolis Menke, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Eolis ",
+      "url": ""
+    }
+,
+    {
+      "name": "Aeolidia filomenae Kienberger, Carmona, Pola, Padula, Gosliner & Cervera, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836181"
+    }
+,
+    {
+      "name": "Aeolidia papillosa auct. non (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62987"
+    }
+,
+    {
+      "name": "Aeolidia papillosa (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836182"
+    }
+,
+    {
+      "name": "Aeolidia papillosa var. pacifica Bergh, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/570669"
+    }
+,
+    {
+      "name": "Aeolis lesliana MacGillivray, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/64004"
+    }
+,
+    {
+      "name": "Aeolis murrayana MacGillivray, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/64003"
+    }
+,
+    {
+      "name": "Geolidia papillosa (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/61770"
+    }
+,
+    {
+      "name": "Limax papillosus Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546535"
+    }
+,
+    {
+      "name": "Aeolidiella Bergh, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Aeolidiella alderi (Cocks, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/359701"
+    }
+,
+    {
+      "name": "Aeolidiella soemmeringii Bergh, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62990"
+    }
+,
+    {
+      "name": "Aeolidiella glauca (Alder & Hancock, 1845)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62989"
+    }
+,
+    {
+      "name": "Eolis glauca Alder & Hancock, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971862"
+    }
+,
+    {
+      "name": "Eolis inornata Alder & Hancock, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/64001"
+    }
+,
+    {
+      "name": "Eolis pallidula Lafont, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/64008"
+    }
+,
+    {
+      "name": "Aeolidiella sanguinea (Norman, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/359704"
+    }
+,
+    {
+      "name": "Aeolidiopsis Pruvot-Fol, 1956",
+      "url": ""
+    }
+,
+    {
+      "name": "Aeolidiopsis harrietae Rudman, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656123"
+    }
+,
+    {
+      "name": "Baeolidia harrietae (Rudman, 1982)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792198"
+    }
+,
+    {
+      "name": "Aeolidiopsis ransoni Pruvot-Fol, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656124"
+    }
+,
+    {
+      "name": "Baeolidia ransoni (Pruvot-Fol, 1956)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792199"
+    }
+,
+    {
+      "name": "Anteaeolidiella M.C. Miller, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "Anteaeolidiella cacaotica (Stimpson, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771263"
+    }
+,
+    {
+      "name": "Aeolidiella foulisi (Angas, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655718"
+    }
+,
+    {
+      "name": "Aeolis foulisi Angas, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/570130"
+    }
+,
+    {
+      "name": "Anteaeolidiella foulisi (Angas, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/543298"
+    }
+,
+    {
+      "name": "Eolis cacaotica Stimpson, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/924981"
+    }
+,
+    {
+      "name": "Anteaeolidiella indica (Bergh, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578946"
+    }
+,
+    {
+      "name": "Aeolidiella indica Bergh, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/359702"
+    }
+,
+    {
+      "name": "Anteaeolidiella ireneae Carmona, Bhave, Salunkhe, Pola, Gosliner & Cervera, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777752"
+    }
+,
+    {
+      "name": "Anteaeolidiella lurana (Ev. Marcus & Er. Marcus, 1967)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015726"
+    }
+,
+    {
+      "name": "Aeolidiella lurana Marcus & Marcus, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015727"
+    }
+,
+    {
+      "name": "Baeolidia Bergh, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Baeolidia australis (Rudman, 1982)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590347"
+    }
+,
+    {
+      "name": "Spurilla australis Rudman, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590591"
+    }
+,
+    {
+      "name": "Baeolidia cryoporos Bouchet, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368686"
+    }
+,
+    {
+      "name": "Baeolidia japonica Baba, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771215"
+    }
+,
+    {
+      "name": "Baeolidia moebii Bergh, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716771"
+    }
+,
+    {
+      "name": "Baeolidia major Eliot, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656155"
+    }
+,
+    {
+      "name": "Spurilla major (Eliot, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656154"
+    }
+,
+    {
+      "name": "Berghia Trinchese, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "Millereolidia Ortea, Caballer & Espinosa, 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Berghia agari (Smallwood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785248"
+    }
+,
+    {
+      "name": "Facelina agari Smallwood, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896762"
+    }
+,
+    {
+      "name": "Millereolidia agari (Smallwood, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727128"
+    }
+,
+    {
+      "name": "Berghia coerulescens (Laurillard, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/63004"
+    }
+,
+    {
+      "name": "Spurilla caerulescens (Laurillard, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363923"
+    }
+,
+    {
+      "name": "Berghia creutzbergi Er. Marcus & Ev. Marcus, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712987"
+    }
+,
+    {
+      "name": "Spurilla creutzbergi (Er. Marcus & Ev. Marcus, 1970)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896763"
+    }
+,
+    {
+      "name": "Berghia marcusi Dominguez, Troncoso & García, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712856"
+    }
+,
+    {
+      "name": "Berghia rissodominguezi Muniain & Ortea, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/727129"
+    }
+,
+    {
+      "name": "Berghia verrucicornis (A. Costa, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529173"
+    }
+,
+    {
+      "name": "Eolis grossularia P. Fischer, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/64009"
+    }
+,
+    {
+      "name": "Facelina variegata d'Oliveira, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/63907"
+    }
+,
+    {
+      "name": "Flabellina verrucicornis A. Costa, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971861"
+    }
+,
+    {
+      "name": "Spurilla verrucicornis (A. Costa, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/363925"
+    }
+,
+    {
+      "name": "Bulbaeolidia Carmona, Pola, Gosliner & Cervera, 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "Bulbaeolidia alba (Risbec, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792202"
+    }
+,
+    {
+      "name": "Aeolidiella alba Risbec, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656103"
+    }
+,
+    {
+      "name": "Spurilla alba (Risbec, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687454"
+    }
+,
+    {
+      "name": "Bulbaeolidia oasis Caballer & Ortea, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813745"
+    }
+,
+    {
+      "name": "Cerberilla Bergh, 1873",
+      "url": ""
+    }
+,
+    {
+      "name": "Cerberilla affinis Bergh, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537051"
+    }
+,
+    {
+      "name": "Cerberilla albopunctata Baba, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771218"
+    }
+,
+    {
+      "name": "Cerberilla annulata (Quoy & Gaimard, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656105"
+    }
+,
+    {
+      "name": "Cerberilla bernadettae Tardy, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368684"
+    }
+,
+    {
+      "name": "Cerberilla bernadetti Tardy, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581995"
+    }
+,
+    {
+      "name": "Cerberilla incola Burn, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/537007"
+    }
+,
+    {
+      "name": "Limenandra Haefelfinger & Stamm, 1958",
+      "url": ""
+    }
+,
+    {
+      "name": "Limenandra barnosii Carmona, Pola, Gosliner & Cervera, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795843"
+    }
+,
+    {
+      "name": "Limenandra fusiformis (Baba, 1949)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771239"
+    }
+,
+    {
+      "name": "Baeolidia fusiformis Baba, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771240"
+    }
+,
+    {
+      "name": "Limenandra nodosa Haefelfinger & Stamm, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/656125"
+    }
+,
+    {
+      "name": "Baeolidia nodosa (Haefelfinger & Stamm, 1958)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/368687"
+    }
+,
+    {
+      "name": "Spurilla Bergh, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Spurilla braziliana MacFarland, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896765"
+    }
+,
+    {
+      "name": "Spurilla dupontae Carmona, Lei, Pola, Gosliner, Valdés & Cervera, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896766"
+    }
+,
+    {
+      "name": "Spurilla neapolitana (Delle Chiaje, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62998"
+    }
+,
+    {
+      "name": "Eolis conspersa Fischer P., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/64010"
+    }
+,
+    {
+      "name": "Eolis neapolitana Delle Chiaje, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909688"
+    }
+
+  ]
+}

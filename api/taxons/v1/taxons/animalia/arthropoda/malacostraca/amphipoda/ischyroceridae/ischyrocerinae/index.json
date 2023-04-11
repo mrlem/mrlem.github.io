@@ -1,0 +1,27 @@
+
+{
+  "name": "ischyrocerinae",
+  "children": [
+
+    {
+      "name": "Ischyrocerinae Stebbing, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "ericthonini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/amphipoda/ischyroceridae/ischyrocerinae/ericthonini/"
+    }
+,
+    {
+      "name": "ischyrocerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/amphipoda/ischyroceridae/ischyrocerinae/ischyrocerini/"
+    }
+,
+    {
+      "name": "siphonoecetini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/amphipoda/ischyroceridae/ischyrocerinae/siphonoecetini/"
+    }
+
+  ]
+}

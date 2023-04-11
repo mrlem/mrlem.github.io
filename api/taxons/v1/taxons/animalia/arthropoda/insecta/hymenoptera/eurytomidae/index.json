@@ -1,0 +1,22 @@
+
+{
+  "name": "eurytomidae",
+  "children": [
+
+    {
+      "name": "Eurytomidae Walker, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "eurytominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eurytomidae/eurytominae/"
+    }
+,
+    {
+      "name": "rileyinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eurytomidae/rileyinae/"
+    }
+
+  ]
+}

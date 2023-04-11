@@ -1,0 +1,372 @@
+
+{
+  "name": "cancellariidae",
+  "children": [
+
+    {
+      "name": "Cancellariidae Forbes & Hanley, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "admetinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/neogastropoda/cancellariidae/admetinae/"
+    }
+,
+    {
+      "name": "cancellariinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/neogastropoda/cancellariidae/cancellariinae/"
+    }
+,
+    {
+      "name": "Admetula Cossmann, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Admetula bathynoma Bouchet & Petit, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718191"
+    }
+,
+    {
+      "name": "Admetula emarginata Bouchet & Petit, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592247"
+    }
+,
+    {
+      "name": "Admetula vossi Petit, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896604"
+    }
+,
+    {
+      "name": "Bonellitia vossi (Petit, 1976)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/896605"
+    }
+,
+    {
+      "name": "Axelella Petit, 1988",
+      "url": ""
+    }
+,
+    {
+      "name": "Axelella scalatella (Guppy, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460436"
+    }
+,
+    {
+      "name": "Bivetiella Wenz, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Bivetiella cancellata (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544370"
+    }
+,
+    {
+      "name": "Buccinella rotundata Perry, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682466"
+    }
+,
+    {
+      "name": "Buccinum pyrozonias Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682465"
+    }
+,
+    {
+      "name": "Cancellaria cancellata (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682470"
+    }
+,
+    {
+      "name": "Cancellaria costata G.B. Sowerby I, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682467"
+    }
+,
+    {
+      "name": "Cantharus triplicatus Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682468"
+    }
+,
+    {
+      "name": "Murex scabriculus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682471"
+    }
+,
+    {
+      "name": "Murex scabriusculus Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682469"
+    }
+,
+    {
+      "name": "Voluta cancellata Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580678"
+    }
+,
+    {
+      "name": "Bivetiella similis (G.B. Sowerby I, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/544371"
+    }
+,
+    {
+      "name": "Bivetia bivet Jousseaume, 1887 (ex Adanson, 1757)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682472"
+    }
+,
+    {
+      "name": "Cancellaria (Cancellaria) similis G. B. Sowerby I, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62742"
+    }
+,
+    {
+      "name": "Cancellaria similis G.B. Sowerby I, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682473"
+    }
+,
+    {
+      "name": "Bivetopsia Jousseaume, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Bivetopsia rugosa (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606246"
+    }
+,
+    {
+      "name": "Fusiaphera Habe, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "Fusiaphera macrospira (A. Adams & Reeve, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592802"
+    }
+,
+    {
+      "name": "Cancellaria tosaensis (Habe, 1961)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687760"
+    }
+,
+    {
+      "name": "Gerdiella Olsson & Bayer, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Gerdiella santa Olsson & Bayer, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606346"
+    }
+,
+    {
+      "name": "Mericella santa (Olsson & Bayer, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/606344"
+    }
+,
+    {
+      "name": "Iphinopsis Dall, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Iphinopsis alba Bouchet & Warén, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/939985"
+    }
+,
+    {
+      "name": "Mirandaphera Bouchet & Petit, 2002",
+      "url": ""
+    }
+,
+    {
+      "name": "Mirandaphera cayrei Bouchet & Petit, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592676"
+    }
+,
+    {
+      "name": "Mirandaphera maestratii Bouchet & Petit, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592677"
+    }
+,
+    {
+      "name": "Nipponaphera Habe, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "Nipponaphera argo Bouchet & Petit, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592775"
+    }
+,
+    {
+      "name": "Nipponaphera cyphoma Bouchet & Petit, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592678"
+    }
+,
+    {
+      "name": "Nipponaphera goniata Bouchet & Petit, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592679"
+    }
+,
+    {
+      "name": "Nipponaphera nodosivaricosa (Petuch, 1979)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592803"
+    }
+,
+    {
+      "name": "Agatrix nodosivaricosa Petuch, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677163"
+    }
+,
+    {
+      "name": "Scalptia nodosivaricosa (Petush, 1979)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677162"
+    }
+,
+    {
+      "name": "Nipponaphera pardalis Bouchet & Petit, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592680"
+    }
+,
+    {
+      "name": "Scalptia Jousseaume, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "Scalptia bicolor (Hinds, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591221"
+    }
+,
+    {
+      "name": "Cancellaria bicolor Hinds, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698029"
+    }
+,
+    {
+      "name": "Cancellaria septemcostata Odhner, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698030"
+    }
+,
+    {
+      "name": "Trigonaphera interlaevis Laseron, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698031"
+    }
+,
+    {
+      "name": "Trigonostoma bicolor (Hinds, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655946"
+    }
+,
+    {
+      "name": "Scalptia contabulata (G.B. Sowerby I, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591222"
+    }
+,
+    {
+      "name": "Cancellaria contabulata G.B. Sowerby I, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690906"
+    }
+,
+    {
+      "name": "Cancellaria forestieri Montrouzier, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591770"
+    }
+,
+    {
+      "name": "Cancellaria montrouzieri Souverbie, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690907"
+    }
+,
+    {
+      "name": "Cancellaria pusilla G.B. Sowerby I, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690908"
+    }
+,
+    {
+      "name": "Cancellaria rougeyroni Souverbie in Souverbie & Montrouzier, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690909"
+    }
+,
+    {
+      "name": "Scalptia forestieri (Souverbie & Montrouzier, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655845"
+    }
+,
+    {
+      "name": "Scalptia obliquata (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590792"
+    }
+,
+    {
+      "name": "Cancellaria asperula Deshayes, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691110"
+    }
+,
+    {
+      "name": "Cancellaria obliquata Lamarck, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691109"
+    }
+,
+    {
+      "name": "Scalptia scalariformis (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949723"
+    }
+,
+    {
+      "name": "Cancellaria costifera G.B.Sowerby I, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/949724"
+    }
+,
+    {
+      "name": "Scalptia scalata (G.B. Sowerby I, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590164"
+    }
+,
+    {
+      "name": "Cancellaria scalata G.B. Sowerby I, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677970"
+    }
+,
+    {
+      "name": "Cancellaria tenuis A. Adams, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677971"
+    }
+,
+    {
+      "name": "Trigonostoma Blainville, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Trigonostoma lamberti (Souverbie in Souverbie & Montrouzier, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591632"
+    }
+,
+    {
+      "name": "Cancellaria lamberti Souverbie, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691810"
+    }
+,
+    {
+      "name": "Scalptia lamberti (Souverbie, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655847"
+    }
+,
+    {
+      "name": "Trigonostoma thysthlon Petit & Harasewych, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592393"
+    }
+,
+    {
+      "name": "Trigonostoma tryblium Bouchet & Petit, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592248"
+    }
+,
+    {
+      "name": "plesiotritoninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/gastropoda/neogastropoda/cancellariidae/plesiotritoninae/"
+    }
+
+  ]
+}

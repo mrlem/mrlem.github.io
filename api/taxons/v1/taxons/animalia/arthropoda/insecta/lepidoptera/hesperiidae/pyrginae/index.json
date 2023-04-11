@@ -1,0 +1,47 @@
+
+{
+  "name": "pyrginae",
+  "children": [
+
+    {
+      "name": "Pyrginae Burmeister, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "achlyodini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/pyrginae/achlyodini/"
+    }
+,
+    {
+      "name": "carcharodini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/pyrginae/carcharodini/"
+    }
+,
+    {
+      "name": "celaenorrhinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/pyrginae/celaenorrhinini/"
+    }
+,
+    {
+      "name": "erynnini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/pyrginae/erynnini/"
+    }
+,
+    {
+      "name": "pyrgini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/pyrginae/pyrgini/"
+    }
+,
+    {
+      "name": "pyrrhopygini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/pyrginae/pyrrhopygini/"
+    }
+,
+    {
+      "name": "tagiadini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/hesperiidae/pyrginae/tagiadini/"
+    }
+
+  ]
+}

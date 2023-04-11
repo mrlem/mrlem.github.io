@@ -1,0 +1,427 @@
+
+{
+  "name": "amphinominae",
+  "children": [
+
+    {
+      "name": "Amphinominae Lamarck, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphinome Bruguière, 1789",
+      "url": ""
+    }
+,
+    {
+      "name": "Amphinome denudata Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001016"
+    }
+,
+    {
+      "name": "Amphinome rostrata (Pallas, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379837"
+    }
+,
+    {
+      "name": "Amphinome lepadis Verrill, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566527"
+    }
+,
+    {
+      "name": "Amphinome luzoniae Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566528"
+    }
+,
+    {
+      "name": "Amphinome natans Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566530"
+    }
+,
+    {
+      "name": "Amphinome pallasii Quatrefages, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566531"
+    }
+,
+    {
+      "name": "Amphinome quatrefagesi Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566532"
+    }
+,
+    {
+      "name": "Amphinome tetraedra Bruguiere, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566533"
+    }
+,
+    {
+      "name": "Aphrodita rostrata Pallas, 1766",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547024"
+    }
+,
+    {
+      "name": "Asloegia capillata Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566535"
+    }
+,
+    {
+      "name": "Colonianella rostrata Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566630"
+    }
+,
+    {
+      "name": "Pleione tetraedra (Bruguiere, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577711"
+    }
+,
+    {
+      "name": "Amphinome vagans (Savigny, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762125"
+    }
+,
+    {
+      "name": "Pleione vagans Savigny, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956037"
+    }
+,
+    {
+      "name": "Cryptonome Borda, Kudenov, Bienhold & Rouse, 2012",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptonome parvecarunculata (Horst, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914023"
+    }
+,
+    {
+      "name": "Eurythoe heterotricha Potts, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914024"
+    }
+,
+    {
+      "name": "Eurythoe parvecarunculata Horst, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/762101"
+    }
+,
+    {
+      "name": "Eurythoe Kinberg, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Eurythoe complanata (Pallas, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379840"
+    }
+,
+    {
+      "name": "Amphinome jamaicensis Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566534"
+    }
+,
+    {
+      "name": "Amphinome macrotricha Schmarda, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566529"
+    }
+,
+    {
+      "name": "Aphrodita complanata Pallas, 1766",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566645"
+    }
+,
+    {
+      "name": "Blenda armata Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566536"
+    }
+,
+    {
+      "name": "Eurythoe albosetosa Kinberg, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566524"
+    }
+,
+    {
+      "name": "Eurythoe alcyonaria Gravier, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566631"
+    }
+,
+    {
+      "name": "Eurythoe assimilis McIntosh, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566632"
+    }
+,
+    {
+      "name": "Eurythoe capensis Kinberg, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566633"
+    }
+,
+    {
+      "name": "Eurythoe corallina Kinberg, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566634"
+    }
+,
+    {
+      "name": "Eurythoe ehlersi Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566635"
+    }
+,
+    {
+      "name": "Eurythoe havaica Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566636"
+    }
+,
+    {
+      "name": "Eurythoe indica Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577639"
+    }
+,
+    {
+      "name": "Eurythoe kamehameha Kinberg, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566637"
+    }
+,
+    {
+      "name": "Eurythoe laevisetis Fauvel, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566638"
+    }
+,
+    {
+      "name": "Eurythoe pacifica levukaensis McIntosh, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588337"
+    }
+,
+    {
+      "name": "Eurythoe pacifica Kinberg, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566639"
+    }
+,
+    {
+      "name": "Lycaretus neocephalicus Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566642"
+    }
+,
+    {
+      "name": "Pleione alcyonea Savigny in Lamarck, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566643"
+    }
+,
+    {
+      "name": "Hermodice Kinberg, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Hermodice carunculata (Pallas, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379841"
+    }
+,
+    {
+      "name": "Amphibranchus occidentalis Kinberg, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566525"
+    }
+,
+    {
+      "name": "Amphinome didymobranchiata Baird, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566526"
+    }
+,
+    {
+      "name": "Aphrodita carunculata Pallas, 1766",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547023"
+    }
+,
+    {
+      "name": "Hermodice nigrolineata Baird, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566640"
+    }
+,
+    {
+      "name": "Hermodice nigrolineata Baird, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577680"
+    }
+,
+    {
+      "name": "Millepeda marina amboinensis Seba in Audouin & Milne Edwards, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588338"
+    }
+,
+    {
+      "name": "Pleione carunculata (Pallas, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577710"
+    }
+,
+    {
+      "name": "Terebella carunculata (Pallas, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587648"
+    }
+,
+    {
+      "name": "Hipponoe Audouin & Milne Edwards, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Hipponoa Audouin & Milne Edwards, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Hipponoe gaudichaudi Audouin & Milne Edwards, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379842"
+    }
+,
+    {
+      "name": "Hipponoa gaudichaudi [Auct. genus misspelling]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669186"
+    }
+,
+    {
+      "name": "Hipponoe cranchii Baird, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/696341"
+    }
+,
+    {
+      "name": "Linopherus Quatrefages, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Linopherus acarunculatus (Monro, 1937)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669221"
+    }
+,
+    {
+      "name": "Pseudeurythoe acarunculata Monro, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669222"
+    }
+,
+    {
+      "name": "Pseudoeurythoe acarunculata Monro, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670642"
+    }
+,
+    {
+      "name": "Linopherus canariensis Langerhans, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379846"
+    }
+,
+    {
+      "name": "Linopherus fauchaldi San Martín, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776939"
+    }
+,
+    {
+      "name": "Linopherus microcephala (Fauvel, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/625482"
+    }
+,
+    {
+      "name": "Pseudeurythoe microcephala Fauvel, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679286"
+    }
+,
+    {
+      "name": "Linopherus paucibranchiata (Fauvel, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379845"
+    }
+,
+    {
+      "name": "Pseudeurythoe paucibranchiata Fauvel, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566644"
+    }
+,
+    {
+      "name": "Paramphinome M. Sars in G. Sars, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Paramphinome jeffreysii (McIntosh, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943831"
+    }
+,
+    {
+      "name": "Hipponoe jeffreysii McIntosh, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943833"
+    }
+,
+    {
+      "name": "Paramphinome pulchella M. Sars in G. Sars, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/943832"
+    }
+,
+    {
+      "name": "Pareurythoe Gustafson, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Pareurythoe borealis (M. Sars, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/379844"
+    }
+,
+    {
+      "name": "Eurythoe borealis M. Sars, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547837"
+    }
+,
+    {
+      "name": "Pareurythoe californica (Johnson, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987636"
+    }
+,
+    {
+      "name": "Eurythoe californica Johnson, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/987638"
+    }
+,
+    {
+      "name": "Pareurythoe chilensis (Kinberg, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701733"
+    }
+,
+    {
+      "name": "Eurythoe chilensis Kinberg, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701735"
+    }
+,
+    {
+      "name": "Pherecardia Horst, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Pherecardia striata (Kinberg, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670731"
+    }
+,
+    {
+      "name": "Eucarunculata grubei gracilis Potts, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698053"
+    }
+,
+    {
+      "name": "Eucarunculata grubei Malaquin & Dehorne, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698056"
+    }
+,
+    {
+      "name": "Hermodice distincta Hoagland, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698057"
+    }
+,
+    {
+      "name": "Hermodice pennata tutuilensis Treadwell, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698054"
+    }
+,
+    {
+      "name": "Hermodice pennata Treadwell, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698058"
+    }
+,
+    {
+      "name": "Hermodice striata Kinberg, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698055"
+    }
+
+  ]
+}

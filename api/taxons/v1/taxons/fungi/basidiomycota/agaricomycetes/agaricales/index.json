@@ -1,0 +1,672 @@
+
+{
+  "name": "agaricales",
+  "children": [
+
+    {
+      "name": "Agaricales Underw., 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Cortinariales Jülich, 1982",
+      "url": ""
+    }
+,
+    {
+      "name": "Melanogastrales Svrček, 1958",
+      "url": ""
+    }
+,
+    {
+      "name": "Tulostomatales Demoulin, 1968",
+      "url": ""
+    }
+,
+    {
+      "name": "agaricaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/agaricaceae/"
+    }
+,
+    {
+      "name": "bolbitiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/bolbitiaceae/"
+    }
+,
+    {
+      "name": "callistosporiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/callistosporiaceae/"
+    }
+,
+    {
+      "name": "cortinariaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/cortinariaceae/"
+    }
+,
+    {
+      "name": "crassisporiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/crassisporiaceae/"
+    }
+,
+    {
+      "name": "crepidotaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/crepidotaceae/"
+    }
+,
+    {
+      "name": "hymenogasteraceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/hymenogasteraceae/"
+    }
+,
+    {
+      "name": "Atractosporocybe P.Alvarado, G.Moreno & Vizzini, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Atractosporocybe inornata (Sowerby) P.Alvarado, G.Moreno & Vizzini, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973625"
+    }
+,
+    {
+      "name": "Agaricus inornatus Sowerby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509752"
+    }
+,
+    {
+      "name": "Agaricus sordarius Pers., 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509753"
+    }
+,
+    {
+      "name": "Clitocybe inornata subsp. occidentalis H.E.Bigelow, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509757"
+    }
+,
+    {
+      "name": "Clitocybe inornata var. ianthinophylla Heykoop",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/471705"
+    }
+,
+    {
+      "name": "Clitocybe inornata var. occidentalis (H.E.Bigelow) Bon, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469240"
+    }
+,
+    {
+      "name": "Clitocybe inornata (Sowerby) Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31784"
+    }
+,
+    {
+      "name": "Omphalia inornata (Sowerby) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509754"
+    }
+,
+    {
+      "name": "Paxillus inornatus (Sowerby) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509755"
+    }
+,
+    {
+      "name": "Paxillus sordarius (Pers.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509756"
+    }
+,
+    {
+      "name": "Cyclocybe Velen., 1939",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyclocybe cylindracea (DC.) Vizzini & Angelini, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993698"
+    }
+,
+    {
+      "name": "Agaricus aegerita V.Brig., 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508105"
+    }
+,
+    {
+      "name": "Agaricus attenuatus DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508106"
+    }
+,
+    {
+      "name": "Agaricus cylindraceus DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508107"
+    }
+,
+    {
+      "name": "Agaricus strobiloides V.Brig., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508108"
+    }
+,
+    {
+      "name": "Agrocybe aegerita (V.Brig.) Singer, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/36702"
+    }
+,
+    {
+      "name": "Agrocybe cylindracea (DC.) Maire, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/36701"
+    }
+,
+    {
+      "name": "Cyclocybe aegerita (V.Brig.) Vizzini, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976707"
+    }
+,
+    {
+      "name": "Dryophila aegerita var. strobiloides (Briganti) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508110"
+    }
+,
+    {
+      "name": "Dryophila aegerita (Briganti) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508109"
+    }
+,
+    {
+      "name": "Pholiota aegerita var. strobiloides (Briganti) Bigeard & Guillemin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508112"
+    }
+,
+    {
+      "name": "Pholiota aegerita (V.Brig.) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508111"
+    }
+,
+    {
+      "name": "Pholiota cylindracea var. attenuata (DC.) Gillet",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508113"
+    }
+,
+    {
+      "name": "Pholiota cylindracea (DC.) Gillet, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/36704"
+    }
+,
+    {
+      "name": "Togaria cylindracea (DC.) Romagn., 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508114"
+    }
+,
+    {
+      "name": "Cyclocybe erebia (Fr.) Vizzini & Matheny, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993699"
+    }
+,
+    {
+      "name": "Agaricus erebius Fr., 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508117"
+    }
+,
+    {
+      "name": "Agrocybe erebia (Fr.) Kühner ex Singer, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/36705"
+    }
+,
+    {
+      "name": "Dryophila ombrophila var. erebia (Fr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508118"
+    }
+,
+    {
+      "name": "Dryophila phragmatophylla (Guern.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508119"
+    }
+,
+    {
+      "name": "Hylophila ombrophila var. erebia (Fr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508120"
+    }
+,
+    {
+      "name": "Pholiota erebia (Fr.) Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/36706"
+    }
+,
+    {
+      "name": "Pholiota ombrophila var. erebia (Fr.) Bigeard & Guillemin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508121"
+    }
+,
+    {
+      "name": "Pholiota phragmatophylla De Guern., 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508122"
+    }
+,
+    {
+      "name": "Togaria erebia (Fr.) W.G.Sm., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/508123"
+    }
+,
+    {
+      "name": "Giacomia Vizzini & Contu, 2012",
+      "url": ""
+    }
+,
+    {
+      "name": "Giacomia mirabilis (Bres.) Vizzini & Contu, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995055"
+    }
+,
+    {
+      "name": "Leucopaxillus mirabilis (Bres.) Konrad & Maubl., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/32356"
+    }
+,
+    {
+      "name": "Melanoleuca mirabilis (Bres.) Singer, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514846"
+    }
+,
+    {
+      "name": "Tricholoma mirabile Bres., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/32357"
+    }
+,
+    {
+      "name": "Gloioxanthomyces Lodge, Vizzini, Ercole & Boertm., 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "Gloioxanthomyces nitidus (Berk. & M.A.Curtis) Lodge, Vizzini, Ercole & Boertm., 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017594"
+    }
+,
+    {
+      "name": "Hygrophorus nitidus Berk. & M.A.Curtis, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017595"
+    }
+,
+    {
+      "name": "Hygrophorocybe Vizzini & Contu, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Hygrophorocybe nivea (Velen.) Vizzini & Contu, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994394"
+    }
+,
+    {
+      "name": "Clitocybe hypotheja Bellù, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509784"
+    }
+,
+    {
+      "name": "Clitocybe nivea Velen., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31911"
+    }
+,
+    {
+      "name": "Lepistella T.J.Baroni & Ovrebo, 2007",
+      "url": ""
+    }
+,
+    {
+      "name": "Lepistella ocula T.J.Baroni & Ovrebo, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995528"
+    }
+,
+    {
+      "name": "Leucocybe Vizzini, P.Alvarado, G.Moreno & Consiglio, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Leucocybe candicans (Pers.) Vizzini, P.Alvarado, G.Moreno & Consiglio, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972007"
+    }
+,
+    {
+      "name": "Agaricus candicans Pers., 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509685"
+    }
+,
+    {
+      "name": "Agaricus tuba Fr., 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972011"
+    }
+,
+    {
+      "name": "Clitocybe alnetorum var. dryadicola (J.Favre) Raithelh., 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509688"
+    }
+,
+    {
+      "name": "Clitocybe candicans var. dryadicola Lamoure, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31726"
+    }
+,
+    {
+      "name": "Clitocybe candicans (Pers.) P.Kumm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/30878"
+    }
+,
+    {
+      "name": "Clitocybe dryadicola (J.Favre) Harmaja, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31725"
+    }
+,
+    {
+      "name": "Clitocybe rivulosa var. dryadicola J.Favre, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31727"
+    }
+,
+    {
+      "name": "Clitocybe tuba (Fr.) Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/972010"
+    }
+,
+    {
+      "name": "Omphalia candicans (Pers.) Gray, 1821",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509686"
+    }
+,
+    {
+      "name": "Omphalina candicans (Pers.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509687"
+    }
+,
+    {
+      "name": "Leucocybe connata (Schumach.) Vizzini, P.Alvarado, G.Moreno & Consiglio, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994181"
+    }
+,
+    {
+      "name": "Agaricus connatus Schumach., 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514993"
+    }
+,
+    {
+      "name": "Agaricus opacus With., 1796",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514997"
+    }
+,
+    {
+      "name": "Caesposus connatus var. opacus With.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514998"
+    }
+,
+    {
+      "name": "Clitocybe connata var. opaca (With.) Bigeard & Guillemin",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514999"
+    }
+,
+    {
+      "name": "Clitocybe connata (Schumach.) Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31818"
+    }
+,
+    {
+      "name": "Clitocybe opaca Gillet, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31995"
+    }
+,
+    {
+      "name": "Gyrophila connata (Schumach.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514994"
+    }
+,
+    {
+      "name": "Lyophyllum connatum var. opacum (With.) Bon & Bouteville",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/469925"
+    }
+,
+    {
+      "name": "Lyophyllum connatum (Schumach.) Singer, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31816"
+    }
+,
+    {
+      "name": "Omphalia rivulosa var. connata (Schumach.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514995"
+    }
+,
+    {
+      "name": "Omphalia rivulosa var. opaca (With.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/515000"
+    }
+,
+    {
+      "name": "Tricholoma connatum (Schumach.) Ricken, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514996"
+    }
+,
+    {
+      "name": "Leucocybe houghtonii (W.Phillips) Halama & Pencakowski, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994392"
+    }
+,
+    {
+      "name": "Cantharellus houghtonii W.Phillips, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31780"
+    }
+,
+    {
+      "name": "Clitocybe houghtonii (W.Phillips) Dennis, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31779"
+    }
+,
+    {
+      "name": "Hygrophorus houghtonii (W. Phillips) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/30199"
+    }
+,
+    {
+      "name": "Omphalia roseotincta A.Pearson, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31781"
+    }
+,
+    {
+      "name": "Melanomphalia M.P.Christ., 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Melanomphalia nigrescens M.P.Christ., 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/29873"
+    }
+,
+    {
+      "name": "Melanomphalia pellucida (A.H.Sm. & Singer) Singer, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906484"
+    }
+,
+    {
+      "name": "Naucoria pellucida Murrill, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906485"
+    }
+,
+    {
+      "name": "inocybaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/inocybaceae/"
+    }
+,
+    {
+      "name": "Notholepista Vizzini & Contu, 2012",
+      "url": ""
+    }
+,
+    {
+      "name": "Notholepista subzonalis (Peck) Vizzini & Contu, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995058"
+    }
+,
+    {
+      "name": "Agaricus subzonalis Peck, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514852"
+    }
+,
+    {
+      "name": "Clitocybe pulcherrima Peck, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/514853"
+    }
+,
+    {
+      "name": "Leucopaxillus pulcherrimus (Peck) Singer & A.H.Sm., 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/32373"
+    }
+,
+    {
+      "name": "Leucopaxillus subzonalis (Peck) H.E.Bigelow, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/32372"
+    }
+,
+    {
+      "name": "Paralepistopsis Vizzini, 2012",
+      "url": ""
+    }
+,
+    {
+      "name": "Paralepistopsis amoenolens (Malençon) Vizzini, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/994308"
+    }
+,
+    {
+      "name": "Clitocybe amoenolens Malençon, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/30862"
+    }
+,
+    {
+      "name": "Rhizocybe Vizzini, G.Moreno, P.Alvarado & Consiglio, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhizocybe pruinosa (P.Kumm.) Vizzini, P.Alvarado & G.Moreno, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1003497"
+    }
+,
+    {
+      "name": "Agaricus pruinosus Lasch, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509819"
+    }
+,
+    {
+      "name": "Clitocybe cyathiformis var. pruinosa (Lasch)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509820"
+    }
+,
+    {
+      "name": "Clitocybe pruinosa P.Kumm., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31952"
+    }
+,
+    {
+      "name": "Omphalia cyathiformis var. pruinosa (P.Kumm.) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509821"
+    }
+,
+    {
+      "name": "Pseudolyophyllum pruinosum (Lasch) Raithelh., 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509822"
+    }
+,
+    {
+      "name": "Rhizocybe vermicularis (Fr.) Vizzini, P.Alvarado, G.Moreno & Consiglio, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/975897"
+    }
+,
+    {
+      "name": "Agaricus vermicularis Fr., 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509852"
+    }
+,
+    {
+      "name": "Clitocybe vermicularis (Fr.) Quél., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31956"
+    }
+,
+    {
+      "name": "Omphalia vermicularis (Fr.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/509853"
+    }
+,
+    {
+      "name": "Trichocybe Vizzini, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichocybe puberula (Kuyper) Vizzini, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/926249"
+    }
+,
+    {
+      "name": "Clitocybe puberula Kuyper, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/31947"
+    }
+,
+    {
+      "name": "macrocystidiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/macrocystidiaceae/"
+    }
+,
+    {
+      "name": "niaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/niaceae/"
+    }
+,
+    {
+      "name": "omphalotaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/omphalotaceae/"
+    }
+,
+    {
+      "name": "phelloriniaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/phelloriniaceae/"
+    }
+,
+    {
+      "name": "porotheleaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/porotheleaceae/"
+    }
+,
+    {
+      "name": "psathyrellaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/psathyrellaceae/"
+    }
+,
+    {
+      "name": "pseudoclitocybaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/pseudoclitocybaceae/"
+    }
+,
+    {
+      "name": "rhodotaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/rhodotaceae/"
+    }
+,
+    {
+      "name": "secotiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/secotiaceae/"
+    }
+,
+    {
+      "name": "strophariaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/strophariaceae/"
+    }
+,
+    {
+      "name": "tricholomataceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/tricholomataceae/"
+    }
+,
+    {
+      "name": "tubariaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/tubariaceae/"
+    }
+,
+    {
+      "name": "tulostomataceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/basidiomycota/agaricomycetes/agaricales/tulostomataceae/"
+    }
+
+  ]
+}

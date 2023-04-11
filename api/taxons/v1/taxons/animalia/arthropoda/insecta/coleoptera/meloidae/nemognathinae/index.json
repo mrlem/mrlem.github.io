@@ -1,0 +1,37 @@
+
+{
+  "name": "nemognathinae",
+  "children": [
+
+    {
+      "name": "Nemognathinae Laporte de Castelnau, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Cissites Latreille, 1804",
+      "url": ""
+    }
+,
+    {
+      "name": "Cissites maculata (Swederus, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640054"
+    }
+,
+    {
+      "name": "Cucujus maculatus Swederus, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920046"
+    }
+,
+    {
+      "name": "Horia maculata (Swederus, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/640052"
+    }
+,
+    {
+      "name": "nemognathini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/meloidae/nemognathinae/nemognathini/"
+    }
+
+  ]
+}

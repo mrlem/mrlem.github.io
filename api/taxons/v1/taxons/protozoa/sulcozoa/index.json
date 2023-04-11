@@ -1,0 +1,22 @@
+
+{
+  "name": "sulcozoa",
+  "children": [
+
+    {
+      "name": "Sulcozoa Cavalier-Smith, 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "glissodiscea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/protozoa/sulcozoa/glissodiscea/"
+    }
+,
+    {
+      "name": "Varisulca Cavalier-Smith, 2013",
+      "url": ""
+    }
+
+  ]
+}

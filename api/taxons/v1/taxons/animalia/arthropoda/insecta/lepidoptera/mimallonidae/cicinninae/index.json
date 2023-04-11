@@ -1,0 +1,27 @@
+
+{
+  "name": "cicinninae",
+  "children": [
+
+    {
+      "name": "Cicinninae Schaus, 1912",
+      "url": ""
+    }
+,
+    {
+      "name": "bedosiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/cicinninae/bedosiini/"
+    }
+,
+    {
+      "name": "cicinnini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/cicinninae/cicinnini/"
+    }
+,
+    {
+      "name": "psychocampini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/cicinninae/psychocampini/"
+    }
+
+  ]
+}

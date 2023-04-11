@@ -1,0 +1,32 @@
+
+{
+  "name": "mycobacteriaceae",
+  "children": [
+
+    {
+      "name": "Mycobacteriaceae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycobacterium Aronson",
+      "url": ""
+    }
+,
+    {
+      "name": "Mycobacterium bovis Karlson & Lessel, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892542"
+    }
+,
+    {
+      "name": "Mycobacterium leprae Hansen, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892544"
+    }
+,
+    {
+      "name": "Mycobacterium tuberculosis Zopf, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/892541"
+    }
+
+  ]
+}

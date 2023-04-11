@@ -1,0 +1,712 @@
+
+{
+  "name": "oidaematophorini",
+  "children": [
+
+    {
+      "name": "Oidaematophorini Bigot, Gibeaux, Nel & Picard, 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "Adaina Tutt, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Adaina ambrosiae (Murtfeldt, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647421"
+    }
+,
+    {
+      "name": "Adaina bipunctata (Möschler, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647422"
+    }
+,
+    {
+      "name": "Pterophorus bipunctatus Möschler, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/986061"
+    }
+,
+    {
+      "name": "Adaina ipomoeae Bigot & Etienne, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647423"
+    }
+,
+    {
+      "name": "Adaina microdactyla (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247777"
+    }
+,
+    {
+      "name": "Adaina montivola Meyrick, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415667"
+    }
+,
+    {
+      "name": "Alucita microdactyla Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701689"
+    }
+,
+    {
+      "name": "Alucita montivola Meyrick, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701690"
+    }
+,
+    {
+      "name": "Emmelina Tutt, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Emmelina argoteles (Meyrick, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247776"
+    }
+,
+    {
+      "name": "Emmelina jesonica auct.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701734"
+    }
+,
+    {
+      "name": "Emmelina pseudojezonica Derra, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415666"
+    }
+,
+    {
+      "name": "Pterophorus argoteles Meyrick, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714857"
+    }
+,
+    {
+      "name": "Pterophorus jezonicus Matsumura, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415662"
+    }
+,
+    {
+      "name": "Pterophorus komabensis Matsumura, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415663"
+    }
+,
+    {
+      "name": "Pterophorus menoko Matsumura, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415664"
+    }
+,
+    {
+      "name": "Pterophorus yanagawanus Matsumura, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415665"
+    }
+,
+    {
+      "name": "Emmelina monodactyla (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247775"
+    }
+,
+    {
+      "name": "Phalaena bidactyla Hochenwarth, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415655"
+    }
+,
+    {
+      "name": "Phalaena didactyla (Geoffroy in Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701731"
+    }
+,
+    {
+      "name": "Phalaena monodactyla Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701730"
+    }
+,
+    {
+      "name": "Pterophorus barberi Dyar, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415660"
+    }
+,
+    {
+      "name": "Pterophorus canescens Heydenreich, 1851 [nom. nud.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701732"
+    }
+,
+    {
+      "name": "Pterophorus cineridactylus Fitch, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415656"
+    }
+,
+    {
+      "name": "Pterophorus didactyla Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952216"
+    }
+,
+    {
+      "name": "Pterophorus impersonalis Walker, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415658"
+    }
+,
+    {
+      "name": "Pterophorus monodactylus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826666"
+    }
+,
+    {
+      "name": "Pterophorus naevosidactylus Fitch, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415657"
+    }
+,
+    {
+      "name": "Pterophorus pergracilidactylus Packard, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415659"
+    }
+,
+    {
+      "name": "Pterophorus pictipennis Grinnell, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415661"
+    }
+,
+    {
+      "name": "Gypsochares Meyrick, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Gypsochares baptodactylus (Zeller, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247793"
+    }
+,
+    {
+      "name": "Pterophorus baptodactylus Zeller, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701686"
+    }
+,
+    {
+      "name": "Gypsochares bigoti Gibeaux & Nel, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247794"
+    }
+,
+    {
+      "name": "Hellinsia Tutt, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Euleioptilus Bigot & Picard, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Leioptilus Wallengren, 1862, non Gray, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "Lioptilus Zeller, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Ovendenia Tutt, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Hellinsia alpina (Gibeaux & Picard, 1993)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714851"
+    }
+,
+    {
+      "name": "Oidaematophorus alpinus Gibeaux & Picard, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415674"
+    }
+,
+    {
+      "name": "Hellinsia borbonicus (Gibeaux, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/784107"
+    }
+,
+    {
+      "name": "Leioptilus borbonicus Gibeaux, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458268"
+    }
+,
+    {
+      "name": "Oidaematophorus borbonicus (Gibeaux, 1991)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458333"
+    }
+,
+    {
+      "name": "Hellinsia buphthalmi (O. Hofmann, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714849"
+    }
+,
+    {
+      "name": "Leioptilus buphthalmi O. Hofmann, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415672"
+    }
+,
+    {
+      "name": "Leioptilus carphodactylus buphthalmi O. Hofmann, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714848"
+    }
+,
+    {
+      "name": "Hellinsia carphodactyla (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247781"
+    }
+,
+    {
+      "name": "Alucita carphodactyla Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714845"
+    }
+,
+    {
+      "name": "Leioptilus carphodactylus (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716896"
+    }
+,
+    {
+      "name": "Pterophorus carphodactylus (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908750"
+    }
+,
+    {
+      "name": "Hellinsia chrysocomae (Ragonot, 1875)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247787"
+    }
+,
+    {
+      "name": "Leioptilus chrysocomae Ragonot, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701728"
+    }
+,
+    {
+      "name": "Leioptilus gozmanyi Bigot, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701729"
+    }
+,
+    {
+      "name": "Oidaematophorus bowesi Whalley, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415684"
+    }
+,
+    {
+      "name": "Hellinsia cinerariae (Millière, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701725"
+    }
+,
+    {
+      "name": "Hellinsia osteodactylus sensu Gielis, 1996 partim non (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701727"
+    }
+,
+    {
+      "name": "Leioptilus cinerariae Millière, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415682"
+    }
+,
+    {
+      "name": "Leioptilus pectodactylus (sensu Bigot, 1963 non Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701726"
+    }
+,
+    {
+      "name": "Hellinsia coniodactyla (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714847"
+    }
+,
+    {
+      "name": "Oidaematophorus coniodactyla (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967171"
+    }
+,
+    {
+      "name": "Oidaematophorus coniodactylus (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967172"
+    }
+,
+    {
+      "name": "Pterophorus coniodactylus Staudinger, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415673"
+    }
+,
+    {
+      "name": "Hellinsia didactylites (Ström, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247779"
+    }
+,
+    {
+      "name": "Alucita icarodactyla Treitschke, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415669"
+    }
+,
+    {
+      "name": "Alucita scarodactyla Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415668"
+    }
+,
+    {
+      "name": "Euleioptilus didactylites (Ström, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521526"
+    }
+,
+    {
+      "name": "Leioptilus scarodactylus (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716900"
+    }
+,
+    {
+      "name": "Phalaena didactylites Ström, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701717"
+    }
+,
+    {
+      "name": "Pterophorus scarodactylus catharodactylus Caradja, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701718"
+    }
+,
+    {
+      "name": "Hellinsia distincta (Herrich-Schäffer, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701719"
+    }
+,
+    {
+      "name": "Hellinsia distinctus (Herrich-Schäffer, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247780"
+    }
+,
+    {
+      "name": "Leioptilus zermattensis Müller-Rutz, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415671"
+    }
+,
+    {
+      "name": "Lioptilus angustus Walsingham, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701721"
+    }
+,
+    {
+      "name": "Lioptilus stramineus Walsingham, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701722"
+    }
+,
+    {
+      "name": "Pterophorus distinctus Herrich-Schäffer, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701720"
+    }
+,
+    {
+      "name": "Pterophorus sibericus Caradja, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415670"
+    }
+,
+    {
+      "name": "Hellinsia inulae (Zeller, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247782"
+    }
+,
+    {
+      "name": "Pterophorus inulae Zeller, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714846"
+    }
+,
+    {
+      "name": "Hellinsia inulaevora (Gibeaux, 1989)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716897"
+    }
+,
+    {
+      "name": "Hellinsia inulaevorus (Gibeaux, 1989)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247783"
+    }
+,
+    {
+      "name": "Leioptilus inulaevorus Gibeaux, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714850"
+    }
+,
+    {
+      "name": "Hellinsia lienigiana (Zeller, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701713"
+    }
+,
+    {
+      "name": "Hellinsia lienigianus (Zeller, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247784"
+    }
+,
+    {
+      "name": "Leioptilus lienigianus (Zeller, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716898"
+    }
+,
+    {
+      "name": "Leioptilus sericeodactylus Pagenstecher, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415678"
+    }
+,
+    {
+      "name": "Leioptilus serindibanus Moore, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415677"
+    }
+,
+    {
+      "name": "Oidaematophorus linus Barnes & Lindsey, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701716"
+    }
+,
+    {
+      "name": "Ovendenia septodactyla Tutt, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415679"
+    }
+,
+    {
+      "name": "Pterophorus hirosakianus Matsumura, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415681"
+    }
+,
+    {
+      "name": "Pterophorus lienigianus Zeller, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701715"
+    }
+,
+    {
+      "name": "Pterophorus melinodactylus Herrich-Schäffer, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415675"
+    }
+,
+    {
+      "name": "Pterophorus scarodactylus Becker, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415676"
+    }
+,
+    {
+      "name": "Pterophorus victorianus Strand, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415680"
+    }
+,
+    {
+      "name": "Hellinsia madecasseus (Bigot, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967466"
+    }
+,
+    {
+      "name": "Hellinsia osteodactyla (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714852"
+    }
+,
+    {
+      "name": "Hellinsia osteodactylus (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247785"
+    }
+,
+    {
+      "name": "Leioptilus osteodactylus (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716899"
+    }
+,
+    {
+      "name": "Pterophorus osteodactylus Zeller, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714853"
+    }
+,
+    {
+      "name": "Hellinsia pectodactyla (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714854"
+    }
+,
+    {
+      "name": "Hellinsia pectodactylus (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247786"
+    }
+,
+    {
+      "name": "Leioptilus pectodactylus (Staudinger, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824693"
+    }
+,
+    {
+      "name": "Pterophorus melanoschisma Walsingham, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415683"
+    }
+,
+    {
+      "name": "Pterophorus pectodactylus Staudinger, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714855"
+    }
+,
+    {
+      "name": "Hellinsia tephradactyla (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247778"
+    }
+,
+    {
+      "name": "Alucita tephradactyla Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701705"
+    }
+,
+    {
+      "name": "Euleioptilus tephradactyla (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521525"
+    }
+,
+    {
+      "name": "Pterophorus inframaculella Bruand, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701711"
+    }
+,
+    {
+      "name": "Pterophorus tephradactylus (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980622"
+    }
+,
+    {
+      "name": "Oidaematophorus Wallengren, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Oedematophorus Zeller, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Oidaematophorus constanti (Ragonot, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247791"
+    }
+,
+    {
+      "name": "Oedematophorus constanti Ragonot, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701703"
+    }
+,
+    {
+      "name": "Oidaematophorus devriesi Landry & Gielis, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647427"
+    }
+,
+    {
+      "name": "Oidaematophorus giganteus (Mann, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247789"
+    }
+,
+    {
+      "name": "Pterophorus giganteus Mann, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701700"
+    }
+,
+    {
+      "name": "Oidaematophorus lithodactylus (Treitschke, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701697"
+    }
+,
+    {
+      "name": "Alucita lithodactyla Treitschke, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701698"
+    }
+,
+    {
+      "name": "Alucita septodactyla Treitschke, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415685"
+    }
+,
+    {
+      "name": "Oidaematophorus lithodactyla (Treitschke, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247788"
+    }
+,
+    {
+      "name": "Pterophorus lithodactylus (Treitschke, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980740"
+    }
+,
+    {
+      "name": "Pterophorus lithoxylodactylus Duponchel, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415688"
+    }
+,
+    {
+      "name": "Pterophorus phaeodactylus sensu Stephens, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415687"
+    }
+,
+    {
+      "name": "Pterophorus similidactylus Dale, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415686"
+    }
+,
+    {
+      "name": "Oidaematophorus rogenhoferi (Mann, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247790"
+    }
+,
+    {
+      "name": "Pterophorus rogenhoferi Mann, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701701"
+    }
+,
+    {
+      "name": "Pselnophorus Wallengren, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Crasimetis Meyrick, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "Pselnophorus heterodactylus (O.F. Müller, 1764)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701679"
+    }
+,
+    {
+      "name": "Alucita brachydactyla Kollar, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415691"
+    }
+,
+    {
+      "name": "Oxyptilus brachydactylus Mann, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701681"
+    }
+,
+    {
+      "name": "Phalaena heterodactyla O.F. Müller, 1764",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701680"
+    }
+,
+    {
+      "name": "Pselnophorus heterodactyla (O.F. Müller, 1764)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247795"
+    }
+,
+    {
+      "name": "Pterophorus aetodactylus Duponchel, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415692"
+    }
+,
+    {
+      "name": "Puerphorus Arenberger, 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "Puerphorus olbiadactylus (Millière, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247792"
+    }
+,
+    {
+      "name": "Gypsochares dactilographa Turati, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415690"
+    }
+,
+    {
+      "name": "Pselnophorus hemiargus Meyrick, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415689"
+    }
+,
+    {
+      "name": "Pterophorus olbiadactylus Millière, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701687"
+    }
+
+  ]
+}

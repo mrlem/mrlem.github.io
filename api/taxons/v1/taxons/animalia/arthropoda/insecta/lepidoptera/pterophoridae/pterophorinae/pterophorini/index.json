@@ -1,0 +1,642 @@
+
+{
+  "name": "pterophorini",
+  "children": [
+
+    {
+      "name": "Pterophorini Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Calyciphora Kasy, 1960",
+      "url": ""
+    }
+,
+    {
+      "name": "Calyciphora acarnella (Walsingham, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247807"
+    }
+,
+    {
+      "name": "Alucita acarnella Walsingham, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701635"
+    }
+,
+    {
+      "name": "Calyciphora adamas (Constant, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247806"
+    }
+,
+    {
+      "name": "Aciptilia adamas Constant, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701634"
+    }
+,
+    {
+      "name": "Calyciphora albodactyla (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701631"
+    }
+,
+    {
+      "name": "Aciptilia xanthodactyla var. sicula Fuchs, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415726"
+    }
+,
+    {
+      "name": "Calyciphora albodactylus (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247804"
+    }
+,
+    {
+      "name": "Calyciphora xanthodactyla auct. non Treitschke, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/343601"
+    }
+,
+    {
+      "name": "Calyciphora xerodactyla (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716901"
+    }
+,
+    {
+      "name": "Pterophorus albodactylus Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701632"
+    }
+,
+    {
+      "name": "Pterophorus xerodactylus Zeller, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415725"
+    }
+,
+    {
+      "name": "Calyciphora homoiodactyla (Kasy, 1960)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247808"
+    }
+,
+    {
+      "name": "Aciptilia homoiodactyla Kasy, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701636"
+    }
+,
+    {
+      "name": "Calyciphora nephelodactyla (Eversmann, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247805"
+    }
+,
+    {
+      "name": "Aciptilia apollina Millière, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415727"
+    }
+,
+    {
+      "name": "Alucita nephelodactyla Eversmann, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701633"
+    }
+,
+    {
+      "name": "Merrifieldia Tutt, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Merrifieldia baliodactyla (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701656"
+    }
+,
+    {
+      "name": "Aciptilia baliodactylus meridionalis Staudinger, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415710"
+    }
+,
+    {
+      "name": "Alucita baliodactyla (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980738"
+    }
+,
+    {
+      "name": "Merrifieldia baliodactylus (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247801"
+    }
+,
+    {
+      "name": "Pterophorus baliodactylus Zeller, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701657"
+    }
+,
+    {
+      "name": "Merrifieldia garrigae Bigot & Picard, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415722"
+    }
+,
+    {
+      "name": "Merrifieldia malacodactyla sensu Gielis, 1996, partim 2",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701665"
+    }
+,
+    {
+      "name": "Merrifieldia icterodactyla (Mann, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701642"
+    }
+,
+    {
+      "name": "Alucita icterodactyla phillipsi Huggins, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415702"
+    }
+,
+    {
+      "name": "Alucita icterodactyla (Mann, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981212"
+    }
+,
+    {
+      "name": "Alucita noctis Caradja, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415700"
+    }
+,
+    {
+      "name": "Merrifieldia tridactyla sensu Gielis, 1996, partim 1",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701643"
+    }
+,
+    {
+      "name": "Pterophorus icterodactylus Mann, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415699"
+    }
+,
+    {
+      "name": "Merrifieldia inopinata Bigot, Nel & Picard, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415724"
+    }
+,
+    {
+      "name": "Merrifieldia malacodactyla sensu Gielis, 1996, partim 4",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701668"
+    }
+,
+    {
+      "name": "Merrifieldia leucodactyla (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247800"
+    }
+,
+    {
+      "name": "Aciptilia wernickei Wocke, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415707"
+    }
+,
+    {
+      "name": "Alucita dryogramma Meyrick, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415709"
+    }
+,
+    {
+      "name": "Alucita fitzi Rebel, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415708"
+    }
+,
+    {
+      "name": "Alucita leucodactyla Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701648"
+    }
+,
+    {
+      "name": "Alucita leucodactyla Hübner, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415705"
+    }
+,
+    {
+      "name": "Alucita spicidactyla flavella Chrétien, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701652"
+    }
+,
+    {
+      "name": "Alucita theiodactyla Hübner, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415706"
+    }
+,
+    {
+      "name": "Phalaena tetradactyla auct. non Linnaeus, 1758 partim 1",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701650"
+    }
+,
+    {
+      "name": "Phalaena tridactyla auct. non Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701649"
+    }
+,
+    {
+      "name": "Merrifieldia malacodactyla (Zeller, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701658"
+    }
+,
+    {
+      "name": "Aciptilia livadiensis Zagulajev & Filippova, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415720"
+    }
+,
+    {
+      "name": "Aciptilia spicidactyla insularis Bigot, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415719"
+    }
+,
+    {
+      "name": "Alucita indocta Meyrick, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415712"
+    }
+,
+    {
+      "name": "Alucita parca Meyrick, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415714"
+    }
+,
+    {
+      "name": "Alucita phaeoschista Meyrick, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415716"
+    }
+,
+    {
+      "name": "Alucita rayatella Amsel, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415718"
+    }
+,
+    {
+      "name": "Alucita subcretosa Meyrick, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415715"
+    }
+,
+    {
+      "name": "Alucita subtilis Caradja, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415713"
+    }
+,
+    {
+      "name": "Merrifieldia malacodactylus (Zeller, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247802"
+    }
+,
+    {
+      "name": "Pterophorus malacodactylus transdanubiensis Fazekas, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415721"
+    }
+,
+    {
+      "name": "Pterophorus malacodactylus Zeller, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701659"
+    }
+,
+    {
+      "name": "Merrifieldia menthae (Chrétien, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701644"
+    }
+,
+    {
+      "name": "Alucita baliodactyla menthae Chrétien, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415701"
+    }
+,
+    {
+      "name": "Merrifieldia tridactyla sensu Gielis, 1996, partim 2",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701645"
+    }
+,
+    {
+      "name": "Merrifieldia meristodactyla (Zeller, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701663"
+    }
+,
+    {
+      "name": "Merrifieldia malacodactyla sensu Gielis, 1996, partim 1",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701664"
+    }
+,
+    {
+      "name": "Pterophorus meristodactylus Zeller, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415711"
+    }
+,
+    {
+      "name": "Merrifieldia moulignieri Nel, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415723"
+    }
+,
+    {
+      "name": "Merrifieldia malacodactyla sensu Gielis, 1996, partim 3",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701666"
+    }
+,
+    {
+      "name": "Merrifieldia neli Bigot & Picard, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415704"
+    }
+,
+    {
+      "name": "Merrifieldia tridactyla sensu Gielis, 1996, partim 3",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701646"
+    }
+,
+    {
+      "name": "Pterophorus icterodactylus auct. non Mann, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701647"
+    }
+,
+    {
+      "name": "Merrifieldia semiodactyla (Mann, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701640"
+    }
+,
+    {
+      "name": "Merrifieldia semiodactylus (Mann, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247803"
+    }
+,
+    {
+      "name": "Pterophorus semiodactylus Mann, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701641"
+    }
+,
+    {
+      "name": "Merrifieldia spicidactyla (Chrétien, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701654"
+    }
+,
+    {
+      "name": "Alucita spicidactyla Chrétien, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415717"
+    }
+,
+    {
+      "name": "Merrifieldia baliodactyla sensu Gielis, 1996, partim 1",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701655"
+    }
+,
+    {
+      "name": "Pterophorus spicidactylus (Chrétien, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716846"
+    }
+,
+    {
+      "name": "Merrifieldia tridactyla (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247799"
+    }
+,
+    {
+      "name": "Aciptilia exilidactyla Buszko, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415703"
+    }
+,
+    {
+      "name": "Phalaena tridactyla Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701637"
+    }
+,
+    {
+      "name": "Pterophorus fuscolimbatus Duponchel, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415698"
+    }
+,
+    {
+      "name": "Pterophorus niveidactylus Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701639"
+    }
+,
+    {
+      "name": "Pterophorus tridactylus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716847"
+    }
+,
+    {
+      "name": "Pterophorus xanthosactylus sensu Duponchel, 1840 non Treischke, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/928972"
+    }
+,
+    {
+      "name": "Porrittia Tutt, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Porrittia galactodactyla (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247810"
+    }
+,
+    {
+      "name": "Alucita galactodactyla Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701626"
+    }
+,
+    {
+      "name": "Pterophorus Geoffroy, 1762",
+      "url": ""
+    }
+,
+    {
+      "name": "Aciptilia Hübner, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Plumiger Valmont-Bomare, 1791",
+      "url": ""
+    }
+,
+    {
+      "name": "Pterophora Hübner, 1806",
+      "url": ""
+    }
+,
+    {
+      "name": "Pterophorus Schäffer, 1766",
+      "url": ""
+    }
+,
+    {
+      "name": "Pterophorus albidus Zeller, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458388"
+    }
+,
+    {
+      "name": "Pterophorus candidalis Walker, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922321"
+    }
+,
+    {
+      "name": "Pterophorus millierei Montrouzier, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922319"
+    }
+,
+    {
+      "name": "Pterophorus ischnodactylus (Treitschke, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701624"
+    }
+,
+    {
+      "name": "Aciptilia actinodactyla Chrétien, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415730"
+    }
+,
+    {
+      "name": "Aciptilia eburnella Amsel, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415731"
+    }
+,
+    {
+      "name": "Alucita ischnodactyla Treitschke, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701625"
+    }
+,
+    {
+      "name": "Pterophorus ischnodactyla (Treitschke, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247812"
+    }
+,
+    {
+      "name": "Pterophorus pentadactylus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701622"
+    }
+,
+    {
+      "name": "Aciptilia pentadactyla (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826677"
+    }
+,
+    {
+      "name": "Phalaena pentadactyla Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701623"
+    }
+,
+    {
+      "name": "Phalaena tridactyla Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415729"
+    }
+,
+    {
+      "name": "Pterophorus pentadactyla (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247811"
+    }
+,
+    {
+      "name": "Tabulaephorus Arenberger, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Tabulaephorus punctinervis (Constant, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247809"
+    }
+,
+    {
+      "name": "Aciptilia punctinervis Constant, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701627"
+    }
+,
+    {
+      "name": "Pterophorus punctinervis (Constant, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/824698"
+    }
+,
+    {
+      "name": "Tabulaephorus tyrrhenicus (Amsel, 1954)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701628"
+    }
+,
+    {
+      "name": "Alucita tyrrhenica Amsel, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415728"
+    }
+,
+    {
+      "name": "Tabulaephorus punctinervis sensu Gielis, 1996, partim 1",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701629"
+    }
+,
+    {
+      "name": "Tabulaephorus tyrrhenica (Amsel, 1954)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701630"
+    }
+,
+    {
+      "name": "Wheeleria Tutt, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Wheeleria obsoleta (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701673"
+    }
+,
+    {
+      "name": "Aciptilus desertorum Zeller, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415694"
+    }
+,
+    {
+      "name": "Alucita gonoscia Meyrick, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415695"
+    }
+,
+    {
+      "name": "Alucita marrubii Wasserthal, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415697"
+    }
+,
+    {
+      "name": "Alucita phlomidactyla Wasserthal, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415696"
+    }
+,
+    {
+      "name": "Pterophorus obsoletus Zeller, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701674"
+    }
+,
+    {
+      "name": "Wheeleria obsoletus (Zeller, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247797"
+    }
+,
+    {
+      "name": "Wheeleria raphiodactyla (Rebel, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247798"
+    }
+,
+    {
+      "name": "Aciptilia raphiodactyla Rebel, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701676"
+    }
+,
+    {
+      "name": "Wheeleria spilodactyla (Curtis, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701669"
+    }
+,
+    {
+      "name": "Aciptilia spilodactyla (Curtis, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826675"
+    }
+,
+    {
+      "name": "Aciptilus confusus Herrich-Schäffer, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/415693"
+    }
+,
+    {
+      "name": "Merrifieldia spilodactyla (Curtis, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701670"
+    }
+,
+    {
+      "name": "Merrifieldia spilodactylus (Curtis, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701671"
+    }
+,
+    {
+      "name": "Pterophorus spilodactylus Curtis, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/701672"
+    }
+,
+    {
+      "name": "Wheeleria spilodactylus (Curtis, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/247796"
+    }
+
+  ]
+}

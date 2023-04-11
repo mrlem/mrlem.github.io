@@ -1,0 +1,372 @@
+
+{
+  "name": "benthesicymidae",
+  "children": [
+
+    {
+      "name": "Benthesicymidae Wood-Mason in Wood-Mason & Alcock, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Altelatipes Crosnier & Vereshchaka, 2008",
+      "url": ""
+    }
+,
+    {
+      "name": "Altelatipes carinatus (Smith, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594018"
+    }
+,
+    {
+      "name": "Benthesicymus carinatus Smith, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/596924"
+    }
+,
+    {
+      "name": "Benthesicymus expansus Kensley, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/695768"
+    }
+,
+    {
+      "name": "Bathicaris Vereshchaka & Kulagin, 2020",
+      "url": ""
+    }
+,
+    {
+      "name": "Bathicaris brasiliensis (Spence Bate, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976607"
+    }
+,
+    {
+      "name": "Benthesicymus brasiliensis Spence Bate, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/373575"
+    }
+,
+    {
+      "name": "Benthesicymus moratus Smith, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684369"
+    }
+,
+    {
+      "name": "Bathicaris iridescens (Spence Bate, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976608"
+    }
+,
+    {
+      "name": "Benthesicymus iridescens Spence Bate, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/373577"
+    }
+,
+    {
+      "name": "Benthesicymus longipes Bouvier, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/373579"
+    }
+,
+    {
+      "name": "Benthesicymus mollis Spence Bate, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684371"
+    }
+,
+    {
+      "name": "Bathicaris seymouri (Tirmizi, 1960)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976609"
+    }
+,
+    {
+      "name": "Benthesicymus seymouri Tirmizi, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594478"
+    }
+,
+    {
+      "name": "Bathicaris strabus (Burkenroad, 1936)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976610"
+    }
+,
+    {
+      "name": "Benthesicymus strabus Burkenroad, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594660"
+    }
+,
+    {
+      "name": "Bathicaris urinator (Burkenroad, 1936)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976612"
+    }
+,
+    {
+      "name": "Benthesicymus urinator Burkenroad, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594476"
+    }
+,
+    {
+      "name": "Bentheogennema Burkenroad, 1936",
+      "url": ""
+    }
+,
+    {
+      "name": "Bentheogennema intermedia (Spence Bate, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/350643"
+    }
+,
+    {
+      "name": "Gennadas alicei Bouvier, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679895"
+    }
+,
+    {
+      "name": "Gennadas intermedius Bate, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/586248"
+    }
+,
+    {
+      "name": "Bentheogennema stephenseni Burkenroad, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967349"
+    }
+,
+    {
+      "name": "Benthesicymus Spence Bate, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Benthesicymus crenatus Spence Bate, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594659"
+    }
+,
+    {
+      "name": "Benthesicymus howensis Dall, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/595423"
+    }
+,
+    {
+      "name": "Benthesicymus urinator howensis Dall, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691860"
+    }
+,
+    {
+      "name": "Benthesicymus laciniatus Rathbun, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/373578"
+    }
+,
+    {
+      "name": "Benthesicymus hjorti Sund, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684372"
+    }
+,
+    {
+      "name": "Gennadas pectinatus Schmitt, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/586234"
+    }
+,
+    {
+      "name": "Benthonectes Smith, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Benthonectes filipes Smith, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/373580"
+    }
+,
+    {
+      "name": "Hapalopoda investigator Filhol, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684373"
+    }
+,
+    {
+      "name": "Dalicaris Vereshchaka & Lunina, 2020",
+      "url": ""
+    }
+,
+    {
+      "name": "Dalicaris altus (Spence Bate, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976617"
+    }
+,
+    {
+      "name": "Benthesicymus altus Spence Bate, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594479"
+    }
+,
+    {
+      "name": "Gennadas Spence Bate, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Gennadas bouvieri Kemp, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594494"
+    }
+,
+    {
+      "name": "Gennadas alcocki Kemp, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691422"
+    }
+,
+    {
+      "name": "Gennadas brevirostris Bouvier, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/350644"
+    }
+,
+    {
+      "name": "Gennadas chiasmifera Stephensen, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679897"
+    }
+,
+    {
+      "name": "Gennadas similis Stephensen, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679896"
+    }
+,
+    {
+      "name": "Gennadas capensis Calman, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/365250"
+    }
+,
+    {
+      "name": "Gennadas crassus Tirmizi, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594661"
+    }
+,
+    {
+      "name": "Gennadas elegans (Smith, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/350645"
+    }
+,
+    {
+      "name": "Amalopenaeus elegans Smith, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679898"
+    }
+,
+    {
+      "name": "Gennadas gilchristi Calman, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594504"
+    }
+,
+    {
+      "name": "Gennadas incertus (Balss, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594516"
+    }
+,
+    {
+      "name": "Amalopenaeus gardineri Balss, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691604"
+    }
+,
+    {
+      "name": "Amalopenaeus incertus Balss, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691603"
+    }
+,
+    {
+      "name": "Gennadas kempi Stebbing, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950859"
+    }
+,
+    {
+      "name": "Gennadas pasithea de Man, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992441"
+    }
+,
+    {
+      "name": "Bentheogennema pasithea (de Man, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/992444"
+    }
+,
+    {
+      "name": "Gennadas propinquus Rathbun, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594662"
+    }
+,
+    {
+      "name": "Gennadas clavicarpus de Man, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594503"
+    }
+,
+    {
+      "name": "Gennadas scutatus indicus Kemp, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/690454"
+    }
+,
+    {
+      "name": "Gennadas scutatus Bouvier, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/350646"
+    }
+,
+    {
+      "name": "Gennadas tinayrei Bouvier, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/350647"
+    }
+,
+    {
+      "name": "Gennadas tinayrel Bouvier, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679899"
+    }
+,
+    {
+      "name": "Gennadas valens (Smith, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/350648"
+    }
+,
+    {
+      "name": "Amalopenaeus valens Smith, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679901"
+    }
+,
+    {
+      "name": "Gennadas bidentata Stephensen, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679902"
+    }
+,
+    {
+      "name": "Pasiphodes purpureus Filhol, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/679900"
+    }
+,
+    {
+      "name": "Maorrancaris Vereshchaka & Lunina, 2020",
+      "url": ""
+    }
+,
+    {
+      "name": "Maorrancaris investigatoris Alcock & Anderson, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976636"
+    }
+,
+    {
+      "name": "Benthesicymus investigatoris Alcock & Anderson, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594477"
+    }
+,
+    {
+      "name": "Trichocaris Vereshchaka & Kulagin, 2020",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichocaris bartletti (Smith, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976622"
+    }
+,
+    {
+      "name": "Benthesicymus bartletti Smith, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/373576"
+    }
+,
+    {
+      "name": "Benthesicymus pleocanthus Spence Bate, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/684370"
+    }
+,
+    {
+      "name": "Trichocaris tirmiziae (Crosnier, 1978)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976632"
+    }
+,
+    {
+      "name": "Benthesicymus tirmiziae Crosnier, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/594475"
+    }
+
+  ]
+}

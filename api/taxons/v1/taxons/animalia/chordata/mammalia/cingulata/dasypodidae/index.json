@@ -1,0 +1,37 @@
+
+{
+  "name": "dasypodidae",
+  "children": [
+
+    {
+      "name": "Dasypodidae Gray, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasypus Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasypus kappleri Krauss, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/443802"
+    }
+,
+    {
+      "name": "Dasypus kappleri kappleri Krauss, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899331"
+    }
+,
+    {
+      "name": "Dasypus novemcinctus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/443803"
+    }
+,
+    {
+      "name": "Dasypus novemcinctus novemcinctus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/899330"
+    }
+
+  ]
+}

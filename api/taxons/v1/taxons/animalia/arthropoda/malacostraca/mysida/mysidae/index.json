@@ -1,0 +1,52 @@
+
+{
+  "name": "mysidae",
+  "children": [
+
+    {
+      "name": "Mysidae Haworth, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "boreomysinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/boreomysinae/"
+    }
+,
+    {
+      "name": "erythropinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/erythropinae/"
+    }
+,
+    {
+      "name": "gastrosaccinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/gastrosaccinae/"
+    }
+,
+    {
+      "name": "heteromysinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/heteromysinae/"
+    }
+,
+    {
+      "name": "leptomysinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/leptomysinae/"
+    }
+,
+    {
+      "name": "mysidellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/mysidellinae/"
+    }
+,
+    {
+      "name": "mysinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/mysinae/"
+    }
+,
+    {
+      "name": "siriellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/mysida/mysidae/siriellinae/"
+    }
+
+  ]
+}

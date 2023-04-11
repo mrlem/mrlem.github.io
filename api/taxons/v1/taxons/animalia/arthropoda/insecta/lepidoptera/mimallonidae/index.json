@@ -1,0 +1,52 @@
+
+{
+  "name": "mimallonidae",
+  "children": [
+
+    {
+      "name": "Mimallonidae Burmeister, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "aurorianinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/aurorianinae/"
+    }
+,
+    {
+      "name": "cicinninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/cicinninae/"
+    }
+,
+    {
+      "name": "druenticinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/druenticinae/"
+    }
+,
+    {
+      "name": "lacosominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/lacosominae/"
+    }
+,
+    {
+      "name": "meneviinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/meneviinae/"
+    }
+,
+    {
+      "name": "mimalloninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/mimalloninae/"
+    }
+,
+    {
+      "name": "roelofinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/roelofinae/"
+    }
+,
+    {
+      "name": "zaphantinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/mimallonidae/zaphantinae/"
+    }
+
+  ]
+}

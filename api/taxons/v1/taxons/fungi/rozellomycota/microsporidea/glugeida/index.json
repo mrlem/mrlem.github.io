@@ -1,0 +1,42 @@
+
+{
+  "name": "glugeida",
+  "children": [
+
+    {
+      "name": "Glugeida Issi, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "glugeidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/glugeida/glugeidae/"
+    }
+,
+    {
+      "name": "pleistophoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/glugeida/pleistophoridae/"
+    }
+,
+    {
+      "name": "spragueidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/glugeida/spragueidae/"
+    }
+,
+    {
+      "name": "thelohaniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/glugeida/thelohaniidae/"
+    }
+,
+    {
+      "name": "tuzetiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/glugeida/tuzetiidae/"
+    }
+,
+    {
+      "name": "unikaryonidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/rozellomycota/microsporidea/glugeida/unikaryonidae/"
+    }
+
+  ]
+}

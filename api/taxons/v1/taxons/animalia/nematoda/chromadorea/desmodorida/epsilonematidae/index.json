@@ -1,0 +1,57 @@
+
+{
+  "name": "epsilonematidae",
+  "children": [
+
+    {
+      "name": "Epsilonematidae Steiner, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "epsilonematinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/desmodorida/epsilonematidae/epsilonematinae/"
+    }
+,
+    {
+      "name": "glochinematinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/desmodorida/epsilonematidae/glochinematinae/"
+    }
+,
+    {
+      "name": "Leptepsilonema Clasing, 1983",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptepsilonema antonioi Decraemer & Gourbault, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/443470"
+    }
+,
+    {
+      "name": "Leptepsilonema dauvini Decraemer & Gourbault, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/443471"
+    }
+,
+    {
+      "name": "Leptepsilonema filiforme Clasing, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/986879"
+    }
+,
+    {
+      "name": "Leptepsilonema parafiliforme Gourbault & Decraemer, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980465"
+    }
+,
+    {
+      "name": "Leptepsilonema procerum Clasing, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980467"
+    }
+,
+    {
+      "name": "keratonematinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/nematoda/chromadorea/desmodorida/epsilonematidae/keratonematinae/"
+    }
+
+  ]
+}

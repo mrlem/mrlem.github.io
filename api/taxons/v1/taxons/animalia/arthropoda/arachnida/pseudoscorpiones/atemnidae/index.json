@@ -1,0 +1,42 @@
+
+{
+  "name": "atemnidae",
+  "children": [
+
+    {
+      "name": "Atemnidae Kishida, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "atemninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/pseudoscorpiones/atemnidae/atemninae/"
+    }
+,
+    {
+      "name": "Atemnus Canestrini, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Atemnus politus (E. Simon, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/220189"
+    }
+,
+    {
+      "name": "Chelifer politus E. Simon, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011100"
+    }
+,
+    {
+      "name": "Oratemnus ",
+      "url": ""
+    }
+,
+    {
+      "name": "Oratemnus samoanus Beier, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778634"
+    }
+
+  ]
+}

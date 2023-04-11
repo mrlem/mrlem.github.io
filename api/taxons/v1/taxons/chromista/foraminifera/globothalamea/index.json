@@ -1,0 +1,47 @@
+
+{
+  "name": "globothalamea",
+  "children": [
+
+    {
+      "name": "Globothalamea Pawlowski, Holzmann & Tyszka, 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "carterinida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/carterinida/"
+    }
+,
+    {
+      "name": "lituolida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/lituolida/"
+    }
+,
+    {
+      "name": "loftusiida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/loftusiida/"
+    }
+,
+    {
+      "name": "robertinida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/robertinida/"
+    }
+,
+    {
+      "name": "rotaliida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/rotaliida/"
+    }
+,
+    {
+      "name": "Textulariia Mikhalevich, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "textulariida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/globothalamea/textulariida/"
+    }
+
+  ]
+}

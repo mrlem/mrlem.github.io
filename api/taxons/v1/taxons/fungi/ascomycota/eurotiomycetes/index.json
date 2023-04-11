@@ -1,0 +1,797 @@
+
+{
+  "name": "eurotiomycetes",
+  "children": [
+
+    {
+      "name": "Eurotiomycetes O.E.Erikss. & Winka, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "chaetothyriales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/chaetothyriales/"
+    }
+,
+    {
+      "name": "Chaetothyriomycetidae Doweld, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "coryneliales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/coryneliales/"
+    }
+,
+    {
+      "name": "eurotiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/eurotiales/"
+    }
+,
+    {
+      "name": "Eurotiomycetidae Geiser & Lutzoni, 2007",
+      "url": ""
+    }
+,
+    {
+      "name": "Amorphotheca Parbery, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Amorphotheca resinae Parbery, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/865463"
+    }
+,
+    {
+      "name": "Hormoconis resinae (Lindau) Arx & G.A.de Vries, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871733"
+    }
+,
+    {
+      "name": "mycocaliciales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/mycocaliciales/"
+    }
+,
+    {
+      "name": "Mycocaliciomycetidae Tibell, 2007",
+      "url": ""
+    }
+,
+    {
+      "name": "onygenales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/onygenales/"
+    }
+,
+    {
+      "name": "pyrenulales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/pyrenulales/"
+    }
+,
+    {
+      "name": "sclerococcales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/sclerococcales/"
+    }
+,
+    {
+      "name": "Sclerococcomycetidae Réblová, Unter. & W.Gams, 2016",
+      "url": ""
+    }
+,
+    {
+      "name": "Strigulaceae Zahlbr., 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Geisleria Nitschke, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Geisleria xylophila Vězda, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659812"
+    }
+,
+    {
+      "name": "Oletheriostrigula Huhndorf & R.C.Harris, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Oletheriostrigula papulosa (Durieu & Mont.) Huhndorf & R.C.Harris, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866589"
+    }
+,
+    {
+      "name": "Leptosphaeria californica (Cooke & Harkn.) Berl. & Voglino, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879805"
+    }
+,
+    {
+      "name": "Leptosphaeria jubaeae Speg., 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879785"
+    }
+,
+    {
+      "name": "Leptosphaeria pinnarum Pass., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879786"
+    }
+,
+    {
+      "name": "Leptosphaeria spatharum Ces., 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879796"
+    }
+,
+    {
+      "name": "Massaria marcucciana Auersw. & Rabenh., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879790"
+    }
+,
+    {
+      "name": "Massarina chrysopogonis G.F.Atk., 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879788"
+    }
+,
+    {
+      "name": "Massarina eucalypti L.A.Kantsch., 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879789"
+    }
+,
+    {
+      "name": "Massarina marcucciana (Auersw. & Rabenh.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879791"
+    }
+,
+    {
+      "name": "Massarina papulosa (Durieu & Mont.) S.K.Bose, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879799"
+    }
+,
+    {
+      "name": "Metasphaeria algeriensis Sacc. & Berl., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879793"
+    }
+,
+    {
+      "name": "Metasphaeria anisometra (Cooke & Harkn.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883488"
+    }
+,
+    {
+      "name": "Metasphaeria calamina (Durieu & Mont.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879803"
+    }
+,
+    {
+      "name": "Metasphaeria epipteridis (Cooke & Harkn.) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879808"
+    }
+,
+    {
+      "name": "Metasphaeria ferulae Bacc. & P.Avetta, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879806"
+    }
+,
+    {
+      "name": "Metasphaeria janiculi Pass., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879794"
+    }
+,
+    {
+      "name": "Metasphaeria papulosa f. marcucciana (Auersw. & Rabenh.) Berl.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879792"
+    }
+,
+    {
+      "name": "Metasphaeria papulosa subsp. viridarii Sacc., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879795"
+    }
+,
+    {
+      "name": "Metasphaeria papulosa (Durieu & Mont.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879800"
+    }
+,
+    {
+      "name": "Metasphaeria peruviana (Cooke) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879810"
+    }
+,
+    {
+      "name": "Metasphaeria pinnarum (Pass.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879787"
+    }
+,
+    {
+      "name": "Metasphaeria spatharum (Ces.) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879797"
+    }
+,
+    {
+      "name": "Metasphaeria wheelei Linder",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879798"
+    }
+,
+    {
+      "name": "Sphaeria anisometra Cooke & Harkn., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879802"
+    }
+,
+    {
+      "name": "Sphaeria calamina Durieu & Mont., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879804"
+    }
+,
+    {
+      "name": "Sphaeria californica Cooke & Harkn., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879807"
+    }
+,
+    {
+      "name": "Sphaeria epipteridis Cooke & Harkn., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879809"
+    }
+,
+    {
+      "name": "Sphaeria papulosa Durieu & Mont., 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879801"
+    }
+,
+    {
+      "name": "Sphaeria peruviana Cooke, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879811"
+    }
+,
+    {
+      "name": "Zignoella senegalensis Speg., 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879812"
+    }
+,
+    {
+      "name": "Strigula Fr., 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Amoebomyces Bat. & H.Maia, 1965",
+      "url": ""
+    }
+,
+    {
+      "name": "Geissleria Nitschke",
+      "url": ""
+    }
+,
+    {
+      "name": "Phylloporis Clem., 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Raciborskiella Höhn., 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Strigula affinis (A.Massal.) R.C.Harris, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55480"
+    }
+,
+    {
+      "name": "Arthopyrenia affinis (A.Massal.) R.C.Harris, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665448"
+    }
+,
+    {
+      "name": "Porina affinis (A.Massal.) Zahlbr., 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55481"
+    }
+,
+    {
+      "name": "Sagedia affinis A.Massal., 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666430"
+    }
+,
+    {
+      "name": "Strigula angustata Cl.Roux & Sérus., 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658761"
+    }
+,
+    {
+      "name": "Strigula antillarum (Fée) Müll.Arg., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807941"
+    }
+,
+    {
+      "name": "Melanophthalmum antillarum Fée, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841878"
+    }
+,
+    {
+      "name": "Strigula elegans var. antillarum (Fée) R.Sant., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847068"
+    }
+,
+    {
+      "name": "Strigula brevis Bricaud & Cl.Roux, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658760"
+    }
+,
+    {
+      "name": "Strigula buxi Chodat, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658759"
+    }
+,
+    {
+      "name": "Strigula elegans (Fée) Müll.Arg., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55484"
+    }
+,
+    {
+      "name": "Strigula smaragdula auct. non Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661523"
+    }
+,
+    {
+      "name": "Strigula calcarea Bricaud & Cl.Roux, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658758"
+    }
+,
+    {
+      "name": "Strigula cavicola Cl.Roux & Bricaud, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658757"
+    }
+,
+    {
+      "name": "Strigula concreta (Fée) R.Sant., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807945"
+    }
+,
+    {
+      "name": "Craspedon concretum Fée, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841880"
+    }
+,
+    {
+      "name": "Strigula endolithea Cl.Roux & Bricaud, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658756"
+    }
+,
+    {
+      "name": "Strigula glabra (A.Massal.) V.Wirth, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658755"
+    }
+,
+    {
+      "name": "Porina glabra (A.Massal.) Zahlbr., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55430"
+    }
+,
+    {
+      "name": "Porina lactea (Körb.) Mig.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662012"
+    }
+,
+    {
+      "name": "Pyrenula nectrospora Nägeli",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661892"
+    }
+,
+    {
+      "name": "Sagedia candida Anzi, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666433"
+    }
+,
+    {
+      "name": "Sagedia garovaglioi A.Massal.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666443"
+    }
+,
+    {
+      "name": "Sagedia glabra A.Massal., 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666445"
+    }
+,
+    {
+      "name": "Sagedia phillyreae Jatta, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666413"
+    }
+,
+    {
+      "name": "Strigula jamesii (Swinscow) R.C.Harris, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658754"
+    }
+,
+    {
+      "name": "Geisleria jamesii Swinscow, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666117"
+    }
+,
+    {
+      "name": "Strigula janeirensis (Müll.Arg.) Lücking, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807947"
+    }
+,
+    {
+      "name": "Phylloporina janeirensis Müll.Arg., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841882"
+    }
+,
+    {
+      "name": "Strigula macrocarpa Vain., 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807950"
+    }
+,
+    {
+      "name": "Strigula maculata (Cooke & Massee) R.Sant., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807952"
+    }
+,
+    {
+      "name": "Micropeltis maculata Cooke & Massee, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907921"
+    }
+,
+    {
+      "name": "Strigula melanobapha (Kremp.) R.Sant., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807954"
+    }
+,
+    {
+      "name": "Verrucaria melanobapha Kremp., 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907922"
+    }
+,
+    {
+      "name": "Strigula minor (Vězda) Cl.Roux & Sérus., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658753"
+    }
+,
+    {
+      "name": "Raciborskiella minor Vězda, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666394"
+    }
+,
+    {
+      "name": "Strigula minuta Lücking, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841883"
+    }
+,
+    {
+      "name": "Strigula multipunctata (G.Merr. ex R.Sant.) R.C.Harris, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807961"
+    }
+,
+    {
+      "name": "Porina multipunctata G.Merr. ex R.Sant., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907923"
+    }
+,
+    {
+      "name": "Strigula nemathora Mont., 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791350"
+    }
+,
+    {
+      "name": "Strigula nemathora var. nemathora Mont., 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791353"
+    }
+,
+    {
+      "name": "Strigula nemathora var. hypothelia (Nyl.) R.Sant., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791354"
+    }
+,
+    {
+      "name": "Strigula hypothelia Nyl., 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983620"
+    }
+,
+    {
+      "name": "Strigula nigrocarpa Lücking, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807967"
+    }
+,
+    {
+      "name": "Strigula nitidula Mont., 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55486"
+    }
+,
+    {
+      "name": "Strigula obducta (Müll.Arg.) R.C.Harris, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807972"
+    }
+,
+    {
+      "name": "Phylloporina obducta Müll.Arg., 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841887"
+    }
+,
+    {
+      "name": "Strigula orbicularis Fr., 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791355"
+    }
+,
+    {
+      "name": "Strigula phaea (Ach.) R.C.Harris, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658752"
+    }
+,
+    {
+      "name": "Acrocordia virella Merr. [nom. nud.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665573"
+    }
+,
+    {
+      "name": "Arthopyrenia virella (Merr.) Zahlbr. [nom. nud.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665471"
+    }
+,
+    {
+      "name": "Porina cineriseda Müll.Arg., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662026"
+    }
+,
+    {
+      "name": "Pyrenula virella Merr. [nom. nud.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661904"
+    }
+,
+    {
+      "name": "Verrucaria cineriseda Nyl., 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661131"
+    }
+,
+    {
+      "name": "Verrucaria phaea Ach., 1814",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661160"
+    }
+,
+    {
+      "name": "Strigula phyllogena (Müll.Arg.) R.C.Harris, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807973"
+    }
+,
+    {
+      "name": "Porina phyllogena Müll.Arg., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/840868"
+    }
+,
+    {
+      "name": "Strigula platypoda (Müll.Arg.) R.C.Harris, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807975"
+    }
+,
+    {
+      "name": "Porina platypoda Müll.Arg., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/841890"
+    }
+,
+    {
+      "name": "Strigula porinoides Canals, Boqueras & Gómez-Bolea, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658751"
+    }
+,
+    {
+      "name": "Strigula prasina Müll.Arg., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807976"
+    }
+,
+    {
+      "name": "Strigula schizospora R.Sant., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807977"
+    }
+,
+    {
+      "name": "Strigula smaragdula Fr., 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791357"
+    }
+,
+    {
+      "name": "Strigula stigmatella (Ach.) R.C.Harris, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55482"
+    }
+,
+    {
+      "name": "Arthopyrenia faginea var. alpestris (Vězda) Swinscow, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/667345"
+    }
+,
+    {
+      "name": "Arthopyrenia faginea (Schaer.) Swinscow, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665446"
+    }
+,
+    {
+      "name": "Arthopyrenia stigmatella (Ach.) A.Massal., 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665453"
+    }
+,
+    {
+      "name": "Arthopyrenia thuretii (Hepp) H.Olivier, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665440"
+    }
+,
+    {
+      "name": "Gongylia muscorum Zschacke, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666127"
+    }
+,
+    {
+      "name": "Lichen stigmatellus Ach., 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55487"
+    }
+,
+    {
+      "name": "Porina cinerea (Pers.) Zahlbr., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662030"
+    }
+,
+    {
+      "name": "Porina faginea var. alpestris Vězda, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/668502"
+    }
+,
+    {
+      "name": "Porina faginea (Schaer.) Arnold, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662033"
+    }
+,
+    {
+      "name": "Porina tenebricosa A.Massal., 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662023"
+    }
+,
+    {
+      "name": "Porina thuretii (Hepp) Lettau, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55427"
+    }
+,
+    {
+      "name": "Sagedia illinita (Nyl.) Hav.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666447"
+    }
+,
+    {
+      "name": "Sagedia tenebricosa (A.Massal.) Jatta, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666420"
+    }
+,
+    {
+      "name": "Segestrella illinita (Nyl.) Körb.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666451"
+    }
+,
+    {
+      "name": "Segestria muscorum (Hepp) Trevis., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666459"
+    }
+,
+    {
+      "name": "Strigula stigmatella var. alpestris (Vězda) Coppins, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/668712"
+    }
+,
+    {
+      "name": "Verrucaria cinerea Pers. non (L.) Humb.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661144"
+    }
+,
+    {
+      "name": "Strigula subelegans Vain., 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791358"
+    }
+,
+    {
+      "name": "Strigula subtilissima (Fée) Müll.Arg., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791360"
+    }
+,
+    {
+      "name": "Racoplaca subtilissima Fée, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907924"
+    }
+,
+    {
+      "name": "Strigula sychnogonoides (Nitschke) R.C.Harris, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658750"
+    }
+,
+    {
+      "name": "Geisleria sychnogonoides Nitschke, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55260"
+    }
+,
+    {
+      "name": "Strigula taylorii (Carroll ex Nyl.) R.C.Harris, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653959"
+    }
+,
+    {
+      "name": "Porina meliospila (Nyl.) Zahlbr., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662028"
+    }
+,
+    {
+      "name": "Porina taylorii (Carroll ex Nyl.) Swinscow, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662022"
+    }
+,
+    {
+      "name": "Strigula taylori (Carroll ex Nyl.) R.C.Harris",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/55478"
+    }
+,
+    {
+      "name": "Verrucaria meliospila Nyl., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983622"
+    }
+,
+    {
+      "name": "Verrucaria taylorii Carroll ex Nyl., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983621"
+    }
+,
+    {
+      "name": "Strigula thelopsidoides Coppins, Cl.Roux & Sérus., 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658749"
+    }
+,
+    {
+      "name": "Strigula viridiseda (Nyl.) R.C.Harris, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847069"
+    }
+,
+    {
+      "name": "Verrucaria viridiseda Nyl., 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/847070"
+    }
+,
+    {
+      "name": "Strigula ziziphi (A.Massal.) Cl.Roux & Sérus., 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658748"
+    }
+,
+    {
+      "name": "Porina schizospora Vain., 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662025"
+    }
+,
+    {
+      "name": "Porina ziziphi (A.Massal.) Zahlbr., 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662027"
+    }
+,
+    {
+      "name": "Sagedia ziziphi A.Massal., 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666424"
+    }
+,
+    {
+      "name": "Strigula mediterranea Etayo, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661522"
+    }
+,
+    {
+      "name": "Swinscowia S.H.Jiang, Lücking & Sérus., 2020",
+      "url": ""
+    }
+,
+    {
+      "name": "Swinscowia muscicola (F.Berger, Coppins, Cl.Roux & Sérus.) S.H.Jiang, Lücking & Sérus., 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015370"
+    }
+,
+    {
+      "name": "Strigula muscicola F.Berger, Coppins, Cl.Roux & Sérus., 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015369"
+    }
+,
+    {
+      "name": "verrucariales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/verrucariales/"
+    }
+
+  ]
+}

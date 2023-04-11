@@ -1,0 +1,27 @@
+
+{
+  "name": "cricetidae",
+  "children": [
+
+    {
+      "name": "Cricetidae Fischer, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "arvicolinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/rodentia/cricetidae/arvicolinae/"
+    }
+,
+    {
+      "name": "cricetinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/rodentia/cricetidae/cricetinae/"
+    }
+,
+    {
+      "name": "sigmodontinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/mammalia/rodentia/cricetidae/sigmodontinae/"
+    }
+
+  ]
+}

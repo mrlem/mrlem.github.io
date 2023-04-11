@@ -1,0 +1,67 @@
+
+{
+  "name": "lasiocampinae",
+  "children": [
+
+    {
+      "name": "Lasiocampinae Harris, 1841",
+      "url": ""
+    }
+,
+    {
+      "name": "eriogastrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lasiocampidae/lasiocampinae/eriogastrini/"
+    }
+,
+    {
+      "name": "gastropachini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lasiocampidae/lasiocampinae/gastropachini/"
+    }
+,
+    {
+      "name": "Prorifrons Barnes & McDunnough, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Prorifrons lemoulti (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749556"
+    }
+,
+    {
+      "name": "Metanastria lemoulti Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957924"
+    }
+,
+    {
+      "name": "Prorifrons phedima (Stoll, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749557"
+    }
+,
+    {
+      "name": "lasiocampini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lasiocampidae/lasiocampinae/lasiocampini/"
+    }
+,
+    {
+      "name": "macrothylaciini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lasiocampidae/lasiocampinae/macrothylaciini/"
+    }
+,
+    {
+      "name": "odonestini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lasiocampidae/lasiocampinae/odonestini/"
+    }
+,
+    {
+      "name": "pinarini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lasiocampidae/lasiocampinae/pinarini/"
+    }
+,
+    {
+      "name": "selenepherini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/lasiocampidae/lasiocampinae/selenepherini/"
+    }
+
+  ]
+}

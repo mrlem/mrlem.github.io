@@ -1,0 +1,662 @@
+
+{
+  "name": "symmachiini",
+  "children": [
+
+    {
+      "name": "Symmachiini Bates, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Argyrogrammana Strand, 1932",
+      "url": ""
+    }
+,
+    {
+      "name": "Argyrogrammana alstonii (Smart, 1979)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759977"
+    }
+,
+    {
+      "name": "Argyrogrammana chicomendesi Gallard, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759978"
+    }
+,
+    {
+      "name": "Argyrogrammana denisi Gallard, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759979"
+    }
+,
+    {
+      "name": "Argyrogrammana francozi Gallard, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883773"
+    }
+,
+    {
+      "name": "Argyrogrammana gallardi Dolibaina & Dias, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821605"
+    }
+,
+    {
+      "name": "Argyrogrammana glaucopis (H. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753146"
+    }
+,
+    {
+      "name": "Argyrogrammana glaucopis virgata Brévignon & Gallard, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761555"
+    }
+,
+    {
+      "name": "Argyrogrammana johannismarci Brévignon, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753148"
+    }
+,
+    {
+      "name": "Argyrogrammana nurtia (Stichel, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753232"
+    }
+,
+    {
+      "name": "Argyrogrammana nurtia ludibunda Brévignon & Gallard, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761600"
+    }
+,
+    {
+      "name": "Argyrogrammana occidentalis (Godman & Salvin, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753233"
+    }
+,
+    {
+      "name": "Argyrogrammana physis (Stichel, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753234"
+    }
+,
+    {
+      "name": "Argyrogrammana physis physis (Stichel, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761142"
+    }
+,
+    {
+      "name": "Argyrogrammana placibilis (Stichel, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753236"
+    }
+,
+    {
+      "name": "Argyrogrammana praestigiosa (Stichel, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759986"
+    }
+,
+    {
+      "name": "Argyrogrammana rameli (Stichel, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753238"
+    }
+,
+    {
+      "name": "Argyrogrammana trochilia rameli (Stichel, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964333"
+    }
+,
+    {
+      "name": "Argyrogrammana saulensis Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821606"
+    }
+,
+    {
+      "name": "Argyrogrammana saulensis saulensis Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883917"
+    }
+,
+    {
+      "name": "Argyrogrammana iracyi saulensis Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761137"
+    }
+,
+    {
+      "name": "Argyrogrammana sebastiani Brévignon, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759987"
+    }
+,
+    {
+      "name": "Argyrogrammana sticheli (Talbot, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759988"
+    }
+,
+    {
+      "name": "Argyrogrammana stilbe (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753241"
+    }
+,
+    {
+      "name": "Argyrogrammana stilbe stilbe (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761143"
+    }
+,
+    {
+      "name": "Argyrogrammana sublimis Brévignon & Gallard, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753242"
+    }
+,
+    {
+      "name": "Argyrogrammana talboti Brevignon & Gallard, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812017"
+    }
+,
+    {
+      "name": "Argyrogrammana talboti talboti Brevignon & Gallard, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883918"
+    }
+,
+    {
+      "name": "Argyrogrammana trochilia (Westwood, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753243"
+    }
+,
+    {
+      "name": "Argyrogrammana venilia (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753244"
+    }
+,
+    {
+      "name": "Chimastrum Godman&Salvin, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Chimastrum aeolia (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883912"
+    }
+,
+    {
+      "name": "Chimastrum celina aeolia (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761270"
+    }
+,
+    {
+      "name": "Esthemopsis aeolia H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002166"
+    }
+,
+    {
+      "name": "Esthemopsis C.Felder & R.Felder, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Esthemopsis colaxes Hewitson, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754710"
+    }
+,
+    {
+      "name": "Esthemopsis colaxes guianensis (A.Hall, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761271"
+    }
+,
+    {
+      "name": "Esthemopsis crystallina Brévignon & Gallard, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760058"
+    }
+,
+    {
+      "name": "Esthemopsis sericina (H.W. Bates, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754713"
+    }
+,
+    {
+      "name": "Esthemopsis teras (Stichel, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883771"
+    }
+,
+    {
+      "name": "Lepricornis teras Stichel, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002171"
+    }
+,
+    {
+      "name": "Esthemopsis teras thouvenoti Gallard, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883772"
+    }
+,
+    {
+      "name": "Mesene Doubleday, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesene bigemmis Stichel, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883909"
+    }
+,
+    {
+      "name": "Mesene epaphus (Stoll, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754715"
+    }
+,
+    {
+      "name": "Mesene epaphus epaphus (Stoll, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761272"
+    }
+,
+    {
+      "name": "Mesene eupteryx H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883908"
+    }
+,
+    {
+      "name": "Mesene nola eupteryx H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761274"
+    }
+,
+    {
+      "name": "Mesene monostigma (Erichson, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883910"
+    }
+,
+    {
+      "name": "Mesene monostigma monostigma (Erichson, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883911"
+    }
+,
+    {
+      "name": "Mesene nepticula Möschler, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754716"
+    }
+,
+    {
+      "name": "Mesene nepticula nepticula Möschler, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761273"
+    }
+,
+    {
+      "name": "Mesene nola Herrich-Schäffer, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754717"
+    }
+,
+    {
+      "name": "Mesene nola nola Herrich-Schäffer, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761275"
+    }
+,
+    {
+      "name": "Mesene paraena H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754719"
+    }
+,
+    {
+      "name": "Mesene patawa Brévignon, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760059"
+    }
+,
+    {
+      "name": "Mesene phareus (Cramer, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753035"
+    }
+,
+    {
+      "name": "Mesene silaris Godman & Salvin, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753036"
+    }
+,
+    {
+      "name": "Mesene simplex H.W. Bates, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753037"
+    }
+,
+    {
+      "name": "Mesene veleda Stichel, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753038"
+    }
+,
+    {
+      "name": "Mesene veleda veleda Stichel, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761121"
+    }
+,
+    {
+      "name": "Panaropsis J.Hall, 2002",
+      "url": ""
+    }
+,
+    {
+      "name": "Panaropsis semiota (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753040"
+    }
+,
+    {
+      "name": "Panaropsis thyatira (Hewitson, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753041"
+    }
+,
+    {
+      "name": "Limnas thyatira Hewitson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999367"
+    }
+,
+    {
+      "name": "Phaenochitonia Stichel, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Comphotis Stichel, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Phaenochitonia cingulus (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753042"
+    }
+,
+    {
+      "name": "Phaenochitonia clarissa (Sharpe, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883913"
+    }
+,
+    {
+      "name": "Comphotis clarissa (Sharpe, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753257"
+    }
+,
+    {
+      "name": "Phaenochitonia eanes (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999522"
+    }
+,
+    {
+      "name": "Comphotis eanes (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753258"
+    }
+,
+    {
+      "name": "Phaenochitonia exigua (Stichel, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999523"
+    }
+,
+    {
+      "name": "Comphotis exigua Stichel, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753259"
+    }
+,
+    {
+      "name": "Phaenochitonia irroratum (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999526"
+    }
+,
+    {
+      "name": "Comphotis irroratum (Godman, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753260"
+    }
+,
+    {
+      "name": "Phaenochitonia pactolus (Möschler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999527"
+    }
+,
+    {
+      "name": "Comphotis pactolus (Möschler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883916"
+    }
+,
+    {
+      "name": "Phaenochitonia sophistes (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002410"
+    }
+,
+    {
+      "name": "Comphotis sophistes (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753261"
+    }
+,
+    {
+      "name": "Phaenochitonia sophistes baba (Brévignon, 2013)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002411"
+    }
+,
+    {
+      "name": "Comphotis sophistes baba Brévignon, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761562"
+    }
+,
+    {
+      "name": "Pirascca J.Hall&Willmott, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Pirascca arbuscula (Möschler, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753043"
+    }
+,
+    {
+      "name": "Pirascca arbuscula arbuscula (Möschler, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761122"
+    }
+,
+    {
+      "name": "Pirascca crocostigma (H.W. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753044"
+    }
+,
+    {
+      "name": "Pirascca histrica (Stichel, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753045"
+    }
+,
+    {
+      "name": "Pirascca interrupta (Lathy, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759963"
+    }
+,
+    {
+      "name": "Pirascca mimica Gallard & Fernandez, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759965"
+    }
+,
+    {
+      "name": "Pirascca sagaris (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753049"
+    }
+,
+    {
+      "name": "Pirascca sagaris sagaris (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761123"
+    }
+,
+    {
+      "name": "Pirascca sticheli (Lathy, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753050"
+    }
+,
+    {
+      "name": "Pirascca sticheli kawensis Brévignon, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761550"
+    }
+,
+    {
+      "name": "Pirascca tyriotes (Godman & Salvin, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753051"
+    }
+,
+    {
+      "name": "Symmachia Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Symmachia accusatrix Westwood, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753052"
+    }
+,
+    {
+      "name": "Symmachia basilissa (H. Bates, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753053"
+    }
+,
+    {
+      "name": "Symmachia basilissa brevignoni Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761551"
+    }
+,
+    {
+      "name": "Symmachia calligrapha Hewitson, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753055"
+    }
+,
+    {
+      "name": "Symmachia calliste Hewitson, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753056"
+    }
+,
+    {
+      "name": "Symmachia emeralda Hall & Harvey, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753057"
+    }
+,
+    {
+      "name": "Symmachia estellina Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753058"
+    }
+,
+    {
+      "name": "Symmachia hippea Herrich-Schäffer, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753060"
+    }
+,
+    {
+      "name": "Symmachia juratrix Westwood, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753061"
+    }
+,
+    {
+      "name": "Symmachia leena Hewitson, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753062"
+    }
+,
+    {
+      "name": "Symmachia leena harveyi Brévignon, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761553"
+    }
+,
+    {
+      "name": "Symmachia leopardinum (C. Felder & R. Felder, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753149"
+    }
+,
+    {
+      "name": "Symmachia meyi Brévignon, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960024"
+    }
+,
+    {
+      "name": "Symmachia falcistriga meyi Brévignon, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761552"
+    }
+,
+    {
+      "name": "Symmachia miron Grose-Smith, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753150"
+    }
+,
+    {
+      "name": "Symmachia miron puchellita Brévignon & Gallard, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761556"
+    }
+,
+    {
+      "name": "Symmachia multesima Stichel, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753151"
+    }
+,
+    {
+      "name": "Symmachia norina Hewitson, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753152"
+    }
+,
+    {
+      "name": "Symmachia pardalis Hewitson, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753153"
+    }
+,
+    {
+      "name": "Symmachia poirieri Gallard, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759980"
+    }
+,
+    {
+      "name": "Symmachia probetor (Stoll, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753155"
+    }
+,
+    {
+      "name": "Symmachia probetor probetor (Stoll, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761138"
+    }
+,
+    {
+      "name": "Symmachia rosanti Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759981"
+    }
+,
+    {
+      "name": "Symmachia stigmosissima Stichel, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753158"
+    }
+,
+    {
+      "name": "Symmachia stigmosissima eddyi Gallard, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761557"
+    }
+,
+    {
+      "name": "Symmachia technema Stichel, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753159"
+    }
+,
+    {
+      "name": "Symmachia threissa Hewitson, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753160"
+    }
+,
+    {
+      "name": "Symmachia threissa seducta Brévignon, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761558"
+    }
+,
+    {
+      "name": "Symmachia tigrina Hewitson, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753161"
+    }
+,
+    {
+      "name": "Symmachia tricolor Hewitson, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753162"
+    }
+,
+    {
+      "name": "Symmachia virgatula Stichel, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753163"
+    }
+,
+    {
+      "name": "Symmachia virgatula urichi Kaye, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761139"
+    }
+,
+    {
+      "name": "Xenandra C. Felder & R. Felder, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "Xenandra helius (Cramer, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753165"
+    }
+,
+    {
+      "name": "Xenandra helius helius (Cramer, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761140"
+    }
+
+  ]
+}

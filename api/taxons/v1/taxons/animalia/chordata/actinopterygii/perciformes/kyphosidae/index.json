@@ -1,0 +1,32 @@
+
+{
+  "name": "kyphosidae",
+  "children": [
+
+    {
+      "name": "Kyphosidae Jordan, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "girellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/kyphosidae/girellinae/"
+    }
+,
+    {
+      "name": "kyphosinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/kyphosidae/kyphosinae/"
+    }
+,
+    {
+      "name": "microcanthinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/kyphosidae/microcanthinae/"
+    }
+,
+    {
+      "name": "scorpidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/perciformes/kyphosidae/scorpidinae/"
+    }
+
+  ]
+}

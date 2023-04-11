@@ -1,0 +1,1647 @@
+
+{
+  "name": "erysiphaceae",
+  "children": [
+
+    {
+      "name": "Erysiphaceae Tul. & C.Tul., 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Erysiphe R.Hedw. ex DC., 1805",
+      "url": ""
+    }
+,
+    {
+      "name": "Alphitomorpha Wallr., 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Bulbomicrosphaera A.Q.Wang, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Calocladia Lév., 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Microsphaera Lév., 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Erysiphe alni DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855594"
+    }
+,
+    {
+      "name": "Microsphaera alni (DC.) G.Winter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875170"
+    }
+,
+    {
+      "name": "Phyllactinia alnicola U.Braun, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980466"
+    }
+,
+    {
+      "name": "Erysiphe alphitoides (Griffon & Maubl.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874912"
+    }
+,
+    {
+      "name": "Erysiphe quercina Schwein., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980470"
+    }
+,
+    {
+      "name": "Microsphaera alphitoides Griffon & Maubl., 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860382"
+    }
+,
+    {
+      "name": "Microsphaera quercina auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874914"
+    }
+,
+    {
+      "name": "Microsphaera quercina (Schwein.) Griffiths, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860456"
+    }
+,
+    {
+      "name": "Oidium alphitoides Griffon & Maubl., 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874913"
+    }
+,
+    {
+      "name": "Oidium quercinum auct.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883692"
+    }
+,
+    {
+      "name": "Erysiphe alphitoides var. alphitoides (Griffon & Maubl.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012397"
+    }
+,
+    {
+      "name": "Microsphaera alphitoides var. alphitoides Griffon & Maubl., 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012400"
+    }
+,
+    {
+      "name": "Erysiphe aquilegiae DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855595"
+    }
+,
+    {
+      "name": "Erysiphe astragali DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874915"
+    }
+,
+    {
+      "name": "Alphitomorpha holosericea Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874917"
+    }
+,
+    {
+      "name": "Microsphaera astragali (DC.) Trevis., 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860383"
+    }
+,
+    {
+      "name": "Microsphaera holosericea (Wallr.) Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874918"
+    }
+,
+    {
+      "name": "Podosphaera holosericea (Wallr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874919"
+    }
+,
+    {
+      "name": "Trichocladia astragali (DC.) Neger, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874916"
+    }
+,
+    {
+      "name": "Erysiphe baeumleri (Magnus) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018898"
+    }
+,
+    {
+      "name": "Erysiphe beaumleri (Magnus) U. Braun & Takam.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874920"
+    }
+,
+    {
+      "name": "Erysiphe martii auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883322"
+    }
+,
+    {
+      "name": "Microsphaera baeumleri Magnus, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860384"
+    }
+,
+    {
+      "name": "Erysiphe begoniicola U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018899"
+    }
+,
+    {
+      "name": "Erysiphe begoniae (Sivan.) U. Braun & Takam.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874921"
+    }
+,
+    {
+      "name": "Microsphaera begoniae Sivan., 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860385"
+    }
+,
+    {
+      "name": "Oidium begoniae var. macrosporum A.A.Mendonça & Marta Seq., 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874922"
+    }
+,
+    {
+      "name": "Erysiphe berberidis DC., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874923"
+    }
+,
+    {
+      "name": "Microsphaera berberidis (DC.) Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860386"
+    }
+,
+    {
+      "name": "Microsphaera ilicis (Potebnia) Sandu, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860447"
+    }
+,
+    {
+      "name": "Microsphaera penicillata f. ilicis Potebnia, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980461"
+    }
+,
+    {
+      "name": "Podosphaera berberidis (DC.) Quél., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874924"
+    }
+,
+    {
+      "name": "Erysiphe bertolinii Roum., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855596"
+    }
+,
+    {
+      "name": "Erysiphe betae (Vaňha) Weltzien, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855597"
+    }
+,
+    {
+      "name": "Erysiphe polygoni auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876261"
+    }
+,
+    {
+      "name": "Microsphaera betae Vaňha, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876260"
+    }
+,
+    {
+      "name": "Oidium erysiphoides Fr., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876262"
+    }
+,
+    {
+      "name": "Erysiphe betulae DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855598"
+    }
+,
+    {
+      "name": "Erysiphe buhrii U.Braun, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855599"
+    }
+,
+    {
+      "name": "Erysiphe communis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876263"
+    }
+,
+    {
+      "name": "Erysiphe catalpae Simonyan, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855600"
+    }
+,
+    {
+      "name": "Oidium bignoniae Jacz., 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876264"
+    }
+,
+    {
+      "name": "Erysiphe chouardii (Durrieu) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874925"
+    }
+,
+    {
+      "name": "Microsphaera chouardii Durrieu, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860387"
+    }
+,
+    {
+      "name": "Microsphaera favargeri Mayor, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883323"
+    }
+,
+    {
+      "name": "Erysiphe circaeae L.Junell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012396"
+    }
+,
+    {
+      "name": "Erysiphe circeae L.Junell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855601"
+    }
+,
+    {
+      "name": "Erysiphe communis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876265"
+    }
+,
+    {
+      "name": "Erysiphe coluteae (Kom.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874926"
+    }
+,
+    {
+      "name": "Microsphaera coluteae Kom., 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860388"
+    }
+,
+    {
+      "name": "Erysiphe convolvuli DC., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855602"
+    }
+,
+    {
+      "name": "Erysiphe convolvuli var. convolvuli DC., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012485"
+    }
+,
+    {
+      "name": "Erysiphe convolvuli var. calystegiae U.Braun, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867671"
+    }
+,
+    {
+      "name": "Erysiphe convolvuli-sepii Castagne",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876266"
+    }
+,
+    {
+      "name": "Erysiphe cruchetiana S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855603"
+    }
+,
+    {
+      "name": "Erysiphe martii auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883374"
+    }
+,
+    {
+      "name": "Erysiphe pisi var. cruchetiana (S.Blumer) U.Braun, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876358"
+    }
+,
+    {
+      "name": "Erysiphe cruciferarum Opiz ex L.Junell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855609"
+    }
+,
+    {
+      "name": "Erysiphe communis auct. p. p",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876359"
+    }
+,
+    {
+      "name": "Erysiphe digitata (A.J.Inman & U.Braun) A.J.Inman & U.Braun, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018935"
+    }
+,
+    {
+      "name": "Microsphaera digitata A.J.Inman & U.Braun, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860389"
+    }
+,
+    {
+      "name": "Erysiphe divaricata (Wallr.) Schltdl., 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874928"
+    }
+,
+    {
+      "name": "Alphitomorpha divaricata Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874927"
+    }
+,
+    {
+      "name": "Microsphaera divaricata (Wallr.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860390"
+    }
+,
+    {
+      "name": "Erysiphe ehrenbergii (Lév.) U.Braun, M.Bradshaw & S.Takam., 2020",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018936"
+    }
+,
+    {
+      "name": "Calocladia ehrenbergii Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018937"
+    }
+,
+    {
+      "name": "Microsphaera ehrenbergii (Lév.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860392"
+    }
+,
+    {
+      "name": "Erysiphe euonymi DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874930"
+    }
+,
+    {
+      "name": "Alphitomorpha comata Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018938"
+    }
+,
+    {
+      "name": "Microsphaera comata (Wallr.) Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874929"
+    }
+,
+    {
+      "name": "Microsphaera euonymi (DC.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860393"
+    }
+,
+    {
+      "name": "Erysiphe euonymi-japonici U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874931"
+    }
+,
+    {
+      "name": "Microsphaera euonymi-japonici Vienn.-Bourg., 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860394"
+    }
+,
+    {
+      "name": "Oidium euonymi-japonici (Arcang.) Sacc., 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/874932"
+    }
+,
+    {
+      "name": "Oidium leucoconium f. euonymi-japonici Arcang., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018939"
+    }
+,
+    {
+      "name": "Erysiphe friesii (Lév.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875157"
+    }
+,
+    {
+      "name": "Calocladia friesii Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980456"
+    }
+,
+    {
+      "name": "Microsphaera friesii (Lév.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860442"
+    }
+,
+    {
+      "name": "Erysiphe guarinonii (Briosi & Cavara) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875162"
+    }
+,
+    {
+      "name": "Microsphaera guarinonii Briosi & Cavara, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860444"
+    }
+,
+    {
+      "name": "Erysiphe hedwigii (Lév.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875163"
+    }
+,
+    {
+      "name": "Calocladia hedwigii Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980459"
+    }
+,
+    {
+      "name": "Microsphaera hedwigii (Lév.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860445"
+    }
+,
+    {
+      "name": "Podosphaera hedwigii (Lév.) Quél., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875164"
+    }
+,
+    {
+      "name": "Erysiphe heraclei DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855610"
+    }
+,
+    {
+      "name": "Erysiphe umbelliferarum (Lév.) de Bary, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876361"
+    }
+,
+    {
+      "name": "Erysiphe hyperici (Wallr.) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855611"
+    }
+,
+    {
+      "name": "Alphitomorpha hyperici Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876362"
+    }
+,
+    {
+      "name": "Microsphaera hypericacearum U.Braun, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876363"
+    }
+,
+    {
+      "name": "Erysiphe hypophylla (Nevod.) U.Braun & Cunningt., 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018941"
+    }
+,
+    {
+      "name": "Microsphaera hypophylla Nevod., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860446"
+    }
+,
+    {
+      "name": "Erysiphe knautiae Duby, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855612"
+    }
+,
+    {
+      "name": "Erysiphe communis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876364"
+    }
+,
+    {
+      "name": "Erysiphe limonii L.Junell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855613"
+    }
+,
+    {
+      "name": "Erysiphe communis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876365"
+    }
+,
+    {
+      "name": "Erysiphe linkii Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855614"
+    }
+,
+    {
+      "name": "Erysiphe lonicerae DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875165"
+    }
+,
+    {
+      "name": "Microsphaera lonicerae (DC.) G.Winter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860448"
+    }
+,
+    {
+      "name": "Erysiphe lycopsidis R.Y.Zheng & G.Q.Chen, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855615"
+    }
+,
+    {
+      "name": "Erysiphe asperifoliorum f. anchusae U. Braun",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876366"
+    }
+,
+    {
+      "name": "Erysiphe asperifoliorum auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876368"
+    }
+,
+    {
+      "name": "Erysiphe horridula f. anchusae S.Blumer, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876367"
+    }
+,
+    {
+      "name": "Erysiphe lythri L.Junell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855616"
+    }
+,
+    {
+      "name": "Erysiphe polygoni auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876369"
+    }
+,
+    {
+      "name": "Erysiphe magnusii (S.Blumer) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875166"
+    }
+,
+    {
+      "name": "Microsphaera magnusii S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860449"
+    }
+,
+    {
+      "name": "Erysiphe mayori Blumer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855617"
+    }
+,
+    {
+      "name": "Erysiphe communis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883375"
+    }
+,
+    {
+      "name": "Erysiphe polygoni auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876370"
+    }
+,
+    {
+      "name": "Erysiphe mayori var. cicerbitae U. Braun",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868930"
+    }
+,
+    {
+      "name": "Erysiphe montagnei Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855618"
+    }
+,
+    {
+      "name": "Erysiphe mougeotii (Lév.) de Bary, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855619"
+    }
+,
+    {
+      "name": "Arthrocladiella mougeotii (Lév.) Vassilkov, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876373"
+    }
+,
+    {
+      "name": "Calocladia mougeotii Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979142"
+    }
+,
+    {
+      "name": "Erysiphe lycii Lasch, 1846 [nom. inval.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876371"
+    }
+,
+    {
+      "name": "Microsphaera lycii (Lasch) Sacc. & Roum., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876372"
+    }
+,
+    {
+      "name": "Microsphaera mougeotii (Lév.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876374"
+    }
+,
+    {
+      "name": "Podosphaera mougeotii (Léveille) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876375"
+    }
+,
+    {
+      "name": "Erysiphe nitida (Wallr.) Rabenh., 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855620"
+    }
+,
+    {
+      "name": "Alphitomorpha nitida Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979144"
+    }
+,
+    {
+      "name": "Erysiphe orbicularis Ehrenb., 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855621"
+    }
+,
+    {
+      "name": "Erysiphe ornata (U.Braun) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875168"
+    }
+,
+    {
+      "name": "Microsphaera betulae Magnus, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875167"
+    }
+,
+    {
+      "name": "Microsphaera ornata var. europaea U.Braun, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869111"
+    }
+,
+    {
+      "name": "Microsphaera ornata U.Braun, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860450"
+    }
+,
+    {
+      "name": "Erysiphe palczewskii (Jacz.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875169"
+    }
+,
+    {
+      "name": "Microsphaera palczewskii Jacz., 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860451"
+    }
+,
+    {
+      "name": "Erysiphe penicillata (Wallr.) Link, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875172"
+    }
+,
+    {
+      "name": "Alphitomorpha penicillata Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875171"
+    }
+,
+    {
+      "name": "Erysiphe extensa (Cooke & Peck) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980464"
+    }
+,
+    {
+      "name": "Microsphaera alni var. extensa (Cooke & Peck) E.S.Salmon, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875173"
+    }
+,
+    {
+      "name": "Microsphaera extensa Cooke & Peck, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980463"
+    }
+,
+    {
+      "name": "Microsphaera penicillata (Wallr.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860452"
+    }
+,
+    {
+      "name": "Podosphaera penicillata (Wallr.) Quél., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875174"
+    }
+,
+    {
+      "name": "Erysiphe pisi DC., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855622"
+    }
+,
+    {
+      "name": "Erysiphe martii auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876376"
+    }
+,
+    {
+      "name": "Erysiphe platani (Howe) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875175"
+    }
+,
+    {
+      "name": "Microsphaera platani Howe, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860453"
+    }
+,
+    {
+      "name": "Erysiphe polygoni DC., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855623"
+    }
+,
+    {
+      "name": "Erysiphe polygoni Castagne",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876377"
+    }
+,
+    {
+      "name": "Erysiphe pseudacaciae (P.D.Marchenko) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980469"
+    }
+,
+    {
+      "name": "Microsphaera pseudacaciae (P.D.Marchenko) U.Braun, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860455"
+    }
+,
+    {
+      "name": "Trichocladia pseudacaciae P.D.Marchenko, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980468"
+    }
+,
+    {
+      "name": "Erysiphe pseudopusilla U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855624"
+    }
+,
+    {
+      "name": "Microsphaera pusilla U.Braun, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876378"
+    }
+,
+    {
+      "name": "Erysiphe ranunculi Grev., 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855625"
+    }
+,
+    {
+      "name": "Erysiphe aquilegiae var. ranunculi (Grev.) R.Y.Zheng & G.Q.Chen, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876380"
+    }
+,
+    {
+      "name": "Erysiphe epicaulon Fr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876379"
+    }
+,
+    {
+      "name": "Oidium clematidis (Chittend.) Sacc. & Traverso, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876381"
+    }
+,
+    {
+      "name": "Perisporium erysiphoides Fr., 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876382"
+    }
+,
+    {
+      "name": "Erysiphe rayssiae (Mayor) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875177"
+    }
+,
+    {
+      "name": "Microsphaera rayssiae Mayor, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860457"
+    }
+,
+    {
+      "name": "Erysiphe rubi Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855626"
+    }
+,
+    {
+      "name": "Erysiphe symphoricarpi (Howe) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875182"
+    }
+,
+    {
+      "name": "Microsphaera symphoricarpi Howe, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861306"
+    }
+,
+    {
+      "name": "Trichocladia symphoricarpi (Howe) Jacz., 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879999"
+    }
+,
+    {
+      "name": "Erysiphe syringae Schwein., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880000"
+    }
+,
+    {
+      "name": "Microsphaera syringae (Schwein.) H.Magn., 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861307"
+    }
+,
+    {
+      "name": "Erysiphe thesii L.Junell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855627"
+    }
+,
+    {
+      "name": "Erysiphe polygoni auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876383"
+    }
+,
+    {
+      "name": "Erysiphe tortilis (Wallr.) Link, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883721"
+    }
+,
+    {
+      "name": "Alphitomorpha tortilis Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883723"
+    }
+,
+    {
+      "name": "Microsphaera tortilis (Wallr.) Speer, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883724"
+    }
+,
+    {
+      "name": "Erysiphe trifolii Grev., 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883722"
+    }
+,
+    {
+      "name": "Erysiphe martii Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883726"
+    }
+,
+    {
+      "name": "Microsphaera trifolii (Grev.) U.Braun, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883725"
+    }
+,
+    {
+      "name": "Oidium orobi Rabenh.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883727"
+    }
+,
+    {
+      "name": "Erysiphe trifolii var. trifolii Grev., 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012398"
+    }
+,
+    {
+      "name": "Microsphaera trifolii var. trifolii (Grev., 1824) U.Braun, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012399"
+    }
+,
+    {
+      "name": "Erysiphe ulmariae Pers. ex Desm., 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855651"
+    }
+,
+    {
+      "name": "Erysiphe communis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876474"
+    }
+,
+    {
+      "name": "Erysiphe polygoni auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876475"
+    }
+,
+    {
+      "name": "Golovinomyces ulmariae (Pers. ex Desm.) V.P.Heluta, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876473"
+    }
+,
+    {
+      "name": "Erysiphe urticae (Wallr.) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855652"
+    }
+,
+    {
+      "name": "Alphitomorpha urticae Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876476"
+    }
+,
+    {
+      "name": "Erysiphe polygoni auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876477"
+    }
+,
+    {
+      "name": "Erysiphe vanbruntiana (W.R.Gerard) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018945"
+    }
+,
+    {
+      "name": "Erysiphe vanbruntiana var. sambuci-racemosae (U.Braun) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875179"
+    }
+,
+    {
+      "name": "Microsphaera vanbruntiana var. sambuci-racemosae U.Braun, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875178"
+    }
+,
+    {
+      "name": "Microsphaera vanbruntiana W.R.Gerard, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861308"
+    }
+,
+    {
+      "name": "Erysiphe verbenicola U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018940"
+    }
+,
+    {
+      "name": "Microsphaera ferruginea Erikss., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860395"
+    }
+,
+    {
+      "name": "Erysiphe vernalis P.Karst., 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855653"
+    }
+,
+    {
+      "name": "Erysiphe viburni Duby, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875180"
+    }
+,
+    {
+      "name": "Microsphaera sparsa Howe, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860460"
+    }
+,
+    {
+      "name": "Microsphaera viburni (Duby) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875181"
+    }
+,
+    {
+      "name": "Microsphaera dubyi Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860391"
+    }
+,
+    {
+      "name": "Microsphaera grossulariae (Wallr.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860443"
+    }
+,
+    {
+      "name": "Alphitomorpha grossulariae (Wallr.) Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875158"
+    }
+,
+    {
+      "name": "Alphitomorpha penicillata var. grossulariae Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875159"
+    }
+,
+    {
+      "name": "Erysiphe grossulariae (Wallr.) de Bary, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875160"
+    }
+,
+    {
+      "name": "Podosphaera grossulariae (Wallr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875161"
+    }
+,
+    {
+      "name": "Microsphaera sambucicola Henn., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860458"
+    }
+,
+    {
+      "name": "Microsphaera sambucifolia Henning",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860459"
+    }
+,
+    {
+      "name": "Oidium Link, 1824",
+      "url": ""
+    }
+,
+    {
+      "name": "Oidium carpini Foitzik, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905472"
+    }
+,
+    {
+      "name": "Oidium ceratoniae Comes, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868108"
+    }
+,
+    {
+      "name": "Oidium crystallinum Lév., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869145"
+    }
+,
+    {
+      "name": "Oidium cyparissiae P.Syd., 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868109"
+    }
+,
+    {
+      "name": "Fibroidium cyparissiae (P.Syd.) U.Braun & R.T.A.Cook, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983129"
+    }
+,
+    {
+      "name": "Oidium ericinum Erikss., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905473"
+    }
+,
+    {
+      "name": "Oidium neolycopersici L.Kiss, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869144"
+    }
+,
+    {
+      "name": "Oidium stachytarphetae J.M.Yen, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997011"
+    }
+,
+    {
+      "name": "Oidium verbenae Thüm. & P.C.Bolle, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905124"
+    }
+,
+    {
+      "name": "Pseudoidium Y.S.Paul & J.N.Kapoor, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoidium hortensiae (Jørst. ex S.Blumer) U.Braun & R.T.A.Cook, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018943"
+    }
+,
+    {
+      "name": "Microsphaera polonica Siemaszko, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860454"
+    }
+,
+    {
+      "name": "Oidium hortensiae Jørst. ex S.Blumer, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018944"
+    }
+,
+    {
+      "name": "Oidium hortensiae Jørst., 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875176"
+    }
+,
+    {
+      "name": "Pseudoidium perseae-americanae (Liberato & R.W.Barreto) Liberato & R.W.Barreto, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999946"
+    }
+,
+    {
+      "name": "Oidium perseae-americanae Liberato & R.W.Barreto, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999944"
+    }
+,
+    {
+      "name": "Sphaerotheca Lév., 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Sphaerotheca alpina S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857325"
+    }
+,
+    {
+      "name": "Podosphaera alpina (S.Blumer) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881869"
+    }
+,
+    {
+      "name": "Sphaerotheca fuliginea auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881870"
+    }
+,
+    {
+      "name": "Sphaerotheca aphanis (Wallr.) U.Braun, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857326"
+    }
+,
+    {
+      "name": "Alphitomorpha aphanis Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881875"
+    }
+,
+    {
+      "name": "Erysiphe alchemillae Grev., 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881873"
+    }
+,
+    {
+      "name": "Oidium fragariae Harz, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881871"
+    }
+,
+    {
+      "name": "Oidium ruborum Rabenh., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881872"
+    }
+,
+    {
+      "name": "Podosphaera aphanis (Wallr.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881876"
+    }
+,
+    {
+      "name": "Sphaerotheca alchemillae (Grev.) Junell",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881874"
+    }
+,
+    {
+      "name": "Sphaerotheca macularis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883563"
+    }
+,
+    {
+      "name": "Sphaerotheca astragali L.Junell, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857327"
+    }
+,
+    {
+      "name": "Sphaerotheca balsaminae (Wallr.) Kari ex L.Junell, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857328"
+    }
+,
+    {
+      "name": "Alphitomorpha lamprocarpa β balsaminae Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983470"
+    }
+,
+    {
+      "name": "Alphitomorpha lamprocarpa var. balsaminae Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881880"
+    }
+,
+    {
+      "name": "Oidium balsaminae Rajd., 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881877"
+    }
+,
+    {
+      "name": "Podosphaera balsaminae (Wallr.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881878"
+    }
+,
+    {
+      "name": "Sphaerotheca fuliginea auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881879"
+    }
+,
+    {
+      "name": "Sphaerotheca calendulae (Malbr. & Roum.) Malbr., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857329"
+    }
+,
+    {
+      "name": "Meliola calendulae Malbr. & Roum., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983469"
+    }
+,
+    {
+      "name": "Sphaerotheca delphinii (P.Karst.) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857330"
+    }
+,
+    {
+      "name": "Podosphaera delphinii (P.Karst.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881881"
+    }
+,
+    {
+      "name": "Sphaerotheca castagnei subsp. delphinii P.Karst., 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881950"
+    }
+,
+    {
+      "name": "Sphaerotheca dipsacearum (Tul. & C.Tul.) L.Junell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857331"
+    }
+,
+    {
+      "name": "Erysiphe dipsacacearum Tul. & C.Tul., 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983471"
+    }
+,
+    {
+      "name": "Erysiphe dipsacearum Tul. & C.Tul., 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881951"
+    }
+,
+    {
+      "name": "Podosphaera dipsacearum (Tul. & C.Tul.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881952"
+    }
+,
+    {
+      "name": "Sphaerotheca fuliginea auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881953"
+    }
+,
+    {
+      "name": "Sphaerotheca humuli auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881954"
+    }
+,
+    {
+      "name": "Sphaerotheca macularis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881955"
+    }
+,
+    {
+      "name": "Sphaerotheca drabae Juel, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857332"
+    }
+,
+    {
+      "name": "Podosphaera drabae (Juel) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881956"
+    }
+,
+    {
+      "name": "Sphaerotheca fuliginea auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881957"
+    }
+,
+    {
+      "name": "Sphaerotheca epilobii (Wallr.) de Bary, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857333"
+    }
+,
+    {
+      "name": "Alphitomorpha epilobii (Wallr.) Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881958"
+    }
+,
+    {
+      "name": "Alphitomorpha macularis β epilobii Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983503"
+    }
+,
+    {
+      "name": "Alphitomorpha macularis var. epilobii Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881959"
+    }
+,
+    {
+      "name": "Oidium epilobii (Corda) Desm., 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881960"
+    }
+,
+    {
+      "name": "Podosphaera epilobii (Wallr.) de Bary, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881961"
+    }
+,
+    {
+      "name": "Torula epilobii Corda, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983514"
+    }
+,
+    {
+      "name": "Sphaerotheca erigerontis-canadensis (Lév.) L.Junell, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857334"
+    }
+,
+    {
+      "name": "Erysiphe erigerontis-canadensis Lév., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881962"
+    }
+,
+    {
+      "name": "Sphaerotheca erodii (Durieu & Mont.) Rayss, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857335"
+    }
+,
+    {
+      "name": "Erysiphe erodii Durieu & Mont., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881963"
+    }
+,
+    {
+      "name": "Podosphaera erodii (Durieu & Mont.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881964"
+    }
+,
+    {
+      "name": "Sphaerotheca euphorbiae (Castagne) E.S.Salmon, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857337"
+    }
+,
+    {
+      "name": "Botrytis euphorbiae Castagne, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881966"
+    }
+,
+    {
+      "name": "Erysiphe tomentosa G.H.Otth, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881968"
+    }
+,
+    {
+      "name": "Oidium cyparissiae auct. non Syd..",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881965"
+    }
+,
+    {
+      "name": "Podosphaera euphorbiae (Castagne) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881967"
+    }
+,
+    {
+      "name": "Ramularia euphorbiae (Castagne) Sacc., 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881808"
+    }
+,
+    {
+      "name": "Sphaerotheca tomentosa G.H.Otth, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881969"
+    }
+,
+    {
+      "name": "Sphaerotheca ferruginea (Schltdl.) L.Junell, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857338"
+    }
+,
+    {
+      "name": "Alphitomorpha ferruginea Schltdl., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881972"
+    }
+,
+    {
+      "name": "Erysiphe ferruginea (Schltdl.) Link, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881970"
+    }
+,
+    {
+      "name": "Erysiphe sanguisorbae DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985848"
+    }
+,
+    {
+      "name": "Oidium erysiphoides f. sanguisorbae Gonz.Frag., 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881971"
+    }
+,
+    {
+      "name": "Podosphaera ferruginea (Schltdl.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881973"
+    }
+,
+    {
+      "name": "Sphaerotheca sanguisorbae (DC.) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881974"
+    }
+,
+    {
+      "name": "Sphaerotheca fugax Penz. & Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857339"
+    }
+,
+    {
+      "name": "Podosphaera fugax (Penz. & Sacc.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881975"
+    }
+,
+    {
+      "name": "Sphaerotheca fuliginea (Schltdl.) Pollacci, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857340"
+    }
+,
+    {
+      "name": "Alphitomorpha fuliginea Schltdl., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881976"
+    }
+,
+    {
+      "name": "Erysiphe fuliginea (Schltdl.) Link, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881977"
+    }
+,
+    {
+      "name": "Podosphaera fuliginea (Schltdl.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883566"
+    }
+,
+    {
+      "name": "Sphaerotheca humuli var. fuliginea (Schltdl.) E.S.Salmon, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881978"
+    }
+,
+    {
+      "name": "Sphaerotheca fusca (Fr.) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857341"
+    }
+,
+    {
+      "name": "Erysiphe fusca Fr., 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881980"
+    }
+,
+    {
+      "name": "Oidium citruli Yen & Wang",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881979"
+    }
+,
+    {
+      "name": "Podosphaera fusca (Fr.) U.Braun & Shishkoff, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881981"
+    }
+,
+    {
+      "name": "Sphaerotheca helianthemi L.Junell, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857379"
+    }
+,
+    {
+      "name": "Podosphaera helianthemi (L.Junell) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881982"
+    }
+,
+    {
+      "name": "Sphaerotheca fuliginea auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882052"
+    }
+,
+    {
+      "name": "Sphaerotheca macularis (Wallr.) Magnus, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857380"
+    }
+,
+    {
+      "name": "Alphitomorpha macularis Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882055"
+    }
+,
+    {
+      "name": "Erysiphe humuli DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882053"
+    }
+,
+    {
+      "name": "Erysiphe macularis (Wallr.) Fr., 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882057"
+    }
+,
+    {
+      "name": "Podosphaera macularis (Wallr.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882056"
+    }
+,
+    {
+      "name": "Sphaerotheca humuli (DC.) Burrill, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882054"
+    }
+,
+    {
+      "name": "Sphaerotheca melampyri L.Junell, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857381"
+    }
+,
+    {
+      "name": "Sphaerotheca mors-uvae (Schwein.) Berk. & M.A.Curtis, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857382"
+    }
+,
+    {
+      "name": "Erysiphe mors-uvae Schwein., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882058"
+    }
+,
+    {
+      "name": "Podosphaera mors-uvae (Schwein.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882059"
+    }
+,
+    {
+      "name": "Sphaerotheca niesslii Thüm., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857383"
+    }
+,
+    {
+      "name": "Podosphaera niesslii (Thüm.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882060"
+    }
+,
+    {
+      "name": "Sphaerotheca pannosa (Wallr.) Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857384"
+    }
+,
+    {
+      "name": "Alphitomorpha pannosa Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882062"
+    }
+,
+    {
+      "name": "Erysiphe pannosa (Wallr.) Fr., 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883569"
+    }
+,
+    {
+      "name": "Oidium leucoconium Desm., 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882061"
+    }
+,
+    {
+      "name": "Podosphaera pannosa (Wallr.) de Bary, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882063"
+    }
+,
+    {
+      "name": "Sphaerotheca pannosa var. persicae Woron., 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868425"
+    }
+,
+    {
+      "name": "Sphaerotheca plantaginis (Castagne) L.Junell, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857385"
+    }
+,
+    {
+      "name": "Erysiphe plantaginis Castagne, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882064"
+    }
+,
+    {
+      "name": "Podosphaera plantaginis (Castagne) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882065"
+    }
+,
+    {
+      "name": "Sphaerotheca fuliginea auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882066"
+    }
+,
+    {
+      "name": "Sphaerotheca polemonii L.Junell, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857386"
+    }
+,
+    {
+      "name": "Sphaerotheca spireae Sawada",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857387"
+    }
+,
+    {
+      "name": "Oidium botryoides (Corda) Rabenh.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882067"
+    }
+,
+    {
+      "name": "Podosphaera spireae (Sawada) U. Braun & Takam.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882069"
+    }
+,
+    {
+      "name": "Sphaerotheca castagnei Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882068"
+    }
+,
+    {
+      "name": "Sphaerotheca macularis auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882070"
+    }
+,
+    {
+      "name": "Sphaerotheca thalictri L.Junell, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857388"
+    }
+,
+    {
+      "name": "Podosphaera thalictri (L.Junell) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882071"
+    }
+,
+    {
+      "name": "Sphaerotheca fuliginea auct. p.p.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882072"
+    }
+,
+    {
+      "name": "Sphaerotheca verbenae Săvul. & Negru, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857389"
+    }
+,
+    {
+      "name": "Sphaerotheca volkartii S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857390"
+    }
+,
+    {
+      "name": "Podosphaera volkartii (S.Blumer) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882073"
+    }
+,
+    {
+      "name": "Sphaerotheca xanthii (Castagne) L.Junell, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/857391"
+    }
+,
+    {
+      "name": "Erysiphe xanthii Castagne, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882074"
+    }
+,
+    {
+      "name": "Podosphaera xanthii (Castagne) U.Braun & Shishkoff, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882075"
+    }
+
+  ]
+}

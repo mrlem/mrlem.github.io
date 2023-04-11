@@ -1,0 +1,42 @@
+
+{
+  "name": "limnichinae",
+  "children": [
+
+    {
+      "name": "Limnichinae Erichson, 1846",
+      "url": ""
+    }
+,
+    {
+      "name": "bothriopterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/limnichidae/limnichinae/bothriopterini/"
+    }
+,
+    {
+      "name": "Byrrhinus Motschulsky, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Byrrhinus antipodum Fauvel, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714967"
+    }
+,
+    {
+      "name": "Byrrhinus hirsutus Pic, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750725"
+    }
+,
+    {
+      "name": "Byrrhinus maroniensis Pic, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750730"
+    }
+,
+    {
+      "name": "lirnnichini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/limnichidae/limnichinae/lirnnichini/"
+    }
+
+  ]
+}

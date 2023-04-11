@@ -1,0 +1,37 @@
+
+{
+  "name": "erotylidae",
+  "children": [
+
+    {
+      "name": "Erotylidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "cryptophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/erotylidae/cryptophilinae/"
+    }
+,
+    {
+      "name": "erotylinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/erotylidae/erotylinae/"
+    }
+,
+    {
+      "name": "languriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/erotylidae/languriinae/"
+    }
+,
+    {
+      "name": "loberinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/erotylidae/loberinae/"
+    }
+,
+    {
+      "name": "xenoscelinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/erotylidae/xenoscelinae/"
+    }
+
+  ]
+}

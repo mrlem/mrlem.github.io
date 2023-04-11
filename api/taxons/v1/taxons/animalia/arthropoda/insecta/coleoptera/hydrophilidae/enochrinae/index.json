@@ -1,0 +1,612 @@
+
+{
+  "name": "enochrinae",
+  "children": [
+
+    {
+      "name": "Enochrinae Short & Fikáček, 2013",
+      "url": ""
+    }
+,
+    {
+      "name": "Cymbiodyta Bedel, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Cymbiodyta marginella (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/8961"
+    }
+,
+    {
+      "name": "Cymbiodyta testacea Speiser, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403770"
+    }
+,
+    {
+      "name": "Hydrophilus marginatus Duftschmid, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403768"
+    }
+,
+    {
+      "name": "Hydrophilus marginellus Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799112"
+    }
+,
+    {
+      "name": "Hydrophilus margipallens Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403769"
+    }
+,
+    {
+      "name": "Philhydrus ovalis Thomson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403767"
+    }
+,
+    {
+      "name": "Philydrus carbonarius Kuwert, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403766"
+    }
+,
+    {
+      "name": "Cymbiodyta vindicata Fall, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780609"
+    }
+,
+    {
+      "name": "Enochrus Thomson, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Enochrus aequalis (Sharp, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639077"
+    }
+,
+    {
+      "name": "Enochrus affinis (Thunberg, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234875"
+    }
+,
+    {
+      "name": "Enochrus minutus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403771"
+    }
+,
+    {
+      "name": "Hydrophilus affinis Thunberg, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799122"
+    }
+,
+    {
+      "name": "Enochrus ater (Kuwert, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234879"
+    }
+,
+    {
+      "name": "Philydrus ater Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799114"
+    }
+,
+    {
+      "name": "Enochrus bartletti Short, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/771223"
+    }
+,
+    {
+      "name": "Enochrus bicolor (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234880"
+    }
+,
+    {
+      "name": "Dytiscus chrysomelinus Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403776"
+    }
+,
+    {
+      "name": "Enochrus yukinoae Matsui, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403788"
+    }
+,
+    {
+      "name": "Hydrobius ferrugineus Küster, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403777"
+    }
+,
+    {
+      "name": "Hydrophilus bicolor Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799115"
+    }
+,
+    {
+      "name": "Hydrophilus fulvus Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403779"
+    }
+,
+    {
+      "name": "Hydrophilus grisescens Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403780"
+    }
+,
+    {
+      "name": "Hydrophilus torquatus Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403790"
+    }
+,
+    {
+      "name": "Philhydrus levanderi J. Sahlberg, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403781"
+    }
+,
+    {
+      "name": "Philhydrus maritimus Thomson, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403782"
+    }
+,
+    {
+      "name": "Philhydrus mediterraneus Sahlberg, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403783"
+    }
+,
+    {
+      "name": "Philydrus atricornis Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403775"
+    }
+,
+    {
+      "name": "Philydrus flavus Kuwert, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403778"
+    }
+,
+    {
+      "name": "Philydrus labiatus Rey, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403789"
+    }
+,
+    {
+      "name": "Philydrus rubicundus Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403784"
+    }
+,
+    {
+      "name": "Philydrus sahlbergi Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403785"
+    }
+,
+    {
+      "name": "Philydrus sternospina Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403786"
+    }
+,
+    {
+      "name": "Philydrus unguidebilis Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403787"
+    }
+,
+    {
+      "name": "Enochrus coarctatus (Gredler, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234876"
+    }
+,
+    {
+      "name": "Philhydrus coarctatus Gredler, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799123"
+    }
+,
+    {
+      "name": "Philhydrus fulvipennis Westhoff, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403772"
+    }
+,
+    {
+      "name": "Philhydrus suturalis Sharp, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403773"
+    }
+,
+    {
+      "name": "Enochrus elongatulus (MacLeay, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795122"
+    }
+,
+    {
+      "name": "Philhydrus elongatulus MacLeay, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890016"
+    }
+,
+    {
+      "name": "Philydrus caledonicus Fauvel, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/902222"
+    }
+,
+    {
+      "name": "Enochrus esuriens (Walker, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775651"
+    }
+,
+    {
+      "name": "Philhydrus esuriens Walker, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890017"
+    }
+,
+    {
+      "name": "Philhydrus nigriceps (Motschulsky, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890018"
+    }
+,
+    {
+      "name": "Philhydrus ornaticeps Sharp, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890021"
+    }
+,
+    {
+      "name": "Philhydrus pullus Fauvel, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850249"
+    }
+,
+    {
+      "name": "Philydrus pullus Fauvel, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/902226"
+    }
+,
+    {
+      "name": "Pylophilus nigriceps Motschulsky, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890019"
+    }
+,
+    {
+      "name": "Enochrus fuscipennis (Thomson, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234881"
+    }
+,
+    {
+      "name": "Hydrophilus melanocephalus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403794"
+    }
+,
+    {
+      "name": "Philhydrus nigricans Schwarz, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403795"
+    }
+,
+    {
+      "name": "Philydrus berolinensis Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403791"
+    }
+,
+    {
+      "name": "Philydrus caspius Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403792"
+    }
+,
+    {
+      "name": "Philydrus fasciatus Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403793"
+    }
+,
+    {
+      "name": "Philydrus fuscipennis Thomson, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799116"
+    }
+,
+    {
+      "name": "Philydrus sahlbergi Fauvel, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403796"
+    }
+,
+    {
+      "name": "Philydrus similis Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403797"
+    }
+,
+    {
+      "name": "Enochrus halophilus (Bedel, 1879)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234882"
+    }
+,
+    {
+      "name": "Philydrus brevipalpis Sharp, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403799"
+    }
+,
+    {
+      "name": "Philydrus halophilus Bedel, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799117"
+    }
+,
+    {
+      "name": "Philydrus salinus Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403798"
+    }
+,
+    {
+      "name": "Enochrus hamiltoni (Horn, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780610"
+    }
+,
+    {
+      "name": "Enochrus maculiceps (MacLeay, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795123"
+    }
+,
+    {
+      "name": "Enochrus (Lumetus) bryani Orchymont, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890024"
+    }
+,
+    {
+      "name": "Philhydrus artensis Fauvel, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850248"
+    }
+,
+    {
+      "name": "Philhydrus laevigatus Blackburn, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890023"
+    }
+,
+    {
+      "name": "Philhydrus maculiceps MacLeay, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890022"
+    }
+,
+    {
+      "name": "Philydrus artensis Fauvel, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/902223"
+    }
+,
+    {
+      "name": "Enochrus malabarensis (Régimbart, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/795124"
+    }
+,
+    {
+      "name": "Philhydrus malabarensis Régimbart, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890025"
+    }
+,
+    {
+      "name": "Enochrus mauritiensis (Régimbart, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704696"
+    }
+,
+    {
+      "name": "Enochrus mauritiensis mauritiensis (Régimbart, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704697"
+    }
+,
+    {
+      "name": "Enochrus mauritiensis reunionensis Balfour-Browne, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/704698"
+    }
+,
+    {
+      "name": "Enochrus melanocephalus (Olivier, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234888"
+    }
+,
+    {
+      "name": "Enochrus italus Kuwert, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403821"
+    }
+,
+    {
+      "name": "Hydrobius atricapillus Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403819"
+    }
+,
+    {
+      "name": "Hydrophilus bicolor Gyllenhal, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403820"
+    }
+,
+    {
+      "name": "Hydrophilus melanocephalus Olivier, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799113"
+    }
+,
+    {
+      "name": "Enochrus morenae (Heyden, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234877"
+    }
+,
+    {
+      "name": "Hydrobius morenae Heyden, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799124"
+    }
+,
+    {
+      "name": "Enochrus natalensis (Gemminger & Harold, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/306379"
+    }
+,
+    {
+      "name": "Hydrobius natalensis Gemminger & Harold, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/904430"
+    }
+,
+    {
+      "name": "Enochrus nigritus (Sharp, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234878"
+    }
+,
+    {
+      "name": "Enochrus isotae Hebauer, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403774"
+    }
+,
+    {
+      "name": "Philydrus nigritus Sharp, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799125"
+    }
+,
+    {
+      "name": "Enochrus ochropterus (Marsham, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234883"
+    }
+,
+    {
+      "name": "Hydrobius frontalis Erichson, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403800"
+    }
+,
+    {
+      "name": "Hydrophilus nigricans Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403801"
+    }
+,
+    {
+      "name": "Hydrophilus ochropterus Marsham, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799118"
+    }
+,
+    {
+      "name": "Enochrus quadripunctatus (Herbst, 1797)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234885"
+    }
+,
+    {
+      "name": "Hydrophilus dichrous Krynicki, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403811"
+    }
+,
+    {
+      "name": "Hydrophilus quadripunctatus Herbst, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799119"
+    }
+,
+    {
+      "name": "Philhydrus frontalis Dalla Torre, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403806"
+    }
+,
+    {
+      "name": "Philydrus fulvipennis Rey, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403807"
+    }
+,
+    {
+      "name": "Philydrus marginatus Gozis, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403808"
+    }
+,
+    {
+      "name": "Philydrus reclus Sahlberg, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/796824"
+    }
+,
+    {
+      "name": "Philydrus rectus J. Sahlberg, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403809"
+    }
+,
+    {
+      "name": "Philydrus ytenensis Sharp, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403810"
+    }
+,
+    {
+      "name": "Enochrus segmentinotatus (Kuwert, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234886"
+    }
+,
+    {
+      "name": "Philhydrus transcaspicus J. Sahlberg, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403814"
+    }
+,
+    {
+      "name": "Philydrus apicinotus Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403812"
+    }
+,
+    {
+      "name": "Philydrus maculiapex Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403813"
+    }
+,
+    {
+      "name": "Philydrus segmentinotatus Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799120"
+    }
+,
+    {
+      "name": "Philydrus transcaspicus Sahlberg, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/796825"
+    }
+,
+    {
+      "name": "Philydrus vultur Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403815"
+    }
+,
+    {
+      "name": "Enochrus testaceus (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/234887"
+    }
+,
+    {
+      "name": "Hydrophilus testaceus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/799121"
+    }
+,
+    {
+      "name": "Philhydrus maculicollis Dalla Torre, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403817"
+    }
+,
+    {
+      "name": "Philydrus lederi Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403818"
+    }
+,
+    {
+      "name": "Philydrus lineatus Kuwert, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/403816"
+    }
+,
+    {
+      "name": "Enochrus tritus (Broun, 1880)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775652"
+    }
+,
+    {
+      "name": "Enochrus Thomson, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Lumetus Zaitzev, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Philydrus Solier, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Methydrus Rey, 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Notionotus Spangler, 1972",
+      "url": ""
+    }
+,
+    {
+      "name": "Notionotus dilucidus Queney, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931160"
+    }
+,
+    {
+      "name": "Notionotus shorti Queney, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758885"
+    }
+,
+    {
+      "name": "Notionotus lohezi Queney, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/758884"
+    }
+
+  ]
+}

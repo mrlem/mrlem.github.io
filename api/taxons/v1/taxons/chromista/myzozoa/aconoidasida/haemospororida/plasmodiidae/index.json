@@ -1,0 +1,32 @@
+
+{
+  "name": "plasmodiidae",
+  "children": [
+
+    {
+      "name": "Plasmodiidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Plasmodium Marchiafava & Celli, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Plasmodium falciparum Welch, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/840915"
+    }
+,
+    {
+      "name": "Plasmodium relictum (Grassi & Feletti, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965369"
+    }
+,
+    {
+      "name": "Haemamoeba relicta Grassi & Feletti, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965370"
+    }
+
+  ]
+}

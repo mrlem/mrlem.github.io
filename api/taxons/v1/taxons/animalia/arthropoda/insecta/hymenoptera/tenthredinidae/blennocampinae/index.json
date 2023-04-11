@@ -1,0 +1,32 @@
+
+{
+  "name": "blennocampinae",
+  "children": [
+
+    {
+      "name": "Blennocampinae Konow, 1890",
+      "url": ""
+    }
+,
+    {
+      "name": "blennocampini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/blennocampinae/blennocampini/"
+    }
+,
+    {
+      "name": "phymatocerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/blennocampinae/phymatocerini/"
+    }
+,
+    {
+      "name": "tomostethini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/blennocampinae/tomostethini/"
+    }
+,
+    {
+      "name": "waldheimiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/tenthredinidae/blennocampinae/waldheimiini/"
+    }
+
+  ]
+}

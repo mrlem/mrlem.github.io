@@ -1,0 +1,32 @@
+
+{
+  "name": "diparinae",
+  "children": [
+
+    {
+      "name": "Diparinae C.G. Thomson, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "diparini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/pteromalidae/diparinae/diparini/"
+    }
+,
+    {
+      "name": "Pseudoceraphron Dodd, 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoceraphron burwelli Desjardins, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792446"
+    }
+,
+    {
+      "name": "netomocerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/pteromalidae/diparinae/netomocerini/"
+    }
+
+  ]
+}

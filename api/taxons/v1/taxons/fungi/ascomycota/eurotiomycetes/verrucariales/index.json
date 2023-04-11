@@ -1,0 +1,22 @@
+
+{
+  "name": "verrucariales",
+  "children": [
+
+    {
+      "name": "Verrucariales Mattick ex D.Hawksw. & O.E.Erikss., 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "adelococcaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/verrucariales/adelococcaceae/"
+    }
+,
+    {
+      "name": "verrucariaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/verrucariales/verrucariaceae/"
+    }
+
+  ]
+}

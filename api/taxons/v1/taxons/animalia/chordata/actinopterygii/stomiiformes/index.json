@@ -1,0 +1,32 @@
+
+{
+  "name": "stomiiformes",
+  "children": [
+
+    {
+      "name": "Stomiiformes ",
+      "url": ""
+    }
+,
+    {
+      "name": "gonostomatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/stomiiformes/gonostomatidae/"
+    }
+,
+    {
+      "name": "phosichthyidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/stomiiformes/phosichthyidae/"
+    }
+,
+    {
+      "name": "sternoptychidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/stomiiformes/sternoptychidae/"
+    }
+,
+    {
+      "name": "stomiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/stomiiformes/stomiidae/"
+    }
+
+  ]
+}

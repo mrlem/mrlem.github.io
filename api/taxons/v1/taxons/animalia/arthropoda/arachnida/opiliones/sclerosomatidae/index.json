@@ -1,0 +1,42 @@
+
+{
+  "name": "sclerosomatidae",
+  "children": [
+
+    {
+      "name": "Sclerosomatidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "gagrellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/opiliones/sclerosomatidae/gagrellinae/"
+    }
+,
+    {
+      "name": "Astrobunus grallator Simon, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/337342"
+    }
+,
+    {
+      "name": "Mastobunus Simon, 1879",
+      "url": ""
+    }
+,
+    {
+      "name": "Mastobunus tuberculifer (Lucas, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/337373"
+    }
+,
+    {
+      "name": "Phalangium tuberculifer Lucas, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1011517"
+    }
+,
+    {
+      "name": "leiobuninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/opiliones/sclerosomatidae/leiobuninae/"
+    }
+
+  ]
+}

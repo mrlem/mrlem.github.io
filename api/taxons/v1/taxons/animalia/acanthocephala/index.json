@@ -1,0 +1,27 @@
+
+{
+  "name": "acanthocephala",
+  "children": [
+
+    {
+      "name": "Acanthocephala Kölreuter, 1771",
+      "url": ""
+    }
+,
+    {
+      "name": "archiacanthocephala",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/acanthocephala/archiacanthocephala/"
+    }
+,
+    {
+      "name": "eoacanthocephala",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/acanthocephala/eoacanthocephala/"
+    }
+,
+    {
+      "name": "palaeacanthocephala",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/acanthocephala/palaeacanthocephala/"
+    }
+
+  ]
+}

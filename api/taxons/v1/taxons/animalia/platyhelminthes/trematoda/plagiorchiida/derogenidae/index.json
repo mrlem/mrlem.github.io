@@ -1,0 +1,47 @@
+
+{
+  "name": "derogenidae",
+  "children": [
+
+    {
+      "name": "Derogenidae Nicoll, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Halipegidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "derogeninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/derogenidae/derogeninae/"
+    }
+,
+    {
+      "name": "gonocercinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/derogenidae/gonocercinae/"
+    }
+,
+    {
+      "name": "halipeginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/platyhelminthes/trematoda/plagiorchiida/derogenidae/halipeginae/"
+    }
+,
+    {
+      "name": "Halipegus Looss, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Halipegus ovocaudatus (Vulpian, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/236812"
+    }
+,
+    {
+      "name": "Distoma ovocaudatus Vulpian, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/959363"
+    }
+
+  ]
+}

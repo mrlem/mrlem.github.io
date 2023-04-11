@@ -1,0 +1,952 @@
+
+{
+  "name": "bombini",
+  "children": [
+
+    {
+      "name": "Bombini Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Bombus Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Bombus alpinus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239526"
+    }
+,
+    {
+      "name": "Apis alpina Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850292"
+    }
+,
+    {
+      "name": "Bombus argillaceus (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239527"
+    }
+,
+    {
+      "name": "Apis argillacea Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815864"
+    }
+,
+    {
+      "name": "Bombus ruderatus argillaceus (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000799"
+    }
+,
+    {
+      "name": "Bombus atratus Franklin, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753489"
+    }
+,
+    {
+      "name": "Bombus barbutellus (Kirby, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239528"
+    }
+,
+    {
+      "name": "Apis barbutella Kirby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996830"
+    }
+,
+    {
+      "name": "Bombus maxillosus Klug in Germar, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239541"
+    }
+,
+    {
+      "name": "Psithyrus vestalis leucoproctus Lepeletier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000805"
+    }
+,
+    {
+      "name": "Bombus bohemicus Seidl, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239529"
+    }
+,
+    {
+      "name": "Psithyrus distinctus Pérez, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000807"
+    }
+,
+    {
+      "name": "Bombus brodmannicus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239530"
+    }
+,
+    {
+      "name": "Bombus pyrenaeus brodmannicus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998855"
+    }
+,
+    {
+      "name": "Bombus campestris (Panzer, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239531"
+    }
+,
+    {
+      "name": "Apis campestris Panzer, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998858"
+    }
+,
+    {
+      "name": "Bombus brodmannicus delmasi (Tkalců, 1973)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816766"
+    }
+,
+    {
+      "name": "Psithyrus varius Lepeletier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998991"
+    }
+,
+    {
+      "name": "Bombus confusus Schenck, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239532"
+    }
+,
+    {
+      "name": "Bombus cryptarum (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/718500"
+    }
+,
+    {
+      "name": "Apis cryptarum Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998859"
+    }
+,
+    {
+      "name": "Bombus cullumanus (Kirby, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53093"
+    }
+,
+    {
+      "name": "Apis cullumana Kirby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996832"
+    }
+,
+    {
+      "name": "Pyrobombus cullumanus (Kirby, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416993"
+    }
+,
+    {
+      "name": "Bombus distinguendus Morawitz, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239533"
+    }
+,
+    {
+      "name": "Bombus distenguendus Morawitz, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53094"
+    }
+,
+    {
+      "name": "Megabombus distinguendus Morawitz, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416987"
+    }
+,
+    {
+      "name": "Bombus flavidus Eversmann, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239534"
+    }
+,
+    {
+      "name": "Psithyrus quadricolor lutescens Pérez, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000838"
+    }
+,
+    {
+      "name": "Bombus frigidus Smith, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780785"
+    }
+,
+    {
+      "name": "Bombus gerstaeckeri Morawitz, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239535"
+    }
+,
+    {
+      "name": "Bombus opulentus Gerstäcker, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996790"
+    }
+,
+    {
+      "name": "Bombus hortorum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53095"
+    }
+,
+    {
+      "name": "Apis hortorum Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998860"
+    }
+,
+    {
+      "name": "Bombus corsicus Schulthess-Rechberg, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000837"
+    }
+,
+    {
+      "name": "Bombus hortorum hortorum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008707"
+    }
+,
+    {
+      "name": "Bombus hortorum var. nigricans Schmiedeknecht, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008740"
+    }
+,
+    {
+      "name": "Bombus hortorum jonghei Rasmont & Adamski, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008708"
+    }
+,
+    {
+      "name": "Bombus humilis Illiger, 1806",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239536"
+    }
+,
+    {
+      "name": "Bombus helferanus quasimuscorum Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000822"
+    }
+,
+    {
+      "name": "Bombus helferanus Seidl, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407153"
+    }
+,
+    {
+      "name": "Bombus humilis quasimuscorum Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000823"
+    }
+,
+    {
+      "name": "Bombus variabilis Schmiedeknecht, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53105"
+    }
+,
+    {
+      "name": "Bombus hypnorum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53096"
+    }
+,
+    {
+      "name": "Apis hypnorum Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850291"
+    }
+,
+    {
+      "name": "Bombus hypnorum ericetorum (Panzer, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008715"
+    }
+,
+    {
+      "name": "Apis ericetorum Panzer, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008717"
+    }
+,
+    {
+      "name": "Bombus hypnorum hypnorum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008716"
+    }
+,
+    {
+      "name": "Bombus inexspectatus (Tkalců, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239537"
+    }
+,
+    {
+      "name": "Agrobombus inexspectatus Tkalců, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998970"
+    }
+,
+    {
+      "name": "Bombus jonellus (Kirby, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239538"
+    }
+,
+    {
+      "name": "Apis jonella Kirby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996831"
+    }
+,
+    {
+      "name": "Pyrobombus jonellus (Kirby, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53071"
+    }
+,
+    {
+      "name": "Bombus laesus Morawitz, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239539"
+    }
+,
+    {
+      "name": "Bombus lapidarius (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53097"
+    }
+,
+    {
+      "name": "Apis coronata Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000635"
+    }
+,
+    {
+      "name": "Apis lapidaria Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850289"
+    }
+,
+    {
+      "name": "Pyrobombus lapidarius (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53072"
+    }
+,
+    {
+      "name": "Bombus lapidarius lapidarius (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008784"
+    }
+,
+    {
+      "name": "Bombus lucorum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53098"
+    }
+,
+    {
+      "name": "Apis lucorum Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998971"
+    }
+,
+    {
+      "name": "Bombus lucorum congruens Krüger, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000816"
+    }
+,
+    {
+      "name": "Bombus lucorum lucorum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008739"
+    }
+,
+    {
+      "name": "Bombus magnus Vogt, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239540"
+    }
+,
+    {
+      "name": "Bombus magnus luteostriatus Krüger, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000811"
+    }
+,
+    {
+      "name": "Bombus mendax Gerstäcker, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239542"
+    }
+,
+    {
+      "name": "Bombus mendax latofasciatus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000812"
+    }
+,
+    {
+      "name": "Bombus mesomelas Gerstäcker, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239543"
+    }
+,
+    {
+      "name": "Bombus elegans auct. non Seidl, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000832"
+    }
+,
+    {
+      "name": "Bombus mocsaryi Kriechbaumer, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780439"
+    }
+,
+    {
+      "name": "Bombus laesus mocsaryi Kriechbaumer, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816767"
+    }
+,
+    {
+      "name": "Bombus laesus sensu Delmas, 1945 non Morawitz, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000798"
+    }
+,
+    {
+      "name": "Bombus monticola Smith, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239544"
+    }
+,
+    {
+      "name": "Bombus lapponicus rondoui Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000813"
+    }
+,
+    {
+      "name": "Bombus montanus Smith, 1844 non Lepeletier, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998973"
+    }
+,
+    {
+      "name": "Bombus mucidus Gerstäcker, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239545"
+    }
+,
+    {
+      "name": "Bombus mucidus mollis Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997070"
+    }
+,
+    {
+      "name": "Bombus mollis Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/997071"
+    }
+,
+    {
+      "name": "Bombus mucidus mucidus Gerstäcker, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012091"
+    }
+,
+    {
+      "name": "Bombus muscorum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239546"
+    }
+,
+    {
+      "name": "Apis muscorum Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850290"
+    }
+,
+    {
+      "name": "Bombus bannitus (Popov, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/816768"
+    }
+,
+    {
+      "name": "Bombus muscorum volcarum Kruseman, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000830"
+    }
+,
+    {
+      "name": "Bombus norvegicus (Sparre-Schneider, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239547"
+    }
+,
+    {
+      "name": "Psithyrus norvegicus Sparre-Schneider, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998989"
+    }
+,
+    {
+      "name": "Bombus pascuorum (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53099"
+    }
+,
+    {
+      "name": "Apis agrorum Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407154"
+    }
+,
+    {
+      "name": "Apis pascuorum Scopoli, 1763",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998990"
+    }
+,
+    {
+      "name": "Bombus agrorum (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53092"
+    }
+,
+    {
+      "name": "Megabombus pascuorum (Scopoli, 1763)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/52371"
+    }
+,
+    {
+      "name": "Bombus pascuorum floralis (Gmelin, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008772"
+    }
+,
+    {
+      "name": "Apis floralis Gmelin, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008775"
+    }
+,
+    {
+      "name": "Bombus pascuorum freygessneri Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008742"
+    }
+,
+    {
+      "name": "Bombus freygessneri Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008768"
+    }
+,
+    {
+      "name": "Bombus pascuorum intermedius Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008748"
+    }
+,
+    {
+      "name": "Bombus pascuorum maculatus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000820"
+    }
+,
+    {
+      "name": "Bombus agrorum maculatus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000821"
+    }
+,
+    {
+      "name": "Bombus pascuorum melleofacies Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008750"
+    }
+,
+    {
+      "name": "Bombus pereziellus (Skorikov, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814741"
+    }
+,
+    {
+      "name": "Bombus pomorum (Panzer, 1802)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239549"
+    }
+,
+    {
+      "name": "Bombus rufescens Lepeletier, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000824"
+    }
+,
+    {
+      "name": "Bremus pomorum Panzer, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/998992"
+    }
+,
+    {
+      "name": "Megabombus pomorum (Panzer, 1805)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/52374"
+    }
+,
+    {
+      "name": "Bombus pratorum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53100"
+    }
+,
+    {
+      "name": "Apis pratorum Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999179"
+    }
+,
+    {
+      "name": "Apis regalis Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000666"
+    }
+,
+    {
+      "name": "Pyrobombus pratorum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53073"
+    }
+,
+    {
+      "name": "Bombus pyrenaeus Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239550"
+    }
+,
+    {
+      "name": "Bombus quadricolor (Lepeletier, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239551"
+    }
+,
+    {
+      "name": "Psithyrus quadricolor Lepeletier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999044"
+    }
+,
+    {
+      "name": "Bombus renardi Radoszkowski, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814742"
+    }
+,
+    {
+      "name": "Bombus lucorum renardi Radoszkowski, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814743"
+    }
+,
+    {
+      "name": "Bombus ruderarius (Müller, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53101"
+    }
+,
+    {
+      "name": "Apis derhamella Kirby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996827"
+    }
+,
+    {
+      "name": "Apis derhamellus Kirby, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407155"
+    }
+,
+    {
+      "name": "Apis ruderaria Müller, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999198"
+    }
+,
+    {
+      "name": "Bombus montanus Lepeletier, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000826"
+    }
+,
+    {
+      "name": "Bombus ruderarius ruderarius (Müller, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008769"
+    }
+,
+    {
+      "name": "Bombus ruderatus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239552"
+    }
+,
+    {
+      "name": "Apis ruderata Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999191"
+    }
+,
+    {
+      "name": "Megabombus ruderatus Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416988"
+    }
+,
+    {
+      "name": "Bombus ruderatus autumnalis (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985903"
+    }
+,
+    {
+      "name": "Apis autumnalis Fabricius, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999199"
+    }
+,
+    {
+      "name": "Bombus ruderatus corsicola Strand, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985901"
+    }
+,
+    {
+      "name": "Bombus ruderatus ruderatus (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985902"
+    }
+,
+    {
+      "name": "Bombus ruderatus ibericus Pittioni, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000834"
+    }
+,
+    {
+      "name": "Bombus ruderatus sardiniensis Tournier, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985899"
+    }
+,
+    {
+      "name": "Bombus rupestris (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239553"
+    }
+,
+    {
+      "name": "Apis rupestris Fabricius, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999048"
+    }
+,
+    {
+      "name": "Psithyrus interruptus Lepeletier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999046"
+    }
+,
+    {
+      "name": "Bombus rupestris rupestris (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008726"
+    }
+,
+    {
+      "name": "Bombus rupestris vasco (Lepeletier, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008725"
+    }
+,
+    {
+      "name": "Psithyrus pyrenaeus Lepeletier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999042"
+    }
+,
+    {
+      "name": "Psithyrus vasco Lepeletier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008723"
+    }
+,
+    {
+      "name": "Bombus sandersoni Franklin, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780786"
+    }
+,
+    {
+      "name": "Bombus sichelii Radoszkowski, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239554"
+    }
+,
+    {
+      "name": "Bombus alticola latofasciatus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000814"
+    }
+,
+    {
+      "name": "Bombus sicheli latofasciatus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000815"
+    }
+,
+    {
+      "name": "Bombus soroeensis (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239555"
+    }
+,
+    {
+      "name": "Apis soroeensis Fabricius, 1777",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815950"
+    }
+,
+    {
+      "name": "Bombus soroeensis lectitatus Kruseman, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946266"
+    }
+,
+    {
+      "name": "Bombus soroeensis proteus (Gerstäcker, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945832"
+    }
+,
+    {
+      "name": "Bombus Proteus Gerstäcker, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/945833"
+    }
+,
+    {
+      "name": "Bombus soroeensis soroeensis (Fabricius, 1777)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946267"
+    }
+,
+    {
+      "name": "Bombus subterraneus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239556"
+    }
+,
+    {
+      "name": "Apis subterranea Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850274"
+    }
+,
+    {
+      "name": "Bombus subterraneus tectosagorum Kruseman, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000831"
+    }
+,
+    {
+      "name": "Megabombus subterraneus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416989"
+    }
+,
+    {
+      "name": "Bombus sylvarum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53103"
+    }
+,
+    {
+      "name": "Apis sylvarum Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851157"
+    }
+,
+    {
+      "name": "Bombus nigrescens Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000829"
+    }
+,
+    {
+      "name": "Bombus sylvarum narbonensis Kruseman, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000827"
+    }
+,
+    {
+      "name": "Bombus sylvarum nigrescens Pérez, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000828"
+    }
+,
+    {
+      "name": "Megabombus sylvarum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416990"
+    }
+,
+    {
+      "name": "Bombus sylvarum sylvarum (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008724"
+    }
+,
+    {
+      "name": "Bombus sylvestris (Lepeletier, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239557"
+    }
+,
+    {
+      "name": "Psithyrus sylvestris Lepeletier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999041"
+    }
+,
+    {
+      "name": "Bombus terrestris (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53104"
+    }
+,
+    {
+      "name": "Apis terrestris Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850284"
+    }
+,
+    {
+      "name": "Bombus terrestris dalmatinus Dalla Torre, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946272"
+    }
+,
+    {
+      "name": "Bombus terrestris lusitanicus Kruger, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946268"
+    }
+,
+    {
+      "name": "Bombus terrestris sassaricus Tournier, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/986201"
+    }
+,
+    {
+      "name": "Bombus terrestris terrestris (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/946270"
+    }
+,
+    {
+      "name": "Apis virginalis Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000656"
+    }
+,
+    {
+      "name": "Bombus terricola Kirby, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780784"
+    }
+,
+    {
+      "name": "Bombus transversalis (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753804"
+    }
+,
+    {
+      "name": "Apis transversalis Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790697"
+    }
+,
+    {
+      "name": "Bombus vestalis (Geoffroy in Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239558"
+    }
+,
+    {
+      "name": "Apis vestalis Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999045"
+    }
+,
+    {
+      "name": "Psithyrus vestalis (Geoffroy in Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/53008"
+    }
+,
+    {
+      "name": "Bombus vestalis perezi (Schulthess-Rechberg, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008710"
+    }
+,
+    {
+      "name": "Bombus perezi (Schulthess-Rechberg, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239548"
+    }
+,
+    {
+      "name": "Psithyrus perezi Schulthess-Rechberg, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/815654"
+    }
+,
+    {
+      "name": "Bombus vestalis vestalis (Geoffroy in Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008712"
+    }
+,
+    {
+      "name": "Bombus veteranus (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239559"
+    }
+,
+    {
+      "name": "Apis veterana Fabricius, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999204"
+    }
+,
+    {
+      "name": "Megabombus veteranus (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/52375"
+    }
+,
+    {
+      "name": "Bombus wurflenii Radoszkowski, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/239560"
+    }
+,
+    {
+      "name": "Bombus wurflenii flavicans Pérez, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008735"
+    }
+,
+    {
+      "name": "Bombus hortorum var. flavicans Pérez, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008736"
+    }
+,
+    {
+      "name": "Bombus lefebvrei pyrenaicus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000819"
+    }
+,
+    {
+      "name": "Bombus mastrucatus pyrenaicus Vogt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000817"
+    }
+,
+    {
+      "name": "Bombus wurflenii flavicante Pérez, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008738"
+    }
+,
+    {
+      "name": "Bombus wurflenii mastrucatus Gerstäcker, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008733"
+    }
+,
+    {
+      "name": "Bombus mastrucatus Gerstäcker, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/407156"
+    }
+,
+    {
+      "name": "Bombus xanthopus Kriechbaumer, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814744"
+    }
+,
+    {
+      "name": "Bombus terrestris xanthopus Kriechbaumer, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/814745"
+    }
+
+  ]
+}

@@ -1,0 +1,37 @@
+
+{
+  "name": "cyrtocrinida",
+  "children": [
+
+    {
+      "name": "Cyrtocrinida Sieverts-Doreck, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyrtocrinina Sieverts-Doreck, 1952",
+      "url": ""
+    }
+,
+    {
+      "name": "eudesicrinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/crinoidea/cyrtocrinida/eudesicrinidae/"
+    }
+,
+    {
+      "name": "holopodidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/crinoidea/cyrtocrinida/holopodidae/"
+    }
+,
+    {
+      "name": "Holopodina Arendt, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "sclerocrinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/echinodermata/crinoidea/cyrtocrinida/sclerocrinidae/"
+    }
+
+  ]
+}

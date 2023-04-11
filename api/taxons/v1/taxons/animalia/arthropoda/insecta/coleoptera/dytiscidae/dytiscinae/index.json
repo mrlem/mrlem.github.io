@@ -1,0 +1,42 @@
+
+{
+  "name": "dytiscinae",
+  "children": [
+
+    {
+      "name": "Dytiscinae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "aciliini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/dytiscinae/aciliini/"
+    }
+,
+    {
+      "name": "aubehydrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/dytiscinae/aubehydrini/"
+    }
+,
+    {
+      "name": "cybistrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/dytiscinae/cybistrini/"
+    }
+,
+    {
+      "name": "dytiscini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/dytiscinae/dytiscini/"
+    }
+,
+    {
+      "name": "eretini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/dytiscinae/eretini/"
+    }
+,
+    {
+      "name": "hydaticini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/dytiscidae/dytiscinae/hydaticini/"
+    }
+
+  ]
+}

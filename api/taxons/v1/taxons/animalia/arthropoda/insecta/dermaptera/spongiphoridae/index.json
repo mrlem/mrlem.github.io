@@ -1,0 +1,52 @@
+
+{
+  "name": "spongiphoridae",
+  "children": [
+
+    {
+      "name": "Spongiphoridae Verhoeff, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Labiidae Burr, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "caecolabiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/spongiphoridae/caecolabiinae/"
+    }
+,
+    {
+      "name": "cosmogeracinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/spongiphoridae/cosmogeracinae/"
+    }
+,
+    {
+      "name": "geracinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/spongiphoridae/geracinae/"
+    }
+,
+    {
+      "name": "labiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/spongiphoridae/labiinae/"
+    }
+,
+    {
+      "name": "nesogastrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/spongiphoridae/nesogastrinae/"
+    }
+,
+    {
+      "name": "sparattinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/spongiphoridae/sparattinae/"
+    }
+,
+    {
+      "name": "spongiphorinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/dermaptera/spongiphoridae/spongiphorinae/"
+    }
+
+  ]
+}

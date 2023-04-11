@@ -1,0 +1,22 @@
+
+{
+  "name": "charipinae",
+  "children": [
+
+    {
+      "name": "Charipinae Dalla Torre & Kieffer, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "alloxystini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/figitidae/charipinae/alloxystini/"
+    }
+,
+    {
+      "name": "charipini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/figitidae/charipinae/charipini/"
+    }
+
+  ]
+}

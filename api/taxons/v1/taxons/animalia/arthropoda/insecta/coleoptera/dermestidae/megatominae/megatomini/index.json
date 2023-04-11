@@ -1,0 +1,537 @@
+
+{
+  "name": "megatomini",
+  "children": [
+
+    {
+      "name": "Megatomini Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthrenocerus Arrow, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Anthrenocerus australis (Hope, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/279151"
+    }
+,
+    {
+      "name": "Anthrenus australis Hope, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801321"
+    }
+,
+    {
+      "name": "Anthrenocerus variabilis (Reitter, 1881)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836373"
+    }
+,
+    {
+      "name": "Cryptorhopalum variabile Reitter, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910258"
+    }
+,
+    {
+      "name": "Caccoleptoides Herrmann, Hava & Kadej, 2015",
+      "url": ""
+    }
+,
+    {
+      "name": "Caccoleptoides guianense Herrmann, Hava & Kadej, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791448"
+    }
+,
+    {
+      "name": "Cryptorhopalum Guérin-Méneville, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptorhopalum atrum Pic, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760140"
+    }
+,
+    {
+      "name": "Cryptorhopalum brulei Herrmann & Háva, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760141"
+    }
+,
+    {
+      "name": "Cryptorhopalum calvum Hava, Herrmann & Kadej, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821818"
+    }
+,
+    {
+      "name": "Cryptorhopalum decoratum Hermann, Hava & Kadej, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883820"
+    }
+,
+    {
+      "name": "Cryptorhopalum difficile Reitter, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756133"
+    }
+,
+    {
+      "name": "Cryptorhopalum ducale Sharp, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883822"
+    }
+,
+    {
+      "name": "Cryptorhopalum eximium Arrow, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756134"
+    }
+,
+    {
+      "name": "Cryptorhopalum orbiculosum Reitter, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756201"
+    }
+,
+    {
+      "name": "Cryptorhopalum panthera Herrmann, Hava & Kadej, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777023"
+    }
+,
+    {
+      "name": "Cryptorhopalum pellitum Hermann, Hava & Kadej, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883821"
+    }
+,
+    {
+      "name": "Cryptorhopalum quadripunctatum Guérin-Méneville, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756128"
+    }
+,
+    {
+      "name": "Cryptorhopalum rubromaculatum Herrmann, Hava & Kadej, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/822064"
+    }
+,
+    {
+      "name": "Cryptorhopalum sexsignatum Reitter, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/756129"
+    }
+,
+    {
+      "name": "Cryptorhopalum stachi Mroczkowski, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883823"
+    }
+,
+    {
+      "name": "Cryptorhopalum viridipubens Pic, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/760139"
+    }
+,
+    {
+      "name": "Ctesias Stephens, 1830",
+      "url": ""
+    }
+,
+    {
+      "name": "Ctesias serra (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223321"
+    }
+,
+    {
+      "name": "Dermestes serra Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801322"
+    }
+,
+    {
+      "name": "Globicornis Latreille, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Elania Mulsant & Rey, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Globicornis bifasciata (Perris, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223308"
+    }
+,
+    {
+      "name": "Hadrotoma bifasciata Perris, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801323"
+    }
+,
+    {
+      "name": "Globicornis corticalis (Eichhoff, 1863)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/279143"
+    }
+,
+    {
+      "name": "Hadrotoma corticalis Eichhoff, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801329"
+    }
+,
+    {
+      "name": "Globicornis depressa (Mulsant & Rey, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223306"
+    }
+,
+    {
+      "name": "Hadrotoma depressa Mulsant & Rey, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801328"
+    }
+,
+    {
+      "name": "Globicornis emarginata (Gyllenhal, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223312"
+    }
+,
+    {
+      "name": "Dermestes emarginata Gyllenhal, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801330"
+    }
+,
+    {
+      "name": "Dermestes marginata Paykull, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396557"
+    }
+,
+    {
+      "name": "Globicornis fasciata (Fairmaire & Brisout de Barneville, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223309"
+    }
+,
+    {
+      "name": "Hadrotoma fasciata Fairmaire & Brisout de Barneville, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801324"
+    }
+,
+    {
+      "name": "Globicornis nigripes (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223310"
+    }
+,
+    {
+      "name": "Dermestes nigripes Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801325"
+    }
+,
+    {
+      "name": "Globicornis picta (Küster, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/279141"
+    }
+,
+    {
+      "name": "Trogoderma picta Küster, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801326"
+    }
+,
+    {
+      "name": "Globicornis sulcata (Brisout de Barneville, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223313"
+    }
+,
+    {
+      "name": "Hadrotoma sulcata Brisout de Barneville, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801331"
+    }
+,
+    {
+      "name": "Globicornis variegata (Küster, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223311"
+    }
+,
+    {
+      "name": "Trogoderma variegata Küster, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801327"
+    }
+,
+    {
+      "name": "Globicornis Latreille, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Hadrotoma Erichson, 1846",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemirhopalum Sharp, 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemirhopalum baenai Háva, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852523"
+    }
+,
+    {
+      "name": "Megatoma Herbst, 1791",
+      "url": ""
+    }
+,
+    {
+      "name": "Megatoma alpina (Pic, 1912)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014667"
+    }
+,
+    {
+      "name": "Globicornis alpina Pic, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223307"
+    }
+,
+    {
+      "name": "Megatoma pubescens (Zetterstedt, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/279138"
+    }
+,
+    {
+      "name": "Dermestes pubescens Zetterstedt, 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801332"
+    }
+,
+    {
+      "name": "Megatoma ruficornis Aubé, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223304"
+    }
+,
+    {
+      "name": "Megatoma pici Kalík, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396556"
+    }
+,
+    {
+      "name": "Megatoma rufovittata Abeille, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396555"
+    }
+,
+    {
+      "name": "Megatoma undata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223305"
+    }
+,
+    {
+      "name": "Dermestes undatus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801333"
+    }
+,
+    {
+      "name": "Pseudohadrotoma Kalík, 1949",
+      "url": ""
+    }
+,
+    {
+      "name": "Orphinus Motschulsky, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Orphinus binotatus Pic, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810416"
+    }
+,
+    {
+      "name": "Orphinus fulvipes (Guérin-Méneville, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223320"
+    }
+,
+    {
+      "name": "Globicornis fulvipes Guérin-Méneville, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910257"
+    }
+,
+    {
+      "name": "Trogoderma fulvipes (Guérin-Méneville, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920521"
+    }
+,
+    {
+      "name": "Orphinus terminalis (Sharp in Blackburn & Sharp, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775784"
+    }
+,
+    {
+      "name": "Phradonoma Jacquelin du Val, 1859",
+      "url": ""
+    }
+,
+    {
+      "name": "Phradonoma villosulum (Duftschmid, 1825)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223319"
+    }
+,
+    {
+      "name": "Anthrenus villosulum Duftschmid, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801334"
+    }
+,
+    {
+      "name": "Reesa Beal, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Reesa vespulae (Milliron, 1939)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223318"
+    }
+,
+    {
+      "name": "Perimegatoma vespulae Milliron, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801335"
+    }
+,
+    {
+      "name": "Thaumaglossa Redtenbacher, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Thaumaglossa anthrenoides (Pic, 1918)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843361"
+    }
+,
+    {
+      "name": "Pseudothaumaglossa anthrenoides Pic, 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907190"
+    }
+,
+    {
+      "name": "Thaumaglossa navratili Háva, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883824"
+    }
+,
+    {
+      "name": "Trogoderma Dejean, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Trogoderma albonotatum Reiche, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698731"
+    }
+,
+    {
+      "name": "Trogoderma angustum (Solier, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/279146"
+    }
+,
+    {
+      "name": "Eurhopalus angustum Solier, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801336"
+    }
+,
+    {
+      "name": "Trogoderma anthrenoides (Sharp, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775785"
+    }
+,
+    {
+      "name": "Trogoderma asperatum Fauvel, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836366"
+    }
+,
+    {
+      "name": "Trogoderma caledonica Háva, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836369"
+    }
+,
+    {
+      "name": "Trogoderma fauveli Háva, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1014665"
+    }
+,
+    {
+      "name": "Trogoderma glabrum (Herbst, 1783)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223314"
+    }
+,
+    {
+      "name": "Anthrenus glabrum Herbst, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801337"
+    }
+,
+    {
+      "name": "Anthrenus niger Herbst, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797101"
+    }
+,
+    {
+      "name": "Anthrenus nigrum Herbst, 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396558"
+    }
+,
+    {
+      "name": "Trogoderma boron Beal, 1954",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396559"
+    }
+,
+    {
+      "name": "Trogoderma fuscicornis Mulsant & Rey, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/798261"
+    }
+,
+    {
+      "name": "Trogoderma granarium Everts, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/279147"
+    }
+,
+    {
+      "name": "Trogoderma khapra Arrow, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/798262"
+    }
+,
+    {
+      "name": "Trogoderma inclusum LeConte, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/279148"
+    }
+,
+    {
+      "name": "Trogoderma krejciki Háva, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821711"
+    }
+,
+    {
+      "name": "Trogoderma lescheni Háva, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836370"
+    }
+,
+    {
+      "name": "Trogoderma megatomoides Reitter, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223315"
+    }
+,
+    {
+      "name": "Trogoderma millei Háva, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836368"
+    }
+,
+    {
+      "name": "Trogoderma quinquefasciatum Jacquelin du Val, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223316"
+    }
+,
+    {
+      "name": "Trogoderma versicolor (Creutzer, 1799)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223317"
+    }
+,
+    {
+      "name": "Anthrenus versicolor Creutzer, 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/279168"
+    }
+,
+    {
+      "name": "Trogoderma vulneratum Fauvel, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/836367"
+    }
+,
+    {
+      "name": "Valdesetosum Háva, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Valdesetosum atrum Háva, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/843360"
+    }
+
+  ]
+}

@@ -1,0 +1,37 @@
+
+{
+  "name": "pedinae",
+  "children": [
+
+    {
+      "name": "Pedinae Bronn, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "chlamydini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/pectinida/pectinidae/pedinae/chlamydini/"
+    }
+,
+    {
+      "name": "crassadomini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/pectinida/pectinidae/pedinae/crassadomini/"
+    }
+,
+    {
+      "name": "fortipectinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/pectinida/pectinidae/pedinae/fortipectinini/"
+    }
+,
+    {
+      "name": "mimachlamydini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/pectinida/pectinidae/pedinae/mimachlamydini/"
+    }
+,
+    {
+      "name": "pedini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/mollusca/bivalvia/pectinida/pectinidae/pedinae/pedini/"
+    }
+
+  ]
+}

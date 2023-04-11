@@ -1,0 +1,27 @@
+
+{
+  "name": "pseudophasmatidae",
+  "children": [
+
+    {
+      "name": "Pseudophasmatidae Bradley & Galil, 1977",
+      "url": ""
+    }
+,
+    {
+      "name": "pseudophasmatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/phasmida/pseudophasmatidae/pseudophasmatinae/"
+    }
+,
+    {
+      "name": "stratocleinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/phasmida/pseudophasmatidae/stratocleinae/"
+    }
+,
+    {
+      "name": "xerosomatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/phasmida/pseudophasmatidae/xerosomatinae/"
+    }
+
+  ]
+}

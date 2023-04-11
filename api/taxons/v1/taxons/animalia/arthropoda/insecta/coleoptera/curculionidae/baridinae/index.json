@@ -1,0 +1,47 @@
+
+{
+  "name": "baridinae",
+  "children": [
+
+    {
+      "name": "Baridinae Schönherr, 1836",
+      "url": ""
+    }
+,
+    {
+      "name": "ambatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/baridinae/ambatini/"
+    }
+,
+    {
+      "name": "apostasimerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/baridinae/apostasimerini/"
+    }
+,
+    {
+      "name": "baridini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/baridinae/baridini/"
+    }
+,
+    {
+      "name": "madarini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/baridinae/madarini/"
+    }
+,
+    {
+      "name": "optatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/baridinae/optatini/"
+    }
+,
+    {
+      "name": "pantotelini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/baridinae/pantotelini/"
+    }
+,
+    {
+      "name": "peridinetini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/baridinae/peridinetini/"
+    }
+
+  ]
+}

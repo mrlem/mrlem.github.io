@@ -1,0 +1,32 @@
+
+{
+  "name": "ulmaridae",
+  "children": [
+
+    {
+      "name": "Ulmaridae Haeckel, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Ulmariidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "aureliinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/semaeostomeae/ulmaridae/aureliinae/"
+    }
+,
+    {
+      "name": "poraliinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/semaeostomeae/ulmaridae/poraliinae/"
+    }
+,
+    {
+      "name": "ulmarinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/cnidaria/scyphozoa/semaeostomeae/ulmaridae/ulmarinae/"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "rhizophlyctidales",
+  "children": [
+
+    {
+      "name": "Rhizophlyctidales Letcher, 2008",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhizophydiales Letcher, 2006",
+      "url": ""
+    }
+,
+    {
+      "name": "Batrachochytrium Longcore, Pessier & D.K.Nichols, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Batrachochytrium dendrobatidis Longcore, Pessier & D.K.Nichols, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/532931"
+    }
+
+  ]
+}

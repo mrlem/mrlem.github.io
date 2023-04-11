@@ -1,0 +1,957 @@
+
+{
+  "name": "nystaleinae",
+  "children": [
+
+    {
+      "name": "Nystaleinae Forbes, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "Bardaxima Walker, 1858",
+      "url": ""
+    }
+,
+    {
+      "name": "Gisara Schaus, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Gozarta Walker, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Bardaxima ionia (Druce, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751185"
+    }
+,
+    {
+      "name": "Bardaxima metcalfi (Schaus, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751188"
+    }
+,
+    {
+      "name": "Gisara ambigua Dyar, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989906"
+    }
+,
+    {
+      "name": "Gisara ionia (Druce, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955932"
+    }
+,
+    {
+      "name": "Gisara metcalfi Schaus, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955933"
+    }
+,
+    {
+      "name": "Heterocampa ionia Druce, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989901"
+    }
+,
+    {
+      "name": "Symmerista albolimbata Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989904"
+    }
+,
+    {
+      "name": "Bardaxima lucilinea Walker, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751186"
+    }
+,
+    {
+      "name": "Bardaxima marcida (C. Felder, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751187"
+    }
+,
+    {
+      "name": "Gisara marcida (C. Felder, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955930"
+    }
+,
+    {
+      "name": "Nystalea marcida C. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955931"
+    }
+,
+    {
+      "name": "Bardaxima procne (Schaus, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751192"
+    }
+,
+    {
+      "name": "Bardaxima meyeri (Schaus, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751189"
+    }
+,
+    {
+      "name": "Gisara meyeri Schaus, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813557"
+    }
+,
+    {
+      "name": "Gisara procne (Schaus, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955934"
+    }
+,
+    {
+      "name": "Symmerista procne Schaus, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956707"
+    }
+,
+    {
+      "name": "Bardaxima sambana (Druce, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989760"
+    }
+,
+    {
+      "name": "Bardaxima belizensis Thiaucourt, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989909"
+    }
+,
+    {
+      "name": "Bardaxima bolivari Thiaucourt, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751184"
+    }
+,
+    {
+      "name": "Bardaxima coloradorum Thiaucourt, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989910"
+    }
+,
+    {
+      "name": "Gisara brewsteri f. panamensis Draudt, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989908"
+    }
+,
+    {
+      "name": "Nystalea sambana Druce, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989761"
+    }
+,
+    {
+      "name": "Bardaxima subrutila (Dognin, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813472"
+    }
+,
+    {
+      "name": "Gisara subrutila Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813473"
+    }
+,
+    {
+      "name": "Calledema Butler, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Calledema arema Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751194"
+    }
+,
+    {
+      "name": "Calledema argenta Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751195"
+    }
+,
+    {
+      "name": "Calledema contingata (Möschler, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751196"
+    }
+,
+    {
+      "name": "Calledema jocasta Schaus, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751257"
+    }
+,
+    {
+      "name": "Calledema marmorea Butler, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751258"
+    }
+,
+    {
+      "name": "Calledema plusia (R. Felder, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751259"
+    }
+,
+    {
+      "name": "Nystalea plusia R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955868"
+    }
+,
+    {
+      "name": "Calledema plusioides (R. Felder, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751260"
+    }
+,
+    {
+      "name": "Nystalea plusioides R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955936"
+    }
+,
+    {
+      "name": "Calledema rufescens (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751261"
+    }
+,
+    {
+      "name": "Pseudantiora rufescens Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956896"
+    }
+,
+    {
+      "name": "Calledema sodalis Butler, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751262"
+    }
+,
+    {
+      "name": "Calledema Butler, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudantoria Kirby, 1892",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasylophia Packard, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasylophia guarana (Schaus, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751263"
+    }
+,
+    {
+      "name": "Oedemasia guarana Schaus, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956709"
+    }
+,
+    {
+      "name": "Dasylophia lucia Schaus, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641736"
+    }
+,
+    {
+      "name": "Dasylophia robusta Jones, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751264"
+    }
+,
+    {
+      "name": "Dasylophia russula Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813571"
+    }
+,
+    {
+      "name": "Dasylophia terrena (Schaus, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751265"
+    }
+,
+    {
+      "name": "Oedemasia terrena Schaus, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956710"
+    }
+,
+    {
+      "name": "Dasylophia xylinata Walker, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/811995"
+    }
+,
+    {
+      "name": "Edema Walker, 1855",
+      "url": ""
+    }
+,
+    {
+      "name": "Edema pulchra Butler, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/750762"
+    }
+,
+    {
+      "name": "Elasmia Möschler, 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Elasmia perses (Druce, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989763"
+    }
+,
+    {
+      "name": "Bardaxima demera Schaus, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989914"
+    }
+,
+    {
+      "name": "Bardaxima perses (Druce, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751191"
+    }
+,
+    {
+      "name": "Heterocampa perses Druce, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989913"
+    }
+,
+    {
+      "name": "Elasmia pronax (Dognin, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751266"
+    }
+,
+    {
+      "name": "Hippia pronax Dognin, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813462"
+    }
+,
+    {
+      "name": "Elasmia schausi Dyar, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751267"
+    }
+,
+    {
+      "name": "Elymiotis Walker, 1857",
+      "url": ""
+    }
+,
+    {
+      "name": "Elymiotis ancora (R. Felder, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751268"
+    }
+,
+    {
+      "name": "Nystalea ancora R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955940"
+    }
+,
+    {
+      "name": "Elymiotis attenuata (Walker, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751269"
+    }
+,
+    {
+      "name": "Elymiotis boisil Schaus, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751270"
+    }
+,
+    {
+      "name": "Elymiotis complicata (Dognin, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813574"
+    }
+,
+    {
+      "name": "Gisara complicata Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813575"
+    }
+,
+    {
+      "name": "Elymiotis corana Schaus, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813551"
+    }
+,
+    {
+      "name": "Elymiotis longara (Stoll, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751271"
+    }
+,
+    {
+      "name": "Elymiotis morana Schaus, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813552"
+    }
+,
+    {
+      "name": "Hippia Möschler, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Hippia mumetes (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751272"
+    }
+,
+    {
+      "name": "Hippia albopicta Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813572"
+    }
+,
+    {
+      "name": "Hippia punctillum Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813460"
+    }
+,
+    {
+      "name": "Hippia salandera Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957894"
+    }
+,
+    {
+      "name": "Marthula salandera (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751347"
+    }
+,
+    {
+      "name": "Kryptokalos Weller, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Kryptokalos cilla (Dognin, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751273"
+    }
+,
+    {
+      "name": "Hippia cilla Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813461"
+    }
+,
+    {
+      "name": "Lepasta Möschler, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Ankale Weller, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Lepasta asaphina Schaus, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751275"
+    }
+,
+    {
+      "name": "Lepasta brabilla Dognin, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751276"
+    }
+,
+    {
+      "name": "Lepasta bractea (R. Felder, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751277"
+    }
+,
+    {
+      "name": "Nystalea bractea R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955946"
+    }
+,
+    {
+      "name": "Lepasta grammodes (R. Felder, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751278"
+    }
+,
+    {
+      "name": "Nystalea grammodes R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/955867"
+    }
+,
+    {
+      "name": "Lepasta lignistriata Schaus, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751279"
+    }
+,
+    {
+      "name": "Lepasta maltha Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956859"
+    }
+,
+    {
+      "name": "Ankale maltha (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751179"
+    }
+,
+    {
+      "name": "Lepasta maonica Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956862"
+    }
+,
+    {
+      "name": "Ankale maonica (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751180"
+    }
+,
+    {
+      "name": "Lepasta mixta Möschler, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956860"
+    }
+,
+    {
+      "name": "Ankale mixta (Möschler, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751181"
+    }
+,
+    {
+      "name": "Lepasta olivescens (Dognin, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956861"
+    }
+,
+    {
+      "name": "Ankale olivescens (Dognin, 1916)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751182"
+    }
+,
+    {
+      "name": "Lepasta viridis Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956863"
+    }
+,
+    {
+      "name": "Ankale viridis (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751183"
+    }
+,
+    {
+      "name": "Lyricinus Weller, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Lyricinus xylophasioides (Butler, 1878)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751280"
+    }
+,
+    {
+      "name": "Etobesa xylophasioides Butler, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984206"
+    }
+,
+    {
+      "name": "Marthula Walker, 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Marthula albiplaga Thiaucourt, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797651"
+    }
+,
+    {
+      "name": "Marthula albopunctata Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813569"
+    }
+,
+    {
+      "name": "Marthula grisescens Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751281"
+    }
+,
+    {
+      "name": "Marthula minna Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751282"
+    }
+,
+    {
+      "name": "Marthula multifascia Walker, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751283"
+    }
+,
+    {
+      "name": "Marthula ochreata (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751284"
+    }
+,
+    {
+      "name": "Phastia ochreata Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957893"
+    }
+,
+    {
+      "name": "Marthula pleione Schaus, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751285"
+    }
+,
+    {
+      "name": "Marthula quadrata Walker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751286"
+    }
+,
+    {
+      "name": "Marthula sammuti Thiaucourt, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797652"
+    }
+,
+    {
+      "name": "Marthula thoreda Schaus, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813553"
+    }
+,
+    {
+      "name": "Notoplusia Schaus, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Notoplusia clara (Stoll, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751348"
+    }
+,
+    {
+      "name": "Notoplusia flavodiscata (Dognin, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751349"
+    }
+,
+    {
+      "name": "Notoplusia joanna Thiaucourt, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751350"
+    }
+,
+    {
+      "name": "Notoplusia menica Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/967864"
+    }
+,
+    {
+      "name": "Notoplusia minuta (Druce, 1900)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751351"
+    }
+,
+    {
+      "name": "Notoplusia oyapoca Schaus, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751352"
+    }
+,
+    {
+      "name": "Nystalea Guenée, 1852",
+      "url": ""
+    }
+,
+    {
+      "name": "Nystalea aequipars Walker, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641724"
+    }
+,
+    {
+      "name": "Nystalea albipicta Schaus, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751353"
+    }
+,
+    {
+      "name": "Nystalea arimathea Schaus, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751354"
+    }
+,
+    {
+      "name": "Nystalea caranavi Thiaucourt, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751355"
+    }
+,
+    {
+      "name": "Nystalea corrusca Schaus, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751356"
+    }
+,
+    {
+      "name": "Nystalea difficilis Draudt, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751357"
+    }
+,
+    {
+      "name": "Nystalea drucei Schaus, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751358"
+    }
+,
+    {
+      "name": "Nystalea ebalea (Stoll, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641723"
+    }
+,
+    {
+      "name": "Nystalea forfex (Dognin, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751359"
+    }
+,
+    {
+      "name": "Tachuda forfex Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813459"
+    }
+,
+    {
+      "name": "Nystalea guzmani Schaus, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751360"
+    }
+,
+    {
+      "name": "Nystalea idonea Walker, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751361"
+    }
+,
+    {
+      "name": "Nystalea inguicularis Thiaucourt, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751362"
+    }
+,
+    {
+      "name": "Nystalea joanna (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751363"
+    }
+,
+    {
+      "name": "Proelymiotis joanna Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957907"
+    }
+,
+    {
+      "name": "Nystalea kayei (Schaus, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751364"
+    }
+,
+    {
+      "name": "Nystalea laurena (Schaus, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751365"
+    }
+,
+    {
+      "name": "Nystalea lineiplena Walker, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751366"
+    }
+,
+    {
+      "name": "Nystalea longicornis R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751367"
+    }
+,
+    {
+      "name": "Nystalea malga Schaus, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751368"
+    }
+,
+    {
+      "name": "Nystalea marmorea Schaus, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751369"
+    }
+,
+    {
+      "name": "Nystalea marona Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759942"
+    }
+,
+    {
+      "name": "Nystalea multiplex Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751371"
+    }
+,
+    {
+      "name": "Nystalea nyseus (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/641722"
+    }
+,
+    {
+      "name": "Nystalea ocellata Rothschild, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751372"
+    }
+,
+    {
+      "name": "Nystalea olivescens Dognin, 1916",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751373"
+    }
+,
+    {
+      "name": "Nystalea picta Dognin, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751374"
+    }
+,
+    {
+      "name": "Nystalea plumipes Schaus, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751375"
+    }
+,
+    {
+      "name": "Nystalea porgana Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751376"
+    }
+,
+    {
+      "name": "Nystalea severina (Schaus, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751377"
+    }
+,
+    {
+      "name": "Nystalea squamosa Butler, 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751378"
+    }
+,
+    {
+      "name": "Nystalea striata Schaus, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749960"
+    }
+,
+    {
+      "name": "Nystalea superciliosa Guenée, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749961"
+    }
+,
+    {
+      "name": "Nystalea virgula R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749962"
+    }
+,
+    {
+      "name": "Nystalea zenzeroides Rothschild, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749963"
+    }
+,
+    {
+      "name": "Pentobesa Schaus, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Pentobesa ankistron Weller, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749964"
+    }
+,
+    {
+      "name": "Pentobesa apostatica Dyar, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749965"
+    }
+,
+    {
+      "name": "Pentobesa aroata (Schaus, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749966"
+    }
+,
+    {
+      "name": "Pentobesa densissima Dyar, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749967"
+    }
+,
+    {
+      "name": "Pentobesa lignicolor Möschler, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749968"
+    }
+,
+    {
+      "name": "Pentobesa sinistra Weller, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749969"
+    }
+,
+    {
+      "name": "Pentobesa xylinoides (Walker, 1866)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749970"
+    }
+,
+    {
+      "name": "Proelymiotis Schaus, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Proelymiotis lavana Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749971"
+    }
+,
+    {
+      "name": "Stragulodonta Becker, 2021",
+      "url": ""
+    }
+,
+    {
+      "name": "Stragulodonta stragula (Möschler, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989765"
+    }
+,
+    {
+      "name": "Bardaxima belua Draudt, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989912"
+    }
+,
+    {
+      "name": "Bardaxima stragula (Möschler, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/751193"
+    }
+,
+    {
+      "name": "Heterocampa stragula Möschler, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/989911"
+    }
+,
+    {
+      "name": "Strophocerus Möschler, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "Strophocerus albonotata Druce, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749972"
+    }
+,
+    {
+      "name": "Strophocerus cossoides Schaus, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749973"
+    }
+,
+    {
+      "name": "Strophocerus flavus Thiaucourt, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797649"
+    }
+,
+    {
+      "name": "Strophocerus flocciferus Möschler, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749974"
+    }
+,
+    {
+      "name": "Poresta striolata Dognin, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813570"
+    }
+,
+    {
+      "name": "Strophocerus hermieri Thiaucourt, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759871"
+    }
+,
+    {
+      "name": "Strophocerus lecourti Thiaucourt, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749976"
+    }
+,
+    {
+      "name": "Strophocerus maipouri Thiaucourt, 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749977"
+    }
+,
+    {
+      "name": "Strophocerus milleri Thiaucourt, 2015",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797650"
+    }
+,
+    {
+      "name": "Strophocerus orbipunctata Dognin, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749978"
+    }
+,
+    {
+      "name": "Strophocerus rectilinea (Dognin, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749979"
+    }
+,
+    {
+      "name": "Poresta rectilinea Dognin, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813458"
+    }
+,
+    {
+      "name": "Strophocerus sericea (Schaus, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749980"
+    }
+,
+    {
+      "name": "Poresta sericea Schaus, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/957956"
+    }
+,
+    {
+      "name": "Strophocerus thermesia (R. Felder, 1874)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/749981"
+    }
+,
+    {
+      "name": "Nystalea thermesia R. Felder, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956077"
+    }
+
+  ]
+}

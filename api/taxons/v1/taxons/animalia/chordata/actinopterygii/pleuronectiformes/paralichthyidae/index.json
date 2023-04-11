@@ -1,0 +1,267 @@
+
+{
+  "name": "paralichthyidae",
+  "children": [
+
+    {
+      "name": "Paralichthyidae Regan, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Ancylopsetta Gill, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Ancylopsetta cycloidea Tyler, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423240"
+    }
+,
+    {
+      "name": "Ancylopsetta kumperae Tyler, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423241"
+    }
+,
+    {
+      "name": "Citharichthys Bleeker, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Citharichthys arenaceus Evermann & Marsh, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935637"
+    }
+,
+    {
+      "name": "Citharichthys spilopterus Günther, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423841"
+    }
+,
+    {
+      "name": "Citarichthys spilopterus Günther, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589634"
+    }
+,
+    {
+      "name": "Cyclopsetta Gill, 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyclopsetta chittendeni Bean, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423949"
+    }
+,
+    {
+      "name": "Cyclopsetta fimbriata (Goode & Bean, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423950"
+    }
+,
+    {
+      "name": "Cyclopseta fimbriata (Goode & Bean, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589635"
+    }
+,
+    {
+      "name": "Hemirhombus fimbriatus Goode & Bean, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563966"
+    }
+,
+    {
+      "name": "Etropus Jordan & Gilbert, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "Etropus crossotus Jordan & Gilbert, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424184"
+    }
+,
+    {
+      "name": "Citharichthys crossotus crossotus (Jordan & Gilbert, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566292"
+    }
+,
+    {
+      "name": "Citharichthys crossotus (Jordan & Gilbert, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559266"
+    }
+,
+    {
+      "name": "Etropus crossotus crossotus Jordan & Gilbert, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565311"
+    }
+,
+    {
+      "name": "Etropus intermedius Norman, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424185"
+    }
+,
+    {
+      "name": "Pseudorhombus Bleeker, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudorhombus arsius (Hamilton, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651556"
+    }
+,
+    {
+      "name": "Pleuronectes arsius Hamilton, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693040"
+    }
+,
+    {
+      "name": "Pseudorhombus andersoni Gilchrist, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693041"
+    }
+,
+    {
+      "name": "Pseudorhombus arius (Hamilton, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/693042"
+    }
+,
+    {
+      "name": "Pseudorhombus elevatus Ogilby, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425420"
+    }
+,
+    {
+      "name": "Pseudorhombus affinis Weber, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559497"
+    }
+,
+    {
+      "name": "Syacium Ranzani, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Syacium gunteri Ginsburg, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425818"
+    }
+,
+    {
+      "name": "Scyacium gunteri Ginsburg, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589637"
+    }
+,
+    {
+      "name": "Syacium guntheri ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/461250"
+    }
+,
+    {
+      "name": "Syacium longleyi Norman, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559432"
+    }
+,
+    {
+      "name": "Syacium longreyi Norman, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589638"
+    }
+,
+    {
+      "name": "Syacium micrurum Ranzani, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418937"
+    }
+,
+    {
+      "name": "Citharichthys aethalion Jordan, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559264"
+    }
+,
+    {
+      "name": "Citharichthys ocellatus (Poey, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559267"
+    }
+,
+    {
+      "name": "Hemirhombus aethalion (Jordan, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563964"
+    }
+,
+    {
+      "name": "Hemirhombus aramaca Günther, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563965"
+    }
+,
+    {
+      "name": "Hemirhombus micrurus (Ranzani, 1842)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563967"
+    }
+,
+    {
+      "name": "Hemirhombus ocellatus (Poey, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563968"
+    }
+,
+    {
+      "name": "Hippoglossus ocellatus Poey, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/556132"
+    }
+,
+    {
+      "name": "Scyacium micrurum Ranzani, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577208"
+    }
+,
+    {
+      "name": "Syacium papillosum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418938"
+    }
+,
+    {
+      "name": "Aramaca papillosa (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564792"
+    }
+,
+    {
+      "name": "Aramaca soleaeformis (Agassiz, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564793"
+    }
+,
+    {
+      "name": "Citharichthys aramaca (Walbaum, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559265"
+    }
+,
+    {
+      "name": "Citharichthys paetulus (Jordan & Gilbert, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559268"
+    }
+,
+    {
+      "name": "Hemirhombus paetulus Jordan & Gilbert, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564073"
+    }
+,
+    {
+      "name": "Hemirhombus soleaeformis (Agassiz, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564074"
+    }
+,
+    {
+      "name": "Hippoglossus intermedius Ranzani, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/556129"
+    }
+,
+    {
+      "name": "Pleuronectes aramaca Walbaum, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/556339"
+    }
+,
+    {
+      "name": "Pleuronectes papillosus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/556373"
+    }
+,
+    {
+      "name": "Rhombus soleaeformis Agassiz, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561085"
+    }
+
+  ]
+}

@@ -1,0 +1,47 @@
+
+{
+  "name": "lampriformes",
+  "children": [
+
+    {
+      "name": "Lampriformes ",
+      "url": ""
+    }
+,
+    {
+      "name": "Lampridiformes ",
+      "url": ""
+    }
+,
+    {
+      "name": "lampridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/lampriformes/lampridae/"
+    }
+,
+    {
+      "name": "lophotidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/lampriformes/lophotidae/"
+    }
+,
+    {
+      "name": "regalecidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/lampriformes/regalecidae/"
+    }
+,
+    {
+      "name": "stylephoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/lampriformes/stylephoridae/"
+    }
+,
+    {
+      "name": "trachipteridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/lampriformes/trachipteridae/"
+    }
+,
+    {
+      "name": "veliferidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/lampriformes/veliferidae/"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "myriangiales",
+  "children": [
+
+    {
+      "name": "Myriangiales Starbäck, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "elsinoaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/dothideomycetes/myriangiales/elsinoaceae/"
+    }
+,
+    {
+      "name": "endosporiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/dothideomycetes/myriangiales/endosporiaceae/"
+    }
+,
+    {
+      "name": "myriangiaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/dothideomycetes/myriangiales/myriangiaceae/"
+    }
+
+  ]
+}

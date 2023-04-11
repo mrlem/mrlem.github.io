@@ -1,0 +1,492 @@
+
+{
+  "name": "euglossini",
+  "children": [
+
+    {
+      "name": "Euglossini Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Aglae Lepeletier de Saint Fargeau & Audinet-Serville, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Aglae caerulea Lepeletier de Saint Fargeau & Audinet-Serville, 1825",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753830"
+    }
+,
+    {
+      "name": "Eufriesea Cockerell, 1908",
+      "url": ""
+    }
+,
+    {
+      "name": "Eufriesea auripes (Gribodo, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754388"
+    }
+,
+    {
+      "name": "Euglossa auripes Gribodo, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916188"
+    }
+,
+    {
+      "name": "Eufriesea concava (Friese, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754395"
+    }
+,
+    {
+      "name": "Euglossa mexicana concava Friese, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916189"
+    }
+,
+    {
+      "name": "Eufriesea elegans (Lepeletier, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/754401"
+    }
+,
+    {
+      "name": "Eulaema elegans Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916190"
+    }
+,
+    {
+      "name": "Eufriesea fallax (Smith, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753454"
+    }
+,
+    {
+      "name": "Euglossa fallax Smith, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916191"
+    }
+,
+    {
+      "name": "Eufriesea formosa Mocsáry, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753455"
+    }
+,
+    {
+      "name": "Eufriesea laniventris (Ducke, 1902)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753456"
+    }
+,
+    {
+      "name": "Euglossa laniventris Ducke, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916192"
+    }
+,
+    {
+      "name": "Eufriesea limbata (Mocsáry, 1897)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753457"
+    }
+,
+    {
+      "name": "Euglossa limbata Mocsáry, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916193"
+    }
+,
+    {
+      "name": "Eulema basalis Friese, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916194"
+    }
+,
+    {
+      "name": "Eufriesea mussitans (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753458"
+    }
+,
+    {
+      "name": "Apis mussitans Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790700"
+    }
+,
+    {
+      "name": "Eufriesea ornata (Mocsáry, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753459"
+    }
+,
+    {
+      "name": "Euglossa ornata Mocsáry, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916195"
+    }
+,
+    {
+      "name": "Eufriesea pulcra (Smith, 1854)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753460"
+    }
+,
+    {
+      "name": "Euglossa pulcra Smith, 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916196"
+    }
+,
+    {
+      "name": "Eufriesea purpurata (Mocsáry, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753461"
+    }
+,
+    {
+      "name": "Euglossa purpurata Mocsáry, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916197"
+    }
+,
+    {
+      "name": "Eufriesea surinamensis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753462"
+    }
+,
+    {
+      "name": "Apis surinamensis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790698"
+    }
+,
+    {
+      "name": "Eufriesea violacea (Blanchard, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753463"
+    }
+,
+    {
+      "name": "Euglossa violacea Blanchard, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916198"
+    }
+,
+    {
+      "name": "Eufriesea violascens (Mocsáry, 1898)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753464"
+    }
+,
+    {
+      "name": "Euglossa violascens Mocsáry, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916199"
+    }
+,
+    {
+      "name": "Euglossa Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Euglossa allosticta Moure, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753465"
+    }
+,
+    {
+      "name": "Euglossa amazonica Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753466"
+    }
+,
+    {
+      "name": "Euglossa analis Westwood, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753467"
+    }
+,
+    {
+      "name": "Euglossa ashei Hinojosa-Díaz & Engel, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964421"
+    }
+,
+    {
+      "name": "Euglossa augaspis Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753468"
+    }
+,
+    {
+      "name": "Euglossa azurea Ducke, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964420"
+    }
+,
+    {
+      "name": "Euglossa bidentata Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753469"
+    }
+,
+    {
+      "name": "Euglossa chalybeata Friese, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753470"
+    }
+,
+    {
+      "name": "Euglossa chlorina Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753471"
+    }
+,
+    {
+      "name": "Euglossa cognata Moure, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753472"
+    }
+,
+    {
+      "name": "Euglossa bureaui Dominique, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761677"
+    }
+,
+    {
+      "name": "Euglossa cordata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753473"
+    }
+,
+    {
+      "name": "Apis cordata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790703"
+    }
+,
+    {
+      "name": "Euglossa crassipunctata Moure, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753474"
+    }
+,
+    {
+      "name": "Euglossa decorata Smith, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753475"
+    }
+,
+    {
+      "name": "Euglossa gaianii Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753476"
+    }
+,
+    {
+      "name": "Euglossa ignita Smith, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753477"
+    }
+,
+    {
+      "name": "Euglossa bari Dominique, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761676"
+    }
+,
+    {
+      "name": "Euglossa imperialis Cockerell, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753478"
+    }
+,
+    {
+      "name": "Euglossa inflata Roubik, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/759999"
+    }
+,
+    {
+      "name": "Euglossa intersecta Latreille, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753480"
+    }
+,
+    {
+      "name": "Euglossa ioprosopa Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753481"
+    }
+,
+    {
+      "name": "Euglossa iopyrrha Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753482"
+    }
+,
+    {
+      "name": "Euglossa laevicincta Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753483"
+    }
+,
+    {
+      "name": "Euglossa liopoda Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753484"
+    }
+,
+    {
+      "name": "Euglossa magnipes Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753485"
+    }
+,
+    {
+      "name": "Euglossa melanotricha Moure, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753486"
+    }
+,
+    {
+      "name": "Euglossa mixta Friese, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753487"
+    }
+,
+    {
+      "name": "Euglossa modestior Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753488"
+    }
+,
+    {
+      "name": "Euglossa mourei Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753490"
+    }
+,
+    {
+      "name": "Euglossa orellana Roubik, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753491"
+    }
+,
+    {
+      "name": "Euglossa parvula Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753492"
+    }
+,
+    {
+      "name": "Euglossa piliventris Guérin-Méneville, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753493"
+    }
+,
+    {
+      "name": "Euglossa platymera Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753494"
+    }
+,
+    {
+      "name": "Euglossa polita Ducke, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753799"
+    }
+,
+    {
+      "name": "Euglossa prasina Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753800"
+    }
+,
+    {
+      "name": "Euglossa retroviridis Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753801"
+    }
+,
+    {
+      "name": "Euglossa securigera Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753802"
+    }
+,
+    {
+      "name": "Euglossa stilbonota Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753803"
+    }
+,
+    {
+      "name": "Euglossa townsendi Cockerell, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753805"
+    }
+,
+    {
+      "name": "Euglossa viridifrons Dressler, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753806"
+    }
+,
+    {
+      "name": "Euglossa viridis Perty, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753807"
+    }
+,
+    {
+      "name": "Cnemidium viride Perty, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761674"
+    }
+,
+    {
+      "name": "Euglossa affinis Dominique, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/761675"
+    }
+,
+    {
+      "name": "Euglossella Moure, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Eulaema Lepeletier, 1841",
+      "url": ""
+    }
+,
+    {
+      "name": "Eulaema bombiformis Packard, 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753808"
+    }
+,
+    {
+      "name": "Eulaema cingulata (Fabricius, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996079"
+    }
+,
+    {
+      "name": "Centris cingulata Fabricius, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996094"
+    }
+,
+    {
+      "name": "Eulaema cajennensis Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996095"
+    }
+,
+    {
+      "name": "Eulaema fasciata Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/996096"
+    }
+,
+    {
+      "name": "Eulaema meriana (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753809"
+    }
+,
+    {
+      "name": "Apis meriana Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790695"
+    }
+,
+    {
+      "name": "Eulaema mocsaryi Friese, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753810"
+    }
+,
+    {
+      "name": "Eulaema nigrita Lepeletier, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753811"
+    }
+,
+    {
+      "name": "Eulaema polyzona Mocsáry, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753812"
+    }
+,
+    {
+      "name": "Eulaema pseudocingulata Oliveira, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753813"
+    }
+,
+    {
+      "name": "Eulaema tenuifasciata Friese, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753814"
+    }
+,
+    {
+      "name": "Exaerete Hoffmannsegg, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Exaerete dentata (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753815"
+    }
+,
+    {
+      "name": "Apis dentata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790702"
+    }
+,
+    {
+      "name": "Exaerete frontalis Guérin-Méneville, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753816"
+    }
+,
+    {
+      "name": "Exaerete smaragdina Guérin-Méneville, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753817"
+    }
+,
+    {
+      "name": "Exaerete trochanterica Friese, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/753818"
+    }
+
+  ]
+}

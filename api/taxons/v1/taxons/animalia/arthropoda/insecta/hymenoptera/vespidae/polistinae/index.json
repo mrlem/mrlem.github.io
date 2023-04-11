@@ -1,0 +1,32 @@
+
+{
+  "name": "polistinae",
+  "children": [
+
+    {
+      "name": "Polistinae Lepeletier de Saint Fargeau, 1836",
+      "url": ""
+    }
+,
+    {
+      "name": "epiponini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/vespidae/polistinae/epiponini/"
+    }
+,
+    {
+      "name": "mischocyttarini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/vespidae/polistinae/mischocyttarini/"
+    }
+,
+    {
+      "name": "polistini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/vespidae/polistinae/polistini/"
+    }
+,
+    {
+      "name": "ropalidiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/vespidae/polistinae/ropalidiini/"
+    }
+
+  ]
+}

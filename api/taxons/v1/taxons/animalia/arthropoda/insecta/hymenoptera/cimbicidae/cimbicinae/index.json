@@ -1,0 +1,467 @@
+
+{
+  "name": "cimbicinae",
+  "children": [
+
+    {
+      "name": "Cimbicinae Curtis, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "Cimbex Olivier, 1791",
+      "url": ""
+    }
+,
+    {
+      "name": "Allocimbex Zirngiebl, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Clavellaria Lamarck, 1801",
+      "url": ""
+    }
+,
+    {
+      "name": "Clavellarius Olivier, 1789",
+      "url": ""
+    }
+,
+    {
+      "name": "Crabro Geoffroy, 1762",
+      "url": ""
+    }
+,
+    {
+      "name": "Neocimbex Malaise, 1937",
+      "url": ""
+    }
+,
+    {
+      "name": "Palaeocimbex Semenov, 1935",
+      "url": ""
+    }
+,
+    {
+      "name": "Cimbex connatus (Schrank, 1776)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/231772"
+    }
+,
+    {
+      "name": "Cimbex alni Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818780"
+    }
+,
+    {
+      "name": "Cimbex luteola Audinet-Serville, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819007"
+    }
+,
+    {
+      "name": "Cimbex luteola Le Peletier, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817837"
+    }
+,
+    {
+      "name": "Cimbex nigriviolacea Eversmann, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817838"
+    }
+,
+    {
+      "name": "Cimbex ornata Audinet-Serville, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817839"
+    }
+,
+    {
+      "name": "Cimbex ornata Le Peletier, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817840"
+    }
+,
+    {
+      "name": "Cimbex variabilis alni Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819191"
+    }
+,
+    {
+      "name": "Cimbex violascens C.G. Thomson, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817841"
+    }
+,
+    {
+      "name": "Crabro maculatus Geoffroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817842"
+    }
+,
+    {
+      "name": "Tenthredo alnivaga Bechstein, 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817843"
+    }
+,
+    {
+      "name": "Tenthredo connata Schrank, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818781"
+    }
+,
+    {
+      "name": "Tenthredo humboldti Ratzeburg, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818901"
+    }
+,
+    {
+      "name": "Tenthredo montana Panzer, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817844"
+    }
+,
+    {
+      "name": "Cimbex fagi Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/231773"
+    }
+,
+    {
+      "name": "Cimbex femoratus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/231774"
+    }
+,
+    {
+      "name": "Cimbex betulae var. feminae lutescens Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819380"
+    }
+,
+    {
+      "name": "Cimbex betulae var. lutescens Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819192"
+    }
+,
+    {
+      "name": "Cimbex betulae var. nigra Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819462"
+    }
+,
+    {
+      "name": "Cimbex betulae var. pulla Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819193"
+    }
+,
+    {
+      "name": "Cimbex betulae Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817845"
+    }
+,
+    {
+      "name": "Cimbex biguetina Le Peletier, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818771"
+    }
+,
+    {
+      "name": "Cimbex europaea Leach, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818782"
+    }
+,
+    {
+      "name": "Cimbex femorata var. ornata Uchida, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819194"
+    }
+,
+    {
+      "name": "Cimbex femorata var. unicolor Enslin, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819195"
+    }
+,
+    {
+      "name": "Cimbex pallens Audinet-Serville, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818657"
+    }
+,
+    {
+      "name": "Cimbex pallens Le Peletier, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818902"
+    }
+,
+    {
+      "name": "Cimbex pallidus Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817846"
+    }
+,
+    {
+      "name": "Cimbex quadrimaculata var. sachalinensis Uchida, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819196"
+    }
+,
+    {
+      "name": "Cimbex schaefferi Audinet-Serville, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819008"
+    }
+,
+    {
+      "name": "Cimbex schaefferi Le Peletier, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817847"
+    }
+,
+    {
+      "name": "Cimbex variabilis Klug, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817848"
+    }
+,
+    {
+      "name": "Cimbex venusta Perty, 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818783"
+    }
+,
+    {
+      "name": "Crabro annulatus Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817850"
+    }
+,
+    {
+      "name": "Crabro lunulatus Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817849"
+    }
+,
+    {
+      "name": "Tenthredo femorata Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818903"
+    }
+,
+    {
+      "name": "Tenthredo silvarum Fabricius, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817851"
+    }
+,
+    {
+      "name": "Tenthredo tristis Fabricius, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817852"
+    }
+,
+    {
+      "name": "Cimbex luteus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/231775"
+    }
+,
+    {
+      "name": "Cimbex brevispinna C.G. Thomson, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817853"
+    }
+,
+    {
+      "name": "Cimbex capreae Konow, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817854"
+    }
+,
+    {
+      "name": "Cimbex griffinii Leach, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817855"
+    }
+,
+    {
+      "name": "Cimbex lutea (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/52422"
+    }
+,
+    {
+      "name": "Cimbex saliceti Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817856"
+    }
+,
+    {
+      "name": "Cimbex variabilis salicis Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819197"
+    }
+,
+    {
+      "name": "Tenthredo lutea Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817857"
+    }
+,
+    {
+      "name": "Cimbex quadrimaculatus (O.F. Müller, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/231776"
+    }
+,
+    {
+      "name": "Cimbex axillaris Panzer, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818662"
+    }
+,
+    {
+      "name": "Cimbex humeralis (Geoffroy in Fourcroy, 1785)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818904"
+    }
+,
+    {
+      "name": "Cimbex scapularis J. Stein, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817858"
+    }
+,
+    {
+      "name": "Crabro humeralis Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/844915"
+    }
+,
+    {
+      "name": "Tenthredo quadrimaculata O.F. Müller, 1766",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818536"
+    }
+,
+    {
+      "name": "Tenthredo quadrimaculata sensu Fabricius, 1787, non Müller, 1766",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/401338"
+    }
+,
+    {
+      "name": "Praia Wankowicz, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Praia André, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Praia taczanowskii Wankowicz in André, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/295940"
+    }
+,
+    {
+      "name": "Pseudoclavellaria Schultz, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoclavellaria amerinae (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/231771"
+    }
+,
+    {
+      "name": "Cimbex saliceti Sasaki, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817859"
+    }
+,
+    {
+      "name": "Clavellaria amerinae (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016370"
+    }
+,
+    {
+      "name": "Clavellaria nitobei Matsumura, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818785"
+    }
+,
+    {
+      "name": "Tenthredo amerinae Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/849799"
+    }
+,
+    {
+      "name": "Tenthredo marginata Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817860"
+    }
+,
+    {
+      "name": "Tenthredo quadrifasciata Degeer, 1773",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818673"
+    }
+,
+    {
+      "name": "Tenthredo rufa Retzius, 1783",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818772"
+    }
+,
+    {
+      "name": "Trichiosoma albopilosum Matsumura, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817861"
+    }
+,
+    {
+      "name": "Trichiosoma Leach, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Trichiosoma lucorum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/52648"
+    }
+,
+    {
+      "name": "Cimbex betuleti Klug, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818905"
+    }
+,
+    {
+      "name": "Cimbex lucorum (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820920"
+    }
+,
+    {
+      "name": "Tenthredo lucorum Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821100"
+    }
+,
+    {
+      "name": "Trichiosoma betuleti Klug, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818786"
+    }
+,
+    {
+      "name": "Trichiosoma sorbi Hartig, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/231769"
+    }
+,
+    {
+      "name": "Trichiosoma tibiale Stephens, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/52649"
+    }
+,
+    {
+      "name": "Cimbex crataegi Zaddach, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817862"
+    }
+,
+    {
+      "name": "Trichiosoma tibiale var. decipiens Enslin, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/819381"
+    }
+,
+    {
+      "name": "Trichiosoma tibiale Stephens, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817863"
+    }
+,
+    {
+      "name": "Trichiosoma vitellina (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/231770"
+    }
+,
+    {
+      "name": "Cimbex trichiosoma Le Peletier, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818787"
+    }
+,
+    {
+      "name": "Cimbex vitellinae Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817864"
+    }
+,
+    {
+      "name": "Tenthredo betulae sensu (Ström, 1762) non Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817865"
+    }
+,
+    {
+      "name": "Tenthredo vitellina Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001040"
+    }
+,
+    {
+      "name": "Trichiosoma boreale Gussakovskij, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/818906"
+    }
+,
+    {
+      "name": "Trichiosoma marginalis Leach, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/817866"
+    }
+
+  ]
+}

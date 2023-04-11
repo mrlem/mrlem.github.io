@@ -1,0 +1,77 @@
+
+{
+  "name": "cossoninae",
+  "children": [
+
+    {
+      "name": "Cossoninae Schönherr, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "acamptini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/acamptini/"
+    }
+,
+    {
+      "name": "choerorhinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/choerorhinini/"
+    }
+,
+    {
+      "name": "cossonini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/cossonini/"
+    }
+,
+    {
+      "name": "dryotribini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/dryotribini/"
+    }
+,
+    {
+      "name": "Dobionus Kuschel, 2000",
+      "url": ""
+    }
+,
+    {
+      "name": "Dobionus araucarinus Kuschel, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890180"
+    }
+,
+    {
+      "name": "Dobionus brachyrhinus (Montrouzier, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890181"
+    }
+,
+    {
+      "name": "Rhyncolus brachyrhinus Montrouzier, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/890182"
+    }
+,
+    {
+      "name": "onycholipini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/onycholipini/"
+    }
+,
+    {
+      "name": "pentarthrini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/pentarthrini/"
+    }
+,
+    {
+      "name": "proecini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/proecini/"
+    }
+,
+    {
+      "name": "pseudapotrepini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/pseudapotrepini/"
+    }
+,
+    {
+      "name": "rhyncolini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/cossoninae/rhyncolini/"
+    }
+
+  ]
+}

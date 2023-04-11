@@ -1,0 +1,882 @@
+
+{
+  "name": "diptera",
+  "children": [
+
+    {
+      "name": "Diptera Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "acartophthalmidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/acartophthalmidae/"
+    }
+,
+    {
+      "name": "acroceridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/acroceridae/"
+    }
+,
+    {
+      "name": "agromyzidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/agromyzidae/"
+    }
+,
+    {
+      "name": "anisopodidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/anisopodidae/"
+    }
+,
+    {
+      "name": "Anisopodoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "anthomyiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/anthomyiidae/"
+    }
+,
+    {
+      "name": "anthomyzidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/anthomyzidae/"
+    }
+,
+    {
+      "name": "asilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/"
+    }
+,
+    {
+      "name": "Asiloidea Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Asilomorpha Rohdendorf, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "asteiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asteiidae/"
+    }
+,
+    {
+      "name": "atelestidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/atelestidae/"
+    }
+,
+    {
+      "name": "athericidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/athericidae/"
+    }
+,
+    {
+      "name": "aulacigastridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/aulacigastridae/"
+    }
+,
+    {
+      "name": "bibionidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/bibionidae/"
+    }
+,
+    {
+      "name": "Bibionoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Bibionomorpha Hennig, 1954",
+      "url": ""
+    }
+,
+    {
+      "name": "blephariceridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/blephariceridae/"
+    }
+,
+    {
+      "name": "Blephariceroidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "bolitophilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/bolitophilidae/"
+    }
+,
+    {
+      "name": "bombyliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/bombyliidae/"
+    }
+,
+    {
+      "name": "Brachycera Macquart, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "braulidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/braulidae/"
+    }
+,
+    {
+      "name": "calliphoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/calliphoridae/"
+    }
+,
+    {
+      "name": "camillidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/camillidae/"
+    }
+,
+    {
+      "name": "campichoetidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/campichoetidae/"
+    }
+,
+    {
+      "name": "canacidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/canacidae/"
+    }
+,
+    {
+      "name": "carnidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/carnidae/"
+    }
+,
+    {
+      "name": "Carnoidea McAlpine, 1989",
+      "url": ""
+    }
+,
+    {
+      "name": "cecidomyiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/cecidomyiidae/"
+    }
+,
+    {
+      "name": "celyphidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/celyphidae/"
+    }
+,
+    {
+      "name": "ceratopogonidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/ceratopogonidae/"
+    }
+,
+    {
+      "name": "chamaemyiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/chamaemyiidae/"
+    }
+,
+    {
+      "name": "chaoboridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/chaoboridae/"
+    }
+,
+    {
+      "name": "chironomidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/chironomidae/"
+    }
+,
+    {
+      "name": "Chironomoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "chloropidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/chloropidae/"
+    }
+,
+    {
+      "name": "chyromyidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/chyromyidae/"
+    }
+,
+    {
+      "name": "clusiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/clusiidae/"
+    }
+,
+    {
+      "name": "coelopidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/coelopidae/"
+    }
+,
+    {
+      "name": "coenomyiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/coenomyiidae/"
+    }
+,
+    {
+      "name": "conopidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/conopidae/"
+    }
+,
+    {
+      "name": "Conopoidea Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "corethrellidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/corethrellidae/"
+    }
+,
+    {
+      "name": "cryptochetidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/cryptochetidae/"
+    }
+,
+    {
+      "name": "culicidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/culicidae/"
+    }
+,
+    {
+      "name": "Culicoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Culicomorpha Hennig, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "curtonotidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/curtonotidae/"
+    }
+,
+    {
+      "name": "cylindrotomidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/cylindrotomidae/"
+    }
+,
+    {
+      "name": "diadocidiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/diadocidiidae/"
+    }
+,
+    {
+      "name": "diastatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/diastatidae/"
+    }
+,
+    {
+      "name": "Diopsoidea Steyskal, 1974",
+      "url": ""
+    }
+,
+    {
+      "name": "ditomyiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/ditomyiidae/"
+    }
+,
+    {
+      "name": "dixidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/dixidae/"
+    }
+,
+    {
+      "name": "dolichopodidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/dolichopodidae/"
+    }
+,
+    {
+      "name": "drosophilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/drosophilidae/"
+    }
+,
+    {
+      "name": "dryomyzidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/dryomyzidae/"
+    }
+,
+    {
+      "name": "empididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/empididae/"
+    }
+,
+    {
+      "name": "Empidoidea Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "ephydridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/ephydridae/"
+    }
+,
+    {
+      "name": "Ephydroidea Hendel, 1922",
+      "url": ""
+    }
+,
+    {
+      "name": "fanniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/fanniidae/"
+    }
+,
+    {
+      "name": "helcomyzidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/helcomyzidae/"
+    }
+,
+    {
+      "name": "heleomyzidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/heleomyzidae/"
+    }
+,
+    {
+      "name": "hippoboscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/hippoboscidae/"
+    }
+,
+    {
+      "name": "Hippoboscoidea Brues & Melander, 1932",
+      "url": ""
+    }
+,
+    {
+      "name": "hybotidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/hybotidae/"
+    }
+,
+    {
+      "name": "inbiomyiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/inbiomyiidae/"
+    }
+,
+    {
+      "name": "iteaphilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/iteaphilidae/"
+    }
+,
+    {
+      "name": "keroplatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/keroplatidae/"
+    }
+,
+    {
+      "name": "lauxaniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/lauxaniidae/"
+    }
+,
+    {
+      "name": "Lauxanioidea Macquart, 1835",
+      "url": ""
+    }
+,
+    {
+      "name": "limoniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/limoniidae/"
+    }
+,
+    {
+      "name": "lonchaeidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/lonchaeidae/"
+    }
+,
+    {
+      "name": "Lonchaeoidea Griffiths, 1972",
+      "url": ""
+    }
+,
+    {
+      "name": "lonchopteridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/lonchopteridae/"
+    }
+,
+    {
+      "name": "lygistorrhinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/lygistorrhinidae/"
+    }
+,
+    {
+      "name": "megamerinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/megamerinidae/"
+    }
+,
+    {
+      "name": "micropezidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/micropezidae/"
+    }
+,
+    {
+      "name": "microphoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/microphoridae/"
+    }
+,
+    {
+      "name": "milichiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/milichiidae/"
+    }
+,
+    {
+      "name": "muscidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/muscidae/"
+    }
+,
+    {
+      "name": "Muscoidea Coquillett, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Muscomorpha Sharp, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "mycetophilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/mycetophilidae/"
+    }
+,
+    {
+      "name": "mydidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/mydidae/"
+    }
+,
+    {
+      "name": "mythicomyiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/mythicomyiidae/"
+    }
+,
+    {
+      "name": "Nematocera Dumeril, 1805",
+      "url": ""
+    }
+,
+    {
+      "name": "nemestrinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/nemestrinidae/"
+    }
+,
+    {
+      "name": "Nemestrinoidea Griffith & Pidgeon, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "neriidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/neriidae/"
+    }
+,
+    {
+      "name": "Nerioidea Westwood, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "nycteribiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/nycteribiidae/"
+    }
+,
+    {
+      "name": "odiniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/odiniidae/"
+    }
+,
+    {
+      "name": "oestridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/oestridae/"
+    }
+,
+    {
+      "name": "Oestroidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "opetiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/opetiidae/"
+    }
+,
+    {
+      "name": "opomyzidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/opomyzidae/"
+    }
+,
+    {
+      "name": "Opomyzoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "oreogetonidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/oreogetonidae/"
+    }
+,
+    {
+      "name": "pallopteridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/pallopteridae/"
+    }
+,
+    {
+      "name": "pantophthalmidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/pantophthalmidae/"
+    }
+,
+    {
+      "name": "pediciidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/pediciidae/"
+    }
+,
+    {
+      "name": "periscelididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/periscelididae/"
+    }
+,
+    {
+      "name": "phaeomyiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/phaeomyiidae/"
+    }
+,
+    {
+      "name": "phoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/phoridae/"
+    }
+,
+    {
+      "name": "piophilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/piophilidae/"
+    }
+,
+    {
+      "name": "pipunculidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/pipunculidae/"
+    }
+,
+    {
+      "name": "platypezidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/platypezidae/"
+    }
+,
+    {
+      "name": "Platypezoidea Fallen, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "platystomatidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/platystomatidae/"
+    }
+,
+    {
+      "name": "pseudopomyzidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/pseudopomyzidae/"
+    }
+,
+    {
+      "name": "psilidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/psilidae/"
+    }
+,
+    {
+      "name": "psychodidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/psychodidae/"
+    }
+,
+    {
+      "name": "Psychodoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Psychodomorpha Hennig, 1968",
+      "url": ""
+    }
+,
+    {
+      "name": "Blephariceromorpha ",
+      "url": ""
+    }
+,
+    {
+      "name": "ptychopteridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/ptychopteridae/"
+    }
+,
+    {
+      "name": "Ptychopteroidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Ptychopteromorpha Wood & Borkent, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "rachiceridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/rachiceridae/"
+    }
+,
+    {
+      "name": "ragadidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/ragadidae/"
+    }
+,
+    {
+      "name": "rhagionidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/rhagionidae/"
+    }
+,
+    {
+      "name": "Rhagionoidea Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "rhiniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/rhiniidae/"
+    }
+,
+    {
+      "name": "rhinophoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/rhinophoridae/"
+    }
+,
+    {
+      "name": "richardiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/richardiidae/"
+    }
+,
+    {
+      "name": "ropalomeridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/ropalomeridae/"
+    }
+,
+    {
+      "name": "sarcophagidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/sarcophagidae/"
+    }
+,
+    {
+      "name": "Sarcophagoidea Shannon, 1926",
+      "url": ""
+    }
+,
+    {
+      "name": "scathophagidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/scathophagidae/"
+    }
+,
+    {
+      "name": "scatopsidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/scatopsidae/"
+    }
+,
+    {
+      "name": "Scatopsoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "scenopinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/scenopinidae/"
+    }
+,
+    {
+      "name": "sciaridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/sciaridae/"
+    }
+,
+    {
+      "name": "Sciaroidea Billberg, 1820",
+      "url": ""
+    }
+,
+    {
+      "name": "sciomyzidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/sciomyzidae/"
+    }
+,
+    {
+      "name": "Sciomyzoidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "sepsidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/sepsidae/"
+    }
+,
+    {
+      "name": "simuliidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/simuliidae/"
+    }
+,
+    {
+      "name": "sphaeroceridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/sphaeroceridae/"
+    }
+,
+    {
+      "name": "Sphaeroceroidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "stratiomyidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/stratiomyidae/"
+    }
+,
+    {
+      "name": "Stratiomyoidea Hendel, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Stratiomyomorpha Wood, 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "streblidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/streblidae/"
+    }
+,
+    {
+      "name": "syrphidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/syrphidae/"
+    }
+,
+    {
+      "name": "Syrphoidea Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "tabanidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/tabanidae/"
+    }
+,
+    {
+      "name": "Tabanoidea Coquillett, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Tabanomorpha Hennig, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "tachinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/tachinidae/"
+    }
+,
+    {
+      "name": "tanyderidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/tanyderidae/"
+    }
+,
+    {
+      "name": "tanypezidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/tanypezidae/"
+    }
+,
+    {
+      "name": "tephritidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/tephritidae/"
+    }
+,
+    {
+      "name": "Tephritoidea Newman, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "thaumaleidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/thaumaleidae/"
+    }
+,
+    {
+      "name": "therevidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/therevidae/"
+    }
+,
+    {
+      "name": "tipulidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/tipulidae/"
+    }
+,
+    {
+      "name": "Tipuloidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "Tipulomorpha Rohdendorf, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "trichoceridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/trichoceridae/"
+    }
+,
+    {
+      "name": "Trichoceroidea ",
+      "url": ""
+    }
+,
+    {
+      "name": "trixoscelididae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/trixoscelididae/"
+    }
+,
+    {
+      "name": "ulidiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/ulidiidae/"
+    }
+,
+    {
+      "name": "vermileonidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/vermileonidae/"
+    }
+,
+    {
+      "name": "Vermileonoidea Nagatomi, 1975",
+      "url": ""
+    }
+,
+    {
+      "name": "Vermileonomorpha Griffiths, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "xenasteiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/xenasteiidae/"
+    }
+,
+    {
+      "name": "xylomyidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/xylomyidae/"
+    }
+,
+    {
+      "name": "xylophagidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/xylophagidae/"
+    }
+,
+    {
+      "name": "Xylophagoidea Fallén, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "Xylophagomorpha Fallen, 1815",
+      "url": ""
+    }
+
+  ]
+}

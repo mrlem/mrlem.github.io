@@ -1,0 +1,22 @@
+
+{
+  "name": "haaseidae",
+  "children": [
+
+    {
+      "name": "Haaseidae Attems, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "haaseinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/chordeumatida/haaseidae/haaseinae/"
+    }
+,
+    {
+      "name": "hylebainosomatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/diplopoda/chordeumatida/haaseidae/hylebainosomatinae/"
+    }
+
+  ]
+}

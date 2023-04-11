@@ -1,0 +1,42 @@
+
+{
+  "name": "meconematinae",
+  "children": [
+
+    {
+      "name": "Meconematinae Burmeister, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Meconematidae Burmeister, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Amytta Karsch, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Amytta pellucida Karsch, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714914"
+    }
+,
+    {
+      "name": "meconematini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/tettigoniidae/meconematinae/meconematini/"
+    }
+,
+    {
+      "name": "phisidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/tettigoniidae/meconematinae/phisidini/"
+    }
+,
+    {
+      "name": "phlugidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/orthoptera/tettigoniidae/meconematinae/phlugidini/"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "tachyporinae",
+  "children": [
+
+    {
+      "name": "Tachyporinae MacLeay, 1825",
+      "url": ""
+    }
+,
+    {
+      "name": "tachinusini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/tachyporinae/tachinusini/"
+    }
+,
+    {
+      "name": "tachyporini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/tachyporinae/tachyporini/"
+    }
+,
+    {
+      "name": "vatesini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/staphylinidae/tachyporinae/vatesini/"
+    }
+
+  ]
+}

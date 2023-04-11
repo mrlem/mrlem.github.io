@@ -1,0 +1,4377 @@
+
+{
+  "name": "leotiomycetes",
+  "children": [
+
+    {
+      "name": "Leotiomycetes O.E.Erikss. & Winka, 1997",
+      "url": ""
+    }
+,
+    {
+      "name": "Leotiomycetidae P.M.Kirk, P.Cannon, Minter & Stalpers, 2008",
+      "url": ""
+    }
+,
+    {
+      "name": "chaetomellales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/leotiomycetes/chaetomellales/"
+    }
+,
+    {
+      "name": "erysiphales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/leotiomycetes/erysiphales/"
+    }
+,
+    {
+      "name": "helotiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/leotiomycetes/helotiales/"
+    }
+,
+    {
+      "name": "Aivenia Svrček, 1977",
+      "url": ""
+    }
+,
+    {
+      "name": "Aivenia aconiti Svrček, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859886"
+    }
+,
+    {
+      "name": "Aivenia calthae Svrček, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859887"
+    }
+,
+    {
+      "name": "Aivenia foliicola Svrček, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859888"
+    }
+,
+    {
+      "name": "Alatospora Ingold, 1942",
+      "url": ""
+    }
+,
+    {
+      "name": "Alatospora acuminata Ingold, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859889"
+    }
+,
+    {
+      "name": "Alatospora flagellata (Gönczöl) Marvanová, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859890"
+    }
+,
+    {
+      "name": "Clavatospora flagellata Gönczöl, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933716"
+    }
+,
+    {
+      "name": "Alatospora pulchella Marvanová, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859891"
+    }
+,
+    {
+      "name": "Allantophomopsiella Crous, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Allantophomopsiella pseudotsugae (M.Wilson) Crous, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006258"
+    }
+,
+    {
+      "name": "Phacidiella coniferarum G.G.Hahn, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961073"
+    }
+,
+    {
+      "name": "Phacidiopycnis pseudotsugae (M.Wilson) G.G.Hahn, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878135"
+    }
+,
+    {
+      "name": "Phacidium coniferarum (G.G.Hahn) DiCosmo, Nag Raj & W.B.Kendr., 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860956"
+    }
+,
+    {
+      "name": "Phomopsis pseudotsugae M.Wilson, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006257"
+    }
+,
+    {
+      "name": "Potebniamyces coniferarum (G.G.Hahn) Smerlis, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883433"
+    }
+,
+    {
+      "name": "Amicodisca Svrček, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Amicodisca groenlandica Raitv., 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859873"
+    }
+,
+    {
+      "name": "Amicodisca svrcekii Raitv. & Huhtinen, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859874"
+    }
+,
+    {
+      "name": "Amicodisca virella (P.Karst.) Huhtinen, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859875"
+    }
+,
+    {
+      "name": "Coryne virella (P.Karst.) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871729"
+    }
+,
+    {
+      "name": "Corynella virella (P.Karst.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871730"
+    }
+,
+    {
+      "name": "Ombrophila virella (P.Karst.) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871731"
+    }
+,
+    {
+      "name": "Peziza virella P.Karst., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871732"
+    }
+,
+    {
+      "name": "Antinoa Velen., 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "Antinoa proximella (P.Karst.) Velen., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859900"
+    }
+,
+    {
+      "name": "Helotium proximellum P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871938"
+    }
+,
+    {
+      "name": "Helotium pulchellum (Sacc.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871941"
+    }
+,
+    {
+      "name": "Ombrophila proximella (P.Karst.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871939"
+    }
+,
+    {
+      "name": "Peziza pulchella Fuckel [nom. illeg.]",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871942"
+    }
+,
+    {
+      "name": "Pezizella pulchella Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871943"
+    }
+,
+    {
+      "name": "Phialea proximella (P.Karst.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871940"
+    }
+,
+    {
+      "name": "Phialea pulchella Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/871944"
+    }
+,
+    {
+      "name": "Articulospora Ingold, 1942",
+      "url": ""
+    }
+,
+    {
+      "name": "Articulospora moniliforme ",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859915"
+    }
+,
+    {
+      "name": "Ascoconidium Seaver, 1942",
+      "url": ""
+    }
+,
+    {
+      "name": "Ascoconidium purpurascens (Ellis & Everh.) Rossman, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981058"
+    }
+,
+    {
+      "name": "Dermatea purpurascens Ellis & Everh., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981055"
+    }
+,
+    {
+      "name": "Pezicula purpurascens (Ellis & Everh.) Seaver, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856446"
+    }
+,
+    {
+      "name": "Blumeria Golovin ex Speer, 1975",
+      "url": ""
+    }
+,
+    {
+      "name": "Blumeria graminis (DC.) Speer, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859991"
+    }
+,
+    {
+      "name": "Alphitomorpha communis Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969050"
+    }
+,
+    {
+      "name": "Erysiphe communis var. leguminosarum Link, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969051"
+    }
+,
+    {
+      "name": "Erysiphe communis (Wallr.) Schltdl., 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872334"
+    }
+,
+    {
+      "name": "Erysiphe graminis DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872333"
+    }
+,
+    {
+      "name": "Oidium bulbigerum (Bonord.) Sacc. & Voglino, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872335"
+    }
+,
+    {
+      "name": "Oidium monilioides (Nees) Link, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872336"
+    }
+,
+    {
+      "name": "Oidium tritici (Corda) Sacc. & Voglino, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872337"
+    }
+,
+    {
+      "name": "Blumeria graminis f. hordei (DC.) Speer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869575"
+    }
+,
+    {
+      "name": "Blumeria graminis f. tritici (DC.) Speer",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867337"
+    }
+,
+    {
+      "name": "Blumeriella Arx, 1961",
+      "url": ""
+    }
+,
+    {
+      "name": "Blumeriella jaapii (Rehm) Arx, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/859992"
+    }
+,
+    {
+      "name": "Ascochyta padi Lib., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961032"
+    }
+,
+    {
+      "name": "Phloeosporella padi (Lib.) Arx, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961030"
+    }
+,
+    {
+      "name": "Pseudopeziza jaapii Rehm, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961029"
+    }
+,
+    {
+      "name": "Brunchorstia Erikss., 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Brunchorstia pinea var. cembrae M.Morelet, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869637"
+    }
+,
+    {
+      "name": "Bulbomollisia Graddon, 1984",
+      "url": ""
+    }
+,
+    {
+      "name": "Bulbomollisia radiata Graddon, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860032"
+    }
+,
+    {
+      "name": "Bulbomollisia striata Graddon, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860033"
+    }
+,
+    {
+      "name": "Bulbomollisia stromatica (Graddon) Graddon, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860034"
+    }
+,
+    {
+      "name": "Mollisia stromatica Graddon, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872481"
+    }
+,
+    {
+      "name": "Calyptellopsis Svrček, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Calyptellopsis reticulata (Vaček) Svrček, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/45954"
+    }
+,
+    {
+      "name": "Hyaloscypha reticulata Vaček, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/45955"
+    }
+,
+    {
+      "name": "Carneopezizella Svrček, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Carneopezizella salicicola Svrček, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860095"
+    }
+,
+    {
+      "name": "Chaetomella Fuckel, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetomella atra Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860172"
+    }
+,
+    {
+      "name": "Chaetomella longiseta Delacr., 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860173"
+    }
+,
+    {
+      "name": "Chaetomella raripila (Mont.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860174"
+    }
+,
+    {
+      "name": "Chaetomium raripilum Mont., 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/872892"
+    }
+,
+    {
+      "name": "Chaetomella tortilis Delacr., 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860175"
+    }
+,
+    {
+      "name": "Cornularia Sacc., 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Cornularia boudieri (Richon) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860256"
+    }
+,
+    {
+      "name": "Sphaeronaema boudieri Richon, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873509"
+    }
+,
+    {
+      "name": "Crustomollisia Svrček, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Crustomollisia roburnea (Velen.) Svrček, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860266"
+    }
+,
+    {
+      "name": "Pezizella roburnea Velen., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/873735"
+    }
+,
+    {
+      "name": "Dicephalospora Spooner, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Dicephalospora rufocornea (Berk. & Broome) Spooner, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971516"
+    }
+,
+    {
+      "name": "Helotium rufocorneum Berk. & Broome, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/907982"
+    }
+,
+    {
+      "name": "Lanzia rufocornea (Berk. & Broome) Dumont, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/804374"
+    }
+,
+    {
+      "name": "Didonia Velen., 1934",
+      "url": ""
+    }
+,
+    {
+      "name": "Didonia carlinae Velen., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47004"
+    }
+,
+    {
+      "name": "Didonia carpinacea Velen., 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47005"
+    }
+,
+    {
+      "name": "Didonia picea Velen., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47006"
+    }
+,
+    {
+      "name": "Fuscolachnum J.H.Haines, 1989",
+      "url": ""
+    }
+,
+    {
+      "name": "Fuscolachnum misellum (Roberge ex Desm.) J.H.Haines, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860800"
+    }
+,
+    {
+      "name": "Dasyscyphus misellus (Roberge ex Desm.) Höhn., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46819"
+    }
+,
+    {
+      "name": "Lachnea misella (Roberge ex Desm.) Gillet, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877421"
+    }
+,
+    {
+      "name": "Lachnella misella (Roberge ex Desm.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877422"
+    }
+,
+    {
+      "name": "Lachnum misellum (Roberge ex Desm.) Huhtinen, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877423"
+    }
+,
+    {
+      "name": "Peziza misella Roberge ex Desm., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877424"
+    }
+,
+    {
+      "name": "Trichopeziza misella (Roberge ex Desm.) Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46820"
+    }
+,
+    {
+      "name": "Urceolella misella (Roberge ex Desm.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46821"
+    }
+,
+    {
+      "name": "Fuscolachnum pteridis (Alb. & Schwein.) J.H.Haines, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860801"
+    }
+,
+    {
+      "name": "Dasyscyphus pteridis (Alb. & Schwein.) Massee, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46826"
+    }
+,
+    {
+      "name": "Lachnella pteridis (Alb. & Schwein.) W.Phillips, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46827"
+    }
+,
+    {
+      "name": "Mollisia pteridis (Alb. & Schwein.) Gillet, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46828"
+    }
+,
+    {
+      "name": "Peziza pteridis Alb. & Schwein., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877425"
+    }
+,
+    {
+      "name": "Trichopeziza pteridis (Alb. & Schwein.) Rehm, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877426"
+    }
+,
+    {
+      "name": "Urceola pteridis (Alb. & Schwein.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877427"
+    }
+,
+    {
+      "name": "Urceolella pteridis (Alb. & Schwein.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877428"
+    }
+,
+    {
+      "name": "Gelatinopsis Rambold & Triebel, 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "Gelatinopsis exidiophila Baral & G.Marson, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860810"
+    }
+,
+    {
+      "name": "Gelatinopsis fungicola (Kirschst.) Baral, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860811"
+    }
+,
+    {
+      "name": "Mollisia fungicola Kirschst., 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877512"
+    }
+,
+    {
+      "name": "Gelatinopsis geoglossi (Ellis & Everh.) Rambold & Triebel, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860812"
+    }
+,
+    {
+      "name": "Hypomyces geoglossi Ellis & Everh., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877513"
+    }
+,
+    {
+      "name": "Micropyxis geoglossii (Ellis & Everh.) Seeler",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877514"
+    }
+,
+    {
+      "name": "Gelatinopsis hysteropatellae Baral & G.Marson, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860813"
+    }
+,
+    {
+      "name": "Gelatinopsis polyconidiata Baral & G.Marson, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860814"
+    }
+,
+    {
+      "name": "Gelatinopsis roccellae Etayo, Paz-Berm. & Diederich, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860815"
+    }
+,
+    {
+      "name": "Gelatinopsis septata Aptroot, Cand. & Verkley, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860816"
+    }
+,
+    {
+      "name": "Gloeopeziza Zukal, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Gloeopeziza crozalsii Grelet, 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860648"
+    }
+,
+    {
+      "name": "Gloeopeziza cuneiformis Döbbeler, 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860649"
+    }
+,
+    {
+      "name": "Gloeopeziza interlamellaris Döbbeler, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860650"
+    }
+,
+    {
+      "name": "Graddonidiscus Raitv. & R.Galán, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Graddonidiscus coruscatus (Graddon) Raitv. & R.Galán, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860707"
+    }
+,
+    {
+      "name": "Dasyscyphus coruscatus Graddon, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46780"
+    }
+,
+    {
+      "name": "Graddonidiscus hispanicus Raitv. & R.Galán, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860708"
+    }
+,
+    {
+      "name": "Graddonidiscus vandae (Velen.) Raitv. & R.Galán, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860709"
+    }
+,
+    {
+      "name": "Chrysothallus vandae Velen., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49486"
+    }
+,
+    {
+      "name": "Protounguicularia vandae (Velen.) Svrček, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49485"
+    }
+,
+    {
+      "name": "Grahamiella Spooner, 1981",
+      "url": ""
+    }
+,
+    {
+      "name": "Grahamiella dryadis (Nannf. ex L.Holm) Spooner, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860710"
+    }
+,
+    {
+      "name": "Allophylaria dryadis Nannf. ex L.Holm, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876816"
+    }
+,
+    {
+      "name": "Grahamiella variabilis (Nograsek & Matzer) Spooner, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860711"
+    }
+,
+    {
+      "name": "Crocicreas variabile Nograsek & Matzer, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876817"
+    }
+,
+    {
+      "name": "Grovesiella M.Morelet, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Grovesiella abieticola (Zeller & Goodd.) M.Morelet & Gremmen, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860715"
+    }
+,
+    {
+      "name": "Godronia abieticola (Zeller & Goodd.) Seaver, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876952"
+    }
+,
+    {
+      "name": "Scleroderris abieticola Zeller & Goodd., 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876953"
+    }
+,
+    {
+      "name": "Hainesia Ellis & Sacc., 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Hainesia corallina Sacc. & Fautrey, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855824"
+    }
+,
+    {
+      "name": "Hainesia rubi (Westend.) Sacc., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/855826"
+    }
+,
+    {
+      "name": "Gloeosporium rubi Westend., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877273"
+    }
+,
+    {
+      "name": "Hainesia xanthoriae Brackel, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/659789"
+    }
+,
+    {
+      "name": "Holmiodiscus Svrček, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Holmiodiscus filipendulae Svrček, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860713"
+    }
+,
+    {
+      "name": "Hyphodiscus Kirschst., 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Hyphodiscus hymeniophilus (P.Karst.) Baral, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860663"
+    }
+,
+    {
+      "name": "Cistella hymeniophila (P.Karst.) Korf, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876338"
+    }
+,
+    {
+      "name": "Cistellina hymeniophila (P.Karst.) Svrček",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876339"
+    }
+,
+    {
+      "name": "Helotium hymeniophilum (P.Karst.) P.Karst., 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876340"
+    }
+,
+    {
+      "name": "Micropodia hymeniophila (P.Karst.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876341"
+    }
+,
+    {
+      "name": "Peziza hymeniophila P.Karst., 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876342"
+    }
+,
+    {
+      "name": "Pseudohelotium hymeniophilum (P.Karst.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876343"
+    }
+,
+    {
+      "name": "Hyphodiscus theiodeus (Cooke & Ellis) W.Y.Zhuang, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860664"
+    }
+,
+    {
+      "name": "Mollisiella autriaca Höhn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876345"
+    }
+,
+    {
+      "name": "Peziza theiodea Cooke & Ellis, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876344"
+    }
+,
+    {
+      "name": "Pithyella austriaca (Höhn.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876346"
+    }
+,
+    {
+      "name": "Hyphodiscus viridipilosus (Graddon) Baral, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860665"
+    }
+,
+    {
+      "name": "Incrupila viridipilosa Graddon, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876347"
+    }
+,
+    {
+      "name": "Incrupilella flexipila Svrček, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48166"
+    }
+,
+    {
+      "name": "Hypohelion P.R.Johnst., 1990",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypohelion scirpinum (DC.) P.R.Johnst., 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860700"
+    }
+,
+    {
+      "name": "Hypoderma scirpinum DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876749"
+    }
+,
+    {
+      "name": "Hysterium scirpinum Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876750"
+    }
+,
+    {
+      "name": "Leptothyrium scirpinum (Fr.) Bubák & Kabát, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876752"
+    }
+,
+    {
+      "name": "Lophodermium scirpinum (DC.) Cheval.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876751"
+    }
+,
+    {
+      "name": "Hysterostegiella Höhn., 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Hysterostegiella crassomarginata Graddon, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860606"
+    }
+,
+    {
+      "name": "Hysterostegiella dowardensis (Graddon) B.Hein, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860607"
+    }
+,
+    {
+      "name": "Hysteropezizella dowardensis Graddon, 1974",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875765"
+    }
+,
+    {
+      "name": "Hysterostegiella dumeti (Sacc. & Speg.) B.Hein, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860608"
+    }
+,
+    {
+      "name": "Stegia dumeti Sacc. & Speg., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875766"
+    }
+,
+    {
+      "name": "Stegopeziza dumeti (Sacc. & Speg.) Spooner, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875767"
+    }
+,
+    {
+      "name": "Hysterostegiella juniperina (E.Müll.) Schmid-Heckel, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860609"
+    }
+,
+    {
+      "name": "Psilachnum juniperinum E.Müll., 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875768"
+    }
+,
+    {
+      "name": "Hysterostegiella lauri (Caldesi) B.Hein, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860610"
+    }
+,
+    {
+      "name": "Naevia lauri Caldesi, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875769"
+    }
+,
+    {
+      "name": "Stegia lauri (Caldesi) Sacc., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875770"
+    }
+,
+    {
+      "name": "Stegopeziza lauri (Caldesi) Höhn., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875771"
+    }
+,
+    {
+      "name": "Hysterostegiella quercea (Fautrey & Lambotte) B.Hein, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860611"
+    }
+,
+    {
+      "name": "Stegia quercea Fautrey & Lambotte, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875772"
+    }
+,
+    {
+      "name": "Stegopeziza quercea (Fautrey & Lambotte) Spooner, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875773"
+    }
+,
+    {
+      "name": "Hysterostegiella zelandarkensis Svrček",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860612"
+    }
+,
+    {
+      "name": "Incrucipulum Baral, 1985",
+      "url": ""
+    }
+,
+    {
+      "name": "Incrucipulum capitatum (Peck) Baral, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860623"
+    }
+,
+    {
+      "name": "Dasyscypha capitata (Peck) Le Gal",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875884"
+    }
+,
+    {
+      "name": "Dasyscyphus capitatus (Peck) Le Gal, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46759"
+    }
+,
+    {
+      "name": "Dasyscyphus scintillans Massee, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875883"
+    }
+,
+    {
+      "name": "Lachnella capitata (Peck) Seaver, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875885"
+    }
+,
+    {
+      "name": "Lachnum capitatum (Peck) Svrček, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875886"
+    }
+,
+    {
+      "name": "Peziza capitata Peck, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875887"
+    }
+,
+    {
+      "name": "Trichopeziza capitata (Peck) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875888"
+    }
+,
+    {
+      "name": "Incrucipulum ciliare (Schrad.) Baral, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860624"
+    }
+,
+    {
+      "name": "Dasyscyphus ciliaris (Schrad.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46768"
+    }
+,
+    {
+      "name": "Erinella ciliaris (Schrad.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875875"
+    }
+,
+    {
+      "name": "Hyalopeziza ciliaris (Schrad.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875876"
+    }
+,
+    {
+      "name": "Lachnea ciliaris (Schrad.) Gillet, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875877"
+    }
+,
+    {
+      "name": "Lachnum ciliare (Schrad.) Rehm, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875878"
+    }
+,
+    {
+      "name": "Peziza ciliaris Schrad., 1799",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46770"
+    }
+,
+    {
+      "name": "Incrucipulum sulphurellum (Peck) Baral, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860625"
+    }
+,
+    {
+      "name": "Belonidium sulphurellum (Peck) Raitv. & Leenurm, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875880"
+    }
+,
+    {
+      "name": "Dasyscyphus cruciferus (W.Phillips) Sacc., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46781"
+    }
+,
+    {
+      "name": "Dasyscyphus sulphurellus (Peck) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46853"
+    }
+,
+    {
+      "name": "Lachnella crucifera (Phill.) Phill.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46782"
+    }
+,
+    {
+      "name": "Lachnum cruciferum (Phill.) Nannf.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46783"
+    }
+,
+    {
+      "name": "Lachnum sulphurellum (Peck) Raitv., 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875881"
+    }
+,
+    {
+      "name": "Peziza crucifera W.Phillips, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875879"
+    }
+,
+    {
+      "name": "Peziza sulphurella Peck, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875882"
+    }
+,
+    {
+      "name": "Incrucipulum virtembergense (Matheis) Baral, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860640"
+    }
+,
+    {
+      "name": "Belonidium virtembergense (Matheis) Raitv. & Leenurm, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875889"
+    }
+,
+    {
+      "name": "Dasyscyphus virtembergensis Matheis, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875890"
+    }
+,
+    {
+      "name": "Lachnum virtembergense (Matheis) Raitv., 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875964"
+    }
+,
+    {
+      "name": "Kohninia Holst-Jensen, Vrålstad & T.Schumach., 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Kohninia linnaeicola Holst-Jensen, Vrålstad & T.Schumach., 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860398"
+    }
+,
+    {
+      "name": "Lachnaster Höhn., 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Lachnaster gracilis Höhn., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48198"
+    }
+,
+    {
+      "name": "Leptotrochila P.Karst., 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptotrochila astrantiae (Ces.) Schüepp, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860511"
+    }
+,
+    {
+      "name": "Fabraea astrantiae (Ces.) Rehm, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875484"
+    }
+,
+    {
+      "name": "Phacidium astrantiae Ces., 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875485"
+    }
+,
+    {
+      "name": "Pseudopeziza astrantiae (Ces.) J.Schröt. ex Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875486"
+    }
+,
+    {
+      "name": "Leptotrochila bartsiae Schüepp, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860512"
+    }
+,
+    {
+      "name": "Leptotrochila campanulae (DC.) Rossman, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1006369"
+    }
+,
+    {
+      "name": "Dothidea campanulae (DC.) Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878465"
+    }
+,
+    {
+      "name": "Phyllachora campanulae (DC.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/856378"
+    }
+,
+    {
+      "name": "Placosphaeria campanulae (DC.) Bäumler, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878466"
+    }
+,
+    {
+      "name": "Xyloma campanulae DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878467"
+    }
+,
+    {
+      "name": "Leptotrochila cerastiorum (Wallr. ex Fr.) Schüepp, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860514"
+    }
+,
+    {
+      "name": "Fabraea cerastiorum (Wallr. ex Fr.) Rehm, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875489"
+    }
+,
+    {
+      "name": "Peziza cerastiorum Wallr. ex Fr., 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875490"
+    }
+,
+    {
+      "name": "Phacidium cerastiorum (Wallr. ex Fr.) Gillet, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875491"
+    }
+,
+    {
+      "name": "Pseudopeziza cerastiorum (Wallr. ex Fr.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875492"
+    }
+,
+    {
+      "name": "Leptotrochila lugubris (De Not.) Schüepp, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47345"
+    }
+,
+    {
+      "name": "Ephelina lugubris (De Not.) Höhn., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47343"
+    }
+,
+    {
+      "name": "Ephelina rhinanthi (W.Phillips) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875493"
+    }
+,
+    {
+      "name": "Ephelis rhinanthi W.Phillips, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875494"
+    }
+,
+    {
+      "name": "Peziza lugubris De Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875495"
+    }
+,
+    {
+      "name": "Pyrenopeziza lugubris (De Not.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875496"
+    }
+,
+    {
+      "name": "Leptotrochila medicaginis (Fuckel) Schüepp, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860515"
+    }
+,
+    {
+      "name": "Pyrenopeziza medicaginis Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875497"
+    }
+,
+    {
+      "name": "Sporonema phacidioides Desm., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875498"
+    }
+,
+    {
+      "name": "Leptotrochila prunellae (Lind) Dennis, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980185"
+    }
+,
+    {
+      "name": "Beloniella prunellae Lind, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980184"
+    }
+,
+    {
+      "name": "Ephelina prunellae (Lind) W.Phillips ex A.L.Sm., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875487"
+    }
+,
+    {
+      "name": "Fabraea prunellae (Lind) Nannf., 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875488"
+    }
+,
+    {
+      "name": "Leptotrochila brunellae (Lind) Dennis, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860513"
+    }
+,
+    {
+      "name": "Leptotrochila radians (Roberge ex Desm.) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860516"
+    }
+,
+    {
+      "name": "Phacidium radians Roberge ex Desm., 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875499"
+    }
+,
+    {
+      "name": "Pseudopeziza radians (Roberge ex Desm.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875500"
+    }
+,
+    {
+      "name": "Pyrenopeziza radians (Roberge ex Desm.) Rehm, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875501"
+    }
+,
+    {
+      "name": "Trochila radians (Roberge ex Desm.) de Not., 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875502"
+    }
+,
+    {
+      "name": "Leptotrochila ranunculi (Fr.) Schüepp, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860517"
+    }
+,
+    {
+      "name": "Dothidea ranunculi Fr., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875503"
+    }
+,
+    {
+      "name": "Fabraea litigiosa (Roberge ex Desm.) Gillet, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875508"
+    }
+,
+    {
+      "name": "Fabraea ranunculi P.Karst., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47432"
+    }
+,
+    {
+      "name": "Phacidium litigiosum Roberge ex Desm., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875509"
+    }
+,
+    {
+      "name": "Phacidium ranunculi (Fr.) Lib., 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875504"
+    }
+,
+    {
+      "name": "Phlyctidium ranunculi (Fr.) Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875505"
+    }
+,
+    {
+      "name": "Pseudopeziza ranunculi (Fr.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47434"
+    }
+,
+    {
+      "name": "Stigmatea ranunculi (Fr.) Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/866756"
+    }
+,
+    {
+      "name": "Trochila ranunculi var. litigiosa (Fr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875507"
+    }
+,
+    {
+      "name": "Trochila ranunculi (Fr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875506"
+    }
+,
+    {
+      "name": "Leptotrochila repanda (Fr.) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49496"
+    }
+,
+    {
+      "name": "Cenangium repandum (Fr.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875510"
+    }
+,
+    {
+      "name": "Coccomyces repandus (Fr.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/854596"
+    }
+,
+    {
+      "name": "Phacidium repandum Fr., 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49497"
+    }
+,
+    {
+      "name": "Pseudopeziza repanda (Fr.) P.Karst., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49495"
+    }
+,
+    {
+      "name": "Leptotrochila saniculae (Wallr.)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860540"
+    }
+,
+    {
+      "name": "Dothidea saniculae Wallr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875511"
+    }
+,
+    {
+      "name": "Fabraea saniculae (Wallr.) Rehm, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875591"
+    }
+,
+    {
+      "name": "Leptotrochila trifolii-arvensis (Nannf.) Schüepp, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860541"
+    }
+,
+    {
+      "name": "Pseudopeziza trifolii-arvensis Nannf., 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875592"
+    }
+,
+    {
+      "name": "Leptotrochila verrucosa (Wallr.) Schüepp, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860543"
+    }
+,
+    {
+      "name": "Colpoma verrucosum Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875593"
+    }
+,
+    {
+      "name": "Phacidium verrucosum (Wallr.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875594"
+    }
+,
+    {
+      "name": "Leveillula G.Arnaud, 1921",
+      "url": ""
+    }
+,
+    {
+      "name": "Leveillula carlinae (Castagne)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860549"
+    }
+,
+    {
+      "name": "Erysiphe scolymi Prost",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875616"
+    }
+,
+    {
+      "name": "Leveillula scolymi (Prost) Durrieu & Rostam, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875617"
+    }
+,
+    {
+      "name": "Leveillula taurica f. carlinae Jacz., 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875618"
+    }
+,
+    {
+      "name": "Leveillula cistacearum Golovin, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860550"
+    }
+,
+    {
+      "name": "Leveillula compositarum Golovin, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860551"
+    }
+,
+    {
+      "name": "Leveillula duriaei (Lév.) U.Braun, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860552"
+    }
+,
+    {
+      "name": "Erysiphe duriaei Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875619"
+    }
+,
+    {
+      "name": "Leveillula lactucarum Durrieu & Rostam, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860553"
+    }
+,
+    {
+      "name": "Leveillula lanuginosa (Fuckel) Golovin, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860584"
+    }
+,
+    {
+      "name": "Erysiphe lanuginosa Fuckel, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875620"
+    }
+,
+    {
+      "name": "Leveillula malvacearum Golovin, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860585"
+    }
+,
+    {
+      "name": "Leveillula picridis (Castagne) Durrieu & Rostam, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860586"
+    }
+,
+    {
+      "name": "Erysiphe picridis Castagne, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875698"
+    }
+,
+    {
+      "name": "Leveillula rutae (Jacz.) Durrieu & Rostam, 1985",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860587"
+    }
+,
+    {
+      "name": "Erysiphe taurica f. rutae Jacz.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875699"
+    }
+,
+    {
+      "name": "Leveillula taurica f. rutae Jacz., 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875700"
+    }
+,
+    {
+      "name": "Leveillula taurica (Lév.) G.Arnaud, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860588"
+    }
+,
+    {
+      "name": "Erysiphe taurica Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875701"
+    }
+,
+    {
+      "name": "Oidiopsis taurica (Lév.) E.S.Salmon, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875702"
+    }
+,
+    {
+      "name": "Leveillula verbasci (Jacz.) Golovin, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860589"
+    }
+,
+    {
+      "name": "Erysiphe taurica f. verbasci Jacz.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875703"
+    }
+,
+    {
+      "name": "Leveillula taurica f. verbasci Jacz., 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980198"
+    }
+,
+    {
+      "name": "Leveillula verbasci var. digitalis Marta Seq., 1996",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869035"
+    }
+,
+    {
+      "name": "Lirula Darker, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Lirula macrospora (R.Hartig) Darker, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860620"
+    }
+,
+    {
+      "name": "Hypoderma macrospora R.Hartig, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980233"
+    }
+,
+    {
+      "name": "Hysterium macrosporum Hartig",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875831"
+    }
+,
+    {
+      "name": "Lophodermium macrosporum (R.Hartig) Rehm, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875832"
+    }
+,
+    {
+      "name": "Lirula nervisequa (DC.) Darker, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/970100"
+    }
+,
+    {
+      "name": "Hypoderma nervisequum (DC.) Fr., 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882135"
+    }
+,
+    {
+      "name": "Hypodermella nervisequia (DC.) Lagerb., 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/973076"
+    }
+,
+    {
+      "name": "Hysterium nervisequum DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882136"
+    }
+,
+    {
+      "name": "Lophodermium nervisequium (DC.) Chevall., 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876739"
+    }
+,
+    {
+      "name": "Lophomerum Ouell. & Magasi, 1966",
+      "url": ""
+    }
+,
+    {
+      "name": "Lophomerum ponticum Minter, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860470"
+    }
+,
+    {
+      "name": "Lophomerum rhododendri (Ces. ex Rehm) Remler, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860471"
+    }
+,
+    {
+      "name": "Lophodermium rhododendri Ces. ex Rehm, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980349"
+    }
+,
+    {
+      "name": "Propolis rhododendri Rehm, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980350"
+    }
+,
+    {
+      "name": "Pseudophacidium rhododendri (Rehm) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875239"
+    }
+,
+    {
+      "name": "Loramyces W.Weston, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Loramyces juncicola W.Weston, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860472"
+    }
+,
+    {
+      "name": "Loramyces macrospora Ingold & B.Chapm., 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860473"
+    }
+,
+    {
+      "name": "Marthamyces Minter, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Marthamyces phacidioides (Fr.) Minter, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860518"
+    }
+,
+    {
+      "name": "Coccomyces albidus (W.Phillips & Harkn.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875525"
+    }
+,
+    {
+      "name": "Coccomyces quadratus subsp. ursinus (Sacc. & Paol.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875518"
+    }
+,
+    {
+      "name": "Coccomyces ursinus (Sacc. & Paol.) Petr., 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875519"
+    }
+,
+    {
+      "name": "Naemacyclus adeanus Rehm",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875523"
+    }
+,
+    {
+      "name": "Naemacyclus arctostaphyli (Ferd. & Winge) Rehm, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875528"
+    }
+,
+    {
+      "name": "Naemacyclus penegalensis Rehm",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875524"
+    }
+,
+    {
+      "name": "Naemacyclus phacidioides (Fr.) B.Erikss., 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875520"
+    }
+,
+    {
+      "name": "Phacidium albidum W.Phillips & Harkn., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875526"
+    }
+,
+    {
+      "name": "Propolis phacidioides (Fr.) Corda, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875521"
+    }
+,
+    {
+      "name": "Stictis anaxaea Speg., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875527"
+    }
+,
+    {
+      "name": "Stictis arctostaphyli Ferd. & Winge, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875529"
+    }
+,
+    {
+      "name": "Stictis myricae E.K.Cash, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875530"
+    }
+,
+    {
+      "name": "Stictis phacidioides Fr., 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875522"
+    }
+,
+    {
+      "name": "Stictis vaccinii Ellis & Everh., 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875531"
+    }
+,
+    {
+      "name": "Marthamyces quadrifidus (Lév.) Minter, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860519"
+    }
+,
+    {
+      "name": "Stictis quadrifida Lév., 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875532"
+    }
+,
+    {
+      "name": "Marthamyces quercifolius (Cooke & Ellis) Minter, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860520"
+    }
+,
+    {
+      "name": "Stictis quercifolia Cooke & Ellis, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875533"
+    }
+,
+    {
+      "name": "Martininia Dumont & Korf, 1970",
+      "url": ""
+    }
+,
+    {
+      "name": "Martininia panamaensis Dumont & Korf, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860521"
+    }
+,
+    {
+      "name": "Martinia panamaensis Whetzel, 1942",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875534"
+    }
+,
+    {
+      "name": "Meloderma Darker, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Meloderma desmazieresii (Duby) Darker",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860402"
+    }
+,
+    {
+      "name": "Hypoderma brachysporum (Rostr.) Tubeuf, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875000"
+    }
+,
+    {
+      "name": "Hypoderma desmazieri Duby, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48076"
+    }
+,
+    {
+      "name": "Hypoderma strobicola Tubeuf, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875001"
+    }
+,
+    {
+      "name": "Leptostroma strobicola Hilitzer, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875002"
+    }
+,
+    {
+      "name": "Lophodermium lineatum A.L.Sm. & Ramsb., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875003"
+    }
+,
+    {
+      "name": "Micraspis Darker, 1963",
+      "url": ""
+    }
+,
+    {
+      "name": "Micraspis strobilina Dennis, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860417"
+    }
+,
+    {
+      "name": "Sporonema diamandidis Minter, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875092"
+    }
+,
+    {
+      "name": "Micropeziza Fuckel, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Actinoscypha P.Karst., 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Micropeziza cornea (Berk. & Broome) Nannf., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860477"
+    }
+,
+    {
+      "name": "Calloria cornea (Berk. & Broome) W.Phillips, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875342"
+    }
+,
+    {
+      "name": "Mollisia cornea (Berk. & Broome) Höhn., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875343"
+    }
+,
+    {
+      "name": "Peziza cornea Berk. & Broome, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875344"
+    }
+,
+    {
+      "name": "Urceola cornea (Berk. & Broome) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875345"
+    }
+,
+    {
+      "name": "Micropeziza diphasii L.Holm & K.Holm, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860478"
+    }
+,
+    {
+      "name": "Micropeziza karstenii Nannf., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860479"
+    }
+,
+    {
+      "name": "Actinoscypha graminis P.Karst., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875346"
+    }
+,
+    {
+      "name": "Micropeziza muelleri (Graddon)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860480"
+    }
+,
+    {
+      "name": "Actinoscypha muelleri Graddon, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/45313"
+    }
+,
+    {
+      "name": "Micropeziza poae Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860481"
+    }
+,
+    {
+      "name": "Mollisia poae (Fuckel) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875347"
+    }
+,
+    {
+      "name": "Niptera poae (Fuckel) Rehm, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875348"
+    }
+,
+    {
+      "name": "Peziza poae Fuckel, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875349"
+    }
+,
+    {
+      "name": "Pyrenopeziza poae (Fuckel) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/875350"
+    }
+,
+    {
+      "name": "Micropeziza umbrinella (Desm.) Baral, Helleman & U.Lindem., 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993705"
+    }
+,
+    {
+      "name": "Calloriella umbrinella (Desm.) Höhn., 1918",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879191"
+    }
+,
+    {
+      "name": "Mollisia umbrinella (Desm.) Gillet, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879192"
+    }
+,
+    {
+      "name": "Niptera umbrinella (Desm.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861142"
+    }
+,
+    {
+      "name": "Peziza umbrinella Desm., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879193"
+    }
+,
+    {
+      "name": "Urceola umbrinella (Desm.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879194"
+    }
+,
+    {
+      "name": "Moserella Pöder & Scheuer, 1994",
+      "url": ""
+    }
+,
+    {
+      "name": "Moserella radicicola Pöder & Scheuer, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861301"
+    }
+,
+    {
+      "name": "Naevala B.Hein, 1976",
+      "url": ""
+    }
+,
+    {
+      "name": "Naevala marginata B.Hein, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861256"
+    }
+,
+    {
+      "name": "Naevala perexigua (Roberge ex Desm.) K.Holm & L.Holm, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861257"
+    }
+,
+    {
+      "name": "Microthyriella perexigua (Roberge) Höhn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879658"
+    }
+,
+    {
+      "name": "Naevala minutissima (Auersw.) B.Hein, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879657"
+    }
+,
+    {
+      "name": "Naevia minutissima (Auersw.) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48757"
+    }
+,
+    {
+      "name": "Phacidium minutissimum Auersw., 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48759"
+    }
+,
+    {
+      "name": "Phacidium perexiguum Roberge ex Desm., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879659"
+    }
+,
+    {
+      "name": "Schizothyrium perexiguum (Roberge ex Desm.) Höhn., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879660"
+    }
+,
+    {
+      "name": "Trochila perexigua (Roberge) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879661"
+    }
+,
+    {
+      "name": "Naevala rhodiolae Hein",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861258"
+    }
+,
+    {
+      "name": "Naevala ribis B.Hein, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861259"
+    }
+,
+    {
+      "name": "Naevala salicis Hein",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861260"
+    }
+,
+    {
+      "name": "Naevala simulans Hein",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861261"
+    }
+,
+    {
+      "name": "Naevala tornensis Hein",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861262"
+    }
+,
+    {
+      "name": "Naeviopsis B.Hein, 1976",
+      "url": ""
+    }
+,
+    {
+      "name": "Naeviopsis caricis-brizoidis Svrček, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861263"
+    }
+,
+    {
+      "name": "Naeviopsis carneola B.Hein & Nannf., 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861264"
+    }
+,
+    {
+      "name": "Naeviopsis carneopallida (Roberge ex Desm.) B.Hein, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861265"
+    }
+,
+    {
+      "name": "Briardia carneopallida (Roberge ex Desm.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48330"
+    }
+,
+    {
+      "name": "Laetinaevia carneopallida (Roberge ex Desm.) Dennis, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48329"
+    }
+,
+    {
+      "name": "Naevia carneopallida (Roberge ex Desm.) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879664"
+    }
+,
+    {
+      "name": "Peziza carneopallida Roberge ex Desm., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879665"
+    }
+,
+    {
+      "name": "Pezizella carneopallida (Roberge ex Desm.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48331"
+    }
+,
+    {
+      "name": "Pseodopeziza carneopallida (Roberge ex Desm.) Höhn.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48332"
+    }
+,
+    {
+      "name": "Naeviopsis montana B.Hein, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861266"
+    }
+,
+    {
+      "name": "Naeviopsis tithymalina (J.Kunze) B.Hein, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861267"
+    }
+,
+    {
+      "name": "Calloria tithymalina J.Kunze, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48335"
+    }
+,
+    {
+      "name": "Laetinaevia tithymalina (Kunze) Petr., 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48334"
+    }
+,
+    {
+      "name": "Naevia tithymalina (Kunze) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879666"
+    }
+,
+    {
+      "name": "Patinella euphorbiae (Berk. & Broome) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879667"
+    }
+,
+    {
+      "name": "Neodasyscypha Suková & Spooner, 2005",
+      "url": ""
+    }
+,
+    {
+      "name": "Arenaea Penz. & Sacc., 1902",
+      "url": ""
+    }
+,
+    {
+      "name": "Chaetoscypha Syd., 1924",
+      "url": ""
+    }
+,
+    {
+      "name": "Dasyscyphus Nees ex Gray, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Neodasyscypha cerina (Pers.) Spooner, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861314"
+    }
+,
+    {
+      "name": "Belonidium cerinum (Pers.) Raitv., 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880452"
+    }
+,
+    {
+      "name": "Dasyscyphus cerinus (Pers.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880453"
+    }
+,
+    {
+      "name": "Erinella cerina (Pers.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880454"
+    }
+,
+    {
+      "name": "Helotium cerinum (Pers.) P.Karst., 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48279"
+    }
+,
+    {
+      "name": "Lachnea cerina (Pers.) Gillet, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880455"
+    }
+,
+    {
+      "name": "Lachnum cerinum (Pers.) Morgan, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/48277"
+    }
+,
+    {
+      "name": "Perrotia cerina (Pers.) Svrček, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880456"
+    }
+,
+    {
+      "name": "Peziza cerina Pers., 1796",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880457"
+    }
+,
+    {
+      "name": "Neoerysiphe U.Braun, 1999",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoerysiphe galeopsidis (DC.) U.Braun, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861315"
+    }
+,
+    {
+      "name": "Alphitomorpha labiatarum Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883623"
+    }
+,
+    {
+      "name": "Erysiphe galeopsidis DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880461"
+    }
+,
+    {
+      "name": "Erysiphe labiatarum Chevall., 1826",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880458"
+    }
+,
+    {
+      "name": "Erysiphe lamii (Rabenh.) Fuss",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880459"
+    }
+,
+    {
+      "name": "Erysiphe lamprocarpa (Wallr.) Link, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/876360"
+    }
+,
+    {
+      "name": "Golovinomyces galeopsidis (DC.) V.P.Heluta, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880460"
+    }
+,
+    {
+      "name": "Neoerysiphe galii (S.Blumer) U.Braun, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861316"
+    }
+,
+    {
+      "name": "Erysiphe galii S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880462"
+    }
+,
+    {
+      "name": "Golovinomyces galii (S.Blumer) V.P.Heluta, 1988",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880463"
+    }
+,
+    {
+      "name": "Neofabraea H.S.Jacks., 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Neofabraea vagabunda (Desm.) Rossman, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995140"
+    }
+,
+    {
+      "name": "Ascochyta caulium Lib., 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878904"
+    }
+,
+    {
+      "name": "Neofabraea alba (E.J.Guthrie) Verkley, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861317"
+    }
+,
+    {
+      "name": "Pezicula alba E.J.Guthrie, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880464"
+    }
+,
+    {
+      "name": "Phlyctaena vagabunda Desm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880465"
+    }
+,
+    {
+      "name": "Phlyctema caulium (Lib.) Petr., 1924",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/995142"
+    }
+,
+    {
+      "name": "Phlyctema vagabunda Desm., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861062"
+    }
+,
+    {
+      "name": "Nimbomollisia Nannf., 1983",
+      "url": ""
+    }
+,
+    {
+      "name": "Nimbomollisia eriophori (L.A.Kirchn.) Nannf., 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861328"
+    }
+,
+    {
+      "name": "Dibeloniella eriophori (L.A.Kirchn.) E.Müll. & Défago, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880669"
+    }
+,
+    {
+      "name": "Mollisia phaea Rehm, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880672"
+    }
+,
+    {
+      "name": "Niptera eriophori (L.A.Kirchn.) Rehm, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880670"
+    }
+,
+    {
+      "name": "Niptera phaea (Rehm) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880673"
+    }
+,
+    {
+      "name": "Peziza eriophori L.A.Kirchn., 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880671"
+    }
+,
+    {
+      "name": "Nimbomollisia melatephroides (Rehm) Nannf., 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861329"
+    }
+,
+    {
+      "name": "Hysteropezizella melatephroides (Rehm) Dennis, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880674"
+    }
+,
+    {
+      "name": "Mollisia melatephroides Rehm, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880675"
+    }
+,
+    {
+      "name": "Niptera melatephroides (Rehm) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880676"
+    }
+,
+    {
+      "name": "Pyrenopeziza graminis f. glabrata Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880677"
+    }
+,
+    {
+      "name": "Nothomitra Maas Geest., 1964",
+      "url": ""
+    }
+,
+    {
+      "name": "Nothomitra cinnamomea Maas Geest., 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861190"
+    }
+,
+    {
+      "name": "Obscurodiscus Raitv., 2002",
+      "url": ""
+    }
+,
+    {
+      "name": "Obscurodiscus myricae (P.Karst.) Raitv., 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861212"
+    }
+,
+    {
+      "name": "Godronia myricae P.Karst., 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879484"
+    }
+,
+    {
+      "name": "Trichopezizella myricae (P.Karst.) K.Holm & L.Holm, 1991",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879485"
+    }
+,
+    {
+      "name": "Ovulinia F.A.Weiss, 1940",
+      "url": ""
+    }
+,
+    {
+      "name": "Ovulinia azaleae F.A.Weiss, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861176"
+    }
+,
+    {
+      "name": "Ovulitis azaleae (F.A.Weiss) N.F.Buchw., 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879311"
+    }
+,
+    {
+      "name": "Sclerotinia azaleae (F.A.Weiss) Dennis, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879310"
+    }
+,
+    {
+      "name": "Pachydisca albolilacina (Pat.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861177"
+    }
+,
+    {
+      "name": "Calycella albolilacina (Pat.) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879312"
+    }
+,
+    {
+      "name": "Helotium albolilacinum Pat., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879313"
+    }
+,
+    {
+      "name": "Pachydisca brunnea (W.Phillips) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861179"
+    }
+,
+    {
+      "name": "Ombrophila brunnea W.Phillips, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980860"
+    }
+,
+    {
+      "name": "Pachydisca eburnea (P.Crouan & H.Crouan) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861180"
+    }
+,
+    {
+      "name": "Helotium eburneum P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980861"
+    }
+,
+    {
+      "name": "Pachydisca fulvidula f. microspora Le Gal, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868039"
+    }
+,
+    {
+      "name": "Pachydisca fusispora (J.Schröt.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861181"
+    }
+,
+    {
+      "name": "Helotium fusisporum J.Schröt., 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980862"
+    }
+,
+    {
+      "name": "Pachydisca sclerotioides (Berk.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861182"
+    }
+,
+    {
+      "name": "Peziza sclerotioides Berk., 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980863"
+    }
+,
+    {
+      "name": "Pachydisca sphagnorum (P.Crouan & H.Crouan) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861183"
+    }
+,
+    {
+      "name": "Helotium eburneum var. sphagnorum (P.Crouan & H.Crouan) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879317"
+    }
+,
+    {
+      "name": "Helotium sphagnorum P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879318"
+    }
+,
+    {
+      "name": "Pachydisca viridiatra (Fr.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861184"
+    }
+,
+    {
+      "name": "Mollisia viridiatra (Fr.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879319"
+    }
+,
+    {
+      "name": "Peziza viridiatra Fr., 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879320"
+    }
+,
+    {
+      "name": "Parorbiliopsis Spooner & Dennis, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Parorbiliopsis extumescens (P.Karst.) Spooner & Dennis, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861222"
+    }
+,
+    {
+      "name": "Calloria extumescens (P.Karst.) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879530"
+    }
+,
+    {
+      "name": "Peziza extumescens P.Karst., 1869",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879531"
+    }
+,
+    {
+      "name": "Phaeohelotium extumescens (P.Karst.) Dennis, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879532"
+    }
+,
+    {
+      "name": "Parorbiliopsis luzulae-sylvaticae Svrček, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49032"
+    }
+,
+    {
+      "name": "Parorbiliopsis salicis Svrček, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49041"
+    }
+,
+    {
+      "name": "Parorbiliopsis samarae (Velen.) Svrček, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49042"
+    }
+,
+    {
+      "name": "Pezizella samarae Velen., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49043"
+    }
+,
+    {
+      "name": "Patinella Sacc., 1875",
+      "url": ""
+    }
+,
+    {
+      "name": "Patinella artemisioides (Roum. & Pat.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861279"
+    }
+,
+    {
+      "name": "Patellaria artemisioides Roum. & Pat., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879715"
+    }
+,
+    {
+      "name": "Patinella caerulescens (P.Crouan & H.Crouan) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861280"
+    }
+,
+    {
+      "name": "Patellaria caerulescens P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879716"
+    }
+,
+    {
+      "name": "Patellaria melaleuca var. caerulescens (P.Crouan & H.Crouan) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879717"
+    }
+,
+    {
+      "name": "Patinella cinnabarina (Speg.) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861281"
+    }
+,
+    {
+      "name": "Patinella macrospora Massee, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861282"
+    }
+,
+    {
+      "name": "Patinella rubrotingens (Berk. & Broome) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861284"
+    }
+,
+    {
+      "name": "Patellaria rubrotingens Berk. & Broome, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879720"
+    }
+,
+    {
+      "name": "Patinella tirolensis Nograsek & Matzer, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861285"
+    }
+,
+    {
+      "name": "Patinella ulmi (P.Crouan & H.Crouan) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861286"
+    }
+,
+    {
+      "name": "Patellaria ulmi P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879721"
+    }
+,
+    {
+      "name": "Propolis ulmi (P.Crouan & H.Crouan) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881663"
+    }
+,
+    {
+      "name": "Patinella viridis (P.Crouan & H.Crouan) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861287"
+    }
+,
+    {
+      "name": "Patellaria melaleuca var. viridis (P.Crouan & H.Crouan) Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879722"
+    }
+,
+    {
+      "name": "Patellaria viridis P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883485"
+    }
+,
+    {
+      "name": "Patinellaria P.Karst., 1885",
+      "url": ""
+    }
+,
+    {
+      "name": "Patinellaria sanguinea (Pers.) P.Karst., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861288"
+    }
+,
+    {
+      "name": "Durella sanguinea (Pers.) Nannf., 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879723"
+    }
+,
+    {
+      "name": "Patellaria sanguinea Pers., 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879724"
+    }
+,
+    {
+      "name": "Patellea sanguinea (Pers.) Rehm, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879725"
+    }
+,
+    {
+      "name": "Peziza sanguinea Pers., 1797",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879726"
+    }
+,
+    {
+      "name": "Phialea sanguinea (Pers.) Gillet, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879727"
+    }
+,
+    {
+      "name": "Tapesia sanguinea (Pers.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879728"
+    }
+,
+    {
+      "name": "Phaeangellina Dennis, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Phaeangellina empetri (Boud.) Dennis, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860980"
+    }
+,
+    {
+      "name": "Phaeangella empetri Boud., 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878194"
+    }
+,
+    {
+      "name": "Phyllactinia Lév., 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Phyllactinia alni Y.N.Yu & S.J.Han, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861011"
+    }
+,
+    {
+      "name": "Phyllactinia guttata (Wallr.) Lév. s.l.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878487"
+    }
+,
+    {
+      "name": "Phyllactinia berberidis Palla, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861012"
+    }
+,
+    {
+      "name": "Phyllactinia fraxini (DC.) Fuss, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861013"
+    }
+,
+    {
+      "name": "Erysiphe fraxini DC., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878488"
+    }
+,
+    {
+      "name": "Phyllactinia guttata (Wallr.) Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861026"
+    }
+,
+    {
+      "name": "Alphitomorpha guttata Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878572"
+    }
+,
+    {
+      "name": "Erysiphe guttata (Wallr.) Link, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878574"
+    }
+,
+    {
+      "name": "Ovulariopsis monospora (Pass.) Sacc. & D.Sacc., 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878489"
+    }
+,
+    {
+      "name": "Ovulariopsis moricola Delacr., 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878570"
+    }
+,
+    {
+      "name": "Phyllactinia corylea (Pers.) P.Karst., 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878571"
+    }
+,
+    {
+      "name": "Phyllactinia suffulta (Rebent.) Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878573"
+    }
+,
+    {
+      "name": "Phyllactinia hippophaës Thüm. ex S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861027"
+    }
+,
+    {
+      "name": "Phyllactinia hippophaes Thüm. ex S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/993582"
+    }
+,
+    {
+      "name": "Phyllactinia mali (Duby) U.Braun, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861028"
+    }
+,
+    {
+      "name": "Erysiphe mali Duby, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878575"
+    }
+,
+    {
+      "name": "Phyllactinia mespili (Castagne) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878576"
+    }
+,
+    {
+      "name": "Phyllactinia roboris (Gachet) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861029"
+    }
+,
+    {
+      "name": "Erysiphe roboris Gachet, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878577"
+    }
+,
+    {
+      "name": "Phyllactinia schweinitzii Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861030"
+    }
+,
+    {
+      "name": "Podosphaera Kunze, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Albigo Ehrh. ex Steud., 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Podosphaera clandestina (Wallr.) Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861036"
+    }
+,
+    {
+      "name": "Alphitomorpha clandestina Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878724"
+    }
+,
+    {
+      "name": "Erysiphe clandestina Wallr.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878725"
+    }
+,
+    {
+      "name": "Oidium crataegi Grognot, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878722"
+    }
+,
+    {
+      "name": "Oidium cydoniae Pass., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878723"
+    }
+,
+    {
+      "name": "Podosphaera evonymi DC.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878726"
+    }
+,
+    {
+      "name": "Podosphaera oxyacanthae (DC.) de Bary, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878727"
+    }
+,
+    {
+      "name": "Podosphaera clandestina var. aucupariae (Erikss.) U.Braun, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867979"
+    }
+,
+    {
+      "name": "Podosphaera aucupariae Erikss., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878728"
+    }
+,
+    {
+      "name": "Podosphaera comata Lév.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861037"
+    }
+,
+    {
+      "name": "Podosphaera filipendulae (Z.Y.Zhao) T.Z.Liu & U.Braun, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002529"
+    }
+,
+    {
+      "name": "Sphaerotheca filipendulae Z.Y.Zhao, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002532"
+    }
+,
+    {
+      "name": "Podosphaera kunzei Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861038"
+    }
+,
+    {
+      "name": "Podosphaera leucotricha (Ellis & Everh.) E.S.Salmon, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861039"
+    }
+,
+    {
+      "name": "Oidium farinosum Cooke, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878729"
+    }
+,
+    {
+      "name": "Oidium mespili Cooke, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878730"
+    }
+,
+    {
+      "name": "Sphaerotheca leucotricha Ellis & Everh., 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878731"
+    }
+,
+    {
+      "name": "Podosphaera major (Juel) S.Blumer, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861040"
+    }
+,
+    {
+      "name": "Podosphaera myrtillina var. major Juel, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878732"
+    }
+,
+    {
+      "name": "Podosphaera minor Howe, 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861041"
+    }
+,
+    {
+      "name": "Podosphaera myrtillina Kunze, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861042"
+    }
+,
+    {
+      "name": "Erysiphe myrtillina (Ficinus & C.Schub.) Fr., 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878734"
+    }
+,
+    {
+      "name": "Podosphaera myrtilli Dufrénoy, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878733"
+    }
+,
+    {
+      "name": "Sphaeria myrtillina Ficinus & C.Schub., 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878735"
+    }
+,
+    {
+      "name": "Podosphaera schlechtendalii Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861043"
+    }
+,
+    {
+      "name": "Podosphaera tridactyla (Wallr.) de Bary, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861044"
+    }
+,
+    {
+      "name": "Alphitomorpha tridactyla Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878738"
+    }
+,
+    {
+      "name": "Oidium cerasi Jacz., 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878736"
+    }
+,
+    {
+      "name": "Oidium laurocerasi auct.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883697"
+    }
+,
+    {
+      "name": "Oidium passerinii Bertol., 1879",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878737"
+    }
+,
+    {
+      "name": "Podosphaera clandestina var. tridactyla (Wallr.) W.B.Cooke, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878739"
+    }
+,
+    {
+      "name": "Podosphaera oxyacanthae var. tridactyla (Wallr.) E.S.Salmon, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878740"
+    }
+,
+    {
+      "name": "Podosphaera tridactyla var. tridactyla (Wallr.) de Bary, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012414"
+    }
+,
+    {
+      "name": "Polaroscyphus Huhtinen, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Polaroscyphus spetsbergianus Huhtinen, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861076"
+    }
+,
+    {
+      "name": "Potebniamyces Smerlis, 1962",
+      "url": ""
+    }
+,
+    {
+      "name": "Potebniamyces pyri (Berk. & Broome) Dennis, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860837"
+    }
+,
+    {
+      "name": "Phacidiella discolor (Mouton & Sacc.) Potebnia, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879113"
+    }
+,
+    {
+      "name": "Phacidiopycnis furfuracea (Fr.) Jørst., 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879110"
+    }
+,
+    {
+      "name": "Phacidiopycnis malorum Potebnia, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879111"
+    }
+,
+    {
+      "name": "Phacidium discolor Mouton & Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877714"
+    }
+,
+    {
+      "name": "Phacidium verecundum Sacc., E.Bommer & M.Rousseau, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879112"
+    }
+,
+    {
+      "name": "Potebniamyces discolor (Mouton & Sacc.) Smerlis, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877715"
+    }
+,
+    {
+      "name": "Propolis pyri (Berk. & Broome) W.Phillips, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877716"
+    }
+,
+    {
+      "name": "Stictis lecanora var. pyri Berk. & Broome, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877717"
+    }
+,
+    {
+      "name": "Pragmopora A.Massal., 1855",
+      "url": ""
+    }
+,
+    {
+      "name": "Pragmopora amphibola A.Massal., 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860838"
+    }
+,
+    {
+      "name": "Scleroderris amphibola (A.Massal.) Gillet, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877718"
+    }
+,
+    {
+      "name": "Tympanis amphibola (A.Massal.) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877719"
+    }
+,
+    {
+      "name": "Pragmopora bacillifera (P.Karst.) Rehm, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860839"
+    }
+,
+    {
+      "name": "Lecanidion bacilliferum (P.Karst.) E.Müll., 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877720"
+    }
+,
+    {
+      "name": "Patellaria bacillifera P.Karst., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877721"
+    }
+,
+    {
+      "name": "Scleroderris bacillifera (P.Karst.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/49802"
+    }
+,
+    {
+      "name": "Tympanis bacillifera P.Karst., 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/877722"
+    }
+,
+    {
+      "name": "Proprioscypha Spooner, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Proprioscypha echinulata Raitv. & Leenurm, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860908"
+    }
+,
+    {
+      "name": "Pseudohelotium Fuckel, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudohelotium alaunae Graddon, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860972"
+    }
+,
+    {
+      "name": "Pseudohelotium pineti (Batsch) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861005"
+    }
+,
+    {
+      "name": "Belonium jerdonii Massee",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878178"
+    }
+,
+    {
+      "name": "Dacrymyces hyalinus Lib., 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884128"
+    }
+,
+    {
+      "name": "Helotium pineti (Batsch) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878412"
+    }
+,
+    {
+      "name": "Hyalinia incarnata (W.Phillips) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878179"
+    }
+,
+    {
+      "name": "Lachnea pineti (Batsch) Gillet, 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878413"
+    }
+,
+    {
+      "name": "Linodochium hyalinum (Lib.) Höhn., 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878182"
+    }
+,
+    {
+      "name": "Mollisia pineti (Batsch) W.Phillips, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878414"
+    }
+,
+    {
+      "name": "Peziza incarnata Cooke, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878180"
+    }
+,
+    {
+      "name": "Peziza pineti Batsch, 1786",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878415"
+    }
+,
+    {
+      "name": "Pezizella incarnata (W.Phillips) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878181"
+    }
+,
+    {
+      "name": "Phialea pineti (Batsch) Quél., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878416"
+    }
+,
+    {
+      "name": "Pseudohelotium pulchellum (Quél.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861006"
+    }
+,
+    {
+      "name": "Mollisia pulchella Quél., 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878417"
+    }
+,
+    {
+      "name": "Peristomialis pulchella (Quél.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878418"
+    }
+,
+    {
+      "name": "Urceola pulchella (Quél.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878419"
+    }
+,
+    {
+      "name": "Pseudohelotium sordidulum (P.Karst.) Huhtinen, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861007"
+    }
+,
+    {
+      "name": "Peziza sordidula P.Karst., 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878420"
+    }
+,
+    {
+      "name": "Pseudonaevia Dennis & Spooner, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudonaevia caricina Dennis & Spooner, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861023"
+    }
+,
+    {
+      "name": "Pseudopezicula Korf, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudopezicula tracheiphila (Müll.-Thurg.) Korf & W.Y.Zhuang, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861025"
+    }
+,
+    {
+      "name": "Pseudopeziza tracheiphila Müll.-Thurg., 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981740"
+    }
+,
+    {
+      "name": "Remleria Raitv., 2004",
+      "url": ""
+    }
+,
+    {
+      "name": "Remleria rhododendricola (Rehm) Raitv., 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978082"
+    }
+,
+    {
+      "name": "Calycellina rhododendricola (Rehm) Remler, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46034"
+    }
+,
+    {
+      "name": "Mollisia rhododendricola Rehm, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978081"
+    }
+,
+    {
+      "name": "Rodwayella Spooner, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Rodwayella citrinula (P.Karst.) Spooner, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861715"
+    }
+,
+    {
+      "name": "Helotium citrinulum P.Karst., 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47973"
+    }
+,
+    {
+      "name": "Helotium flexuosum Massee, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882358"
+    }
+,
+    {
+      "name": "Hymenoscyphus citrinulus (P.Karst.) J.Schröt., 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/47972"
+    }
+,
+    {
+      "name": "Mollisiella citrinula (P.Karst.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882359"
+    }
+,
+    {
+      "name": "Pezizella citrinula (P.Karst.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882360"
+    }
+,
+    {
+      "name": "Rodwayella myricae Spooner, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861716"
+    }
+,
+    {
+      "name": "Rodwayella sessilis (Rodway) Spooner, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861717"
+    }
+,
+    {
+      "name": "Helotium sessile Rodway, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882361"
+    }
+,
+    {
+      "name": "Pezicula sessilis (Rodway) Dennis, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882362"
+    }
+,
+    {
+      "name": "Sarconiptera Raitv., 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Sarconiptera vinacea Raitv., 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861832"
+    }
+,
+    {
+      "name": "Sarcotrochila Höhn., 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Sarcotrochila alpina (Fuckel) Höhn., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861847"
+    }
+,
+    {
+      "name": "Naemacyclus alpinus Fuckel, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882887"
+    }
+,
+    {
+      "name": "Stegia alpina (Fuckel) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882888"
+    }
+,
+    {
+      "name": "Sawadaea Miyabe, 1914",
+      "url": ""
+    }
+,
+    {
+      "name": "Sawadaea bicornis (Wallr.) Homma, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861850"
+    }
+,
+    {
+      "name": "Alphitomorpha bicornis Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882895"
+    }
+,
+    {
+      "name": "Erysiphe aceris DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882897"
+    }
+,
+    {
+      "name": "Erysiphe bicornis (Wallr.) Fr., 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882893"
+    }
+,
+    {
+      "name": "Oidium aceris Rabenh., 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882894"
+    }
+,
+    {
+      "name": "Uncinula aceris (DC.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882898"
+    }
+,
+    {
+      "name": "Uncinula bicornis (Wallr.) Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882896"
+    }
+,
+    {
+      "name": "Sawadaea tulasnei (Fuckel) Homma, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861851"
+    }
+,
+    {
+      "name": "Uncinula tulasnei Fuckel, 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882899"
+    }
+,
+    {
+      "name": "Schizothyrioma Höhn., 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "Schizothyrioma ptarmicae (Desm.) Höhn., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861878"
+    }
+,
+    {
+      "name": "Labrella ptarmicae Desm., 1828",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883018"
+    }
+,
+    {
+      "name": "Leptothyrium ptarmicae (Desm.) Sacc., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883019"
+    }
+,
+    {
+      "name": "Schizothyrium ptarmicae (Desm.) Desm., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883234"
+    }
+,
+    {
+      "name": "Scleromitrula S.Imai, 1941",
+      "url": ""
+    }
+,
+    {
+      "name": "Scleromitrula calthicola (Whetzel) T.Schumach. & Holst-Jensen, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861583"
+    }
+,
+    {
+      "name": "Verpatinia calthicola Whetzel, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881691"
+    }
+,
+    {
+      "name": "Scleromitrula candolleana (Lév.) T.Schumach. & Holst-Jensen, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861584"
+    }
+,
+    {
+      "name": "Ciborinia candolleana (Lév.) Whetzel, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46291"
+    }
+,
+    {
+      "name": "Peziza candolleana Lév., 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46292"
+    }
+,
+    {
+      "name": "Phialea candolleana (Lév.) Quél., 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881692"
+    }
+,
+    {
+      "name": "Sclerotinia candolleana (Lév.) Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46293"
+    }
+,
+    {
+      "name": "Scleromitrula rubicola T.Schumach. & Holst-Jensen, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861585"
+    }
+,
+    {
+      "name": "Scleromitrula spiraeicola (Dennis) T.Schumach. & Holst-Jensen, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861586"
+    }
+,
+    {
+      "name": "Verpatinia calthicola var. spiraeicola (Dennis) L.G.Krieglst., 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881693"
+    }
+,
+    {
+      "name": "Verpatinia spiraeicola Dennis, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881694"
+    }
+,
+    {
+      "name": "Scutobelonium Graddon, 1984",
+      "url": ""
+    }
+,
+    {
+      "name": "Scutobelonium amorilens Graddon, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861666"
+    }
+,
+    {
+      "name": "Scutomollisia Nannf., 1976",
+      "url": ""
+    }
+,
+    {
+      "name": "Scutomollisia clavata B.Hein & Scheuer, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861667"
+    }
+,
+    {
+      "name": "Scutomollisia contraria Graddon, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861668"
+    }
+,
+    {
+      "name": "Scutomollisia fimbriatomarginata Graddon",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861669"
+    }
+,
+    {
+      "name": "Scutomollisia integromarginata Graddon, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861670"
+    }
+,
+    {
+      "name": "Scutomollisia lanceata B.Hein & Scheuer, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861671"
+    }
+,
+    {
+      "name": "Scutomollisia leptoderma Nannf., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861672"
+    }
+,
+    {
+      "name": "Scutomollisia microspora B.Hein & Scheuer, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861673"
+    }
+,
+    {
+      "name": "Scutomollisia morvernensis Graddon, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861674"
+    }
+,
+    {
+      "name": "Scutomollisia operculata Nannf., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861675"
+    }
+,
+    {
+      "name": "Scutomollisia pallide-ochracea Graddon, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861676"
+    }
+,
+    {
+      "name": "Scutomollisia papillata Graddon, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861677"
+    }
+,
+    {
+      "name": "Scutomollisia punctum (Rehm) Nannf., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861678"
+    }
+,
+    {
+      "name": "Actinoscypha punctum (Rehm) E.Müll., 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882041"
+    }
+,
+    {
+      "name": "Micropeziza punctum Rehm, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882042"
+    }
+,
+    {
+      "name": "Niptera punctum (Rehm) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882043"
+    }
+,
+    {
+      "name": "Scutomollisia stenospora Nannf., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861679"
+    }
+,
+    {
+      "name": "Skyathea Spooner & Dennis, 1986",
+      "url": ""
+    }
+,
+    {
+      "name": "Skyathea hederae Spooner & Dennis, 1986",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861806"
+    }
+,
+    {
+      "name": "Solenopezia Sacc., 1889",
+      "url": ""
+    }
+,
+    {
+      "name": "Solenopezia groenlandica Raitv., 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861829"
+    }
+,
+    {
+      "name": "Solenopezia lamoureana Raitv., 1995",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861830"
+    }
+,
+    {
+      "name": "Sporomega Corda, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Sporomega degenerans (Kunze) Corda, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46400"
+    }
+,
+    {
+      "name": "Colpoma degenerans (Kunze) De Not., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/46399"
+    }
+,
+    {
+      "name": "Hysterium degenerans Kunze, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882317"
+    }
+,
+    {
+      "name": "Phacidium degenerans (Kunze) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882318"
+    }
+,
+    {
+      "name": "Strossmayeria Schulzer, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Strossmayeria alba (P.Crouan & H.Crouan) Iturr. & Korf, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861639"
+    }
+,
+    {
+      "name": "Belonidium album (P.Crouan & H.Crouan) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881890"
+    }
+,
+    {
+      "name": "Helotium albellum Quél.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881889"
+    }
+,
+    {
+      "name": "Lecanidion album P.Crouan & H.Crouan, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881891"
+    }
+,
+    {
+      "name": "Strossmayeria alnicola (Velen.) Iturr., 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861640"
+    }
+,
+    {
+      "name": "Belonium alnicola Velen., 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881892"
+    }
+,
+    {
+      "name": "Strossmayeria atriseda (Saut.) Iturr., 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981754"
+    }
+,
+    {
+      "name": "Helminthosporium nodosum Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981753"
+    }
+,
+    {
+      "name": "Peziza atriseda Saut., 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981756"
+    }
+,
+    {
+      "name": "Pseudospiropes nodosus (Wallr.) M.B.Ellis, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867947"
+    }
+,
+    {
+      "name": "Strossmayeria bakeriana (Henn.) Iturr., 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861641"
+    }
+,
+    {
+      "name": "Hyaloderma bakeriana Henn., 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881893"
+    }
+,
+    {
+      "name": "Strossmayeria ostoyae Bertault, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881894"
+    }
+,
+    {
+      "name": "Strossmayeria basitricha (Sacc.) Dennis, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861642"
+    }
+,
+    {
+      "name": "Arachnopeziza basitricha (Sacc.) Boud., 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881897"
+    }
+,
+    {
+      "name": "Belonidium basitrichum Sacc., 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881898"
+    }
+,
+    {
+      "name": "Belonidium marchalianum Sacc., E.Bommer & M.Rousseau, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881895"
+    }
+,
+    {
+      "name": "Belonioscypha basitricha (Sacc.) Höhn., 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881899"
+    }
+,
+    {
+      "name": "Belonium basitrichum (Sacc.) Keissl., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881900"
+    }
+,
+    {
+      "name": "Pseudospiropes simplex (Kuntze) M.B. Ellis",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881896"
+    }
+,
+    {
+      "name": "Strossmayeria josserandii (Grelet) Bertault, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861643"
+    }
+,
+    {
+      "name": "Belonidium josserandii Grelet, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881903"
+    }
+,
+    {
+      "name": "Helminthosporium josserandii Bertault, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881901"
+    }
+,
+    {
+      "name": "Pseudospiropes josserandii (Bertault) Iturr., 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881902"
+    }
+,
+    {
+      "name": "Strossmayeria notabilis Iturr., 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861644"
+    }
+,
+    {
+      "name": "Durella brunnea Hino & Katum. ss. Petrini & al.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881904"
+    }
+,
+    {
+      "name": "Symphyosirinia E.A.Ellis, 1956",
+      "url": ""
+    }
+,
+    {
+      "name": "Symphyosirinia angelicae E.A.Ellis, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861681"
+    }
+,
+    {
+      "name": "Symphyosirinia chaerophylli Svrček, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861682"
+    }
+,
+    {
+      "name": "Symphyosirinia clematidis Baral, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861683"
+    }
+,
+    {
+      "name": "Symphyosira clematidis Baral, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882089"
+    }
+,
+    {
+      "name": "Symphyosirinia galii E.A.Ellis, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861684"
+    }
+,
+    {
+      "name": "Symphyosirinia heraclei E.A.Ellis, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861685"
+    }
+,
+    {
+      "name": "Symphyosira parasitica Massee & Crossl., 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/882090"
+    }
+,
+    {
+      "name": "Therrya Sacc., 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "Therrya fuckelii (Rehm) Kujala, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861529"
+    }
+,
+    {
+      "name": "Coccophacidium fuckelii (Rehm) Krieg., 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881503"
+    }
+,
+    {
+      "name": "Coccophacidium pini var. fuckelii Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983723"
+    }
+,
+    {
+      "name": "Therrya pini (Alb. & Schwein.) Höhn., 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861530"
+    }
+,
+    {
+      "name": "Coccomyces pini (Alb. & Schwein.) P.Karst., 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881506"
+    }
+,
+    {
+      "name": "Coccophacidium pini (Alb. & Schwein.) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881507"
+    }
+,
+    {
+      "name": "Colpomella pini Höhn., 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881504"
+    }
+,
+    {
+      "name": "Phacidium pini (Alb. & Schwein.) Kunze, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881508"
+    }
+,
+    {
+      "name": "Therrya gallica Sacc. & Penz., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881505"
+    }
+,
+    {
+      "name": "Xyloma pini Alb. & Schwein., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881509"
+    }
+,
+    {
+      "name": "Torrendiella Boud. & Torrend, 1911",
+      "url": ""
+    }
+,
+    {
+      "name": "Torrendiella ciliata Boud., 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861541"
+    }
+,
+    {
+      "name": "Dasyscypha ciliata (Boud.) Sacc.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881583"
+    }
+,
+    {
+      "name": "Trizodia Laukka, 2009",
+      "url": ""
+    }
+,
+    {
+      "name": "Trizodia acrobia Laukka, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015386"
+    }
+,
+    {
+      "name": "Uncinula Lév., 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Uncinula adunca (Wallr.) Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861462"
+    }
+,
+    {
+      "name": "Alphitomorpha adunca Wallr., 1819",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881308"
+    }
+,
+    {
+      "name": "Erysiphe adunca (Wallr.) Fr., 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881309"
+    }
+,
+    {
+      "name": "Erysiphe salicis DC., 1805",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881310"
+    }
+,
+    {
+      "name": "Uncinula salicis (DC.) G.Winter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881311"
+    }
+,
+    {
+      "name": "Uncinula adunca var. regularis (R.Y.Zheng & G.Q.Chen) U.Braun, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868274"
+    }
+,
+    {
+      "name": "Uncinula regularis R.Y.Zheng & G.Q.Chen, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983992"
+    }
+,
+    {
+      "name": "Uncinula australiana McAlpine, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861463"
+    }
+,
+    {
+      "name": "Erysiphe australiana (McAlpine) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881312"
+    }
+,
+    {
+      "name": "Uncinuliella australiana (McAlpine) R.Y.Zheng & G.Q.Chen, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881313"
+    }
+,
+    {
+      "name": "Uncinula bivonae Lév., 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861464"
+    }
+,
+    {
+      "name": "Uncinula clandestina (Biv.) J.Schröt., 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861465"
+    }
+,
+    {
+      "name": "Erysiphe clandestina Biv., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881314"
+    }
+,
+    {
+      "name": "Uncinula flexuosa Peck, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861466"
+    }
+,
+    {
+      "name": "Erysiphe flexuosa (Peck) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881315"
+    }
+,
+    {
+      "name": "Uncinuliella flexuosa (Peck) U.Braun, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881316"
+    }
+,
+    {
+      "name": "Uncinula necator (Schwein.) Burrill, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861467"
+    }
+,
+    {
+      "name": "Erysiphe necator Schwein., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881318"
+    }
+,
+    {
+      "name": "Oidium tuckeri Berk., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881317"
+    }
+,
+    {
+      "name": "Uncinula prunastri (DC.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861468"
+    }
+,
+    {
+      "name": "Erysiphe prunastri DC., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881319"
+    }
+,
+    {
+      "name": "Uncinulella prunastri (DC.) Heluta",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881320"
+    }
+,
+    {
+      "name": "Uncinula prunastri var. prunastri (DC.) Sacc., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012416"
+    }
+,
+    {
+      "name": "Uncinula prunastri var. armeniacae Vienn.-Bourg., 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868275"
+    }
+,
+    {
+      "name": "Uncinula pyrenaica Vienn.-Bourg., 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861469"
+    }
+,
+    {
+      "name": "Erysiphe pyrenaica (Vienn.-Bourg.) U.Braun & S.Takam., 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881321"
+    }
+,
+    {
+      "name": "Velutaria Fuckel, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Velutaria aeruginosa Sacc. & Speg., 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861340"
+    }
+,
+    {
+      "name": "Lachnella aeruginosa (Sacc. & Speg.) Sacc., 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/880783"
+    }
+,
+    {
+      "name": "Xylogramma Wallr., 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Xylogramma castagnei Mont., 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861474"
+    }
+,
+    {
+      "name": "Xylogramma longum (Pers.) Rehm, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861475"
+    }
+,
+    {
+      "name": "Hysterium longum Pers., 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984464"
+    }
+,
+    {
+      "name": "Xylogramma sticticum (Fr.) Wallr., 1833",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861476"
+    }
+,
+    {
+      "name": "Hysterium sticticum Fr., 1815",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881329"
+    }
+,
+    {
+      "name": "Xylographa stictica (Fr.) Fr., 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/881330"
+    }
+,
+    {
+      "name": "leotiales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/leotiomycetes/leotiales/"
+    }
+,
+    {
+      "name": "Myxotrichaceae Locq. ex Currah, 1985",
+      "url": ""
+    }
+,
+    {
+      "name": "Malbranchea Sacc., 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "Malbranchea cinnamomea (Lib.) Oorschot & de Hoog, 1984",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905118"
+    }
+,
+    {
+      "name": "Trichothecium cinnamomeum Lib., 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905985"
+    }
+,
+    {
+      "name": "Malbranchea flocciformis Sigler & J.W.Carmich., 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867568"
+    }
+,
+    {
+      "name": "Malbranchea pulchella Sacc. & Penz., 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/867592"
+    }
+,
+    {
+      "name": "Myxotrichum Kunze, 1823",
+      "url": ""
+    }
+,
+    {
+      "name": "Actinospira Corda, 1854",
+      "url": ""
+    }
+,
+    {
+      "name": "Campsotrichum Ehrenb., 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Myxotrichum aeruginosum Mont., 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861227"
+    }
+,
+    {
+      "name": "Myxotrichum berkeleyi Apinis, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861228"
+    }
+,
+    {
+      "name": "Myxotrichum cancellatum W.Phillips, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861229"
+    }
+,
+    {
+      "name": "Myxotrichum spinosum Massee & E.S.Salmon, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879567"
+    }
+,
+    {
+      "name": "Myxotrichum chartarum Kunze, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861230"
+    }
+,
+    {
+      "name": "Oncidium chartarum (Kunze) Nees, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879568"
+    }
+,
+    {
+      "name": "Myxotrichum deflexum Berk., 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861231"
+    }
+,
+    {
+      "name": "Myxotrichum herbariense (G.F.Orr & Kuehn) Apinis, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861232"
+    }
+,
+    {
+      "name": "Tripedotrichum herbariense G.F.Orr & Kuehn, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/980724"
+    }
+,
+    {
+      "name": "Myxotrichum ochraceum Berk. & Broome, 1875",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/868747"
+    }
+,
+    {
+      "name": "Oidodendron ambiguum (Peyritsch) Malan.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879569"
+    }
+,
+    {
+      "name": "Myxotrichum ochraceum var. stipitatum (Lindf.) Apinis, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/869963"
+    }
+,
+    {
+      "name": "Gymnoascus stipitatus Lindf., 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879570"
+    }
+,
+    {
+      "name": "Mycotrichum ochraceum var. stipitatum (Lindf.) Apinis",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883634"
+    }
+,
+    {
+      "name": "Myxotrichum stipitatum (Lindf.) G.F.Orr & Kuehn, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879571"
+    }
+,
+    {
+      "name": "Myxotrichum rarum Fr., 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861233"
+    }
+,
+    {
+      "name": "Myxotrichum setosum (Eidam) G.F.Orr & Plunkett, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/861234"
+    }
+,
+    {
+      "name": "Gymnoascus setosus Eidam, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/879572"
+    }
+,
+    {
+      "name": "Pseudogymnoascus Raillo, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudogymnoascus destructans (Blehert & Gargas) Minnis & D.L.Lindner, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/905552"
+    }
+,
+    {
+      "name": "Geomyces destructans Blehert & Gargas, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906072"
+    }
+,
+    {
+      "name": "Pseudogymnoascus roseus Raillo, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/860971"
+    }
+,
+    {
+      "name": "Geomyces vinaceus Dal Vesco, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878176"
+    }
+,
+    {
+      "name": "Gymnoascus roseus (Raillo) Apinis, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/883088"
+    }
+,
+    {
+      "name": "Gymnoascus vinaceus (Raillo) Apinis, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/878177"
+    }
+,
+    {
+      "name": "rhytismatales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/leotiomycetes/rhytismatales/"
+    }
+,
+    {
+      "name": "thelebolales",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/leotiomycetes/thelebolales/"
+    }
+,
+    {
+      "name": "Thelocarpaceae Zukal, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Sarcosagium A.Massal., 1856",
+      "url": ""
+    }
+,
+    {
+      "name": "Sarcosagium campestre (Fr.) Poetsch & Schied., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/57983"
+    }
+,
+    {
+      "name": "Sarcosagium campestre var. campestre (Fr.) Poetsch & Schied., 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/660665"
+    }
+,
+    {
+      "name": "Biatora campestris Fr., 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665135"
+    }
+,
+    {
+      "name": "Biatorella campestris (Fr.) Th.Fr., 1874",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665105"
+    }
+,
+    {
+      "name": "Biatorella sarcosagium Anzi, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665097"
+    }
+,
+    {
+      "name": "Sarcosagium biatorellum A.Massal., 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661657"
+    }
+,
+    {
+      "name": "Sarcosagium campestre var. macrosporum Coppins & P.James, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/660756"
+    }
+,
+    {
+      "name": "Thelocarpon Nyl., 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Ahlesia Fuckel, 1870",
+      "url": ""
+    }
+,
+    {
+      "name": "Alinocarpon Vain., 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Athelium Nyl., 1886",
+      "url": ""
+    }
+,
+    {
+      "name": "Thelocarpon coccosporum Lettau, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/58200"
+    }
+,
+    {
+      "name": "Thelocarpon epibolum Nyl., 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/58201"
+    }
+,
+    {
+      "name": "Thelocarpon epibolum var. epibolum Nyl., 1866",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/58203"
+    }
+,
+    {
+      "name": "Thelocarpon conoidellum Nyl., 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661430"
+    }
+,
+    {
+      "name": "Thelocarpon impressellum Nyl., 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/58197"
+    }
+,
+    {
+      "name": "Ahlesia impressella (Nyl.) G.Salisb., 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665724"
+    }
+,
+    {
+      "name": "Thelocarpon intermediellum Nyl., 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/58196"
+    }
+,
+    {
+      "name": "Thelocarpon intermixtulum Nyl., 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661434"
+    }
+,
+    {
+      "name": "Thelocarpon laureri (Flot.) Nyl., 1854",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/58198"
+    }
+,
+    {
+      "name": "Sphaeropsis laureri Flot., 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983673"
+    }
+,
+    {
+      "name": "Thelocarpon epilithellum Nyl., 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661432"
+    }
+,
+    {
+      "name": "Thelocarpon interceptum Nyl., 1880",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661433"
+    }
+,
+    {
+      "name": "Thelocarpon prasinellum Nyl., 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661435"
+    }
+,
+    {
+      "name": "Thelocarpon lichenicola (Fuckel) Poelt & Hafellner, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658700"
+    }
+,
+    {
+      "name": "Ahlesia lichenicola Fuckel, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/665725"
+    }
+,
+    {
+      "name": "Thelocarpon ahlesii Rehm, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661437"
+    }
+,
+    {
+      "name": "Thelocarpon applanatum H.Magn., 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661436"
+    }
+,
+    {
+      "name": "Thelocarpon olivaceum B.de Lesd., 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658699"
+    }
+,
+    {
+      "name": "Thelocarpon intermixtulum var. olivaceum (B.de Lesd.) H.Magn., 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/668719"
+    }
+,
+    {
+      "name": "Thelocarpon sphaerosporum H.Magn., 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/58205"
+    }
+,
+    {
+      "name": "Thelocarpon superellum Nyl., 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658698"
+    }
+,
+    {
+      "name": "Thelocarpon conoideum Höhn., 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/661431"
+    }
+,
+    {
+      "name": "Vezdaeaceae Poelt & Vězda ex J.C.David & D.Hawksw., 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "Vezdaea Tscherm.-Woess & Poelt, 1976",
+      "url": ""
+    }
+,
+    {
+      "name": "Vezdaea acicularis Coppins, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658546"
+    }
+,
+    {
+      "name": "Vezdaea aestivalis (Ohlert) Tscherm.-Woess & Poelt, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658545"
+    }
+,
+    {
+      "name": "Catillaria byssacea Vězda, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/664638"
+    }
+,
+    {
+      "name": "Lecidea aestivalis Ohlert, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/663316"
+    }
+,
+    {
+      "name": "Pachyascus byssaceus (Vězda) Vězda, 1970",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/666981"
+    }
+,
+    {
+      "name": "Vezdaea cobria Giralt, Poelt & Suanjak, 1993",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/844982"
+    }
+,
+    {
+      "name": "Vezdaea dawsoniae Döbbeler, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658544"
+    }
+,
+    {
+      "name": "Vezdaea leprosa (P.James) Vězda, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658543"
+    }
+,
+    {
+      "name": "Micarea leprosa P.James, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/662739"
+    }
+,
+    {
+      "name": "Vezdaea retigera Poelt & Döbbeler, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658542"
+    }
+,
+    {
+      "name": "Vezdaea rheocarpa Poelt & Döbbeler, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658541"
+    }
+,
+    {
+      "name": "Vezdaea stipitata Poelt & Döbbeler, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658540"
+    }
+
+  ]
+}

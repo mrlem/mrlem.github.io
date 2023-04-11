@@ -1,0 +1,27 @@
+
+{
+  "name": "diplura",
+  "children": [
+
+    {
+      "name": "Diplura Börner, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "campodeidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/entognatha/diplura/campodeidae/"
+    }
+,
+    {
+      "name": "japygidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/entognatha/diplura/japygidae/"
+    }
+,
+    {
+      "name": "parajapygidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/entognatha/diplura/parajapygidae/"
+    }
+
+  ]
+}

@@ -1,0 +1,37 @@
+
+{
+  "name": "pyralinae",
+  "children": [
+
+    {
+      "name": "Pyralinae Latreille, 1809",
+      "url": ""
+    }
+,
+    {
+      "name": "endotrichini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/pyralinae/endotrichini/"
+    }
+,
+    {
+      "name": "hypotiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/pyralinae/hypotiini/"
+    }
+,
+    {
+      "name": "Nhoabe Viette, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Nhoabe privatalis Viette, 1960",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782988"
+    }
+,
+    {
+      "name": "pyralini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/pyralidae/pyralinae/pyralini/"
+    }
+
+  ]
+}

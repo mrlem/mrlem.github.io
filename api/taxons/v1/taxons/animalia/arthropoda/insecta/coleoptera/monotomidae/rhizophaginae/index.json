@@ -1,0 +1,297 @@
+
+{
+  "name": "rhizophaginae",
+  "children": [
+
+    {
+      "name": "Rhizophaginae Redtenbacher, 1845",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhizophagidae ",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhizophagus Herbst, 1793",
+      "url": ""
+    }
+,
+    {
+      "name": "Anomophagus Reitter, 1907",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyanostolus Ganglbauer, 1899",
+      "url": ""
+    }
+,
+    {
+      "name": "Eurhizophagus Méquignon, 1909",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhizophagus aeneus Richter, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235190"
+    }
+,
+    {
+      "name": "Rhizophagus bipustulatus (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/9038"
+    }
+,
+    {
+      "name": "Lyctus bipustulatus Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801672"
+    }
+,
+    {
+      "name": "Rhizophagus bipunctatus Herbst, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404469"
+    }
+,
+    {
+      "name": "Rhizophagus gyllenhalii C.G. Thomson, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404470"
+    }
+,
+    {
+      "name": "Rhizophagus magniceps Reitter, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404472"
+    }
+,
+    {
+      "name": "Rhyzophagus longicollis Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404471"
+    }
+,
+    {
+      "name": "Rhizophagus brancsiki Reitter, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235193"
+    }
+,
+    {
+      "name": "Rhizophagus cribratus Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235189"
+    }
+,
+    {
+      "name": "Rhyzophagus cribratus Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801669"
+    }
+,
+    {
+      "name": "Rhizophagus depressus (Fabricius, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235191"
+    }
+,
+    {
+      "name": "Lyctus depressus Fabricius, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801670"
+    }
+,
+    {
+      "name": "Rhizophagus subopacus Wollaston, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404468"
+    }
+,
+    {
+      "name": "Rhizophagus diaboli Dodelin, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985986"
+    }
+,
+    {
+      "name": "Rhizophagus dispar (Paykull, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235194"
+    }
+,
+    {
+      "name": "Ips elongata Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404473"
+    }
+,
+    {
+      "name": "Lyctus dispar Paykull, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801673"
+    }
+,
+    {
+      "name": "Rhizophagus punctulatus Guillebeau, 1897",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404474"
+    }
+,
+    {
+      "name": "Rhizophagus fenestralis (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/794726"
+    }
+,
+    {
+      "name": "Dermestes fenestralis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801674"
+    }
+,
+    {
+      "name": "Lyctus parvulus Paykull, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801675"
+    }
+,
+    {
+      "name": "Rhizophagus parvulus (Paykull, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235199"
+    }
+,
+    {
+      "name": "Rhizophagus ferrugineus (Paykull, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235195"
+    }
+,
+    {
+      "name": "Lyctus ferrugineus Paykull, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801676"
+    }
+,
+    {
+      "name": "Rhizophagus alpicola Baudi de Selve, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404475"
+    }
+,
+    {
+      "name": "Rhizophagus pinetorum Wollaston, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404476"
+    }
+,
+    {
+      "name": "Rhizophagus grandis Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235192"
+    }
+,
+    {
+      "name": "Rhyzophagus grandis Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801671"
+    }
+,
+    {
+      "name": "Rhizophagus nitidulus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235196"
+    }
+,
+    {
+      "name": "Colydium erythrocephalus Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404477"
+    }
+,
+    {
+      "name": "Lyctus nitidulus Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801677"
+    }
+,
+    {
+      "name": "Rhizophagus oblongicollis Blatch & Horner, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235197"
+    }
+,
+    {
+      "name": "Rhizophagus simplex auct. non Reitter, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/798273"
+    }
+,
+    {
+      "name": "Rhizophagus parallelocollis Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235198"
+    }
+,
+    {
+      "name": "Rhizophagus erichsonii C.G. Thomson, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404478"
+    }
+,
+    {
+      "name": "Rhizophagus hannenfeldii Tournier, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404479"
+    }
+,
+    {
+      "name": "Rhizophagus robustus Schaeffer, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404480"
+    }
+,
+    {
+      "name": "Rhizophagus terebrans Stephens, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404481"
+    }
+,
+    {
+      "name": "Rhyzophagus parallelocollis Gyllenhal, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801678"
+    }
+,
+    {
+      "name": "Rhizophagus perforatus Erichson, 1845",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235200"
+    }
+,
+    {
+      "name": "Rhizophagus doderoi Méquignon, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404484"
+    }
+,
+    {
+      "name": "Rhizophagus fallax Rey, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404482"
+    }
+,
+    {
+      "name": "Rhizophagus parallelicollis var. fallax Rey, 1889",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/979092"
+    }
+,
+    {
+      "name": "Rhizophagus philippi Méquignon, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404483"
+    }
+,
+    {
+      "name": "Rhizophagus picipes (Olivier, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235201"
+    }
+,
+    {
+      "name": "Ips picipes Olivier, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/801679"
+    }
+,
+    {
+      "name": "Lyctus politus Hellwig, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404486"
+    }
+,
+    {
+      "name": "Rhizophagus brucki Reitter, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404485"
+    }
+,
+    {
+      "name": "Rhizophagus unicolor P.H. Lucas, 1846",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/235202"
+    }
+,
+    {
+      "name": "Rhizophagus punctiventris Baudi de Selve, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404487"
+    }
+,
+    {
+      "name": "Rhizophagus serricollis Obenberger, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/404488"
+    }
+,
+    {
+      "name": "Rhizophagus Herbst, 1793",
+      "url": ""
+    }
+
+  ]
+}

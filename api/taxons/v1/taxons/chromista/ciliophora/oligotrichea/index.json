@@ -1,0 +1,27 @@
+
+{
+  "name": "oligotrichea",
+  "children": [
+
+    {
+      "name": "Oligotrichea Bütschli, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "choreotrichida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ciliophora/oligotrichea/choreotrichida/"
+    }
+,
+    {
+      "name": "Oligotrichia Bütschli, 1887",
+      "url": ""
+    }
+,
+    {
+      "name": "oligotrichida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/ciliophora/oligotrichea/oligotrichida/"
+    }
+
+  ]
+}

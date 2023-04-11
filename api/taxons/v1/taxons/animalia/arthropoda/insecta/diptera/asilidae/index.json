@@ -1,0 +1,742 @@
+
+{
+  "name": "asilidae",
+  "children": [
+
+    {
+      "name": "Asilidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "asilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/asilinae/"
+    }
+,
+    {
+      "name": "dasypogoninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/dasypogoninae/"
+    }
+,
+    {
+      "name": "dioctriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/dioctriinae/"
+    }
+,
+    {
+      "name": "Ancylorhynchus Berthold, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Ancylorhynchus glaucius (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216575"
+    }
+,
+    {
+      "name": "Asilus glaucius Rossi, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898963"
+    }
+,
+    {
+      "name": "Ancylorhynchus glaucius glaucius (Rossi, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250434"
+    }
+,
+    {
+      "name": "Antipalus Loew, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Antipalus varipes (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22499"
+    }
+,
+    {
+      "name": "Asilus varipes Meigen, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936049"
+    }
+,
+    {
+      "name": "Antiphrisson Loew, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Antiphrisson trifarius (Loew, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216517"
+    }
+,
+    {
+      "name": "Asilus trifarius Loew, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936050"
+    }
+,
+    {
+      "name": "Cerdistus Loew, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Cerdistus erythrurus (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216514"
+    }
+,
+    {
+      "name": "Asilus erythrurus Meigen, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936051"
+    }
+,
+    {
+      "name": "Cerdistus melanomerus Tsacas, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216515"
+    }
+,
+    {
+      "name": "Clinopogon Bezzi, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Clinopogon nicobarensis (Schiner, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714762"
+    }
+,
+    {
+      "name": "Promachus nicobarensis Schiner, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936057"
+    }
+,
+    {
+      "name": "Cophinopoda Hull, 1958",
+      "url": ""
+    }
+,
+    {
+      "name": "Cophinopoda borbonica Tsacas & Artigas, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714764"
+    }
+,
+    {
+      "name": "Cophinopoda pulchripes (Bigot, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/715172"
+    }
+,
+    {
+      "name": "Ommatius pulchripes Bigot, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936058"
+    }
+,
+    {
+      "name": "Crobilocerus Loew, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Crobilocerus auriger Musso, 1973",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216574"
+    }
+,
+    {
+      "name": "Cyrtopogon Loew, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyrtopogon culminum Bigot, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216540"
+    }
+,
+    {
+      "name": "Cyrtopogon flavimanus Meigen, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216541"
+    }
+,
+    {
+      "name": "Cyrtopogon fulvicornis (Macquart, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216542"
+    }
+,
+    {
+      "name": "Dasypogon fulvicornis Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936059"
+    }
+,
+    {
+      "name": "Cyrtopogon fulvicornis fulvicornis (Macquart, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250428"
+    }
+,
+    {
+      "name": "Cyrtopogon lateralis (Fallén, 1814)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22511"
+    }
+,
+    {
+      "name": "Cyrtopogon fimbriatus (Meigen, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931040"
+    }
+,
+    {
+      "name": "Dasypogon lateralis Fallén, 1814",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936060"
+    }
+,
+    {
+      "name": "Cyrtopogon maculipennis (Macquart, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216543"
+    }
+,
+    {
+      "name": "Dasypogon maculipennis Macquart, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936061"
+    }
+,
+    {
+      "name": "Cyrtopogon maculipennis maculipennis (Macquart, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250429"
+    }
+,
+    {
+      "name": "Cyrtopogon meyerduerii Mik, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216544"
+    }
+,
+    {
+      "name": "Cyrtopogon perrisi Séguy, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216545"
+    }
+,
+    {
+      "name": "Cyrtopogon pyrenaeus Villeneuve, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216546"
+    }
+,
+    {
+      "name": "Cyrtopogon ruficornis (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216547"
+    }
+,
+    {
+      "name": "Asilus ruficornis Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914558"
+    }
+,
+    {
+      "name": "Didysmachus Lehr, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Didysmachus picipes (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216513"
+    }
+,
+    {
+      "name": "Asilus picipes Meigen, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936063"
+    }
+,
+    {
+      "name": "Dysmachus picipes (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22533"
+    }
+,
+    {
+      "name": "Echthistus Loew, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Echthistus cognatus (Loew, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216500"
+    }
+,
+    {
+      "name": "Asilus cognatus Loew, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936075"
+    }
+,
+    {
+      "name": "Echthistus rufinervis (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216501"
+    }
+,
+    {
+      "name": "Asilus rufinervis Meigen, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936076"
+    }
+,
+    {
+      "name": "Efferia Coquillett, 1893",
+      "url": ""
+    }
+,
+    {
+      "name": "Efferia nigrimystaceus (Macquart, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642192"
+    }
+,
+    {
+      "name": "Erax nigrimystaceus Macquart, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/931018"
+    }
+,
+    {
+      "name": "Engelepogon Lehr, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Engelepogon brunnipes (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216499"
+    }
+,
+    {
+      "name": "Asilus brunipes Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914561"
+    }
+,
+    {
+      "name": "Engelepogon brunnipes brunnipes (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250424"
+    }
+,
+    {
+      "name": "Eriopogon Loew, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Eriopogon jubatus Becker, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960032"
+    }
+,
+    {
+      "name": "Eriopogon laniger (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216573"
+    }
+,
+    {
+      "name": "Dasypogon laniger Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936078"
+    }
+,
+    {
+      "name": "Glyphotriclis Hermann, 1920",
+      "url": ""
+    }
+,
+    {
+      "name": "Glyphotriclis ornatus (Schiner, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216464"
+    }
+,
+    {
+      "name": "Triclis ornatus Schiner, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936080"
+    }
+,
+    {
+      "name": "Kurzenkoiellus Lehr, 1995",
+      "url": ""
+    }
+,
+    {
+      "name": "Kurzenkoiellus dasypygus (Loew, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216495"
+    }
+,
+    {
+      "name": "Asilus dasypygus Loew, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936092"
+    }
+,
+    {
+      "name": "Lasiopogon Loew, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Lasiopogon cinctus (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22555"
+    }
+,
+    {
+      "name": "Asilus cinctus Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936094"
+    }
+,
+    {
+      "name": "Lasiopogon fourcatensis Timon-David, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839510"
+    }
+,
+    {
+      "name": "Lasiopogon immaculatus Strobl, 1893",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839560"
+    }
+,
+    {
+      "name": "Lasiopogon macquarti (Perris, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216527"
+    }
+,
+    {
+      "name": "Dasypogon macquarti Perris, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936097"
+    }
+,
+    {
+      "name": "Lasiopogon montanus Schiner, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216528"
+    }
+,
+    {
+      "name": "Leptarthrus Stephens, 1829",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptarthrus brevirostris (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22558"
+    }
+,
+    {
+      "name": "Dioctria brevirostris Meigen, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936098"
+    }
+,
+    {
+      "name": "Leptarthrus brevirostris brevirostris (Meigen, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250436"
+    }
+,
+    {
+      "name": "Leptarthrus vitripennis (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216579"
+    }
+,
+    {
+      "name": "Dasypogon vitripennis Meigen, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936099"
+    }
+,
+    {
+      "name": "Lithoeciscus Bezzi, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Lithoeciscus heydenii (Loew, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216569"
+    }
+,
+    {
+      "name": "Holopogon heydenii Loew, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936102"
+    }
+,
+    {
+      "name": "Lithoeciscus heydenii heydenii (Loew, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250433"
+    }
+,
+    {
+      "name": "Lophonotus Macquart, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Lophonotus breonii Macquart, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438574"
+    }
+,
+    {
+      "name": "Maira Schiner, 1866",
+      "url": ""
+    }
+,
+    {
+      "name": "Maira lauta Wulp, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438905"
+    }
+,
+    {
+      "name": "Neoitamus Osten Sacken, 1878",
+      "url": ""
+    }
+,
+    {
+      "name": "Neoitamus cothurnatus (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22574"
+    }
+,
+    {
+      "name": "Asilus cothurnatus Meigen, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936213"
+    }
+,
+    {
+      "name": "Neoitamus cyaneocinctus (Pandellé, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216482"
+    }
+,
+    {
+      "name": "Asilus cyaneocinctus Pandellé, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936214"
+    }
+,
+    {
+      "name": "Neoitamus cyanurus (Loew, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22575"
+    }
+,
+    {
+      "name": "Itamus cyanurus Loew, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936217"
+    }
+,
+    {
+      "name": "Neoitamus socius (Loew, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22576"
+    }
+,
+    {
+      "name": "Itamus socius Loew, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936218"
+    }
+,
+    {
+      "name": "Notiolaphria Londt, 1977",
+      "url": ""
+    }
+,
+    {
+      "name": "Notiolaphria macra (Bigot, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714766"
+    }
+,
+    {
+      "name": "Laphria macra Bigot, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936222"
+    }
+,
+    {
+      "name": "Pamponerus Loew, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Pamponerus germanicus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22580"
+    }
+,
+    {
+      "name": "Asilus germanicus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850690"
+    }
+,
+    {
+      "name": "Premochtherus Lehr, 1996",
+      "url": ""
+    }
+,
+    {
+      "name": "Premochtherus aquitanus (Tsacas, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216477"
+    }
+,
+    {
+      "name": "Neomochtherus aquitanus Tsacas, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936224"
+    }
+,
+    {
+      "name": "Premochtherus sphaeristes (Tsacas, 1963)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216478"
+    }
+,
+    {
+      "name": "Neomochtherus sphaeristes Tsacas, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936225"
+    }
+,
+    {
+      "name": "Pycnopogon Loew, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Pycnopogon apiformis (Macquart, 1849)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216565"
+    }
+,
+    {
+      "name": "Dasypogon apiformis Macquart, 1849",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936226"
+    }
+,
+    {
+      "name": "Pycnopogon fasciculatus (Loew, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216566"
+    }
+,
+    {
+      "name": "Dasypogon fasciculatus Loew, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936227"
+    }
+,
+    {
+      "name": "Pycnopogon leucostomus Engel, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216567"
+    }
+,
+    {
+      "name": "Pycnopogon pallidipennis (Brullé, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216568"
+    }
+,
+    {
+      "name": "Laphria pallidipennis Brullé, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936228"
+    }
+,
+    {
+      "name": "Reburrus Daniels, 1987",
+      "url": ""
+    }
+,
+    {
+      "name": "Reburrus caledonicae Daniels, 1987",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438406"
+    }
+,
+    {
+      "name": "Reburrus macquarti (Bigot, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/828314"
+    }
+,
+    {
+      "name": "Rhadiurgus macquarti Bigot, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/438248"
+    }
+,
+    {
+      "name": "Rhadiurgus Loew, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhadiurgus variabilis (Zetterstedt, 1838)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/22584"
+    }
+,
+    {
+      "name": "Asilus variabilis Zetterstedt, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936229"
+    }
+,
+    {
+      "name": "Scytomedes Roder, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "Scytomedes haemorrhoidalis (Fabricius, 1794)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216463"
+    }
+,
+    {
+      "name": "Asilus haemorrhoidalis Fabricius, 1794",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914565"
+    }
+,
+    {
+      "name": "Stilpnogaster Loew, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Stilpnogaster aemula (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216475"
+    }
+,
+    {
+      "name": "Asilus aemulus Meigen, 1820",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936238"
+    }
+,
+    {
+      "name": "Stilpnogaster aemulus (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/839538"
+    }
+,
+    {
+      "name": "Stilpnogaster aemula aemula (Meigen, 1820)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250421"
+    }
+,
+    {
+      "name": "Stilpnogaster aemula setiventris (Zetterstedt, 1859)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250422"
+    }
+,
+    {
+      "name": "Asilus setiventris Zetterstedt, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936239"
+    }
+,
+    {
+      "name": "Stilpnogaster stabilis (Zeller, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216476"
+    }
+,
+    {
+      "name": "Asilus stabilis Zeller, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936240"
+    }
+,
+    {
+      "name": "Triclis Loew, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Triclis olivaceus (Loew, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/216462"
+    }
+,
+    {
+      "name": "Dasypogon olivaceus Loew, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936287"
+    }
+,
+    {
+      "name": "laphriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/laphriinae/"
+    }
+,
+    {
+      "name": "leptogasterinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/leptogasterinae/"
+    }
+,
+    {
+      "name": "ommatiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/ommatiinae/"
+    }
+,
+    {
+      "name": "stenopogoninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/stenopogoninae/"
+    }
+,
+    {
+      "name": "trigonomiminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/diptera/asilidae/trigonomiminae/"
+    }
+
+  ]
+}

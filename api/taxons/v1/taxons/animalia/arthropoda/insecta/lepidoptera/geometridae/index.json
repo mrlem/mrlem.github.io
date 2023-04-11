@@ -1,0 +1,82 @@
+
+{
+  "name": "geometridae",
+  "children": [
+
+    {
+      "name": "Geometridae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "archiearinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/archiearinae/"
+    }
+,
+    {
+      "name": "desmobathrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/desmobathrinae/"
+    }
+,
+    {
+      "name": "ennominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/ennominae/"
+    }
+,
+    {
+      "name": "epidesmiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/epidesmiinae/"
+    }
+,
+    {
+      "name": "geometrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/geometrinae/"
+    }
+,
+    {
+      "name": "Lophochorista Warren, 1904",
+      "url": ""
+    }
+,
+    {
+      "name": "Lophochorista ockendeni Druce, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/971543"
+    }
+,
+    {
+      "name": "Mesobomba Warren, 1907",
+      "url": ""
+    }
+,
+    {
+      "name": "Mesobomba flavifascia Warren, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984038"
+    }
+,
+    {
+      "name": "Pisoraca Walker, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Pisoraca lyciscaria (Guenée, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458369"
+    }
+,
+    {
+      "name": "larentiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/larentiinae/"
+    }
+,
+    {
+      "name": "oenochrominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/oenochrominae/"
+    }
+,
+    {
+      "name": "sterrhinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/lepidoptera/geometridae/sterrhinae/"
+    }
+
+  ]
+}

@@ -1,0 +1,4037 @@
+
+{
+  "name": "polyommatini",
+  "children": [
+
+    {
+      "name": "Polyommatini Swainson, 1827",
+      "url": ""
+    }
+,
+    {
+      "name": "Agriades Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Agriades glandon (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54200"
+    }
+,
+    {
+      "name": "Agriades glandon glandon (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54202"
+    }
+,
+    {
+      "name": "Agriades glandon magnaglandon Verity, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/622182"
+    }
+,
+    {
+      "name": "Lycaena orbitulus (sensu Esper, 1800 non Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642435"
+    }
+,
+    {
+      "name": "Papilio glandon Prunner, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642429"
+    }
+,
+    {
+      "name": "Papilio orbitulus sensu Esper, 1800 non Prunner, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392251"
+    }
+,
+    {
+      "name": "Plebeius glandon (de Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219781"
+    }
+,
+    {
+      "name": "Plebeius orbitulus oberthueri (Staudinger, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642455"
+    }
+,
+    {
+      "name": "Plebeius orbitulus (sensu Esper, 1800 non Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642437"
+    }
+,
+    {
+      "name": "Plebejus glandon (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781693"
+    }
+,
+    {
+      "name": "Polyommatus glandon (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785889"
+    }
+,
+    {
+      "name": "Polyommatus orbitulus (sensu Esper, 1800 non Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916732"
+    }
+,
+    {
+      "name": "Agriades optilete (Knoch, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651397"
+    }
+,
+    {
+      "name": "Agriades optilete cosana (Higgins, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713690"
+    }
+,
+    {
+      "name": "Agriades optilete cyparissus (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713689"
+    }
+,
+    {
+      "name": "Agriades optilete optilete (Knoch, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713687"
+    }
+,
+    {
+      "name": "Lycaena optilete (Knoch, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774590"
+    }
+,
+    {
+      "name": "Papilio cyparissus Hübner, 1813",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392249"
+    }
+,
+    {
+      "name": "Papilio optilete Knoch, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646126"
+    }
+,
+    {
+      "name": "Plebeius optilete (Knoch, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219779"
+    }
+,
+    {
+      "name": "Plebejus optilete (Knoch, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964340"
+    }
+,
+    {
+      "name": "Polyommatus optilete (Knoch, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916733"
+    }
+,
+    {
+      "name": "Vacciniina optilete cosana (Higgins, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646133"
+    }
+,
+    {
+      "name": "Vacciniina optilete cyparissus (Hübner, 1813)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646130"
+    }
+,
+    {
+      "name": "Vacciniina optilete optilete (Knoch, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646129"
+    }
+,
+    {
+      "name": "Vacciniina optilete (Knoch, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54194"
+    }
+,
+    {
+      "name": "Agriades orbitulus (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651399"
+    }
+,
+    {
+      "name": "Albulina orbitulus orbitulus (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642460"
+    }
+,
+    {
+      "name": "Albulina orbitulus (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54197"
+    }
+,
+    {
+      "name": "Aricia pheretes (Hübner, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782961"
+    }
+,
+    {
+      "name": "Lycaena pheretes oberthueri Oberthür, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838748"
+    }
+,
+    {
+      "name": "Lycaena pheretes (Hübner, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642457"
+    }
+,
+    {
+      "name": "Papilio orbitulus Prunner, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642451"
+    }
+,
+    {
+      "name": "Papilio pheretes Hübner, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392254"
+    }
+,
+    {
+      "name": "Plebeius orbitulus (de Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219782"
+    }
+,
+    {
+      "name": "Plebeius pheretes (Hübner, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642459"
+    }
+,
+    {
+      "name": "Plebejus orbitulus (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781694"
+    }
+,
+    {
+      "name": "Polyommatus orbitulus (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/785875"
+    }
+,
+    {
+      "name": "Polyommatus pheretes (Hübner, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916734"
+    }
+,
+    {
+      "name": "Agriades pyrenaicus (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54206"
+    }
+,
+    {
+      "name": "Latiorina pyrenaica (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774593"
+    }
+,
+    {
+      "name": "Lycaena orbitulus pyrenaica Boisduval, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642442"
+    }
+,
+    {
+      "name": "Lycaena pyrenaica (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774592"
+    }
+,
+    {
+      "name": "Plebeius pyrenaica (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219780"
+    }
+,
+    {
+      "name": "Plebejus pyrenaica (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774594"
+    }
+,
+    {
+      "name": "Plebejus pyrenaicus (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/790899"
+    }
+,
+    {
+      "name": "Agriades pyrenaicus pyrenaicus (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54208"
+    }
+,
+    {
+      "name": "Agriades pyrenaica diniensis Leraut, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833910"
+    }
+,
+    {
+      "name": "Agriades pyrenaicus diniensis Leraut, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/916738"
+    }
+,
+    {
+      "name": "Plebeius pyrenaica pyrenaica (Boisduval, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250646"
+    }
+,
+    {
+      "name": "Aricia Reichenbach, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Aricia Reichenbach, 1817",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoaricia ",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudoaricia Beuret, 1959",
+      "url": ""
+    }
+,
+    {
+      "name": "Aricia agestis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521494"
+    }
+,
+    {
+      "name": "Aricia agestis agestis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54174"
+    }
+,
+    {
+      "name": "Aricia agestis calida (Bellier, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642467"
+    }
+,
+    {
+      "name": "Aricia agestis gallica (Oberthür, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642465"
+    }
+,
+    {
+      "name": "Aricia agestis subcalida Verity, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642469"
+    }
+,
+    {
+      "name": "Aricia medon subcalida Verity, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642471"
+    }
+,
+    {
+      "name": "Aricia medon (Hufnagel, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770467"
+    }
+,
+    {
+      "name": "Lycaena agestis calida Bellier, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642468"
+    }
+,
+    {
+      "name": "Lycaena agestis gallica Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642466"
+    }
+,
+    {
+      "name": "Lycaena agestis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642463"
+    }
+,
+    {
+      "name": "Lycaena astrache (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783618"
+    }
+,
+    {
+      "name": "Lycaena medon (Hufnagel, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838746"
+    }
+,
+    {
+      "name": "Papilio agestis Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642461"
+    }
+,
+    {
+      "name": "Papilio astrarche Bergsträsser, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392257"
+    }
+,
+    {
+      "name": "Papilio medon Hufnagel, 1776",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392256"
+    }
+,
+    {
+      "name": "Plebeius agestis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219784"
+    }
+,
+    {
+      "name": "Plebeius medon (Hufnagel, 1766)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642464"
+    }
+,
+    {
+      "name": "Polyommatus astrarche (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774643"
+    }
+,
+    {
+      "name": "Aricia artaxerxes (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54176"
+    }
+,
+    {
+      "name": "Aricia allous (Geyer, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/521462"
+    }
+,
+    {
+      "name": "Aricia artaxerxes allous (Geyer, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54180"
+    }
+,
+    {
+      "name": "Aricia artaxerxes artaxerxes (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54178"
+    }
+,
+    {
+      "name": "Aricia artaxerxes inhonora (Jachontov, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54179"
+    }
+,
+    {
+      "name": "Aricia inhonora (Jachontov, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392260"
+    }
+,
+    {
+      "name": "Aricia montensis macedonica Verity, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392263"
+    }
+,
+    {
+      "name": "Hesperia artaxerxes Fabricius, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642473"
+    }
+,
+    {
+      "name": "Lycaena medon allous (Geyer, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976118"
+    }
+,
+    {
+      "name": "Papilio allous Geyer, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642475"
+    }
+,
+    {
+      "name": "Papilio allous Geyer, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392258"
+    }
+,
+    {
+      "name": "Plebeius artaxerxes (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219785"
+    }
+,
+    {
+      "name": "Aricia montensis Verity, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392262"
+    }
+,
+    {
+      "name": "Aricia artaxerxes montensis Verity, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54182"
+    }
+,
+    {
+      "name": "Aricia medon montensis Verity, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642479"
+    }
+,
+    {
+      "name": "Aricia medon semimontensis Verity, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642480"
+    }
+,
+    {
+      "name": "Aricia montana Heyne, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392259"
+    }
+,
+    {
+      "name": "Lycaena agestis nevadensis Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392261"
+    }
+,
+    {
+      "name": "Aricia morronensis (Ribbe, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54183"
+    }
+,
+    {
+      "name": "Lycaena idas morronensis Ribbe, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642483"
+    }
+,
+    {
+      "name": "Polyommatus idas Rambur, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642482"
+    }
+,
+    {
+      "name": "Aricia morronensis ordesae Sagarra, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658004"
+    }
+,
+    {
+      "name": "Aricia morronensis boudranei Leraut in Tolman & Levington, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720171"
+    }
+,
+    {
+      "name": "Aricia nicias (Meigen, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712121"
+    }
+,
+    {
+      "name": "Argus donzelii Boisduval, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642487"
+    }
+,
+    {
+      "name": "Aricia (Pseudoaricia) donzelii Boisduval, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392264"
+    }
+,
+    {
+      "name": "Aricia (Pseudoaricia) nicias (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219786"
+    }
+,
+    {
+      "name": "Aricia nicias ferenigra Verity, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713699"
+    }
+,
+    {
+      "name": "Aricia nicias judithi (Gomez-Bustillo, 1978)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642493"
+    }
+,
+    {
+      "name": "Aricia nicias nicias (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642491"
+    }
+,
+    {
+      "name": "Aricia nicias (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/433700"
+    }
+,
+    {
+      "name": "Lycaena donzelii (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642488"
+    }
+,
+    {
+      "name": "Plebeius donzeli (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642489"
+    }
+,
+    {
+      "name": "Polyommatus nicias Meigen, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642485"
+    }
+,
+    {
+      "name": "Pseudoaricia nicias judithi Gomez-Bustillo, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642494"
+    }
+,
+    {
+      "name": "Pseudoaricia nicias (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54188"
+    }
+,
+    {
+      "name": "Azanus Moore, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Azanus moriqua (Wallengren, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978234"
+    }
+,
+    {
+      "name": "Lycaena moriqua Wallengren, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978235"
+    }
+,
+    {
+      "name": "Azanus sitalces (Mabille, 1899)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645309"
+    }
+,
+    {
+      "name": "Azanus sitalces mayotti d'Abrera, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645310"
+    }
+,
+    {
+      "name": "Cacyreus Butler, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Cacyreus darius (Mabille, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458104"
+    }
+,
+    {
+      "name": "Cacyreus marshalli Butler, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219796"
+    }
+,
+    {
+      "name": "Catochrysops Boisduval, 1832",
+      "url": ""
+    }
+,
+    {
+      "name": "Catochrysops panormus (C. Felder, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829938"
+    }
+,
+    {
+      "name": "Catochrysops panormus caledonica (C. Felder, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829939"
+    }
+,
+    {
+      "name": "Catochrysops strabo caledonica (C. Felder, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829937"
+    }
+,
+    {
+      "name": "Catochrysops taitensis (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777954"
+    }
+,
+    {
+      "name": "Catochrysops strabo taitensis (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829941"
+    }
+,
+    {
+      "name": "Catochrysops taitensis taitensis (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777955"
+    }
+,
+    {
+      "name": "Catopyrops Toxopeus, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Catopyrops florinda (Butler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782336"
+    }
+,
+    {
+      "name": "Catopyrops ancyra florinda (Butler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829935"
+    }
+,
+    {
+      "name": "Lampides florinda Butler, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962937"
+    }
+,
+    {
+      "name": "Catopyrops florinda florinda (Butler, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962938"
+    }
+,
+    {
+      "name": "Celastrina Tutt, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Celastrina argiolus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54052"
+    }
+,
+    {
+      "name": "Celastrina argiolus argiolus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642512"
+    }
+,
+    {
+      "name": "Cyaniris argiolus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774645"
+    }
+,
+    {
+      "name": "Lycaena argiolus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642510"
+    }
+,
+    {
+      "name": "Lycaenopsis argiolus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642511"
+    }
+,
+    {
+      "name": "Papilio argiolus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642509"
+    }
+,
+    {
+      "name": "Polyommatus argiolus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820969"
+    }
+,
+    {
+      "name": "Celastrina ladon (Cramer, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/622262"
+    }
+,
+    {
+      "name": "Chilades Moore, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Chilades pandava (Horstfield, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458120"
+    }
+,
+    {
+      "name": "Cupido Schrank, 1801",
+      "url": ""
+    }
+,
+    {
+      "name": "Zizera Moore, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Cupido alcetas (Hoffmannsegg, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219794"
+    }
+,
+    {
+      "name": "Cupido alcetas alcetas (Hoffmannsegg, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713733"
+    }
+,
+    {
+      "name": "Cupido alcetas dilutior (Verity, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713734"
+    }
+,
+    {
+      "name": "Everes alcetas alcetas (Hoffmannsegg, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642528"
+    }
+,
+    {
+      "name": "Everes alcetas dilutior Verity, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642529"
+    }
+,
+    {
+      "name": "Everes alcetas (Hoffmannsegg, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54041"
+    }
+,
+    {
+      "name": "Everes coretas (Hoffmannsegg, 1804)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54043"
+    }
+,
+    {
+      "name": "Everes coretas (Ochsenheimer, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642534"
+    }
+,
+    {
+      "name": "Lycaena coretas (Ochsenheimer, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642533"
+    }
+,
+    {
+      "name": "Papilio alcetas Hoffmannsegg, 1804",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642527"
+    }
+,
+    {
+      "name": "Papilio alsus Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392271"
+    }
+,
+    {
+      "name": "Papilio coretas Ochsenheimer, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392275"
+    }
+,
+    {
+      "name": "Papilio tiresias Hübner, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711959"
+    }
+,
+    {
+      "name": "Cupido argiades (Pallas, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219793"
+    }
+,
+    {
+      "name": "Everes argiades (Pallas, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54039"
+    }
+,
+    {
+      "name": "Lycaena amyntas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/807126"
+    }
+,
+    {
+      "name": "Lycaena argiades polysperchon (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825166"
+    }
+,
+    {
+      "name": "Lycaena argiades (Pallas, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783611"
+    }
+,
+    {
+      "name": "Lycaena polysperchon (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826774"
+    }
+,
+    {
+      "name": "Lycaena tiresias myrmidon Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774625"
+    }
+,
+    {
+      "name": "Lycaena tiresias polysperchon (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774622"
+    }
+,
+    {
+      "name": "Lycaena tiresias tiresias (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774627"
+    }
+,
+    {
+      "name": "Lycaena tiresias (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642536"
+    }
+,
+    {
+      "name": "Papilio amyntas Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/711949"
+    }
+,
+    {
+      "name": "Papilio argiades Pallas, 1771",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642525"
+    }
+,
+    {
+      "name": "Papilio tiresias Rottemburg, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642535"
+    }
+,
+    {
+      "name": "Polyommatus amyntas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821971"
+    }
+,
+    {
+      "name": "Cupido lacturnus (Godart, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782332"
+    }
+,
+    {
+      "name": "Cupido minimus (Fuessly, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54029"
+    }
+,
+    {
+      "name": "Cupido carswelli Stempffer, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54035"
+    }
+,
+    {
+      "name": "Cupido minima (Fuessly, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774647"
+    }
+,
+    {
+      "name": "Cupido minimus alsoides (Gerhard, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642519"
+    }
+,
+    {
+      "name": "Cupido minimus minimus (Fuessly, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642516"
+    }
+,
+    {
+      "name": "Cupido minimus trinacriae Verity, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392272"
+    }
+,
+    {
+      "name": "Lycaena alsus alsoides Gerhard, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642517"
+    }
+,
+    {
+      "name": "Lycaena alsus (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774932"
+    }
+,
+    {
+      "name": "Lycaena minima (Fuessly, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642515"
+    }
+,
+    {
+      "name": "Lycaena minimus (Fuessly, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838739"
+    }
+,
+    {
+      "name": "Papilio minimus Fuessly, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642513"
+    }
+,
+    {
+      "name": "Cupido osiris (Meigen, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54031"
+    }
+,
+    {
+      "name": "Argus sebrus Boisduval, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392274"
+    }
+,
+    {
+      "name": "Cupido osiris bernardiana Beuret, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645885"
+    }
+,
+    {
+      "name": "Cupido osiris osiris (Meigen, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642522"
+    }
+,
+    {
+      "name": "Cupido osiris saportae (Duponchel, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645883"
+    }
+,
+    {
+      "name": "Cupido sebrus bernardiana Beuret, 1957",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642524"
+    }
+,
+    {
+      "name": "Cupido sebrus (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642531"
+    }
+,
+    {
+      "name": "Lycaena saportae (Duponchel, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777332"
+    }
+,
+    {
+      "name": "Lycaena sebrus (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642530"
+    }
+,
+    {
+      "name": "Polyommatus osiris Meigen, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642521"
+    }
+,
+    {
+      "name": "Polyommatus saportae Duponchel, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645884"
+    }
+,
+    {
+      "name": "Cupido Schrank, 1801",
+      "url": ""
+    }
+,
+    {
+      "name": "Everes Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Everes ",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyaniris Dalman, 1816",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyaniris semiargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54213"
+    }
+,
+    {
+      "name": "Cyaniris antiochena helena (Staudinger, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54216"
+    }
+,
+    {
+      "name": "Cyaniris bellis Freyer, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392225"
+    }
+,
+    {
+      "name": "Cyaniris semiargus meyerdueri Vives Moreno, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642543"
+    }
+,
+    {
+      "name": "Cyaniris semiargus montanagrandis Tutt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642544"
+    }
+,
+    {
+      "name": "Cyaniris semiargus savoiensis Leraut, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642545"
+    }
+,
+    {
+      "name": "Cyaniris semiargus semiargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713735"
+    }
+,
+    {
+      "name": "Lycaena acis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774931"
+    }
+,
+    {
+      "name": "Lycaena semiargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642540"
+    }
+,
+    {
+      "name": "Nomiades semiargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770466"
+    }
+,
+    {
+      "name": "Papilio acis Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392224"
+    }
+,
+    {
+      "name": "Papilio semiargus Rottemburg, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642539"
+    }
+,
+    {
+      "name": "Polyommatus acis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820968"
+    }
+,
+    {
+      "name": "Polyommatus semiargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642541"
+    }
+,
+    {
+      "name": "Cyclargus Nabokov, 1945",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyclargus thomasi (Clench, 1941)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647961"
+    }
+,
+    {
+      "name": "Cyclargus woodruffi (W. Comstock & Huntington, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982162"
+    }
+,
+    {
+      "name": "Cyclargus oualiri Brévignon, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/654785"
+    }
+,
+    {
+      "name": "Cyclargus thomasi woodruffi (W. Comstock & Huntington, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647962"
+    }
+,
+    {
+      "name": "Hemiargus woodruffi W. Comstock & Huntington, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/982164"
+    }
+,
+    {
+      "name": "Cyclargus woodruffi oualiri Brévignon, 2002",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/983255"
+    }
+,
+    {
+      "name": "Echinargus Nabokov, 1945",
+      "url": ""
+    }
+,
+    {
+      "name": "Echinargus isola (Reakirt, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833231"
+    }
+,
+    {
+      "name": "Hemiargus isola (Reakirt, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833229"
+    }
+,
+    {
+      "name": "Euchrysops Butler, 1900",
+      "url": ""
+    }
+,
+    {
+      "name": "Euchrysops cnejus (Fabricius, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829942"
+    }
+,
+    {
+      "name": "Hesperia cnejus Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962972"
+    }
+,
+    {
+      "name": "Euchrysops cnejus cnidus Waterhouse & Lyell, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962971"
+    }
+,
+    {
+      "name": "Euchrysops decaryi Stempffer, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/978238"
+    }
+,
+    {
+      "name": "Euchrysops malathana (Boisduval, 1833)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782918"
+    }
+,
+    {
+      "name": "Eumedonia Forster, 1938",
+      "url": ""
+    }
+,
+    {
+      "name": "Eumedonia eumedon (Esper, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54191"
+    }
+,
+    {
+      "name": "Aricia eumedon (Esper, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/653753"
+    }
+,
+    {
+      "name": "Eumedonia chiron (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392255"
+    }
+,
+    {
+      "name": "Eumedonia eumedon belinus (Prunner, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642503"
+    }
+,
+    {
+      "name": "Eumedonia eumedon eumedon (Esper, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642501"
+    }
+,
+    {
+      "name": "Eumedonia eumedon grassoides Eitschberger & Steiniger, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642507"
+    }
+,
+    {
+      "name": "Eumedonia eumedon montriensis Nel, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820464"
+    }
+,
+    {
+      "name": "Eumedonia eumedon nitschei (Hemming, 1933)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642505"
+    }
+,
+    {
+      "name": "Lycaena chiron (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838742"
+    }
+,
+    {
+      "name": "Lycaena eumedon (Esper, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642497"
+    }
+,
+    {
+      "name": "Papilio belinus Prunner, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642502"
+    }
+,
+    {
+      "name": "Papilio chiron Rottemburg, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642500"
+    }
+,
+    {
+      "name": "Papilio eumedon Esper, 1780",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642495"
+    }
+,
+    {
+      "name": "Plebeius eumedon (Esper, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219783"
+    }
+,
+    {
+      "name": "Polyommatus eumedon (Esper, 1780)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642499"
+    }
+,
+    {
+      "name": "Famegana Eliot, 1973",
+      "url": ""
+    }
+,
+    {
+      "name": "Famegana alsulus (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834422"
+    }
+,
+    {
+      "name": "Glaucopsyche Scudder, 1872",
+      "url": ""
+    }
+,
+    {
+      "name": "Glaucopsyche alexis (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54075"
+    }
+,
+    {
+      "name": "Glaucopsyche alexis alexis (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645887"
+    }
+,
+    {
+      "name": "Glaucopsyche alexis cyllarus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645897"
+    }
+,
+    {
+      "name": "Glaucopsyche alexis latina Hartig, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645896"
+    }
+,
+    {
+      "name": "Glaucopsyche alexis maritimalpium Verity, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645889"
+    }
+,
+    {
+      "name": "Glaucopsyche alexis pauperella Sagarra, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645891"
+    }
+,
+    {
+      "name": "Glaucopsyche alexis pauper Verity, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645894"
+    }
+,
+    {
+      "name": "Glaucopsyche cyllarus maritimalpium Verity, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645890"
+    }
+,
+    {
+      "name": "Glaucopsyche cyllarus pauperella Sagarra, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645893"
+    }
+,
+    {
+      "name": "Glaucopsyche cyllarus pauper Verity, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645895"
+    }
+,
+    {
+      "name": "Glaucopsyche cyllarus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884193"
+    }
+,
+    {
+      "name": "Lycaena alexis alpina Turati & Verity, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720141"
+    }
+,
+    {
+      "name": "Lycaena cyllarus blachieri Millière, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920869"
+    }
+,
+    {
+      "name": "Lycaena cyllarus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774635"
+    }
+,
+    {
+      "name": "Nomiades cyllarus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770427"
+    }
+,
+    {
+      "name": "Papilio alexis Poda, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642546"
+    }
+,
+    {
+      "name": "Papilio cyllarus Rottemburg, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392265"
+    }
+,
+    {
+      "name": "Polyommatus cyllarus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820970"
+    }
+,
+    {
+      "name": "Glaucopsyche iolas (Ochsenheimer, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219787"
+    }
+,
+    {
+      "name": "Iolana iolas protogenes (Fruhstorfer, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645925"
+    }
+,
+    {
+      "name": "Iolana iolas wullschlegeli Oberthür, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645927"
+    }
+,
+    {
+      "name": "Iolana iolas (Ochsenheimer, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54095"
+    }
+,
+    {
+      "name": "Lycaena iolas Ochsenheimer, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645899"
+    }
+,
+    {
+      "name": "Lycaena jolas protogenes Fruhstorfer, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645926"
+    }
+,
+    {
+      "name": "Lycaena jolas Ochsenheimer, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777526"
+    }
+,
+    {
+      "name": "Polyommatus iolas (Ochsenheimer, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774661"
+    }
+,
+    {
+      "name": "Glaucopsyche melanops (Boisduval, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54077"
+    }
+,
+    {
+      "name": "Apelles melanops (Boisduval, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809643"
+    }
+,
+    {
+      "name": "Argus melanops (Boisduval, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834119"
+    }
+,
+    {
+      "name": "Glaucopsyche melanops melanops (Boisduval, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608301"
+    }
+,
+    {
+      "name": "Lycaena melanops (Boisduval, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774636"
+    }
+,
+    {
+      "name": "Nomiades melanops (Boisduval, 1828)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774646"
+    }
+,
+    {
+      "name": "Polyommatus melanops Boisduval, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645898"
+    }
+,
+    {
+      "name": "Hemiargus Hübner, 1818",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemiargus hanno (Stoll, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647958"
+    }
+,
+    {
+      "name": "Hemiargus hanno watsoni (Comstock & Huntington, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647959"
+    }
+,
+    {
+      "name": "Jamides Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Jamides candrena (Herrich-Schäffer, 1869)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963861"
+    }
+,
+    {
+      "name": "Jamides carissima (Butler, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833219"
+    }
+,
+    {
+      "name": "Jamides carissima susana D'Abrera, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833220"
+    }
+,
+    {
+      "name": "Jamides walkeri Druce, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776759"
+    }
+,
+    {
+      "name": "Jamides walkeri ruruturi Riley, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829929"
+    }
+,
+    {
+      "name": "Jamides bochus ruruturi Riley, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829928"
+    }
+,
+    {
+      "name": "Kretania Beuret, 1959",
+      "url": ""
+    }
+,
+    {
+      "name": "Plebejides Sauter, 1968",
+      "url": ""
+    }
+,
+    {
+      "name": "Kretania trappi (Vérity, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/969135"
+    }
+,
+    {
+      "name": "Lycaena lycidas Trapp, 1863",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392243"
+    }
+,
+    {
+      "name": "Plebeius sephyrus trappi Verity, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645987"
+    }
+,
+    {
+      "name": "Plebeius trappi (Verity, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219774"
+    }
+,
+    {
+      "name": "Plebejides trappi (Verity, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/609945"
+    }
+,
+    {
+      "name": "Plebejus pylaon auct non (Fischer de Waldheim, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985153"
+    }
+,
+    {
+      "name": "Plebejus pylaon trappi (Verity, 1927)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54115"
+    }
+,
+    {
+      "name": "Lampides Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Lampides boeticus (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54021"
+    }
+,
+    {
+      "name": "Cosmolyce baeticus (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884211"
+    }
+,
+    {
+      "name": "Lycaena baetica (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774927"
+    }
+,
+    {
+      "name": "Lycaena boetica (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774663"
+    }
+,
+    {
+      "name": "Lycaena boeticus (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985520"
+    }
+,
+    {
+      "name": "Papilio boeticus Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645900"
+    }
+,
+    {
+      "name": "Papilio pisorum Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952206"
+    }
+,
+    {
+      "name": "Polyommatus boeticus (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820965"
+    }
+,
+    {
+      "name": "Leptotes Scudder, 1876",
+      "url": ""
+    }
+,
+    {
+      "name": "Syntarucus Butler, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptotes cassius (Cramer, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647955"
+    }
+,
+    {
+      "name": "Leptotes cassius cassioides (Boisduval, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712967"
+    }
+,
+    {
+      "name": "Leptotes cassius chadwicki (Comstock & Huntington, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647956"
+    }
+,
+    {
+      "name": "Leptotes cassius catilina (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712969"
+    }
+,
+    {
+      "name": "Leptotes durrelli Fric, Pyrcz & Wiemers, 2019",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963107"
+    }
+,
+    {
+      "name": "Leptotes pirithous (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219795"
+    }
+,
+    {
+      "name": "Cupido telicanus plinius auct. non (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/813941"
+    }
+,
+    {
+      "name": "Lampides telicanus (Lang, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774641"
+    }
+,
+    {
+      "name": "Lycaena telicanus (Lang, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774664"
+    }
+,
+    {
+      "name": "Papilio pirithous Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645901"
+    }
+,
+    {
+      "name": "Papilio telicanus Lang, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392276"
+    }
+,
+    {
+      "name": "Syntarucus pirithous (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54014"
+    }
+,
+    {
+      "name": "Syntarucus telicanus (Lang, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54016"
+    }
+,
+    {
+      "name": "Syntharucus pirithous (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782751"
+    }
+,
+    {
+      "name": "Leptotes plinius (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833224"
+    }
+,
+    {
+      "name": "Syntarucus plinius (Fabricius, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833222"
+    }
+,
+    {
+      "name": "Leptotes plinius pseudocassius (Murray, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833226"
+    }
+,
+    {
+      "name": "Syntarucus plinius pseudocassius (Murray, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833223"
+    }
+,
+    {
+      "name": "Luthrodes Druce, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Luthrodes cleotas (Guérin-Méneville, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962951"
+    }
+,
+    {
+      "name": "Chilades cleotas (Guérin-Méneville, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829956"
+    }
+,
+    {
+      "name": "Polyommatus cleotas Guérin-Méneville, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962954"
+    }
+,
+    {
+      "name": "Luthrodes cleotas excellens (Butler, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962953"
+    }
+,
+    {
+      "name": "Chilades cleotas excellens (Butler, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829958"
+    }
+,
+    {
+      "name": "Scolitantides excellens Butler, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962955"
+    }
+,
+    {
+      "name": "Lysandra Hemming, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Lysandra Hemming, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Lysandra bellargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54271"
+    }
+,
+    {
+      "name": "Agriades thetis etrusca Verity, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646009"
+    }
+,
+    {
+      "name": "Agriades thetis inalpina Verity, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646012"
+    }
+,
+    {
+      "name": "Lycaena adonis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774753"
+    }
+,
+    {
+      "name": "Lycaena bellargus coelestis Oberthür, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774754"
+    }
+,
+    {
+      "name": "Lycaena bellargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774752"
+    }
+,
+    {
+      "name": "Lysandra bellargus bellargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713918"
+    }
+,
+    {
+      "name": "Lysandra bellargus etrusca (Verity, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713920"
+    }
+,
+    {
+      "name": "Lysandra bellargus fuscescens (Tutt, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713928"
+    }
+,
+    {
+      "name": "Lysandra bellargus inalpina (Verity, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713929"
+    }
+,
+    {
+      "name": "Lysandra bellargus pictonensis (Hemming, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713931"
+    }
+,
+    {
+      "name": "Papilio adonis Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392235"
+    }
+,
+    {
+      "name": "Papilio bellargus Rottemburg, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646005"
+    }
+,
+    {
+      "name": "Polyommatus adonis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820967"
+    }
+,
+    {
+      "name": "Polyommatus bellargus bellargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646006"
+    }
+,
+    {
+      "name": "Polyommatus bellargus etrusca (Verity, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646008"
+    }
+,
+    {
+      "name": "Polyommatus bellargus fuscescens (Tutt, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646007"
+    }
+,
+    {
+      "name": "Polyommatus bellargus inalpina (Verity, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646011"
+    }
+,
+    {
+      "name": "Polyommatus bellargus pictonensis (Hemming, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646013"
+    }
+,
+    {
+      "name": "Polyommatus bellargus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219767"
+    }
+,
+    {
+      "name": "Lysandra coridon (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54265"
+    }
+,
+    {
+      "name": "Agriades coridon diniae Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646029"
+    }
+,
+    {
+      "name": "Agriades coridon galliae Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646025"
+    }
+,
+    {
+      "name": "Agriades coridon hispanagallica Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646036"
+    }
+,
+    {
+      "name": "Agriades coridon jurae Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646021"
+    }
+,
+    {
+      "name": "Agriades coridon minutepunctata Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646019"
+    }
+,
+    {
+      "name": "Agriades coridon narbonensis Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646033"
+    }
+,
+    {
+      "name": "Agriades coridon rufosplendens Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646027"
+    }
+,
+    {
+      "name": "Lycaena coridon torgniensis Haverkampf, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646023"
+    }
+,
+    {
+      "name": "Lycaena corydon altica Neustetter, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646016"
+    }
+,
+    {
+      "name": "Lycaena corydon (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774760"
+    }
+,
+    {
+      "name": "Lycarna coridon semibrunnea Millière, 1859",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921242"
+    }
+,
+    {
+      "name": "Lysandra coridon altica (Neustetter, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713933"
+    }
+,
+    {
+      "name": "Lysandra coridon apennina (Zeller, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/651419"
+    }
+,
+    {
+      "name": "Lysandra coridon diniae (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713935"
+    }
+,
+    {
+      "name": "Lysandra coridon galliae (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783079"
+    }
+,
+    {
+      "name": "Lysandra coridon hispanagallica (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713936"
+    }
+,
+    {
+      "name": "Lysandra coridon jurae (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713937"
+    }
+,
+    {
+      "name": "Lysandra coridon maritimarum Verity, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713939"
+    }
+,
+    {
+      "name": "Lysandra coridon minutepunctata (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713940"
+    }
+,
+    {
+      "name": "Lysandra coridon narbonensis (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713941"
+    }
+,
+    {
+      "name": "Lysandra coridon nufrellensis Schurian, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646031"
+    }
+,
+    {
+      "name": "Lysandra coridon rufosplendens (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713943"
+    }
+,
+    {
+      "name": "Lysandra coridon torgniensis (Ball, 1924)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713944"
+    }
+,
+    {
+      "name": "Papilio coridon Poda, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646014"
+    }
+,
+    {
+      "name": "Polyommatus coridon altica (Neustetter, 1909)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646015"
+    }
+,
+    {
+      "name": "Polyommatus coridon apennina Zeller, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608317"
+    }
+,
+    {
+      "name": "Polyommatus coridon coridon auct. non (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/610389"
+    }
+,
+    {
+      "name": "Polyommatus coridon diniae (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646028"
+    }
+,
+    {
+      "name": "Polyommatus coridon galliae (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646024"
+    }
+,
+    {
+      "name": "Polyommatus coridon hispanagallica (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646035"
+    }
+,
+    {
+      "name": "Polyommatus coridon jurae (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646020"
+    }
+,
+    {
+      "name": "Polyommatus coridon maritimarum (Verity, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646034"
+    }
+,
+    {
+      "name": "Polyommatus coridon minutepunctata (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646017"
+    }
+,
+    {
+      "name": "Polyommatus coridon narbonensis (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646032"
+    }
+,
+    {
+      "name": "Polyommatus coridon nicaeensis Dujardin, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837759"
+    }
+,
+    {
+      "name": "Polyommatus coridon nufrellensis (Schurian, 1977)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608318"
+    }
+,
+    {
+      "name": "Polyommatus coridon rufosplendens (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646026"
+    }
+,
+    {
+      "name": "Polyommatus coridon torgniensis (Ball, 1924)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646022"
+    }
+,
+    {
+      "name": "Polyommatus coridon (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219768"
+    }
+,
+    {
+      "name": "Polyommatus corydon apenninus Zeller, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921999"
+    }
+,
+    {
+      "name": "Polyommatus corydon (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774644"
+    }
+,
+    {
+      "name": "Polyommatus nufrellensis (Schurian, 1977)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219769"
+    }
+,
+    {
+      "name": "Lysandra hispana (Herrich-Schäffer, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54267"
+    }
+,
+    {
+      "name": "Agriades aragonensis (Gerhard, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770804"
+    }
+,
+    {
+      "name": "Agriades coridon constanti Reverdin, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646044"
+    }
+,
+    {
+      "name": "Lycaena coridon rezniceki Bartel, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646041"
+    }
+,
+    {
+      "name": "Lycaena corydon hispana Herrich-Schäffer, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646037"
+    }
+,
+    {
+      "name": "Lycaena corydon auct. non Poda, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777331"
+    }
+,
+    {
+      "name": "Lycaena hispana Herrich-Schäffer, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884198"
+    }
+,
+    {
+      "name": "Lysandra hispana constanti (Reverdin, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713946"
+    }
+,
+    {
+      "name": "Lysandra hispana galliaealbicans Verity, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713948"
+    }
+,
+    {
+      "name": "Lysandra hispana hispana (Herrich-Schäffer, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713949"
+    }
+,
+    {
+      "name": "Lysandra hispana rezniceki (Bartel, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713951"
+    }
+,
+    {
+      "name": "Lysandra hispana segustericus (Dujardin, 1968)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713953"
+    }
+,
+    {
+      "name": "Lysandra rezneciki (Bartel, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392238"
+    }
+,
+    {
+      "name": "Plebeius semperi Agenjo, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392239"
+    }
+,
+    {
+      "name": "Polyommatus hispana constanti (Reverdin, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646042"
+    }
+,
+    {
+      "name": "Polyommatus hispana hispana (Herrich-Schäffer, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646039"
+    }
+,
+    {
+      "name": "Polyommatus hispana rezniceki (Bartel, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646040"
+    }
+,
+    {
+      "name": "Polyommatus hispana segustericus Dujardin, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646045"
+    }
+,
+    {
+      "name": "Polyommatus hispana (Herrich-Schäffer, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219770"
+    }
+,
+    {
+      "name": "Polyommatus hispanus segustericus Dujardin, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646046"
+    }
+,
+    {
+      "name": "Polyommatus hispanus (Herrich-Schäffer, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/622382"
+    }
+,
+    {
+      "name": "Nacaduba Moore, 1881",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypojamides Riley in Poulton & Riley, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Nacaduba biocellata (Felder & Felder, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829930"
+    }
+,
+    {
+      "name": "Nacaduba biocellata armillata (Butler, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829932"
+    }
+,
+    {
+      "name": "Nacaduba catochloris (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776760"
+    }
+,
+    {
+      "name": "Hypojamides catochloris (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829926"
+    }
+,
+    {
+      "name": "Nacaduba deplorans (Butler, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833218"
+    }
+,
+    {
+      "name": "Nacaduba tahitiensis Hara & Hirowatari, 1989",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776761"
+    }
+,
+    {
+      "name": "Nothodanis Hirowatari, 1992",
+      "url": ""
+    }
+,
+    {
+      "name": "Nothodanis schaeffera (Eschscholtz, 1821)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829922"
+    }
+,
+    {
+      "name": "Nothodanis schaeffera caledonica (Felder & Felder, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829924"
+    }
+,
+    {
+      "name": "Danis caledonica (Felder & Felder, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829920"
+    }
+,
+    {
+      "name": "Danis schaeffera baladensis (Holloway & Peters, 1976)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964341"
+    }
+,
+    {
+      "name": "Lycaena caledonica Felder & Felder, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833214"
+    }
+,
+    {
+      "name": "Nothodanis schaeffera baladensis (Holloway & Peters, 1976)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833215"
+    }
+,
+    {
+      "name": "Psychonotis schaeffera baladensis Holloway & Peters, 1976",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964344"
+    }
+,
+    {
+      "name": "Thysonotis caledonica (Felder & Felder, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829919"
+    }
+,
+    {
+      "name": "Phengaris Doherty, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Phengaris alcon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/631131"
+    }
+,
+    {
+      "name": "Argus alcon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834121"
+    }
+,
+    {
+      "name": "Glaucopsyche alcon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219791"
+    }
+,
+    {
+      "name": "Glaucopsyche rebeli (Hirschke, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219792"
+    }
+,
+    {
+      "name": "Lycaena alcon monticola Staudinger, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712131"
+    }
+,
+    {
+      "name": "Lycaena alcon rebeli Hirschke, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645906"
+    }
+,
+    {
+      "name": "Lycaena alcon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774774"
+    }
+,
+    {
+      "name": "Maculinea alcon aigoualensis Bernardi & Gaillard, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645909"
+    }
+,
+    {
+      "name": "Maculinea alcon alcon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54082"
+    }
+,
+    {
+      "name": "Maculinea alcon monticola (Staudinger, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645907"
+    }
+,
+    {
+      "name": "Maculinea alcon nestae (Higgins, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645908"
+    }
+,
+    {
+      "name": "Maculinea alcon rebeli (Hirschke, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54083"
+    }
+,
+    {
+      "name": "Maculinea alcon rebeli (Hirschke, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645905"
+    }
+,
+    {
+      "name": "Maculinea alcon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54080"
+    }
+,
+    {
+      "name": "Maculinea rebeli (Hirschke, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/199775"
+    }
+,
+    {
+      "name": "Papilio alcon Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645903"
+    }
+,
+    {
+      "name": "Phengaris alcon alcon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647478"
+    }
+,
+    {
+      "name": "Phengaris alcon rebeli (Hirschke, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774796"
+    }
+,
+    {
+      "name": "Phengaris rebeli (Hirschke, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647479"
+    }
+,
+    {
+      "name": "Polyommatus alcon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/821975"
+    }
+,
+    {
+      "name": "Phengaris arion (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/631133"
+    }
+,
+    {
+      "name": "Glaucopsyche arion (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219788"
+    }
+,
+    {
+      "name": "Lycaena arion aglaophon Fruhstorfer, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645919"
+    }
+,
+    {
+      "name": "Lycaena arion ligurica Wagner, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645914"
+    }
+,
+    {
+      "name": "Lycaena arion (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774875"
+    }
+,
+    {
+      "name": "Lycaena arthurus Melvill, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645917"
+    }
+,
+    {
+      "name": "Lycaena ligurica Wagner, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392267"
+    }
+,
+    {
+      "name": "Lycaena obscura Christ, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392266"
+    }
+,
+    {
+      "name": "Maculinea arion aglaophon (Fruhstorfer, 1915)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645918"
+    }
+,
+    {
+      "name": "Maculinea arion arion (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645912"
+    }
+,
+    {
+      "name": "Maculinea arion arthurus (Melvill, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645915"
+    }
+,
+    {
+      "name": "Maculinea arion bordei Dujardin, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/837758"
+    }
+,
+    {
+      "name": "Maculinea arion ligurica (Wagner, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645913"
+    }
+,
+    {
+      "name": "Maculinea arion obscura (Christ, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716712"
+    }
+,
+    {
+      "name": "Maculinea arion pyrenaeafuscans Verity, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645920"
+    }
+,
+    {
+      "name": "Maculinea arion (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54085"
+    }
+,
+    {
+      "name": "Papilio arion Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645911"
+    }
+,
+    {
+      "name": "Polyommatus arion (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820971"
+    }
+,
+    {
+      "name": "Phengaris nausithous (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/626169"
+    }
+,
+    {
+      "name": "Argus erebus (Knoch, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834120"
+    }
+,
+    {
+      "name": "Glaucopsyche nausithous (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219790"
+    }
+,
+    {
+      "name": "Lycaena arcas (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774876"
+    }
+,
+    {
+      "name": "Lycaena erebus (Knoch, 1782)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826777"
+    }
+,
+    {
+      "name": "Maculinea arcas (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54091"
+    }
+,
+    {
+      "name": "Maculinea nausithous nausithous (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608304"
+    }
+,
+    {
+      "name": "Maculinea nausithous (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54089"
+    }
+,
+    {
+      "name": "Papilio arcas Rottemburg, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392269"
+    }
+,
+    {
+      "name": "Papilio erebus Knoch, 1782",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826776"
+    }
+,
+    {
+      "name": "Papilio nausithous Bergsträsser, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645921"
+    }
+,
+    {
+      "name": "Phengaris teleius (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/631135"
+    }
+,
+    {
+      "name": "Glaucopsyche teleius (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219789"
+    }
+,
+    {
+      "name": "Lycaena diomedes (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976140"
+    }
+,
+    {
+      "name": "Lycaena euphemus albocuneata Spuler, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645931"
+    }
+,
+    {
+      "name": "Lycaena euphemus burdigalensis Stempffer, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645933"
+    }
+,
+    {
+      "name": "Lycaena euphemus thersandrus Fruhstorfer, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645929"
+    }
+,
+    {
+      "name": "Lycaena euphemus (Hübner, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774874"
+    }
+,
+    {
+      "name": "Maculinea euphemus (Hübner, 1800)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884192"
+    }
+,
+    {
+      "name": "Maculinea teleius albocuneata (Spuler, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713959"
+    }
+,
+    {
+      "name": "Maculinea teleius burdigalensis (Stempffer, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713961"
+    }
+,
+    {
+      "name": "Maculinea teleius teleius (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608305"
+    }
+,
+    {
+      "name": "Maculinea teleius thersandrus (Fruhstorfer, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713962"
+    }
+,
+    {
+      "name": "Maculinea teleius (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54087"
+    }
+,
+    {
+      "name": "Maculinea telejus albocuneata (Spuler, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645930"
+    }
+,
+    {
+      "name": "Maculinea telejus burdigalensis (Stempffer, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645932"
+    }
+,
+    {
+      "name": "Maculinea telejus telejus (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645923"
+    }
+,
+    {
+      "name": "Maculinea telejus thersandrus (Fruhstorfer, 1917)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645924"
+    }
+,
+    {
+      "name": "Maculinea telejus (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/433698"
+    }
+,
+    {
+      "name": "Papilio diomedes Rottemburg, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976139"
+    }
+,
+    {
+      "name": "Papilio euphemus Hübner, 1800",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392268"
+    }
+,
+    {
+      "name": "Papilio teleius Bergsträsser, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/642563"
+    }
+,
+    {
+      "name": "Plebejus Kluk, 1780",
+      "url": ""
+    }
+,
+    {
+      "name": "Plebeius Kluk, 1780",
+      "url": ""
+    }
+,
+    {
+      "name": "Plebejus Kluk, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Lycaeides Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Lycaeides ",
+      "url": ""
+    }
+,
+    {
+      "name": "Plebejus argus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54105"
+    }
+,
+    {
+      "name": "Lycaeides argus hypochionalpina Verity, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645939"
+    }
+,
+    {
+      "name": "Lycaena aegidion Meisner, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645937"
+    }
+,
+    {
+      "name": "Lycaena aegon aegiades Gerhardt, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645951"
+    }
+,
+    {
+      "name": "Lycaena aegon corsica Bellier, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645956"
+    }
+,
+    {
+      "name": "Lycaena aegon hypochiona Rambur, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777417"
+    }
+,
+    {
+      "name": "Lycaena aegon plouharnelensis Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/459096"
+    }
+,
+    {
+      "name": "Lycaena aegon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774928"
+    }
+,
+    {
+      "name": "Lycaena agon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825167"
+    }
+,
+    {
+      "name": "Lycaena argus lydiades Fruhstorfer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775051"
+    }
+,
+    {
+      "name": "Lycaena argus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976860"
+    }
+,
+    {
+      "name": "Lycaena hypochiona Rambur, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720143"
+    }
+,
+    {
+      "name": "Papilio aegidion (Meisner, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392246"
+    }
+,
+    {
+      "name": "Papilio aegon Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720145"
+    }
+,
+    {
+      "name": "Papilio argus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645935"
+    }
+,
+    {
+      "name": "Papilio philomone Bergsträsser, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/775060"
+    }
+,
+    {
+      "name": "Papilio philonome Bergsträsser, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645954"
+    }
+,
+    {
+      "name": "Plebeius aegon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/770465"
+    }
+,
+    {
+      "name": "Plebeius argus hypochionoides Tutt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645946"
+    }
+,
+    {
+      "name": "Plebeius argus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219775"
+    }
+,
+    {
+      "name": "Plebeius corsicus (Bellier, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392245"
+    }
+,
+    {
+      "name": "Plebeius hypochionus (Rambur, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392244"
+    }
+,
+    {
+      "name": "Plebejus aegon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54104"
+    }
+,
+    {
+      "name": "Plebejus argus aegiades (Gerhard, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645947"
+    }
+,
+    {
+      "name": "Plebejus argus aegidion (Meisner, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54109"
+    }
+,
+    {
+      "name": "Plebejus argus argus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54108"
+    }
+,
+    {
+      "name": "Plebejus argus corsica (Bellier, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645955"
+    }
+,
+    {
+      "name": "Plebejus argus corsicus (Bellier, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54110"
+    }
+,
+    {
+      "name": "Plebejus argus gaillardi Beuret, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645943"
+    }
+,
+    {
+      "name": "Plebejus argus hypochionalpina (Verity, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645938"
+    }
+,
+    {
+      "name": "Plebejus argus hypochionoides Tutt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645945"
+    }
+,
+    {
+      "name": "Plebejus argus hypochionus (Rambur, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54111"
+    }
+,
+    {
+      "name": "Plebejus argus lydiades (Fruhstorfer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645942"
+    }
+,
+    {
+      "name": "Plebejus argus philonome (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645953"
+    }
+,
+    {
+      "name": "Plebejus argus plouharnelensis (Oberthür, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1001301"
+    }
+,
+    {
+      "name": "Polyommatus aegon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/820966"
+    }
+,
+    {
+      "name": "Polyommatus argus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54107"
+    }
+,
+    {
+      "name": "Plebejus argyrognomon (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54170"
+    }
+,
+    {
+      "name": "Lycaeides argyrognomon tapinaegus Verity, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645965"
+    }
+,
+    {
+      "name": "Lycaeides argyrognomon (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54168"
+    }
+,
+    {
+      "name": "Lycaeides ismenias letitia Hemming, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645961"
+    }
+,
+    {
+      "name": "Lycaeides ismenias (Meigen, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884210"
+    }
+,
+    {
+      "name": "Lycaena argus ligurica Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720146"
+    }
+,
+    {
+      "name": "Lycaena argyrognomon (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/783613"
+    }
+,
+    {
+      "name": "Papilio argyrognomon Bergsträsser, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645957"
+    }
+,
+    {
+      "name": "Plebeius aegus Chapman, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392248"
+    }
+,
+    {
+      "name": "Plebeius argyrognomon (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219778"
+    }
+,
+    {
+      "name": "Plebejus argyrognomon aegus Chapman, 1917",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645962"
+    }
+,
+    {
+      "name": "Plebejus argyrognomon argyrognomon (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645959"
+    }
+,
+    {
+      "name": "Plebejus argyrognomon letitia (Hemming, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645960"
+    }
+,
+    {
+      "name": "Plebejus argyrognomon tapinaegus (Verity, 1948)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645963"
+    }
+,
+    {
+      "name": "Polyommatus ismenias Meigen, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392247"
+    }
+,
+    {
+      "name": "Plebejus bellieri (Oberthür, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/433701"
+    }
+,
+    {
+      "name": "Lycaeides idas bellieri (Oberthür, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54129"
+    }
+,
+    {
+      "name": "Lycaena argus bellieri Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645967"
+    }
+,
+    {
+      "name": "Lycaena argus sensu Oberthür, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778299"
+    }
+,
+    {
+      "name": "Plebeius argyrognomon var. corsica Tutt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670718"
+    }
+,
+    {
+      "name": "Plebeius bellieri (Oberthür, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219777"
+    }
+,
+    {
+      "name": "Plebejus corsicus Tutt, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/670717"
+    }
+,
+    {
+      "name": "Plebejus idas bellieri (Oberthür, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54130"
+    }
+,
+    {
+      "name": "Plebejus idas (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54126"
+    }
+,
+    {
+      "name": "Argus calliopis Boisduval, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645977"
+    }
+,
+    {
+      "name": "Lycaeides argyrognomon gazeli Beuret, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645974"
+    }
+,
+    {
+      "name": "Lycaeides argyrognomon rauraca Beuret, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645976"
+    }
+,
+    {
+      "name": "Lycaeides idas calliopis (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54131"
+    }
+,
+    {
+      "name": "Lycaeides idas haefelfingeri Beuret, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54133"
+    }
+,
+    {
+      "name": "Lycaeides idas idas (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54127"
+    }
+,
+    {
+      "name": "Lycaeides idas lapponicus (Gerhard, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54166"
+    }
+,
+    {
+      "name": "Lycaeides idas magnagraeca (Verity, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54135"
+    }
+,
+    {
+      "name": "Lycaeides idas (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54124"
+    }
+,
+    {
+      "name": "Lycaena aegon calliopis (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/778300"
+    }
+,
+    {
+      "name": "Lycaena aegon lapponica Gerhardt, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720148"
+    }
+,
+    {
+      "name": "Lycaena argus alpina Berce, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645984"
+    }
+,
+    {
+      "name": "Lycaena argus alsus Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833907"
+    }
+,
+    {
+      "name": "Lycaena argus armoricana Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645972"
+    }
+,
+    {
+      "name": "Lycaena argus calliopis (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777418"
+    }
+,
+    {
+      "name": "Lycaena argus (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774929"
+    }
+,
+    {
+      "name": "Lycaena calliopis (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838741"
+    }
+,
+    {
+      "name": "Papilio idas Linnaeus, 1761",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645969"
+    }
+,
+    {
+      "name": "Plebeius idas alpophila Verity, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833906"
+    }
+,
+    {
+      "name": "Plebeius idas magnalpina Verity, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645986"
+    }
+,
+    {
+      "name": "Plebeius idas (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219776"
+    }
+,
+    {
+      "name": "Plebejus idas alpina (Berce, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645983"
+    }
+,
+    {
+      "name": "Plebejus idas alpophila (Verity, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833908"
+    }
+,
+    {
+      "name": "Plebejus idas armoricanus (Oberthür, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645971"
+    }
+,
+    {
+      "name": "Plebejus idas calliopis (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54132"
+    }
+,
+    {
+      "name": "Plebejus idas gazeli (Beuret, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645973"
+    }
+,
+    {
+      "name": "Plebejus idas haefelfingeri (Beuret, 1935)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54134"
+    }
+,
+    {
+      "name": "Plebejus idas idas (Linnaeus, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54128"
+    }
+,
+    {
+      "name": "Plebejus idas lapponicus (Gerhard, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54167"
+    }
+,
+    {
+      "name": "Plebejus idas magnagraeca (Verity, 1925)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54136"
+    }
+,
+    {
+      "name": "Plebejus idas magnalpina Verity, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645985"
+    }
+,
+    {
+      "name": "Plebejus idas rauracus (Beuret, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645975"
+    }
+,
+    {
+      "name": "Plebejus Kluk, 1780",
+      "url": ""
+    }
+,
+    {
+      "name": "Polyommatus Latreille, 1804",
+      "url": ""
+    }
+,
+    {
+      "name": "Polyommatus amandus (Schneider, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219764"
+    }
+,
+    {
+      "name": "Agrodiaetus amanda (Schneider, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54239"
+    }
+,
+    {
+      "name": "Lycaena amanda (Schneider, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838740"
+    }
+,
+    {
+      "name": "Lycaena amandus isias Fruhstorfer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646064"
+    }
+,
+    {
+      "name": "Lycaena icarius (Esper, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777145"
+    }
+,
+    {
+      "name": "Lysandra amanda (Schneider, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643523"
+    }
+,
+    {
+      "name": "Lysandra amandus (Schneider, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809644"
+    }
+,
+    {
+      "name": "Lysandra icarius Esper, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716713"
+    }
+,
+    {
+      "name": "Papilio amandus Schneider, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646062"
+    }
+,
+    {
+      "name": "Papilio icarius Esper, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392232"
+    }
+,
+    {
+      "name": "Plebicula amanda ludovicana Betti, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646070"
+    }
+,
+    {
+      "name": "Plebicula amanda (Schneider, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984649"
+    }
+,
+    {
+      "name": "Polyommatus agathon Godart, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646067"
+    }
+,
+    {
+      "name": "Polyommatus amanda agathon Godart, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646065"
+    }
+,
+    {
+      "name": "Polyommatus amanda isias Fruhstorfer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646063"
+    }
+,
+    {
+      "name": "Polyommatus amanda ludovicanus (Betti, 1977)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646069"
+    }
+,
+    {
+      "name": "Polyommatus amanda (Schneider, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/433699"
+    }
+,
+    {
+      "name": "Polyommatus damon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219773"
+    }
+,
+    {
+      "name": "Agrodiaetus damon meridioccasus Verity, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645997"
+    }
+,
+    {
+      "name": "Agrodiaetus damon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54224"
+    }
+,
+    {
+      "name": "Hirsutina damon cabrerae Sagarra, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645995"
+    }
+,
+    {
+      "name": "Lycaena damon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777147"
+    }
+,
+    {
+      "name": "Lysandra damon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643524"
+    }
+,
+    {
+      "name": "Papilio damon Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645989"
+    }
+,
+    {
+      "name": "Polyommatus damon cabrerae (Sagarra, 1930)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608312"
+    }
+,
+    {
+      "name": "Polyommatus damon clarior (Verity, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608310"
+    }
+,
+    {
+      "name": "Polyommatus damon damon (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608309"
+    }
+,
+    {
+      "name": "Polyommatus damon ferreti Favre, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645999"
+    }
+,
+    {
+      "name": "Polyommatus damon meridioccasus (Verity, 1951)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608311"
+    }
+,
+    {
+      "name": "Polyommatus damon rufosaturior (Verity, 1943)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646000"
+    }
+,
+    {
+      "name": "Polyommatus daphnis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219766"
+    }
+,
+    {
+      "name": "Lycaena daphnis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976124"
+    }
+,
+    {
+      "name": "Lycaena meleager (Esper, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777148"
+    }
+,
+    {
+      "name": "Meleageria daphnis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54276"
+    }
+,
+    {
+      "name": "Meleageria meleager (Esper, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/809645"
+    }
+,
+    {
+      "name": "Meleagria meleager (Esper, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884200"
+    }
+,
+    {
+      "name": "Papilio daphnis Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646057"
+    }
+,
+    {
+      "name": "Papilio meleager Esper, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392234"
+    }
+,
+    {
+      "name": "Polyommatus daphnis alpium Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646060"
+    }
+,
+    {
+      "name": "Polyommatus daphnis daphnis (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/714093"
+    }
+,
+    {
+      "name": "Polyommatus daphnis macra Verity, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646058"
+    }
+,
+    {
+      "name": "Polyommatus meleager alpium Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646061"
+    }
+,
+    {
+      "name": "Polyommatus meleager macra Verity, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646059"
+    }
+,
+    {
+      "name": "Polyommatus meleager (Esper, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777149"
+    }
+,
+    {
+      "name": "Polyommatus dolus (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219772"
+    }
+,
+    {
+      "name": "Agrodiaetus dolus dolus (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54228"
+    }
+,
+    {
+      "name": "Agrodiaetus dolus vittatus (Oberthür, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1015396"
+    }
+,
+    {
+      "name": "Agrodiaetus dolus (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54226"
+    }
+,
+    {
+      "name": "Argus dolus (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834118"
+    }
+,
+    {
+      "name": "Lycaena dolus vittata Oberthür, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646001"
+    }
+,
+    {
+      "name": "Lycaena dolus (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777150"
+    }
+,
+    {
+      "name": "Lycaena lefebvrei (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976127"
+    }
+,
+    {
+      "name": "Papilio dolus Hübner, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/645990"
+    }
+,
+    {
+      "name": "Polyommatus dolus dolus (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608313"
+    }
+,
+    {
+      "name": "Polyommatus dolus vittatus (Oberthür, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608314"
+    }
+,
+    {
+      "name": "Polyommatus lefebvrei Godart, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976126"
+    }
+,
+    {
+      "name": "Polyommatus vittatus (Oberthür, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/265889"
+    }
+,
+    {
+      "name": "Polyommatus dorylas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219763"
+    }
+,
+    {
+      "name": "Agriades hylas macromargarita Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646077"
+    }
+,
+    {
+      "name": "Agriades hylas micromargarita Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646074"
+    }
+,
+    {
+      "name": "Argus dorylas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834111"
+    }
+,
+    {
+      "name": "Lycaena dorylas gabrielis Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777281"
+    }
+,
+    {
+      "name": "Lycaena dorylas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777279"
+    }
+,
+    {
+      "name": "Lycaena hylas (Esper, 1778)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777421"
+    }
+,
+    {
+      "name": "Lysandra argester parvaplumbea Verity, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646079"
+    }
+,
+    {
+      "name": "Lysandra argester (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782901"
+    }
+,
+    {
+      "name": "Lysandra dorylas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643525"
+    }
+,
+    {
+      "name": "Lysandra hylas (Esper, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/884199"
+    }
+,
+    {
+      "name": "Papilio argester Bergsträsser, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392230"
+    }
+,
+    {
+      "name": "Papilio dorylas Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646071"
+    }
+,
+    {
+      "name": "Papilio hylas Esper, 1793",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392231"
+    }
+,
+    {
+      "name": "Plebicula dorylas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54256"
+    }
+,
+    {
+      "name": "Polyommatus dorylas dorylas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646072"
+    }
+,
+    {
+      "name": "Polyommatus dorylas macromargarita (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646075"
+    }
+,
+    {
+      "name": "Polyommatus dorylas micromargarita (Verity, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646073"
+    }
+,
+    {
+      "name": "Polyommatus dorylas parvaplumbea (Verity, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646078"
+    }
+,
+    {
+      "name": "Polyommatus eros (Ochsenheimer, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54283"
+    }
+,
+    {
+      "name": "Argus eros (Ochsenheimer, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/834112"
+    }
+,
+    {
+      "name": "Lycaena eros caerulescens Oberthür, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646095"
+    }
+,
+    {
+      "name": "Lycaena eros (Ochsenheimer, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777892"
+    }
+,
+    {
+      "name": "Papilio eros Ochsenheimer, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712383"
+    }
+,
+    {
+      "name": "Polyommatus eros caerulescens (Oberthür, 1884)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608324"
+    }
+,
+    {
+      "name": "Polyommatus eros eros (Ochsenheimer, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608323"
+    }
+,
+    {
+      "name": "Polyommatus eros micreros Verity, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646096"
+    }
+,
+    {
+      "name": "Polyommatus escheri (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219762"
+    }
+,
+    {
+      "name": "Agriades escheri microsticta Verity, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646089"
+    }
+,
+    {
+      "name": "Agrodiaetus dalmatica (Ad. Speyer, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392227"
+    }
+,
+    {
+      "name": "Agrodiaetus escheri dalmatica (Ad. Speyer, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54253"
+    }
+,
+    {
+      "name": "Agrodiaetus escheri escheri (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54251"
+    }
+,
+    {
+      "name": "Agrodiaetus escheri (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54248"
+    }
+,
+    {
+      "name": "Agrodiaetus splendens Stefanelli, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392228"
+    }
+,
+    {
+      "name": "Lycaena agestor (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976119"
+    }
+,
+    {
+      "name": "Lycaena escheri balestrei Fruhstorfer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646087"
+    }
+,
+    {
+      "name": "Lycaena escheri helenae Oberthür, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646091"
+    }
+,
+    {
+      "name": "Lycaena escheri rondoui Oberthür, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646093"
+    }
+,
+    {
+      "name": "Lycaena escheri splendens Stefanelli, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646085"
+    }
+,
+    {
+      "name": "Lycaena escheri (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777328"
+    }
+,
+    {
+      "name": "Lysandra escheri (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643526"
+    }
+,
+    {
+      "name": "Papilio escheri Hübner, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646081"
+    }
+,
+    {
+      "name": "Plebeius olympena Verity, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392229"
+    }
+,
+    {
+      "name": "Plebicula escheri balestrei (Fruhstorfer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/699725"
+    }
+,
+    {
+      "name": "Plebicula escheri (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/984648"
+    }
+,
+    {
+      "name": "Polyommatus agestor Godart, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392226"
+    }
+,
+    {
+      "name": "Polyommatus escheri balestrei (Fruhstorfer, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646086"
+    }
+,
+    {
+      "name": "Polyommatus escheri escheri (Hübner, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646083"
+    }
+,
+    {
+      "name": "Polyommatus escheri helenae (Oberthür, 1910)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646090"
+    }
+,
+    {
+      "name": "Polyommatus escheri microsticta (Verity, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646088"
+    }
+,
+    {
+      "name": "Polyommatus escheri rondoui (Oberthür, 1906)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646092"
+    }
+,
+    {
+      "name": "Polyommatus escheri splendens (Stefanelli, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646084"
+    }
+,
+    {
+      "name": "Polyommatus icarus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54279"
+    }
+,
+    {
+      "name": "Lycaena alexis auct. non (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774930"
+    }
+,
+    {
+      "name": "Lycaena icarus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777479"
+    }
+,
+    {
+      "name": "Papilio alexis auct. non (Poda, 1761)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952437"
+    }
+,
+    {
+      "name": "Papilio argus sensu Geoffroy in Fourcroy, 1785 non Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952208"
+    }
+,
+    {
+      "name": "Papilio fusciolus Geoffroy in Fourcroy, 1785",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/952207"
+    }
+,
+    {
+      "name": "Papilio icarus Rottemburg, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646098"
+    }
+,
+    {
+      "name": "Polyommatus icarus claracaelestis Verity, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646101"
+    }
+,
+    {
+      "name": "Polyommatus icarus flavocinctata Rowland-Brown, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646102"
+    }
+,
+    {
+      "name": "Polyommatus icarus icarus (Rottemburg, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646099"
+    }
+,
+    {
+      "name": "Polyommatus icarus rufoprivata Verity, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646100"
+    }
+,
+    {
+      "name": "Polyommatus nivescens (Keferstein, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/265871"
+    }
+,
+    {
+      "name": "Lycaena dorylas nivescens Keferstein, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712381"
+    }
+,
+    {
+      "name": "Plebicula nivescens (Kefferstein, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54260"
+    }
+,
+    {
+      "name": "Polyommatus ripartii (Freyer, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219771"
+    }
+,
+    {
+      "name": "Agrodiaetus ripartii (Freyer, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54233"
+    }
+,
+    {
+      "name": "Lycaena ripartii Freyer, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646003"
+    }
+,
+    {
+      "name": "Lysandra ripartii (Freyer, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643527"
+    }
+,
+    {
+      "name": "Polyommatus ripartii rippertii (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608315"
+    }
+,
+    {
+      "name": "Argus rippertii Boisduval, 1832",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720285"
+    }
+,
+    {
+      "name": "Lycaena rippertii (Boisduval, 1832)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777146"
+    }
+,
+    {
+      "name": "Polyommatus thersites (Cantener, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/219765"
+    }
+,
+    {
+      "name": "Agriades thersites hibernata Verity, 1919",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646109"
+    }
+,
+    {
+      "name": "Agrodiaetus thersites (Cantener, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54245"
+    }
+,
+    {
+      "name": "Argus alexis thersites Cantener, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646103"
+    }
+,
+    {
+      "name": "Lycaena alexis thersites (Cantener, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826775"
+    }
+,
+    {
+      "name": "Lycaena thersites (Cantener, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838749"
+    }
+,
+    {
+      "name": "Lysandra thersites (Cantener, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/643528"
+    }
+,
+    {
+      "name": "Plebicula thersites (Cantener, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/459078"
+    }
+,
+    {
+      "name": "Polyommatus thersites hibernatus (Verity, 1919)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646108"
+    }
+,
+    {
+      "name": "Polyommatus thersites thersites (Cantener, 1834)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646107"
+    }
+,
+    {
+      "name": "Prosotas Druce, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Prosotas patricae Tennent, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782334"
+    }
+,
+    {
+      "name": "Pseudonacaduba Stempffer, 1942",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudonacaduba sichela (Wallengren, 1857)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/528787"
+    }
+,
+    {
+      "name": "Pseudonacaduba sichela reticulum (Mabille, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810741"
+    }
+,
+    {
+      "name": "Lycaena reticulum Mabille, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/810742"
+    }
+,
+    {
+      "name": "Pseudophilotes Beuret, 1958",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudophilotes baton (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54055"
+    }
+,
+    {
+      "name": "Argus hylas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/832889"
+    }
+,
+    {
+      "name": "Lycaena baton (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777419"
+    }
+,
+    {
+      "name": "Lycaena hylas (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/777315"
+    }
+,
+    {
+      "name": "Papilio baton Bergsträsser, 1779",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646116"
+    }
+,
+    {
+      "name": "Papilio hylas Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/832888"
+    }
+,
+    {
+      "name": "Philotes baton (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/716714"
+    }
+,
+    {
+      "name": "Polyommatus baton (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/774642"
+    }
+,
+    {
+      "name": "Pseudophilotes baton albonotata (Sagarra, 1926)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646119"
+    }
+,
+    {
+      "name": "Pseudophilotes baton baton (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54057"
+    }
+,
+    {
+      "name": "Pseudophilotes baton praepanoptes (Verity, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646117"
+    }
+,
+    {
+      "name": "Pseudophilotes panoptes praenoptes (Verity, 1928)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720129"
+    }
+,
+    {
+      "name": "Scolitantides baton albonotata Sagarra, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646120"
+    }
+,
+    {
+      "name": "Turanana baton (Bergsträsser, 1779)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/988295"
+    }
+,
+    {
+      "name": "Turania hylas praepanoptes Verity, 1928",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646118"
+    }
+,
+    {
+      "name": "Psychonotis Toxopeus, 1930",
+      "url": ""
+    }
+,
+    {
+      "name": "Psychonotis purpurea (Druce, 1903)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833217"
+    }
+,
+    {
+      "name": "Scolitantides Hübner, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Scolitantides orion (Pallas, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54065"
+    }
+,
+    {
+      "name": "Lycaena battus (Denis & Schiffermüller, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976066"
+    }
+,
+    {
+      "name": "Lycaena lariana Fruhstorfer, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/392270"
+    }
+,
+    {
+      "name": "Lycaena orion (Pallas, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/838747"
+    }
+,
+    {
+      "name": "Papilio battus Denis & Schiffermüller, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/712359"
+    }
+,
+    {
+      "name": "Papilio orion Pallas, 1771",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646121"
+    }
+,
+    {
+      "name": "Scolitantides orion orion (Pallas, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646123"
+    }
+,
+    {
+      "name": "Scolitantides orion parvula Sagarra, 1926",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/646125"
+    }
+,
+    {
+      "name": "Theclinesthes Röber, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Theclinesthes petersi Tennent, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/782331"
+    }
+,
+    {
+      "name": "Udara Toxopeus, 1928",
+      "url": ""
+    }
+,
+    {
+      "name": "Udara renevieri Braby & Müller, 2014",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/792268"
+    }
+,
+    {
+      "name": "Zizeeria Chapman, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Zizeeria knysna (Trimen, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54047"
+    }
+,
+    {
+      "name": "Argus lysimon (Hübner, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985531"
+    }
+,
+    {
+      "name": "Lycaena knysna Trimen, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985528"
+    }
+,
+    {
+      "name": "Lycaena lysimon (Hübner, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985529"
+    }
+,
+    {
+      "name": "Papilio lysimon Hübner, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985530"
+    }
+,
+    {
+      "name": "Zizeeria knysna knysna (Trimen, 1862)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/54049"
+    }
+,
+    {
+      "name": "Zizina Chapman, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Zizina antanossa (Mabille, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458466"
+    }
+,
+    {
+      "name": "Zizina labradus (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829952"
+    }
+,
+    {
+      "name": "Zizera labradus (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829950"
+    }
+,
+    {
+      "name": "Zizina otis labradus (Godart, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829948"
+    }
+,
+    {
+      "name": "Zizina labradus cheesmanae (Riley, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829953"
+    }
+,
+    {
+      "name": "Zizera labradus cheesmanae Riley, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829951"
+    }
+,
+    {
+      "name": "Zizina otis (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776762"
+    }
+,
+    {
+      "name": "Zizera otis (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/829945"
+    }
+,
+    {
+      "name": "Zizina otis caduca (Butler, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833228"
+    }
+,
+    {
+      "name": "Zizula Chapman, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Zizula hylax (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/458467"
+    }
+,
+    {
+      "name": "Lycaena mylica Guenée, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985533"
+    }
+,
+    {
+      "name": "Papilio hylax Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/985532"
+    }
+
+  ]
+}

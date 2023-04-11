@@ -1,0 +1,27 @@
+
+{
+  "name": "glandulinidae",
+  "children": [
+
+    {
+      "name": "Glandulinidae Reuss, 1860",
+      "url": ""
+    }
+,
+    {
+      "name": "entolingulininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/foraminifera incertae sedis/lagenida/glandulinidae/entolingulininae/"
+    }
+,
+    {
+      "name": "glandulininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/foraminifera incertae sedis/lagenida/glandulinidae/glandulininae/"
+    }
+,
+    {
+      "name": "seabrookiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/foraminifera/foraminifera incertae sedis/lagenida/glandulinidae/seabrookiinae/"
+    }
+
+  ]
+}

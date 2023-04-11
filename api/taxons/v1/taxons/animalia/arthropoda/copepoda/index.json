@@ -1,0 +1,87 @@
+
+{
+  "name": "copepoda",
+  "children": [
+
+    {
+      "name": "Copepoda Milne-Edwards, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "calanoida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/calanoida/"
+    }
+,
+    {
+      "name": "canuelloida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/canuelloida/"
+    }
+,
+    {
+      "name": "cyclopoida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/cyclopoida/"
+    }
+,
+    {
+      "name": "gelyelloida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/gelyelloida/"
+    }
+,
+    {
+      "name": "Gymnoplea Giesbrecht, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "harpacticoida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/harpacticoida/"
+    }
+,
+    {
+      "name": "misophrioida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/misophrioida/"
+    }
+,
+    {
+      "name": "monstrilloida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/monstrilloida/"
+    }
+,
+    {
+      "name": "mormonilloida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/mormonilloida/"
+    }
+,
+    {
+      "name": "Neocopepoda Huys & Boxshall, 1991",
+      "url": ""
+    }
+,
+    {
+      "name": "platycopioida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/platycopioida/"
+    }
+,
+    {
+      "name": "Podoplea Giesbrecht, 1882",
+      "url": ""
+    }
+,
+    {
+      "name": "poecilostomatoida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/poecilostomatoida/"
+    }
+,
+    {
+      "name": "Progymnoplea Lang, 1948",
+      "url": ""
+    }
+,
+    {
+      "name": "siphonostomatoida",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/copepoda/siphonostomatoida/"
+    }
+
+  ]
+}

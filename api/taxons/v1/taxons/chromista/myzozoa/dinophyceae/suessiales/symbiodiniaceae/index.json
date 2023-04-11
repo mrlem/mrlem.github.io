@@ -1,0 +1,32 @@
+
+{
+  "name": "symbiodiniaceae",
+  "children": [
+
+    {
+      "name": "Symbiodiniaceae Fensome, Taylor, Norris, Sarjeant, Wharton & Williams, 1993",
+      "url": ""
+    }
+,
+    {
+      "name": "Symbiodinium Freudenthal, 1962",
+      "url": ""
+    }
+,
+    {
+      "name": "Symbiodinium microadriaticum Freudenthal, 1962",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956638"
+    }
+,
+    {
+      "name": "Gymnodinium microadriaticum (Freudenthal) F.J.R.Taylor, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956639"
+    }
+,
+    {
+      "name": "Zooxanthella microadriatica (Freudenthal) Loeblich III & Sherley, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/956640"
+    }
+
+  ]
+}

@@ -1,0 +1,62 @@
+
+{
+  "name": "lysianassidae",
+  "children": [
+
+    {
+      "name": "Lysianassidae Dana, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "conicostomatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/amphipoda/lysianassidae/conicostomatinae/"
+    }
+,
+    {
+      "name": "Ambasia Boeck, 1871",
+      "url": ""
+    }
+,
+    {
+      "name": "Ambasia atlantica (Milne-Edwards, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/370362"
+    }
+,
+    {
+      "name": "Ambasia danielsseni (Milne Edwards, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/370363"
+    }
+,
+    {
+      "name": "Gammarus atlanticus Milne-Edwards, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/575663"
+    }
+,
+    {
+      "name": "Lysianassa atlantica (Milne-Edwards, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/575664"
+    }
+,
+    {
+      "name": "Lysianassa marina Bate, 1857",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/575665"
+    }
+,
+    {
+      "name": "lysianassinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/amphipoda/lysianassidae/lysianassinae/"
+    }
+,
+    {
+      "name": "tryphosinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/amphipoda/lysianassidae/tryphosinae/"
+    }
+,
+    {
+      "name": "waldeckiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/amphipoda/lysianassidae/waldeckiinae/"
+    }
+
+  ]
+}

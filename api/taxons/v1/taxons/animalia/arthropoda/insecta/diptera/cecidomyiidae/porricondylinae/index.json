@@ -1,0 +1,507 @@
+
+{
+  "name": "porricondylinae",
+  "children": [
+
+    {
+      "name": "Porricondylinae Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Asynapta Loew, 1850",
+      "url": ""
+    }
+,
+    {
+      "name": "Asynapta flava Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977822"
+    }
+,
+    {
+      "name": "Asynapta pectoralis (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21426"
+    }
+,
+    {
+      "name": "Cecidomyia pectoralis Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936408"
+    }
+,
+    {
+      "name": "Asynapta strobi (Kieffer, 1920)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977823"
+    }
+,
+    {
+      "name": "Camptomyia strobi Kieffer, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977824"
+    }
+,
+    {
+      "name": "Bryocrypta Kieffer, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Bryocrypta dubia Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250262"
+    }
+,
+    {
+      "name": "Bryocrypta vesiculosa Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250263"
+    }
+,
+    {
+      "name": "Camptomyia Kieffer, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Camptomyia binotata Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250254"
+    }
+,
+    {
+      "name": "Camptomyia concolor Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250255"
+    }
+,
+    {
+      "name": "Camptomyia corticalis (Loew, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250256"
+    }
+,
+    {
+      "name": "Cecidomyia corticalis Loew, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936427"
+    }
+,
+    {
+      "name": "Camptomyia erythromma (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250257"
+    }
+,
+    {
+      "name": "Epidosis erythromma Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936430"
+    }
+,
+    {
+      "name": "Camptomyia nigricornis Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250258"
+    }
+,
+    {
+      "name": "Camptomyia pallida Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250259"
+    }
+,
+    {
+      "name": "Camptomyia piceae Panelius, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960660"
+    }
+,
+    {
+      "name": "Camptomyia pinicola Mamaev, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977826"
+    }
+,
+    {
+      "name": "Camptomyia populi (Dufour, 1841)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250260"
+    }
+,
+    {
+      "name": "Cecidomyia populi Dufour, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936431"
+    }
+,
+    {
+      "name": "Camptomyia recta Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250261"
+    }
+,
+    {
+      "name": "Clinorhytis Kieffer, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Clinorhytis flavitarsis (Kieffer, 1895)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250253"
+    }
+,
+    {
+      "name": "Clinorhyza flavitarsis Kieffer, 1895",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936439"
+    }
+,
+    {
+      "name": "Colomyia Kieffer, 1891",
+      "url": ""
+    }
+,
+    {
+      "name": "Colomyia appendiculata Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250251"
+    }
+,
+    {
+      "name": "Colomyia clavata Kieffer, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250252"
+    }
+,
+    {
+      "name": "Colpodia Winnertz, 1853",
+      "url": ""
+    }
+,
+    {
+      "name": "Colpodia angustipennis (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21428"
+    }
+,
+    {
+      "name": "Cecidomyia angustipennis Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936440"
+    }
+,
+    {
+      "name": "Colpodia anomala Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977830"
+    }
+,
+    {
+      "name": "Cryptoneurus Mamaev, 1964",
+      "url": ""
+    }
+,
+    {
+      "name": "Cryptoneurus musicola (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250249"
+    }
+,
+    {
+      "name": "Holoneurus musicola Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936574"
+    }
+,
+    {
+      "name": "Cryptoneurus tridentatus (Kieffer, 1896)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250250"
+    }
+,
+    {
+      "name": "Holoneurus tridentatus Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936575"
+    }
+,
+    {
+      "name": "Dicerura Kieffer, 1898",
+      "url": ""
+    }
+,
+    {
+      "name": "Dicerura scirpicola Kieffer, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250247"
+    }
+,
+    {
+      "name": "Frirenia Kieffer, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Frirenia tenella Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250246"
+    }
+,
+    {
+      "name": "Holoneurus Kieffer, 1895",
+      "url": ""
+    }
+,
+    {
+      "name": "Holoneurus ciliatus Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250242"
+    }
+,
+    {
+      "name": "Holoneurus cinctus Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250243"
+    }
+,
+    {
+      "name": "Holoneurus fulvus Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250244"
+    }
+,
+    {
+      "name": "Holoneurus setiger Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250245"
+    }
+,
+    {
+      "name": "Leptosyna Kieffer, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Leptosyna acutipennis Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250240"
+    }
+,
+    {
+      "name": "Leptosyna nervosa (Winnertz, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960744"
+    }
+,
+    {
+      "name": "Heteropeza nervosa Winnertz, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/960746"
+    }
+,
+    {
+      "name": "Leptosyna quercus Kieffer, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250241"
+    }
+,
+    {
+      "name": "Miastor Meinert, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Miastor metraloas Meinert, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21430"
+    }
+,
+    {
+      "name": "Parepidosis Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Parepidosis venustior Gagné, 2004",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250239"
+    }
+,
+    {
+      "name": "Epidosis venusta Winnertz sensu Keiffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/416621"
+    }
+,
+    {
+      "name": "Porricondyla Rondani, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Porricondyla albimana (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/977833"
+    }
+,
+    {
+      "name": "Porricondyla bicincta (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250231"
+    }
+,
+    {
+      "name": "Dicroneurus bicincta Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936819"
+    }
+,
+    {
+      "name": "Porricondyla citrina (Kieffer, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250232"
+    }
+,
+    {
+      "name": "Epidosis citrina Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936820"
+    }
+,
+    {
+      "name": "Porricondyla flavida (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250233"
+    }
+,
+    {
+      "name": "Synarthrella flavida Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936821"
+    }
+,
+    {
+      "name": "Porricondyla lineata (Kieffer, 1894)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250234"
+    }
+,
+    {
+      "name": "Epidosis lineata Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936822"
+    }
+,
+    {
+      "name": "Porricondyla lobata (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250235"
+    }
+,
+    {
+      "name": "Synaptella lobata Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936823"
+    }
+,
+    {
+      "name": "Porricondyla microcera (Kieffer, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250236"
+    }
+,
+    {
+      "name": "Epidosis microcera Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936824"
+    }
+,
+    {
+      "name": "Porricondyla nigripennis (Meigen, 1830)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21434"
+    }
+,
+    {
+      "name": "Cecidomyia nigripennis Meigen, 1830",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936825"
+    }
+,
+    {
+      "name": "Porricondyla ramadei Thomas, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250237"
+    }
+,
+    {
+      "name": "Porricondyla rufescens Panelius, 1965",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961294"
+    }
+,
+    {
+      "name": "Porricondyla sulfurea (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250238"
+    }
+,
+    {
+      "name": "Synaptella sulfurea Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936855"
+    }
+,
+    {
+      "name": "Porricondyla venusta (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/347762"
+    }
+,
+    {
+      "name": "Cecidomyia venusta Winnertz, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/936856"
+    }
+,
+    {
+      "name": "Parepidosis venusta (Winnertz, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/21432"
+    }
+,
+    {
+      "name": "Prosepidosis Kieffer, 1913",
+      "url": ""
+    }
+,
+    {
+      "name": "Prosepidosis pectinata Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250230"
+    }
+,
+    {
+      "name": "Winnertzia Rondani, 1861",
+      "url": ""
+    }
+,
+    {
+      "name": "Winnertzia anomala Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250216"
+    }
+,
+    {
+      "name": "Winnertzia carpinicola Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250217"
+    }
+,
+    {
+      "name": "Winnertzia citrina (Kieffer, 1888)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250218"
+    }
+,
+    {
+      "name": "Asynapta citrina Kieffer, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937404"
+    }
+,
+    {
+      "name": "Winnertzia corticis Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250219"
+    }
+,
+    {
+      "name": "Winnertzia fusca Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250220"
+    }
+,
+    {
+      "name": "Winnertzia levicollis Kieffer, 1900",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250221"
+    }
+,
+    {
+      "name": "Winnertzia nigripennis Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250222"
+    }
+,
+    {
+      "name": "Winnertzia obscura Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250223"
+    }
+,
+    {
+      "name": "Winnertzia pictipes Kieffer, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250224"
+    }
+,
+    {
+      "name": "Winnertzia proxima Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250225"
+    }
+,
+    {
+      "name": "Winnertzia quercicola Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250226"
+    }
+,
+    {
+      "name": "Winnertzia rubra Kieffer, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250227"
+    }
+,
+    {
+      "name": "Winnertzia striaticollis Kieffer, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250228"
+    }
+,
+    {
+      "name": "Winnertzia vexans (Kieffer, 1913)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250229"
+    }
+,
+    {
+      "name": "Winnertziola vexans Kieffer, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937405"
+    }
+
+  ]
+}

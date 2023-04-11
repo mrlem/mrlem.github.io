@@ -1,0 +1,37 @@
+
+{
+  "name": "loricariidae",
+  "children": [
+
+    {
+      "name": "Loricariidae Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "ancistrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/loricariidae/ancistrinae/"
+    }
+,
+    {
+      "name": "hypoptopomatinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/loricariidae/hypoptopomatinae/"
+    }
+,
+    {
+      "name": "hypostominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/loricariidae/hypostominae/"
+    }
+,
+    {
+      "name": "loricariinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/loricariidae/loricariinae/"
+    }
+,
+    {
+      "name": "otothyrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/chordata/actinopterygii/siluriformes/loricariidae/otothyrinae/"
+    }
+
+  ]
+}

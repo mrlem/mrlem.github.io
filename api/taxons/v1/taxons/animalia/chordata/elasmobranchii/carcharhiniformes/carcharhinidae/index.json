@@ -1,0 +1,1362 @@
+
+{
+  "name": "carcharhinidae",
+  "children": [
+
+    {
+      "name": "Carcharhinidae Jordan & Evermann, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Carcharhinus Blainville, 1816",
+      "url": ""
+    }
+,
+    {
+      "name": "Eulamia Gill, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Carcharhinus acronotus (Poey, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423535"
+    }
+,
+    {
+      "name": "Prionodon curcuri Castelnau, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565549"
+    }
+,
+    {
+      "name": "Squalus acronotus Poey, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554715"
+    }
+,
+    {
+      "name": "Carcharhinus albimarginatus (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423536"
+    }
+,
+    {
+      "name": "Carcharhinus platyrhynchus (Gilbert, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555575"
+    }
+,
+    {
+      "name": "Carcharias albimarginatus Rüppell, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555768"
+    }
+,
+    {
+      "name": "Carcharinus albimarginatus (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581842"
+    }
+,
+    {
+      "name": "Eulamia albimarginata (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562905"
+    }
+,
+    {
+      "name": "Eulamia platyrhynchus Gilbert, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562912"
+    }
+,
+    {
+      "name": "Carcharhinus altimus (Springer, 1950)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360497"
+    }
+,
+    {
+      "name": "Eulamia altima Springer, 1950",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964684"
+    }
+,
+    {
+      "name": "Carcharhinus amblyrhynchos (Bleeker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423537"
+    }
+,
+    {
+      "name": "Carcharhinus amblyrhinchos (Bleeker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581844"
+    }
+,
+    {
+      "name": "Carcharhinus amblyrhynchus (Bleeker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581846"
+    }
+,
+    {
+      "name": "Carcharhinus wheeleri Garrick, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551240"
+    }
+,
+    {
+      "name": "Carcharias amblyrhynchos Bleeker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555769"
+    }
+,
+    {
+      "name": "Carcharias nesiotes Snyder, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555867"
+    }
+,
+    {
+      "name": "Carcharinus amblyrhynchos (Bleeker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581845"
+    }
+,
+    {
+      "name": "Galeolamna coongoola Whitley, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563465"
+    }
+,
+    {
+      "name": "Galeolamna fowleri Whitley, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563468"
+    }
+,
+    {
+      "name": "Galeolamna tufiensis Whitley, 1949",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563473"
+    }
+,
+    {
+      "name": "Carcharhinus brachyurus (Günther, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/199805"
+    }
+,
+    {
+      "name": "Carcharhinus acarenatus Moreno & Hoyos, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555562"
+    }
+,
+    {
+      "name": "Carcharhinus ahenea (Stead, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555564"
+    }
+,
+    {
+      "name": "Carcharhinus improvisus Smith, 1952",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551237"
+    }
+,
+    {
+      "name": "Carcharhinus remotoides Deng, Xiong & Zhan, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555576"
+    }
+,
+    {
+      "name": "Carcharhinus remotus (Duméril, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555577"
+    }
+,
+    {
+      "name": "Carcharhinus rochensis Abella, 1972",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555578"
+    }
+,
+    {
+      "name": "Carcharias brachyurus Günther, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555774"
+    }
+,
+    {
+      "name": "Carcharias (Prionodon) remotus Duméril, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964394"
+    }
+,
+    {
+      "name": "Carcharias lamiella Jordan & Gilbert, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555800"
+    }
+,
+    {
+      "name": "Carcharias remotus Duméril, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555878"
+    }
+,
+    {
+      "name": "Eulamia ahenea Stead, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562904"
+    }
+,
+    {
+      "name": "Galeolamna ahenea (Stead, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563463"
+    }
+,
+    {
+      "name": "Galeolamna greyi Owen, 1853",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564050"
+    }
+,
+    {
+      "name": "Carcharhinus brevipinna (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66454"
+    }
+,
+    {
+      "name": "Aprion brevipinna (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561225"
+    }
+,
+    {
+      "name": "Aprionodon brevipinna (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564784"
+    }
+,
+    {
+      "name": "Aprionodon caparti Poll, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564785"
+    }
+,
+    {
+      "name": "Carcharhinus brevipina (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581847"
+    }
+,
+    {
+      "name": "Carcharhinus johnsoni Smith, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66458"
+    }
+,
+    {
+      "name": "Carcharhinus maculipinnis (Poey, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66456"
+    }
+,
+    {
+      "name": "Carcharias brevipinna Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555775"
+    }
+,
+    {
+      "name": "Carcharinus brevipinna (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581849"
+    }
+,
+    {
+      "name": "Carcharinus johnsoni Smith, 1951",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559339"
+    }
+,
+    {
+      "name": "Isogomphodon maculipinnis Poey, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562699"
+    }
+,
+    {
+      "name": "Longmania calamaria Whitley, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565160"
+    }
+,
+    {
+      "name": "Prionidon brevipinna (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581848"
+    }
+,
+    {
+      "name": "Squalus brevipinna (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554727"
+    }
+,
+    {
+      "name": "Uranga nasuta Whitley, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563568"
+    }
+,
+    {
+      "name": "Carcharhinus falciformis (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66459"
+    }
+,
+    {
+      "name": "Aprionodon sitankaiensis Herre, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564788"
+    }
+,
+    {
+      "name": "Carcharhinus atrodorsus Deng, Xiong & Zhan, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555565"
+    }
+,
+    {
+      "name": "Carcharhinus falciformes (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581850"
+    }
+,
+    {
+      "name": "Carcharhinus floridanus Bigelow, Schroeder & Springer, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66461"
+    }
+,
+    {
+      "name": "Carcharhinus floridianus Bigelow, Schroeder & Springer, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551202"
+    }
+,
+    {
+      "name": "Carcharhinus menisorrah (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577750"
+    }
+,
+    {
+      "name": "Carcharias falciformis Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555783"
+    }
+,
+    {
+      "name": "Carcharias falcipinnis Lowe, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555784"
+    }
+,
+    {
+      "name": "Carcharias menisorrah Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555862"
+    }
+,
+    {
+      "name": "Carcharins menisorrah Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581851"
+    }
+,
+    {
+      "name": "Carcharius menisorrah Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581852"
+    }
+,
+    {
+      "name": "Eulamia malpeloensis Fowler, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562907"
+    }
+,
+    {
+      "name": "Eulamia menisorrah (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562908"
+    }
+,
+    {
+      "name": "Gymnorhinus pharaonis Hemprich & Ehrenberg, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563781"
+    }
+,
+    {
+      "name": "Prionodon tiburo (Poey, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565552"
+    }
+,
+    {
+      "name": "Squalus tiburo Poey, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554884"
+    }
+,
+    {
+      "name": "Carcharhinus galapagensis (Snodgrass & Heller, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/360496"
+    }
+,
+    {
+      "name": "Carcharias galapagensis Snodgrass & Heller, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555788"
+    }
+,
+    {
+      "name": "Carcharinus galapagensis (Snodgrass & Heller, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581853"
+    }
+,
+    {
+      "name": "Carcharhinus leucas (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66465"
+    }
+,
+    {
+      "name": "Carcharhinus azureus (Gilbert & Starks, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555566"
+    }
+,
+    {
+      "name": "Carcharhinus nicaraguensis (Gill, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66467"
+    }
+,
+    {
+      "name": "Carcharhinus vanrooyeni Smith, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66469"
+    }
+,
+    {
+      "name": "Carcharhinus zambezensis (Peters, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66468"
+    }
+,
+    {
+      "name": "Carcharias azureus Gilbert & Starks, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555772"
+    }
+,
+    {
+      "name": "Carcharias leucas Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555802"
+    }
+,
+    {
+      "name": "Carcharias spenceri Ogilby, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555882"
+    }
+,
+    {
+      "name": "Carcharias zambezensis Peters, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555893"
+    }
+,
+    {
+      "name": "Eulamia nicaraguensis Gill, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562909"
+    }
+,
+    {
+      "name": "Galeolamna bogimba Whitley, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563464"
+    }
+,
+    {
+      "name": "Galeolamna greyi mckaili Whitley, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566383"
+    }
+,
+    {
+      "name": "Galeolamna leucas (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581854"
+    }
+,
+    {
+      "name": "Galeolamna mckaili Whitley, 1945",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563471"
+    }
+,
+    {
+      "name": "Prionodon platyodon Poey, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565551"
+    }
+,
+    {
+      "name": "Squalus obtusus Poey, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554817"
+    }
+,
+    {
+      "name": "Squalus platyodon (Poey, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554823"
+    }
+,
+    {
+      "name": "Carcharhinus limbatus (Valenciennes in Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66470"
+    }
+,
+    {
+      "name": "Carcharhinus natator Meek & Hildebrand, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555572"
+    }
+,
+    {
+      "name": "Carcharias abbreviatus Klunzinger, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555763"
+    }
+,
+    {
+      "name": "Carcharias aethalorus Jordan & Gilbert, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555766"
+    }
+,
+    {
+      "name": "Carcharias ehrenbergi Klunzinger, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555780"
+    }
+,
+    {
+      "name": "Carcharias limbatus Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555803"
+    }
+,
+    {
+      "name": "Carcharias maculipinna Günther, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555806"
+    }
+,
+    {
+      "name": "Carcharias microps Lowe, 1841",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555863"
+    }
+,
+    {
+      "name": "Carcharias muelleri Steindachner, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555865"
+    }
+,
+    {
+      "name": "Carcharias phorcys Jordan & Evermann, 1903",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555873"
+    }
+,
+    {
+      "name": "Carcharias pleurotaenia Bleeker, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581856"
+    }
+,
+    {
+      "name": "Carcharinus limbatus (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/581855"
+    }
+,
+    {
+      "name": "Eulamia pleurotaenia (Bleeker, 1852)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562913"
+    }
+,
+    {
+      "name": "Gymnorhinus abbreviatus (Klunzinger, 1871)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563780"
+    }
+,
+    {
+      "name": "Carcharhinus longimanus (Poey, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66472"
+    }
+,
+    {
+      "name": "Carcharhinus maou (Lesson, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66474"
+    }
+,
+    {
+      "name": "Carcharias insularum Snyder, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555794"
+    }
+,
+    {
+      "name": "Carcharias longimanus (Poey, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555804"
+    }
+,
+    {
+      "name": "Carcharias obtusus Garman, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555870"
+    }
+,
+    {
+      "name": "Carcharinus longimanus (Poey, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582456"
+    }
+,
+    {
+      "name": "Pterolamiops budkeri Fourmanoir, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551241"
+    }
+,
+    {
+      "name": "Pterolamiops longimanus (Poey, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562425"
+    }
+,
+    {
+      "name": "Pterolamiops magnipinnis Smith, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551242"
+    }
+,
+    {
+      "name": "Squalus longimanus Poey, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554806"
+    }
+,
+    {
+      "name": "Squalus maou Lesson, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554809"
+    }
+,
+    {
+      "name": "Carcharhinus melanopterus (Quoy & Gaimard, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66475"
+    }
+,
+    {
+      "name": "Carcharhinus melanoptures (Quoy & Gaimard, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582457"
+    }
+,
+    {
+      "name": "Carcharias commersoni (Blainville, 1816)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555777"
+    }
+,
+    {
+      "name": "Carcharias elegans Ehrenberg, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555781"
+    }
+,
+    {
+      "name": "Carcharias marianensis Engelhardt, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555859"
+    }
+,
+    {
+      "name": "Carcharias melanopterus Quoy & Gaimard, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555861"
+    }
+,
+    {
+      "name": "Carcharias playfairii Günther, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555875"
+    }
+,
+    {
+      "name": "Carcharinus melanoptera (Quoy & Gaimard, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582458"
+    }
+,
+    {
+      "name": "Carcharinus melanopterus (Quoy & Gaimard, 1824)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582459"
+    }
+,
+    {
+      "name": "Hypoprion playfairi (Günther, 1870)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565855"
+    }
+,
+    {
+      "name": "Squalus carcharias minor Forsskål, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/567699"
+    }
+,
+    {
+      "name": "Squalus commersonii Blainville, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554785"
+    }
+,
+    {
+      "name": "Squalus ustus Duméril, 1824",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554887"
+    }
+,
+    {
+      "name": "Carcharhinus obscurus (Lesueur, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66477"
+    }
+,
+    {
+      "name": "Carcharhinus iranzae Fourmanoir, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551203"
+    }
+,
+    {
+      "name": "Carcharhinus obscurella Deng, Xiong & Zhan, 1981",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555573"
+    }
+,
+    {
+      "name": "Carcharias macrurus Ramsay & Ogilby, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555805"
+    }
+,
+    {
+      "name": "Carcharinus iranzae Fourmanoir, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559338"
+    }
+,
+    {
+      "name": "Carcharinus obscurus (Lesueur, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582460"
+    }
+,
+    {
+      "name": "Eulamia obscura (Lesueur, 1818)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562910"
+    }
+,
+    {
+      "name": "Galeolamna eblis Whitley, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563467"
+    }
+,
+    {
+      "name": "Galeolamna macrurus (Ramsay & Ogilby, 1887)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563470"
+    }
+,
+    {
+      "name": "Prionodon obvelatus Valenciennes, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565550"
+    }
+,
+    {
+      "name": "Squalus obscurus Lesueur, 1818",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554816"
+    }
+,
+    {
+      "name": "Carcharhinus perezii (Poey, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/542500"
+    }
+,
+    {
+      "name": "Carcharhinus perezi (Poey, 1876)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423619"
+    }
+,
+    {
+      "name": "Carcharhinus springeri (Bigelow & Schroeder, 1944)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555579"
+    }
+,
+    {
+      "name": "Eulamia springeri Bigelow & Schroeder, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562915"
+    }
+,
+    {
+      "name": "Platypodon perezii Poey, 1876",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565237"
+    }
+,
+    {
+      "name": "Carcharhinus plumbeus (Nardo, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66479"
+    }
+,
+    {
+      "name": "Carcharhinus japonicus (Temminck & Schlegel, 1850)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555570"
+    }
+,
+    {
+      "name": "Carcharhinus milberti (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66481"
+    }
+,
+    {
+      "name": "Carcharhinus platyodon Jord. & Ererm.",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551204"
+    }
+,
+    {
+      "name": "Carcharias ceruleus DeKay, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555776"
+    }
+,
+    {
+      "name": "Carcharias japonicus Temminck & Schlegel, 1850",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555796"
+    }
+,
+    {
+      "name": "Carcharias latistomus (Fang & Wang, 1932)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555801"
+    }
+,
+    {
+      "name": "Carcharias milberti Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555864"
+    }
+,
+    {
+      "name": "Carcharias obtusirostris Moreau, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555869"
+    }
+,
+    {
+      "name": "Carcharias stevensi Ogilby, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555883"
+    }
+,
+    {
+      "name": "Carcharinus latistomus Fang & Wang, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559340"
+    }
+,
+    {
+      "name": "Carcharinus plumbeus (Nardo, 1827)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582461"
+    }
+,
+    {
+      "name": "Eulamia milberti (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66482"
+    }
+,
+    {
+      "name": "Galeolamna dorsalis Whitley, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563466"
+    }
+,
+    {
+      "name": "Galeolamna stevensi (Ogilby, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563472"
+    }
+,
+    {
+      "name": "Lamna caudata DeKay, 1842",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555751"
+    }
+,
+    {
+      "name": "Squalus caecchia Nardo, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554771"
+    }
+,
+    {
+      "name": "Squalus plumbeus Nardo, 1827",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554824"
+    }
+,
+    {
+      "name": "Carcharhinus porosus (Ranzani, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/461148"
+    }
+,
+    {
+      "name": "Carcharhinus cerdale Gilbert, 1898",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555568"
+    }
+,
+    {
+      "name": "Carcharhinus porosus (Ranzani, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418961"
+    }
+,
+    {
+      "name": "Carcharias henlei Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555792"
+    }
+,
+    {
+      "name": "Carcharias porosus Ranzani, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555876"
+    }
+,
+    {
+      "name": "Carcharhinus sorrah (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/423621"
+    }
+,
+    {
+      "name": "Carcharhinus bleekeri (Duméril, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555567"
+    }
+,
+    {
+      "name": "Carcharhinus spallanzani (Péron & Lesueur, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551238"
+    }
+,
+    {
+      "name": "Carcharias bleekeri Duméril, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555773"
+    }
+,
+    {
+      "name": "Carcharias sorrah Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555880"
+    }
+,
+    {
+      "name": "Carcharias spallanzani (Péron & Lesueur, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555881"
+    }
+,
+    {
+      "name": "Carcharias taeniatus Hemprich & Ehrenberg, 1899",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555884"
+    }
+,
+    {
+      "name": "Carcharinus sorrah (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582462"
+    }
+,
+    {
+      "name": "Carcharius spallanzani (Péron & Lesueur, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582463"
+    }
+,
+    {
+      "name": "Eulamia spallanzani (Péron & Lesueur, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562914"
+    }
+,
+    {
+      "name": "Galeolamna isobel Whitley, 1947",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563469"
+    }
+,
+    {
+      "name": "Squalus spallanzani Péron & Lesueur, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554838"
+    }
+,
+    {
+      "name": "Galeocerdo Müller & Henle, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Galeocerdo cuvier (Péron & Lesueur, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/361617"
+    }
+,
+    {
+      "name": "Carcharias fasciatus Bleeker, 1852",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555785"
+    }
+,
+    {
+      "name": "Carcharias hemprichii Klunzinger, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555791"
+    }
+,
+    {
+      "name": "Galeocerda cuvier (Péron & Lesueur, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582464"
+    }
+,
+    {
+      "name": "Galeocerdo arcticus (Faber, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555581"
+    }
+,
+    {
+      "name": "Galeocerdo cuvieri (Péron & Lesueur, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66488"
+    }
+,
+    {
+      "name": "Galeocerdo fasciatus van Kampen, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555582"
+    }
+,
+    {
+      "name": "Galeocerdo obtusus Klunzinger, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555583"
+    }
+,
+    {
+      "name": "Galeocerdo rayneri Macdonald & Barron, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555584"
+    }
+,
+    {
+      "name": "Galeocerdo tigrinus Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555585"
+    }
+,
+    {
+      "name": "Galeus cepedianus Agassiz, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555594"
+    }
+,
+    {
+      "name": "Galeus maculatus Ranzani, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555600"
+    }
+,
+    {
+      "name": "Squalus arcticus Faber, 1829",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554724"
+    }
+,
+    {
+      "name": "Squalus cuvier Péron & Lesueur, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554787"
+    }
+,
+    {
+      "name": "Isogomphodon Gill, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Isogomphodon oxyrhynchus (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418962"
+    }
+,
+    {
+      "name": "Carcharhinus oxyrhinchus (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582465"
+    }
+,
+    {
+      "name": "Carcharhinus oxyrhynchus (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555574"
+    }
+,
+    {
+      "name": "Carcharias oxyrhynchus Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555872"
+    }
+,
+    {
+      "name": "Loxodon Müller & Henle, 1838",
+      "url": ""
+    }
+,
+    {
+      "name": "Loxodon macrorhinus Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/533521"
+    }
+,
+    {
+      "name": "Carcharias dumerilii Bleeker, 1856",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555779"
+    }
+,
+    {
+      "name": "Scoliodon affinis Ogilby, 1912",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559799"
+    }
+,
+    {
+      "name": "Scoliodon ceylonensis Setna & Sarangdhar, 1946",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559800"
+    }
+,
+    {
+      "name": "Scoliodon dumerili (Bleeker, 1856)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551245"
+    }
+,
+    {
+      "name": "Scoliodon jordani Ogilby, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559802"
+    }
+,
+    {
+      "name": "Negaprion Whitley, 1940",
+      "url": ""
+    }
+,
+    {
+      "name": "Hemigaleops Schultz & Welander, 1953",
+      "url": ""
+    }
+,
+    {
+      "name": "Negaprion acutidens (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/424946"
+    }
+,
+    {
+      "name": "Apeionodon acutidens (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582466"
+    }
+,
+    {
+      "name": "Aprionodon acutidens queenslandicus Whitley, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/566349"
+    }
+,
+    {
+      "name": "Aprionodon acutidens (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/564783"
+    }
+,
+    {
+      "name": "Carcharias acutidens Rüppell, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555764"
+    }
+,
+    {
+      "name": "Carcharias forskalii Klunzinger, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555786"
+    }
+,
+    {
+      "name": "Carcharias munzingeri Kossmann & Räuber, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555866"
+    }
+,
+    {
+      "name": "Eulamia odontaspis Fowler, 1908",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/562911"
+    }
+,
+    {
+      "name": "Hemigaleops fosteri Schultz & Welander, 1953",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563962"
+    }
+,
+    {
+      "name": "Mystidens innominatus Whitley, 1944",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/563506"
+    }
+,
+    {
+      "name": "Negaprion odontaspis (Fowler, 1908)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555587"
+    }
+,
+    {
+      "name": "Negaprion queenslandicus Whitley, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555588"
+    }
+,
+    {
+      "name": "Odontaspis madagascariensis Fourmanoir, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551385"
+    }
+,
+    {
+      "name": "Negaprion brevirostris (Poey, 1868)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66491"
+    }
+,
+    {
+      "name": "Apriondon brevirostris Ben-Tuvia, 1963",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66493"
+    }
+,
+    {
+      "name": "Carcharias fronto Jordan & Gilbert, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555787"
+    }
+,
+    {
+      "name": "Hypoprion brevirostris Poey, 1868",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565852"
+    }
+,
+    {
+      "name": "Negaprion fronto (Jordan & Gilbert, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555586"
+    }
+,
+    {
+      "name": "Prionace Cantor, 1849",
+      "url": ""
+    }
+,
+    {
+      "name": "Prionace glauca (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66495"
+    }
+,
+    {
+      "name": "Carcharhinus macki (Phillipps, 1935)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555571"
+    }
+,
+    {
+      "name": "Carcharias aethiops Philippi, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555767"
+    }
+,
+    {
+      "name": "Carcharias glaucus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546248"
+    }
+,
+    {
+      "name": "Carcharias gracilis Philippi, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555789"
+    }
+,
+    {
+      "name": "Carcharias hirundinaceus Valenciennes, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555793"
+    }
+,
+    {
+      "name": "Carcharias pugae Perez Canto, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555877"
+    }
+,
+    {
+      "name": "Carcharinus glaucus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559337"
+    }
+,
+    {
+      "name": "Galeus thalassinus Valenciennes, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555603"
+    }
+,
+    {
+      "name": "Glyphis glaucus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/550801"
+    }
+,
+    {
+      "name": "Hypoprion (Hemigaleus?) isodus Philippi, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965010"
+    }
+,
+    {
+      "name": "Hypoprion isodus Philippi, 1887",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565853"
+    }
+,
+    {
+      "name": "Isurus glaucus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555747"
+    }
+,
+    {
+      "name": "Prionace mackiei Phillipps, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555589"
+    }
+,
+    {
+      "name": "Prionacea glauca (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582467"
+    }
+,
+    {
+      "name": "Squalus adscensionis Osbeck, 1765",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554717"
+    }
+,
+    {
+      "name": "Squalus caeruleus Blainville, 1816",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554772"
+    }
+,
+    {
+      "name": "Squalus glaucus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/546136"
+    }
+,
+    {
+      "name": "Squalus rondeletii Risso, 1810",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554834"
+    }
+,
+    {
+      "name": "Thalassinus rondeletii Moreau, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964990"
+    }
+,
+    {
+      "name": "Thalassinus rondeletti Moreau, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565628"
+    }
+,
+    {
+      "name": "Thalassinus rondelettii Moreau, 1881",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565629"
+    }
+,
+    {
+      "name": "Thalassorhinus vulpecula Valenciennes, 1838",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565631"
+    }
+,
+    {
+      "name": "Rhizoprionodon Whitley, 1929",
+      "url": ""
+    }
+,
+    {
+      "name": "Rhizoprionodon acutus (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/66498"
+    }
+,
+    {
+      "name": "Carcharias acutus Rüppell, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965035"
+    }
+,
+    {
+      "name": "Rhizoprionodon lalandii (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/461209"
+    }
+,
+    {
+      "name": "Carcharias lalandii Müller & Henle, 1839",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555798"
+    }
+,
+    {
+      "name": "Rhizoprionodon lalandei (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418963"
+    }
+,
+    {
+      "name": "Rhizoprionodon lalandi (Valenciennes, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582472"
+    }
+,
+    {
+      "name": "Scoliodon intermedius Garman, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559801"
+    }
+,
+    {
+      "name": "Scoliodon lalandei (Müller & Henle, 1839)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559803"
+    }
+,
+    {
+      "name": "Rhizoprionodon porosus (Poey, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/418964"
+    }
+,
+    {
+      "name": "Rhizopriodon porosus (Poey, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582473"
+    }
+,
+    {
+      "name": "Squalus porosus Poey, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/554825"
+    }
+,
+    {
+      "name": "Rhizoprionodon terraenovae (Richardson, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658338"
+    }
+,
+    {
+      "name": "Rhizoprionodon terraenova (Richardson, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687826"
+    }
+,
+    {
+      "name": "Scoliodon terraenovae (Richardson, 1836)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687825"
+    }
+,
+    {
+      "name": "Squalus terraenovae Richardson, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687824"
+    }
+,
+    {
+      "name": "Triaenodon Müller & Henle, 1837",
+      "url": ""
+    }
+,
+    {
+      "name": "Triaenodon obesus (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/425906"
+    }
+,
+    {
+      "name": "Carcharias obesus Rüppell, 1837",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/555868"
+    }
+,
+    {
+      "name": "Triaenodon apicalis Whitley, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/559155"
+    }
+,
+    {
+      "name": "Trianodon obesus (Rüppell, 1837)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/582474"
+    }
+
+  ]
+}

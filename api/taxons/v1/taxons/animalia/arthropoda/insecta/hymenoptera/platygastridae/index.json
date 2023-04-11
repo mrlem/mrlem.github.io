@@ -1,0 +1,32 @@
+
+{
+  "name": "platygastridae",
+  "children": [
+
+    {
+      "name": "Platygastridae Haliday, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "Platyscelio Kieffer, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Platyscelio africanus Risbec, 1956",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/898063"
+    }
+,
+    {
+      "name": "platygastrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/platygastridae/platygastrinae/"
+    }
+,
+    {
+      "name": "sceliotrachelinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/platygastridae/sceliotrachelinae/"
+    }
+
+  ]
+}

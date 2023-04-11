@@ -1,0 +1,22 @@
+
+{
+  "name": "coryneliales",
+  "children": [
+
+    {
+      "name": "Coryneliales Seaver & Chardón, 1926",
+      "url": ""
+    }
+,
+    {
+      "name": "coryneliaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/coryneliales/coryneliaceae/"
+    }
+,
+    {
+      "name": "eremascaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/fungi/ascomycota/eurotiomycetes/coryneliales/eremascaceae/"
+    }
+
+  ]
+}

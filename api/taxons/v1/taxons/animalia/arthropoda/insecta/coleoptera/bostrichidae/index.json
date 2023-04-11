@@ -1,0 +1,52 @@
+
+{
+  "name": "bostrichidae",
+  "children": [
+
+    {
+      "name": "Bostrichidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "Bostrychidae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "bostrichinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/bostrichinae/"
+    }
+,
+    {
+      "name": "dinoderinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/dinoderinae/"
+    }
+,
+    {
+      "name": "dysidinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/dysidinae/"
+    }
+,
+    {
+      "name": "endecatominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/endecatominae/"
+    }
+,
+    {
+      "name": "lyctinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/lyctinae/"
+    }
+,
+    {
+      "name": "polycaoninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/polycaoninae/"
+    }
+,
+    {
+      "name": "psoinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/bostrichidae/psoinae/"
+    }
+
+  ]
+}

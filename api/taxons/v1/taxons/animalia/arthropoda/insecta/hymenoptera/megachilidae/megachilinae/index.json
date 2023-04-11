@@ -1,0 +1,32 @@
+
+{
+  "name": "megachilinae",
+  "children": [
+
+    {
+      "name": "Megachilinae Latreille, 1802",
+      "url": ""
+    }
+,
+    {
+      "name": "anthidiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/megachilidae/megachilinae/anthidiini/"
+    }
+,
+    {
+      "name": "dioxyini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/megachilidae/megachilinae/dioxyini/"
+    }
+,
+    {
+      "name": "megachilini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/megachilidae/megachilinae/megachilini/"
+    }
+,
+    {
+      "name": "osmiini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/megachilidae/megachilinae/osmiini/"
+    }
+
+  ]
+}

@@ -1,0 +1,572 @@
+
+{
+  "name": "chalepini",
+  "children": [
+
+    {
+      "name": "Chalepini Weise, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthodes Baly, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Acanthodes bihamata (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752464"
+    }
+,
+    {
+      "name": "Hispa bihamata Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909981"
+    }
+,
+    {
+      "name": "Acanthodes nigripennis Baly, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752465"
+    }
+,
+    {
+      "name": "Anisostena Weise, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisostena confusa Staines, 1994",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752466"
+    }
+,
+    {
+      "name": "Anisostena gracilis (Horn, 1883)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/986583"
+    }
+,
+    {
+      "name": "Odontota gracilis Horn, 1883",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/986586"
+    }
+,
+    {
+      "name": "Baliosus Weise, 1905",
+      "url": ""
+    }
+,
+    {
+      "name": "Baliosus angulifer Uhmann, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752467"
+    }
+,
+    {
+      "name": "Baliosus incisus Pic, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752468"
+    }
+,
+    {
+      "name": "Baliosus lycoides (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752469"
+    }
+,
+    {
+      "name": "Odontota lycoides Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909982"
+    }
+,
+    {
+      "name": "Chalepispa Uhmann, 1955",
+      "url": ""
+    }
+,
+    {
+      "name": "Chalepispa ignorata Uhmann, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752470"
+    }
+,
+    {
+      "name": "Chalepus Thunberg, 1805",
+      "url": ""
+    }
+,
+    {
+      "name": "Chalepus basilaris (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752471"
+    }
+,
+    {
+      "name": "Odontota basilaris Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909983"
+    }
+,
+    {
+      "name": "Chalepus cincticollis Weise, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752472"
+    }
+,
+    {
+      "name": "Chalepus sanguinicollis (Linnaeus, 1771)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/812915"
+    }
+,
+    {
+      "name": "Chalepus testaceiceps Pic, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752473"
+    }
+,
+    {
+      "name": "Charistena Baly, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Charistena bergi (Duvivier, 1890)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752474"
+    }
+,
+    {
+      "name": "Anisostena bergi Duvivier, 1890",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909984"
+    }
+,
+    {
+      "name": "Charistena ruficollis (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752475"
+    }
+,
+    {
+      "name": "Hispa ruficollis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909985"
+    }
+,
+    {
+      "name": "Clinocarinispa Uhmann, 1935",
+      "url": ""
+    }
+,
+    {
+      "name": "Clinocarinispa debeauxi Uhmann, 1940",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752476"
+    }
+,
+    {
+      "name": "Clinocarinispa humeralis (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752478"
+    }
+,
+    {
+      "name": "Hispa humeralis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909986"
+    }
+,
+    {
+      "name": "Heptachispa Uhmann, 1935",
+      "url": ""
+    }
+,
+    {
+      "name": "Heptachispa concava (Baly, 1864)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752567"
+    }
+,
+    {
+      "name": "Uroplata concava Baly, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909987"
+    }
+,
+    {
+      "name": "Heptispa Weise, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "Heptispa bilineatithorax Pic, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752568"
+    }
+,
+    {
+      "name": "Heptispa limbata (Baly, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752569"
+    }
+,
+    {
+      "name": "Uroplata limbata Baly, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909988"
+    }
+,
+    {
+      "name": "Metazycera Chevrolat, 1836",
+      "url": ""
+    }
+,
+    {
+      "name": "Metazycera basithorax Pic, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752570"
+    }
+,
+    {
+      "name": "Metazycera donckieri Pic, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752571"
+    }
+,
+    {
+      "name": "Metazycera purpurata Guérin, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752572"
+    }
+,
+    {
+      "name": "Metazycera sinuatevittata Pic, 1932",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752573"
+    }
+,
+    {
+      "name": "Metazycera trimaculata (Olivier, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752574"
+    }
+,
+    {
+      "name": "Hispa trimaculata Olivier, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909989"
+    }
+,
+    {
+      "name": "Octhispa Chapuis, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "Octhispa castanea (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752575"
+    }
+,
+    {
+      "name": "Uroplata castanea Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909990"
+    }
+,
+    {
+      "name": "Octhispa exilis Weise, 1921",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752576"
+    }
+,
+    {
+      "name": "Octhispa kraatzi (Weise, 1905)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752577"
+    }
+,
+    {
+      "name": "Uroplata kraatzi Weise, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909991"
+    }
+,
+    {
+      "name": "Octhispa madoni Pic, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752578"
+    }
+,
+    {
+      "name": "Octuroplata Uhmann, 1940",
+      "url": ""
+    }
+,
+    {
+      "name": "Octuroplata bonvouloiri (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752579"
+    }
+,
+    {
+      "name": "Uroplata bonvouloiri Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909992"
+    }
+,
+    {
+      "name": "Octuroplata sinuosa (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752580"
+    }
+,
+    {
+      "name": "Uroplata sinuosa Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909993"
+    }
+,
+    {
+      "name": "Oxychalepus Uhmann, 1937",
+      "url": ""
+    }
+,
+    {
+      "name": "Oxychalepus externus (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752582"
+    }
+,
+    {
+      "name": "Odontota externa Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909994"
+    }
+,
+    {
+      "name": "Oxychalepus trispinosus (Pic, 1931)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752583"
+    }
+,
+    {
+      "name": "Chalepus (Xenochalepus) trispinosis Pic, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/925281"
+    }
+,
+    {
+      "name": "Physocoryna Guérin-Méneville, 1844",
+      "url": ""
+    }
+,
+    {
+      "name": "Physocoryna expansa Pic, 1925",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752584"
+    }
+,
+    {
+      "name": "Stethispa Baly, 1864",
+      "url": ""
+    }
+,
+    {
+      "name": "Stethispa conicicollis Baly, 1864",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752585"
+    }
+,
+    {
+      "name": "Stethispa elongata Pic, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752586"
+    }
+,
+    {
+      "name": "Stethispa impressicollis Pic, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752587"
+    }
+,
+    {
+      "name": "Stethispa lineata Uhmann, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752588"
+    }
+,
+    {
+      "name": "Stethispa longispina Pic, 1927",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752589"
+    }
+,
+    {
+      "name": "Sumitrosis Butte, 1969",
+      "url": ""
+    }
+,
+    {
+      "name": "Sumitrosis binotaticollis (Pic, 1929)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752590"
+    }
+,
+    {
+      "name": "Anoplitis binotaticollis Pic, 1929",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909995"
+    }
+,
+    {
+      "name": "Temnocthispa Uhmann, 1940",
+      "url": ""
+    }
+,
+    {
+      "name": "Temnocthispa truncata (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752591"
+    }
+,
+    {
+      "name": "Hispa truncata Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909996"
+    }
+,
+    {
+      "name": "Uroplata Chevrolat, 1836",
+      "url": ""
+    }
+,
+    {
+      "name": "Uroplata angulata (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752592"
+    }
+,
+    {
+      "name": "Hispa angulata Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909997"
+    }
+,
+    {
+      "name": "Uroplata chalepoides Weise, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752593"
+    }
+,
+    {
+      "name": "Uroplata compressicornis (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752594"
+    }
+,
+    {
+      "name": "Hispa compressicornis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909998"
+    }
+,
+    {
+      "name": "Uroplata emilii Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752595"
+    }
+,
+    {
+      "name": "Uroplata fasciata Pic, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752674"
+    }
+,
+    {
+      "name": "Uroplata girardi Pic, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589765"
+    }
+,
+    {
+      "name": "Uroplata mucronata (Olivier, 1808)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752675"
+    }
+,
+    {
+      "name": "Hispa mucronata Olivier, 1808",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/909999"
+    }
+,
+    {
+      "name": "Uroplata severinii Weise, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752676"
+    }
+,
+    {
+      "name": "Uroplata trivittata Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752677"
+    }
+,
+    {
+      "name": "Xenochalepus Weise, 1910",
+      "url": ""
+    }
+,
+    {
+      "name": "Xenochalepus ampliatus (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752678"
+    }
+,
+    {
+      "name": "Odontota ampliatus Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910000"
+    }
+,
+    {
+      "name": "Xenochalepus atriceps (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752679"
+    }
+,
+    {
+      "name": "Odontota atriceps Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910001"
+    }
+,
+    {
+      "name": "Xenochalepus bicostatus (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752680"
+    }
+,
+    {
+      "name": "Odontota bicostata Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910002"
+    }
+,
+    {
+      "name": "Xenochalepus bilineatus (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752681"
+    }
+,
+    {
+      "name": "Odontota bilineata Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910003"
+    }
+,
+    {
+      "name": "Xenochalepus cayennensis Pic, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752682"
+    }
+,
+    {
+      "name": "Xenochalepus curticornis Pic, 1931",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752684"
+    }
+,
+    {
+      "name": "Xenochalepus dentatus (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752685"
+    }
+,
+    {
+      "name": "Hispa dentatus Fabricius, 1787",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910004"
+    }
+,
+    {
+      "name": "Xenochalepus erythroderus (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752686"
+    }
+,
+    {
+      "name": "Odontota erythrodera Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910005"
+    }
+,
+    {
+      "name": "Xenochalepus guyanensis Spaeth, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752687"
+    }
+,
+    {
+      "name": "Xenochalepus humerosus Uhmann, 1955",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752688"
+    }
+,
+    {
+      "name": "Xenochalepus mucunae Maulik, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752689"
+    }
+,
+    {
+      "name": "Xenochalepus notaticollis (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752690"
+    }
+,
+    {
+      "name": "Odontota notaticollis Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910006"
+    }
+,
+    {
+      "name": "Xenochalepus transversalis (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752691"
+    }
+,
+    {
+      "name": "Odontota transversalis Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910007"
+    }
+,
+    {
+      "name": "Xenochalepus velutinus (Chapuis, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/752692"
+    }
+,
+    {
+      "name": "Odontota velutina Chapuis, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/910008"
+    }
+
+  ]
+}

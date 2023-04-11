@@ -1,0 +1,22 @@
+
+{
+  "name": "hyperinae",
+  "children": [
+
+    {
+      "name": "Hyperinae Marseul, 1863",
+      "url": ""
+    }
+,
+    {
+      "name": "cepurini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/hyperinae/cepurini/"
+    }
+,
+    {
+      "name": "hyperini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/curculionidae/hyperinae/hyperini/"
+    }
+
+  ]
+}

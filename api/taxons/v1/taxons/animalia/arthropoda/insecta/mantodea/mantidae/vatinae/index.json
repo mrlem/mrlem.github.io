@@ -1,0 +1,32 @@
+
+{
+  "name": "vatinae",
+  "children": [
+
+    {
+      "name": "Vatinae Stål, 1877",
+      "url": ""
+    }
+,
+    {
+      "name": "oxyopsidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/mantidae/vatinae/oxyopsidini/"
+    }
+,
+    {
+      "name": "pseudoxyopsidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/mantidae/vatinae/pseudoxyopsidini/"
+    }
+,
+    {
+      "name": "stagmatopterini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/mantidae/vatinae/stagmatopterini/"
+    }
+,
+    {
+      "name": "vatini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/mantidae/vatinae/vatini/"
+    }
+
+  ]
+}

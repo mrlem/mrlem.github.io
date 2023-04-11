@@ -1,0 +1,52 @@
+
+{
+  "name": "eupelmidae",
+  "children": [
+
+    {
+      "name": "Eupelmidae Walker, 1833",
+      "url": ""
+    }
+,
+    {
+      "name": "calosotinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eupelmidae/calosotinae/"
+    }
+,
+    {
+      "name": "eupelminae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hymenoptera/eupelmidae/eupelminae/"
+    }
+,
+    {
+      "name": "Macreupelmus Ashmead, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Macreupelmus brasiliensis Ashmead, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935596"
+    }
+,
+    {
+      "name": "Macreupelmus erwini Gibson, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935598"
+    }
+,
+    {
+      "name": "Macreupelmus nigrispina Gibson, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935599"
+    }
+,
+    {
+      "name": "Ooderella Ashmead, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Ooderella smithii Ashmead, 1896",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/935606"
+    }
+
+  ]
+}

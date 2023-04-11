@@ -1,0 +1,387 @@
+
+{
+  "name": "pentatomidae",
+  "children": [
+
+    {
+      "name": "Pentatomidae Leach, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "asopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/asopinae/"
+    }
+,
+    {
+      "name": "discocephalinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/discocephalinae/"
+    }
+,
+    {
+      "name": "edessinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/edessinae/"
+    }
+,
+    {
+      "name": "Antestiella Linnavuori, 1975",
+      "url": ""
+    }
+,
+    {
+      "name": "Antestiella mauritii (Stål, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999196"
+    }
+,
+    {
+      "name": "Antestia mauritii (Stål, 1860)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/906157"
+    }
+,
+    {
+      "name": "Pentatoma mauritii Stål, 1860",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/999195"
+    }
+,
+    {
+      "name": "Avicenna Distant, 1901",
+      "url": ""
+    }
+,
+    {
+      "name": "Avicenna aggressor (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797612"
+    }
+,
+    {
+      "name": "Cimex aggressor Fabricius, 1775",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1008346"
+    }
+,
+    {
+      "name": "Cuspicona leucospila Walker, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797609"
+    }
+,
+    {
+      "name": "Morna leucospila (Walker, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797610"
+    }
+,
+    {
+      "name": "Avicenna auricornis (Walker, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797616"
+    }
+,
+    {
+      "name": "Cuspicona auricornis Walker, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797614"
+    }
+,
+    {
+      "name": "Vitellus auricornis (Walker, 1867)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797615"
+    }
+,
+    {
+      "name": "Cuspicona Dallas, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "Cuspicona privata Walker, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965735"
+    }
+,
+    {
+      "name": "Cuspicona viridis (Montrouzier, 1855)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797605"
+    }
+,
+    {
+      "name": "Cuspicona zeloma Kirkaldy, 1909",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797606"
+    }
+,
+    {
+      "name": "Pentatoma viride Montrouzier, 1855",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965733"
+    }
+,
+    {
+      "name": "Cyrtocoris White, 1842",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyrtocoris egeris Packaustas & Schaefer, 1998",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1013983"
+    }
+,
+    {
+      "name": "Doesburgedessa Fernandes, 2010",
+      "url": ""
+    }
+,
+    {
+      "name": "Doesburgedessa linnei Fernandes, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/852452"
+    }
+,
+    {
+      "name": "Ealda Walker, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Ealda minax Walker, 1867",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797630"
+    }
+,
+    {
+      "name": "Elanela Rolston, 1980",
+      "url": ""
+    }
+,
+    {
+      "name": "Elanela hevera Rolston, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965153"
+    }
+,
+    {
+      "name": "Elanela jordi Grazia & Greve, 2011",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/964783"
+    }
+,
+    {
+      "name": "Elanela nigrofemorata Grazia, Barros & Barão, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965154"
+    }
+,
+    {
+      "name": "Eurinome Stål, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Eurinome basiventris (Montrouzier & Signoret, 1861)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797597"
+    }
+,
+    {
+      "name": "Eurinome inconspicua (Montrouzier, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797596"
+    }
+,
+    {
+      "name": "Pentatoma basiventris Montrouzier & Signoret, 1861",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797599"
+    }
+,
+    {
+      "name": "Pentatoma inconspicua Montrouzier, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797598"
+    }
+,
+    {
+      "name": "Hypoxys Amyot & Audinet-Serville, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Hypoxys amyoti Mendonca, Nunes & Fernandes, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002822"
+    }
+,
+    {
+      "name": "Hypoxys bergrothi Mendonca, Nunes & Fernandes, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002823"
+    }
+,
+    {
+      "name": "Hypoxys crassimarginatum Nunes, Da Silva Mendonça & Fernandes, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1012187"
+    }
+,
+    {
+      "name": "Hypoxys nigroantennatus Mendonca, Nunes & Fernandes, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002824"
+    }
+,
+    {
+      "name": "Hypoxys oxyacanthus (Breddin, 1904)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961245"
+    }
+,
+    {
+      "name": "Edessa oxyacantha Breddin, 1904",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755811"
+    }
+,
+    {
+      "name": "Hypoxys quadridens (Fabricius, 1803)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961240"
+    }
+,
+    {
+      "name": "Edessa quadridens Fabricius, 1803",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961241"
+    }
+,
+    {
+      "name": "Hypoxys stysi Mendonca, Nunes & Fernandes, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002825"
+    }
+,
+    {
+      "name": "Hypoxys trabeculus (Breddin, 1907)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961242"
+    }
+,
+    {
+      "name": "Edessa trabecula Breddin, 1907",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/755819"
+    }
+,
+    {
+      "name": "Hypoxys triangularis (Dallas, 1851)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961243"
+    }
+,
+    {
+      "name": "Edessa triangularis Dallas, 1851",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/961244"
+    }
+,
+    {
+      "name": "Oechalia ",
+      "url": ""
+    }
+,
+    {
+      "name": "Oechalia schellenbergii (Guérin-Méneville, 1831)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776408"
+    }
+,
+    {
+      "name": "Oechalia consocialis (Boisduval, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965740"
+    }
+,
+    {
+      "name": "Pentatoma consociale Boisduval, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965739"
+    }
+,
+    {
+      "name": "Pentatoma schellenbergii Guérin-Méneville, 1831",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965738"
+    }
+,
+    {
+      "name": "Pegala Stål, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Pegala flavescens Distant, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797627"
+    }
+,
+    {
+      "name": "Pegala laevis Bergroth, 1894",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797624"
+    }
+,
+    {
+      "name": "Pegala figulina Distant, 1910",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797625"
+    }
+,
+    {
+      "name": "Pegala virens Distant, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797626"
+    }
+,
+    {
+      "name": "Polycarmes Stål, 1867",
+      "url": ""
+    }
+,
+    {
+      "name": "Polycarmes armigerum (Montrouzier, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963730"
+    }
+,
+    {
+      "name": "Acanthidium armigerum Montrouzier, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/963731"
+    }
+,
+    {
+      "name": "Polycarmes punctatissimus (Montrouzier, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797588"
+    }
+,
+    {
+      "name": "Acanthidium punctatissimum Montrouzier, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962550"
+    }
+,
+    {
+      "name": "Spudoeus punctatissimus (Montrouzier, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965719"
+    }
+,
+    {
+      "name": "Pseudevoplitus Ruckes, 1958",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudevoplitus angelomachadoi Grazia, Bolze & Barão, 2016",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/965136"
+    }
+,
+    {
+      "name": "Seansonius Rider, 1998",
+      "url": ""
+    }
+,
+    {
+      "name": "Seansonius flavifrons (Distant, 1914)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797603"
+    }
+,
+    {
+      "name": "Stenozygum flavifrons Distant, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/797601"
+    }
+,
+    {
+      "name": "Tahitocoris Yang, 1935",
+      "url": ""
+    }
+,
+    {
+      "name": "Tahitocoris cheesmanae Yang, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/776411"
+    }
+,
+    {
+      "name": "pentatominae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/pentatominae/"
+    }
+,
+    {
+      "name": "phyllocephalinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/phyllocephalinae/"
+    }
+,
+    {
+      "name": "podopinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/hemiptera/pentatomidae/podopinae/"
+    }
+
+  ]
+}

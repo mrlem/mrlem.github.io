@@ -1,0 +1,87 @@
+
+{
+  "name": "oomycota",
+  "children": [
+
+    {
+      "name": "Oomycota Arx, 1967",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudofungi ",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisolpidiales M.W.Dick, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisolpidiaceae Karling ex M.W.Dick, 2001",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisolpidium Karling, 1943",
+      "url": ""
+    }
+,
+    {
+      "name": "Anisolpidium minutum (H.E.Petersen) M.W.Dick, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017474"
+    }
+,
+    {
+      "name": "Pleotrachelus minutus H.E.Petersen, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017473"
+    }
+,
+    {
+      "name": "Anisolpidium olpidium (H.E.Petersen) M.W.Dick, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017463"
+    }
+,
+    {
+      "name": "Pleotrachelus olpidium H.E.Petersen, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1017461"
+    }
+,
+    {
+      "name": "Anisolpidium rosenvingei (H.E.Petersen) Karling, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/947843"
+    }
+,
+    {
+      "name": "Pleotrachelus rosenvingii H.E.Petersen, 1905",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/947845"
+    }
+,
+    {
+      "name": "Anisolpidium sphacelarum (Kny) Karling, 1943",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976366"
+    }
+,
+    {
+      "name": "Chytridium sphacelarum Kny, 1871",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/976367"
+    }
+,
+    {
+      "name": "bigyromonadea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/oomycota/bigyromonadea/"
+    }
+,
+    {
+      "name": "hyphochytrea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/oomycota/hyphochytrea/"
+    }
+,
+    {
+      "name": "peronosporea",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/chromista/oomycota/peronosporea/"
+    }
+
+  ]
+}

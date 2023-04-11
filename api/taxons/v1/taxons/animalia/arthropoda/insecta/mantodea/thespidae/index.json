@@ -1,0 +1,32 @@
+
+{
+  "name": "thespidae",
+  "children": [
+
+    {
+      "name": "Thespidae Saussure, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "bantiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/thespidae/bantiinae/"
+    }
+,
+    {
+      "name": "musoniellinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/thespidae/musoniellinae/"
+    }
+,
+    {
+      "name": "pseudomiopteryginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/thespidae/pseudomiopteryginae/"
+    }
+,
+    {
+      "name": "thespinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/mantodea/thespidae/thespinae/"
+    }
+
+  ]
+}

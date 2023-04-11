@@ -1,0 +1,47 @@
+
+{
+  "name": "scorpiones",
+  "children": [
+
+    {
+      "name": "Scorpiones C.L. Koch, 1851",
+      "url": ""
+    }
+,
+    {
+      "name": "bothriuridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/scorpiones/bothriuridae/"
+    }
+,
+    {
+      "name": "buthidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/scorpiones/buthidae/"
+    }
+,
+    {
+      "name": "chactidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/scorpiones/chactidae/"
+    }
+,
+    {
+      "name": "diplocentridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/scorpiones/diplocentridae/"
+    }
+,
+    {
+      "name": "euscorpiidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/scorpiones/euscorpiidae/"
+    }
+,
+    {
+      "name": "liochelidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/scorpiones/liochelidae/"
+    }
+,
+    {
+      "name": "troglotayosicidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/arachnida/scorpiones/troglotayosicidae/"
+    }
+
+  ]
+}

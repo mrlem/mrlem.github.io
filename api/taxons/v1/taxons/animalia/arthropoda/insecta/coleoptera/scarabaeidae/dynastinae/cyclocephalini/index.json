@@ -1,0 +1,912 @@
+
+{
+  "name": "cyclocephalini",
+  "children": [
+
+    {
+      "name": "Cyclocephalini Laporte de Castelnau, 1840",
+      "url": ""
+    }
+,
+    {
+      "name": "Arriguttia Martinez, 1960",
+      "url": ""
+    }
+,
+    {
+      "name": "Arriguttia brevissima (Arrow, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603748"
+    }
+,
+    {
+      "name": "Cyclocephala brevissima Arrow, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921168"
+    }
+,
+    {
+      "name": "Aspidolea Bates, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Aspidolea bleuzeni Dechambre, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603750"
+    }
+,
+    {
+      "name": "Aspidolea clypeata (Burmeister, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603751"
+    }
+,
+    {
+      "name": "Aspidolea clypeata brasiliana Endrödi, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921171"
+    }
+,
+    {
+      "name": "Cyclocephala clypeata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921170"
+    }
+,
+    {
+      "name": "Aspidolea gaudairethorei Endrödi, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603752"
+    }
+,
+    {
+      "name": "Aspidolea helleri (Höhne, 1922)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922580"
+    }
+,
+    {
+      "name": "Paraspidolea helleri Höhne, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933656"
+    }
+,
+    {
+      "name": "Aspidolea quadrata Endrödi, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603762"
+    }
+,
+    {
+      "name": "Augoderia Burmeister, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Augoderia giuglarisi Ponchel, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603783"
+    }
+,
+    {
+      "name": "Chalepides Casey, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Parachalepus Casey, 1915",
+      "url": ""
+    }
+,
+    {
+      "name": "Chalepides barbatus (Fabricius, 1781)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591048"
+    }
+,
+    {
+      "name": "Parachalepus barbatus (Fabricius, 1787)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639844"
+    }
+,
+    {
+      "name": "Scarabeus barbatus Fabricius, 1781",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933657"
+    }
+,
+    {
+      "name": "Chalepides comes Prell, 1936",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603784"
+    }
+,
+    {
+      "name": "Cyclocephala Dejean, 1821",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyclocephala amazona (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603785"
+    }
+,
+    {
+      "name": "Cyclocephala auriculata Casey, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921179"
+    }
+,
+    {
+      "name": "Cyclocephala beaumonti Casey, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921178"
+    }
+,
+    {
+      "name": "Cyclocephala detecta Bates, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921177"
+    }
+,
+    {
+      "name": "Cyclocephala inconstans Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921176"
+    }
+,
+    {
+      "name": "Melolontha pallens Fabricius, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921175"
+    }
+,
+    {
+      "name": "Melolontha uncinata Illiger, 1802",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921174"
+    }
+,
+    {
+      "name": "Scarabaeus amazonus Linnaeus, 1767",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921172"
+    }
+,
+    {
+      "name": "Scarabaeus nigrocephalus Degeer, 1774",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921173"
+    }
+,
+    {
+      "name": "Cyclocephala amazona amazona (Linnaeus, 1767)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922586"
+    }
+,
+    {
+      "name": "Cyclocephala annamariae Dutrillaux, Chalumeau, Dutrillaux, Giannoulis & Mamuris, 2013",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713125"
+    }
+,
+    {
+      "name": "Cyclocephala arnaudi Dechambre, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603786"
+    }
+,
+    {
+      "name": "Cyclocephala carlsoni Ratcliffe, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713039"
+    }
+,
+    {
+      "name": "Cyclocephala bicolor Laporte de Castelnau, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440113"
+    }
+,
+    {
+      "name": "Cyclocephala boucheri Dechambre, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603803"
+    }
+,
+    {
+      "name": "Cyclocephala boulardi Dechambre, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603804"
+    }
+,
+    {
+      "name": "Cyclocephala brittoni Endrödi, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603802"
+    }
+,
+    {
+      "name": "Cyclocephala cartwighti Endrödi, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603822"
+    }
+,
+    {
+      "name": "Cyclocephala castanea (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603842"
+    }
+,
+    {
+      "name": "Cyclocephala latipes Laporte de Castelnau, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921180"
+    }
+,
+    {
+      "name": "Melolontha castanea Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921182"
+    }
+,
+    {
+      "name": "Melolontha valida Schönherr, 1817",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921181"
+    }
+,
+    {
+      "name": "Cyclocephala colasi Endrödi, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603843"
+    }
+,
+    {
+      "name": "Cyclocephala collaris Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440108"
+    }
+,
+    {
+      "name": "Cyclocephala confusa Endrödi, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922593"
+    }
+,
+    {
+      "name": "Cyclocephala dalensi Ponchel, 2009",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603862"
+    }
+,
+    {
+      "name": "Cyclocephala dichroa Dechambre, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603863"
+    }
+,
+    {
+      "name": "Cyclocephala dilatata (Prell, 1934)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603882"
+    }
+,
+    {
+      "name": "Mononidia dilatata Prell, 1934",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921184"
+    }
+,
+    {
+      "name": "Cyclocephala diluta Erichson, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603883"
+    }
+,
+    {
+      "name": "Cyclocephala discicollis Arrow, 1902",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922597"
+    }
+,
+    {
+      "name": "Cyclocephala discolor (Herbst, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922601"
+    }
+,
+    {
+      "name": "Melolontha discolor Herbst, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/933658"
+    }
+,
+    {
+      "name": "Cyclocephala dispar (Herbst, 1790)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937199"
+    }
+,
+    {
+      "name": "Cyclocephala dorsalis Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937201"
+    }
+,
+    {
+      "name": "Cyclocephala stolata Erichson, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937202"
+    }
+,
+    {
+      "name": "Melolontha dispar Herbst, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937200"
+    }
+,
+    {
+      "name": "Cyclocephala durantonorum Dechambre, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603884"
+    }
+,
+    {
+      "name": "Cyclocephala emarginata Endrödi, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603902"
+    }
+,
+    {
+      "name": "Cyclocephala epistomalis Bates, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922602"
+    }
+,
+    {
+      "name": "Cyclocephala ergastuli Dechambre, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603903"
+    }
+,
+    {
+      "name": "Cyclocephala figurata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603904"
+    }
+,
+    {
+      "name": "Cyclocephala freyi Endrödi, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/647378"
+    }
+,
+    {
+      "name": "Cyclocephala freyi integra Dechambre, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603922"
+    }
+,
+    {
+      "name": "Cyclocephala fulgurata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603923"
+    }
+,
+    {
+      "name": "Cyclocephala gabaldoni A. Martínez & A. Martínez, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603924"
+    }
+,
+    {
+      "name": "Cyclocephala gravis Bates, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922613"
+    }
+,
+    {
+      "name": "Cyclocephala meinanderi Endrödi, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603931"
+    }
+,
+    {
+      "name": "Cyclocephala guianae Endrödi, 1969",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603925"
+    }
+,
+    {
+      "name": "Cyclocephala immaculata (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/593554"
+    }
+,
+    {
+      "name": "Cyclocephala danforthi Chapin, 1935",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921185"
+    }
+,
+    {
+      "name": "Melolontha immaculata Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921186"
+    }
+,
+    {
+      "name": "Cyclocephala immaculata ferruginea (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603926"
+    }
+,
+    {
+      "name": "Melolontha ferruginea Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921187"
+    }
+,
+    {
+      "name": "Melolontha nigriceps Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921188"
+    }
+,
+    {
+      "name": "Cyclocephala insulicola Arrow, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639801"
+    }
+,
+    {
+      "name": "Cyclocephala kahanoffae Martinez, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833104"
+    }
+,
+    {
+      "name": "Cyclocephala tarsalis Dechambre, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603964"
+    }
+,
+    {
+      "name": "Cyclocephala kuntzeniana Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603927"
+    }
+,
+    {
+      "name": "Cyclocephala laminata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603928"
+    }
+,
+    {
+      "name": "Cyclocephala liomorpha Arrow, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1002046"
+    }
+,
+    {
+      "name": "Cyclocephala virgo Dechambre, 1999",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604042"
+    }
+,
+    {
+      "name": "Cyclocephala literata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922620"
+    }
+,
+    {
+      "name": "Cyclocephala lunulata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603929"
+    }
+,
+    {
+      "name": "Cyclocephala maculata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921205"
+    }
+,
+    {
+      "name": "Cyclocephala hielkemaorum Ratcliffe, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/713040"
+    }
+,
+    {
+      "name": "Mimeoma maculata (Burmeister, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604085"
+    }
+,
+    {
+      "name": "Cyclocephala mafaffa Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440109"
+    }
+,
+    {
+      "name": "Cyclocephala mafaffa grandis Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/848631"
+    }
+,
+    {
+      "name": "Cyclocephala marginalis Kirsch, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603930"
+    }
+,
+    {
+      "name": "Cyclocephala melanocephala (Fabricius, 1775)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591695"
+    }
+,
+    {
+      "name": "Cyclocephala melanocephala rubiginosa Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440110"
+    }
+,
+    {
+      "name": "Cyclocephala minuta Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603932"
+    }
+,
+    {
+      "name": "Cyclocephala munda Kirsch, 1870",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603933"
+    }
+,
+    {
+      "name": "Cyclocephala ocellata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440111"
+    }
+,
+    {
+      "name": "Cyclocephala octopunctata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922626"
+    }
+,
+    {
+      "name": "Cyclocephala ohausiana Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603934"
+    }
+,
+    {
+      "name": "Cyclocephala paraflora Martínez, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922630"
+    }
+,
+    {
+      "name": "Cyclocephala perforata Arrow, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603935"
+    }
+,
+    {
+      "name": "Cyclocephala picipes (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603942"
+    }
+,
+    {
+      "name": "Melolontha picipes Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921189"
+    }
+,
+    {
+      "name": "Cyclocephala poncheli Dechambre & Duranton, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603944"
+    }
+,
+    {
+      "name": "Cyclocephala pugnax Arrow, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603945"
+    }
+,
+    {
+      "name": "Cyclocephala putrida Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922633"
+    }
+,
+    {
+      "name": "Cyclocephala quercina Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603946"
+    }
+,
+    {
+      "name": "Cyclocephala obesa Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/791499"
+    }
+,
+    {
+      "name": "Cyclocephala rondoniana Ratcliffe, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603947"
+    }
+,
+    {
+      "name": "Cyclocephala rufovaria Arrow, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603948"
+    }
+,
+    {
+      "name": "Cyclocephala rustica (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603949"
+    }
+,
+    {
+      "name": "Cyclocephala rustica municipalis Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921191"
+    }
+,
+    {
+      "name": "Cyclocephala rustica Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440154"
+    }
+,
+    {
+      "name": "Melolontha rustica Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921190"
+    }
+,
+    {
+      "name": "Cyclocephala sardadebiae Dechambre & Duranton, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603950"
+    }
+,
+    {
+      "name": "Cyclocephala sexpunctata Laporte de Castelnau, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603951"
+    }
+,
+    {
+      "name": "Cyclocephala aulustjaorum Hielkema, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850229"
+    }
+,
+    {
+      "name": "Cyclocephala brevis auct. non Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833110"
+    }
+,
+    {
+      "name": "Cyclocephala signatoides Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921206"
+    }
+,
+    {
+      "name": "Mimeoma signatoides (Höhne, 1923)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604086"
+    }
+,
+    {
+      "name": "Cyclocephala similis Dechambre, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603952"
+    }
+,
+    {
+      "name": "Cyclocephala simulatrix Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603953"
+    }
+,
+    {
+      "name": "Cyclocephala stictica Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603962"
+    }
+,
+    {
+      "name": "Cyclocephala subsignata Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603963"
+    }
+,
+    {
+      "name": "Cyclocephala testacea Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/597022"
+    }
+,
+    {
+      "name": "Cyclocephala ovulum Bates, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922628"
+    }
+,
+    {
+      "name": "Cyclocephala toulgoeti Dechambre, 1992",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603982"
+    }
+,
+    {
+      "name": "Cyclocephala tridentata (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/440126"
+    }
+,
+    {
+      "name": "Cyclocephala tridentata tridentata (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/655983"
+    }
+,
+    {
+      "name": "Cyclocephala tylifera Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603983"
+    }
+,
+    {
+      "name": "Cyclocephala undata (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/603984"
+    }
+,
+    {
+      "name": "Cyclocephala rubicunda Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921193"
+    }
+,
+    {
+      "name": "Melolontha spilophthalma Herbst, 1790",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921194"
+    }
+,
+    {
+      "name": "Melolontha undata Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921192"
+    }
+,
+    {
+      "name": "Cyclocephala unidentata Endrödi, 1980",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604002"
+    }
+,
+    {
+      "name": "Cyclocephala variabilis Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604022"
+    }
+,
+    {
+      "name": "Cyclocephala varians Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604023"
+    }
+,
+    {
+      "name": "Cyclocephala verticalis Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/937203"
+    }
+,
+    {
+      "name": "Cyclocephala vestita Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604024"
+    }
+,
+    {
+      "name": "Dyscinetus Harold, 1869",
+      "url": ""
+    }
+,
+    {
+      "name": "Dyscinetus dubius (Olivier, 1789)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604063"
+    }
+,
+    {
+      "name": "Dyscinetus frater Bates, 1888",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921196"
+    }
+,
+    {
+      "name": "Dyscinetus obtusus Casey, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921197"
+    }
+,
+    {
+      "name": "Geotrupes lugubris Quensel in Schönherr, 1806",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921198"
+    }
+,
+    {
+      "name": "Melolontha dubia Olivier, 1789",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921195"
+    }
+,
+    {
+      "name": "Melolontha geminata Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921199"
+    }
+,
+    {
+      "name": "Dyscinetus mendax Joly & Escalona, 2010",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/779315"
+    }
+,
+    {
+      "name": "Dyscinetus olivaceus auct. non Höhne, 1923",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604064"
+    }
+,
+    {
+      "name": "Dyscinetus picipes (Burmeister, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639807"
+    }
+,
+    {
+      "name": "Dyscinetus questeli Chalumeau, 1982",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639808"
+    }
+,
+    {
+      "name": "Erioscelis Burmeister, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Erioscelis emarginata (Mannerheim, 1829)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922638"
+    }
+,
+    {
+      "name": "Erioscelis proba (Sharp, 1877)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604066"
+    }
+,
+    {
+      "name": "Cyclocephala proba Sharp, 1877",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921204"
+    }
+,
+    {
+      "name": "Dyscinetus curtus Kirsch, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921200"
+    }
+,
+    {
+      "name": "Erioscelis obtusa Prell, 1914",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921201"
+    }
+,
+    {
+      "name": "Harposceles Burmeister, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Harposcelis Burmeister, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Harposceles paradoxus Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/850232"
+    }
+,
+    {
+      "name": "Harposcelis paradoxus Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604083"
+    }
+,
+    {
+      "name": "Stenocrates Burmeister, 1847",
+      "url": ""
+    }
+,
+    {
+      "name": "Stenocrates bicarinatus Robinson, 1948",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604103"
+    }
+,
+    {
+      "name": "Stenocrates carbo Prell, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604104"
+    }
+,
+    {
+      "name": "Stenocrates celatus Prell, 1937",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922639"
+    }
+,
+    {
+      "name": "Stenocrates cultor Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604123"
+    }
+,
+    {
+      "name": "Stenocrates cultor cultor Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/922643"
+    }
+,
+    {
+      "name": "Stenocrates cultor inelegans Arrow, 1913",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962335"
+    }
+,
+    {
+      "name": "Stenocrates holomelanus (Germar, 1823)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604143"
+    }
+,
+    {
+      "name": "Dyscinetus parensis Casey, 1915",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921207"
+    }
+,
+    {
+      "name": "Geotrupes holomelanus Germar, 1823",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921209"
+    }
+,
+    {
+      "name": "Stenocrates mollis Endrödi, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604144"
+    }
+,
+    {
+      "name": "Stenocrates nasutus Dechambre, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604145"
+    }
+,
+    {
+      "name": "Stenocrates omissus Endrödi, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604146"
+    }
+,
+    {
+      "name": "Stenocrates popei Endrödi, 1971",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604162"
+    }
+,
+    {
+      "name": "Stenocrates rufipennis (Fabricius, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/833111"
+    }
+,
+    {
+      "name": "Melolontha rufipennis Fabricius, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921211"
+    }
+,
+    {
+      "name": "Stenocrates clipeatus auct. non Endrödi, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604122"
+    }
+,
+    {
+      "name": "Stenocrates saucius Burmeister, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/921210"
+    }
+,
+    {
+      "name": "Stenocrates seag Dupuis, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/851642"
+    }
+,
+    {
+      "name": "Stenocrates duplicatus auct. non Endrödi, 1967",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604142"
+    }
+,
+    {
+      "name": "Stenocrates spinosus Ponchel & Dechambre, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/604163"
+    }
+
+  ]
+}

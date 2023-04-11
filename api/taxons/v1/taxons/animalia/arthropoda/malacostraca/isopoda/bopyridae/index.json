@@ -1,0 +1,47 @@
+
+{
+  "name": "bopyridae",
+  "children": [
+
+    {
+      "name": "Bopyridae Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "argeiinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bopyridae/argeiinae/"
+    }
+,
+    {
+      "name": "athelginae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bopyridae/athelginae/"
+    }
+,
+    {
+      "name": "bopyrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bopyridae/bopyrinae/"
+    }
+,
+    {
+      "name": "hemiarthrinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bopyridae/hemiarthrinae/"
+    }
+,
+    {
+      "name": "keponinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bopyridae/keponinae/"
+    }
+,
+    {
+      "name": "orbioninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bopyridae/orbioninae/"
+    }
+,
+    {
+      "name": "pseudioninae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/malacostraca/isopoda/bopyridae/pseudioninae/"
+    }
+
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "name": "hypnoidinae",
+  "children": [
+
+    {
+      "name": "Hypnoidinae Schwarz, 1906",
+      "url": ""
+    }
+,
+    {
+      "name": "ctenicerini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/hypnoidinae/ctenicerini/"
+    }
+,
+    {
+      "name": "denticollini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/hypnoidinae/denticollini/"
+    }
+,
+    {
+      "name": "hypnoidini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/elateridae/hypnoidinae/hypnoidini/"
+    }
+
+  ]
+}

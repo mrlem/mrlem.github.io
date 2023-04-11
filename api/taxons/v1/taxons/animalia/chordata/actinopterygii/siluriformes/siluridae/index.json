@@ -1,0 +1,37 @@
+
+{
+  "name": "siluridae",
+  "children": [
+
+    {
+      "name": "Siluridae Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Silurus Linnaeus, 1758",
+      "url": ""
+    }
+,
+    {
+      "name": "Silurus glanis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/67585"
+    }
+,
+    {
+      "name": "Siluris glanis Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579737"
+    }
+,
+    {
+      "name": "Silurus glanis var. aralensis Kessler, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/565288"
+    }
+,
+    {
+      "name": "Silurus silurus Wulff, 1765",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/561460"
+    }
+
+  ]
+}

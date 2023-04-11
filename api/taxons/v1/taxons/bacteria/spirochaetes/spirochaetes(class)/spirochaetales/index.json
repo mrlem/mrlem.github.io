@@ -1,0 +1,22 @@
+
+{
+  "name": "spirochaetales",
+  "children": [
+
+    {
+      "name": "Spirochaetales Buchanan, 1917",
+      "url": ""
+    }
+,
+    {
+      "name": "borreliaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/spirochaetes/spirochaetes(class)/spirochaetales/borreliaceae/"
+    }
+,
+    {
+      "name": "spirochaetaceae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/bacteria/spirochaetes/spirochaetes(class)/spirochaetales/spirochaetaceae/"
+    }
+
+  ]
+}

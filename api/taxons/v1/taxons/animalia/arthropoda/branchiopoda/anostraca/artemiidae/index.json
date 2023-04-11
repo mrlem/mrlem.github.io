@@ -1,0 +1,42 @@
+
+{
+  "name": "artemiidae",
+  "children": [
+
+    {
+      "name": "Artemiidae Grochowski, 1896",
+      "url": ""
+    }
+,
+    {
+      "name": "Artemia Leach, 1819",
+      "url": ""
+    }
+,
+    {
+      "name": "Artemia franciscana Kellogg, 1906",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/639933"
+    }
+,
+    {
+      "name": "Artemia tunisiana sensu Defaye, Rabet & Thiéry non Bowen & Sterling, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250282"
+    }
+,
+    {
+      "name": "Artemia parthenogenetica Bowen & Sterling, 1978",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/250281"
+    }
+,
+    {
+      "name": "Artemia salina (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/17675"
+    }
+,
+    {
+      "name": "Cancer salinus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/823044"
+    }
+
+  ]
+}

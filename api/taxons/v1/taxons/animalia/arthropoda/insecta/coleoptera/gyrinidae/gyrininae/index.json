@@ -1,0 +1,32 @@
+
+{
+  "name": "gyrininae",
+  "children": [
+
+    {
+      "name": "Gyrininae Latreille, 1810",
+      "url": ""
+    }
+,
+    {
+      "name": "dineutini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/gyrinidae/gyrininae/dineutini/"
+    }
+,
+    {
+      "name": "enhydrusini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/gyrinidae/gyrininae/enhydrusini/"
+    }
+,
+    {
+      "name": "gyrinini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/gyrinidae/gyrininae/gyrinini/"
+    }
+,
+    {
+      "name": "orectochilini",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/gyrinidae/gyrininae/orectochilini/"
+    }
+
+  ]
+}

@@ -1,0 +1,52 @@
+
+{
+  "name": "anomopoda",
+  "children": [
+
+    {
+      "name": "Anomopoda Sars, 1865",
+      "url": ""
+    }
+,
+    {
+      "name": "acantholeberidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/anomopoda/acantholeberidae/"
+    }
+,
+    {
+      "name": "bosminidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/anomopoda/bosminidae/"
+    }
+,
+    {
+      "name": "chydoridae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/anomopoda/chydoridae/"
+    }
+,
+    {
+      "name": "daphniidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/anomopoda/daphniidae/"
+    }
+,
+    {
+      "name": "eurycercidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/anomopoda/eurycercidae/"
+    }
+,
+    {
+      "name": "ilyocryptidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/anomopoda/ilyocryptidae/"
+    }
+,
+    {
+      "name": "macrothricidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/anomopoda/macrothricidae/"
+    }
+,
+    {
+      "name": "moinidae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/branchiopoda/anomopoda/moinidae/"
+    }
+
+  ]
+}

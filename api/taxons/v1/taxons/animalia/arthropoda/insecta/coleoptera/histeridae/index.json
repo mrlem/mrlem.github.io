@@ -1,0 +1,192 @@
+
+{
+  "name": "histeridae",
+  "children": [
+
+    {
+      "name": "Histeridae Gyllenhal, 1808",
+      "url": ""
+    }
+,
+    {
+      "name": "abraeinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/abraeinae/"
+    }
+,
+    {
+      "name": "chlamydopsinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/chlamydopsinae/"
+    }
+,
+    {
+      "name": "dendrophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/dendrophilinae/"
+    }
+,
+    {
+      "name": "haeteriinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/haeteriinae/"
+    }
+,
+    {
+      "name": "histerinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/histerinae/"
+    }
+,
+    {
+      "name": "Diabletes Reichardt, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Diabletes taciturnus (Marseul, 1853)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781187"
+    }
+,
+    {
+      "name": "Notolister Lewis, 1894",
+      "url": ""
+    }
+,
+    {
+      "name": "Notolister colettae Gomy, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/781192"
+    }
+,
+    {
+      "name": "Nymphister Reichensperger, 1933",
+      "url": ""
+    }
+,
+    {
+      "name": "Nymphister amazonicus Dégallier & Tishechkin, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981767"
+    }
+,
+    {
+      "name": "Nymphister monotonus (Reichensperger, 1938)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/607903"
+    }
+,
+    {
+      "name": "Cheilister monotonus Reichensperger, 1938",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/920300"
+    }
+,
+    {
+      "name": "Nymphister unstriatus Dégallier & Tishechkin, 2021",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/981771"
+    }
+,
+    {
+      "name": "Plaesius Erichson, 1834",
+      "url": ""
+    }
+,
+    {
+      "name": "Plaesius javanus Erichson, 1834",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589787"
+    }
+,
+    {
+      "name": "Scapicoelis Marseul, 1862",
+      "url": ""
+    }
+,
+    {
+      "name": "Scapicoelis guyanensis Degallier & Tishechkin, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007433"
+    }
+,
+    {
+      "name": "Scapicoelis lagardei Degallier & Tishechkin, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007434"
+    }
+,
+    {
+      "name": "Scapicoelis margarhetae Degallier & Tishechkin, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007435"
+    }
+,
+    {
+      "name": "Scapicoelis minor Degallier & Tishechkin, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007436"
+    }
+,
+    {
+      "name": "Scapicoelis nazareti Degallier & Tishechkin, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007437"
+    }
+,
+    {
+      "name": "Scapicoelis parallelus Degallier & Tishechkin, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007438"
+    }
+,
+    {
+      "name": "Scapicoelis pilosus Degallier & Tishechkin, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007439"
+    }
+,
+    {
+      "name": "Scapicoelis tibialis Marseul, 1862",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608083"
+    }
+,
+    {
+      "name": "Scapicoelis touroulti Degallier & Tishechkin, 2022",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1007440"
+    }
+,
+    {
+      "name": "Sternocoelis Lewis, 1888",
+      "url": ""
+    }
+,
+    {
+      "name": "Sternocoelis puberulus (Motschulsky, 1858)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/223598"
+    }
+,
+    {
+      "name": "Eretmotes palumboi Ragusa, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/396796"
+    }
+,
+    {
+      "name": "Hetaerius puberulus Motschulsky, 1858",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/894031"
+    }
+,
+    {
+      "name": "Yarmister Wenzel, 1939",
+      "url": ""
+    }
+,
+    {
+      "name": "Yarmister barberi Wenzel, 1939",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/608609"
+    }
+,
+    {
+      "name": "onthophilinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/onthophilinae/"
+    }
+,
+    {
+      "name": "saprininae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/saprininae/"
+    }
+,
+    {
+      "name": "tribalinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/tribalinae/"
+    }
+,
+    {
+      "name": "trypanaeinae",
+      "url": "https://mrlem.org/api/taxons/v1/taxons/animalia/arthropoda/insecta/coleoptera/histeridae/trypanaeinae/"
+    }
+
+  ]
+}

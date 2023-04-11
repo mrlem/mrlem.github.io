@@ -1,0 +1,947 @@
+
+{
+  "name": "fusininae",
+  "children": [
+
+    {
+      "name": "Fusininae Wrigley, 1927",
+      "url": ""
+    }
+,
+    {
+      "name": "Amiantofusus Fraussen, Kantor & Hadorn, 2007",
+      "url": ""
+    }
+,
+    {
+      "name": "Amiantofusus borbonicus Fraussen, Kantor & Hadorn, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1000599"
+    }
+,
+    {
+      "name": "Amiantofusus borbonica Fraussen, Kantor & Hadorn, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/720386"
+    }
+,
+    {
+      "name": "Amiantofusus gloriabundus Fraussen, Kantor & Hadorn, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/780076"
+    }
+,
+    {
+      "name": "Amiantofusus maestratii Fraussen, Kantor & Hadorn, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592296"
+    }
+,
+    {
+      "name": "Amiantofusus pacificus Fraussen, Kantor & Hadorn, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592297"
+    }
+,
+    {
+      "name": "Amiantofusus sebalis Fraussen, Kantor & Hadorn, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592298"
+    }
+,
+    {
+      "name": "Amiantofusus candoris Fraussen, Kantor & Hadorn, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592295"
+    }
+,
+    {
+      "name": "Angulofusus Fedosov & Kantor, 2012",
+      "url": ""
+    }
+,
+    {
+      "name": "Angulofusus nedae Fedosov & Kantor, 2012",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719570"
+    }
+,
+    {
+      "name": "Aptyxis Troschel, 1868",
+      "url": ""
+    }
+,
+    {
+      "name": "Aptyxis syracusana (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578222"
+    }
+,
+    {
+      "name": "Aptyxis syracusanus var. abbreviata Coen, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578224"
+    }
+,
+    {
+      "name": "Aptyxis syracusanus var. fasciolarioides Monterosato, 1878",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578223"
+    }
+,
+    {
+      "name": "Fusinus rissoianus (Locard, 1892)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578278"
+    }
+,
+    {
+      "name": "Fusinus syracusanus var. rissoianus Locard, 1892",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682439"
+    }
+,
+    {
+      "name": "Fusinus syracusanus var. rubra Scacchi, 1836",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682441"
+    }
+,
+    {
+      "name": "Fusinus syracusanus var. umbilicata Coen, 1922",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682440"
+    }
+,
+    {
+      "name": "Fusinus syracusanus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62682"
+    }
+,
+    {
+      "name": "Fusus syracusanus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/589008"
+    }
+,
+    {
+      "name": "Murex syracusanus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578982"
+    }
+,
+    {
+      "name": "Aristofusus Vermeij & Snyder, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Aristofusus benjamini (Hadorn, 1997)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914819"
+    }
+,
+    {
+      "name": "Fusinus benjamini Hadorn, 1997",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460336"
+    }
+,
+    {
+      "name": "Chryseofusus Hadorn & Fraussen, 2003",
+      "url": ""
+    }
+,
+    {
+      "name": "Chryseofusus acherusius (Hadorn & Fraussen, 2003)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719611"
+    }
+,
+    {
+      "name": "Fusinus acherusius Hadorn & Fraussen, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/719612"
+    }
+,
+    {
+      "name": "Chryseofusus alisae (Hadorn & Fraussen, 2003)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592555"
+    }
+,
+    {
+      "name": "Fusinus alisae Hadorn & Fraussen, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592869"
+    }
+,
+    {
+      "name": "Chryseofusus artutus (Fraussen & Hadorn, 2003)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592552"
+    }
+,
+    {
+      "name": "Fusinus artutus Hadorn & Fraussen, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/617302"
+    }
+,
+    {
+      "name": "Chryseofusus bradneri (Drivas & Jay, 1990)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590411"
+    }
+,
+    {
+      "name": "Fusinus bradneri (Drivas & Jay, 1990)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/689666"
+    }
+,
+    {
+      "name": "Siphonofusus bradneri Drivas & Jay, 1990",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/590558"
+    }
+,
+    {
+      "name": "Chryseofusus cadus (Hadorn & Fraussen, 2003)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592554"
+    }
+,
+    {
+      "name": "Fusinus cadus Hadorn & Fraussen, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592870"
+    }
+,
+    {
+      "name": "Chryseofusus chrysodomoides (Schepman, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592551"
+    }
+,
+    {
+      "name": "Fusinus chrysodomoides (Schepman, 1911)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592909"
+    }
+,
+    {
+      "name": "Fusus chrysodomoides Schepman, 1911",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677392"
+    }
+,
+    {
+      "name": "Manaria insularis Okutani, 1968",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677391"
+    }
+,
+    {
+      "name": "Chryseofusus riscus (Hadorn & Fraussen, 2003)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592553"
+    }
+,
+    {
+      "name": "Fusinus riscus Hadorn & Fraussen, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592871"
+    }
+,
+    {
+      "name": "Chryseofusus scissus (Hadorn & Fraussen, 2003)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592556"
+    }
+,
+    {
+      "name": "Fusinus scissus Hadorn & Fraussen, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592872"
+    }
+,
+    {
+      "name": "Chryseofusus wareni (Hadorn & Fraussen, 2003)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669709"
+    }
+,
+    {
+      "name": "Fusinus wareni Hadorn & Fraussen, 2003",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592873"
+    }
+,
+    {
+      "name": "Cyrtulus Hinds, 1843",
+      "url": ""
+    }
+,
+    {
+      "name": "Cyrtulus serotinus Hinds, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527880"
+    }
+,
+    {
+      "name": "Fusinus serotinus (Hinds, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/825651"
+    }
+,
+    {
+      "name": "Cyrtulus similis (Baird, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914823"
+    }
+,
+    {
+      "name": "Fusinus similis (Baird, 1873)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592581"
+    }
+,
+    {
+      "name": "Fusus similis Baird, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914824"
+    }
+,
+    {
+      "name": "Cyrtulus undatus (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914825"
+    }
+,
+    {
+      "name": "Fusinus undatus (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/527881"
+    }
+,
+    {
+      "name": "Murex undatus Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578279"
+    }
+,
+    {
+      "name": "Fusinus Rafinesque, 1815",
+      "url": ""
+    }
+,
+    {
+      "name": "Fusinus alcyoneum Hadorn & Fraussen, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/457518"
+    }
+,
+    {
+      "name": "Fusinus blakensis Hadorn & Rogers, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/658013"
+    }
+,
+    {
+      "name": "Fusus blakensis Hadorn & Roger, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/698084"
+    }
+,
+    {
+      "name": "Fusinus chocolatus (Okutani, 1983)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460337"
+    }
+,
+    {
+      "name": "Barbarofusus chocolatus Okutani, 1983",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578379"
+    }
+,
+    {
+      "name": "Fusinus colus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536312"
+    }
+,
+    {
+      "name": "Colus longicauda (Lamarck, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/551090"
+    }
+,
+    {
+      "name": "Fusinus longicauda (Lamarck, 1801)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/574028"
+    }
+,
+    {
+      "name": "Fusus colus (Linnaeus, 1758)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549556"
+    }
+,
+    {
+      "name": "Fusus longicauda Lamarck, 1801",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/577130"
+    }
+,
+    {
+      "name": "Murex colus Linnaeus, 1758",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549258"
+    }
+,
+    {
+      "name": "Fusinus crassiplicatus Kira, 1959",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908328"
+    }
+,
+    {
+      "name": "Fusinus forceps (Perry, 1811)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950848"
+    }
+,
+    {
+      "name": "Murex forceps Perry, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/950849"
+    }
+,
+    {
+      "name": "Fusinus harveyi Hadorn & Roger, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605871"
+    }
+,
+    {
+      "name": "Fusinus laviniae Snyder & Hadorn, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/457446"
+    }
+,
+    {
+      "name": "Fusinus longissimus (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536310"
+    }
+,
+    {
+      "name": "Murex candidus Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/580600"
+    }
+,
+    {
+      "name": "Murex longissimus Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578981"
+    }
+,
+    {
+      "name": "Syrinx producta Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/574029"
+    }
+,
+    {
+      "name": "Fusinus nobilis (Reeve, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592217"
+    }
+,
+    {
+      "name": "Fusus nobilis Reeve, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/677097"
+    }
+,
+    {
+      "name": "Fusinus rudis (Philippi, 1844)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62681"
+    }
+,
+    {
+      "name": "Fusinus rudis var. parvulus Monterosato, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/682438"
+    }
+,
+    {
+      "name": "Fusus rudis Philippi, 1844",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578973"
+    }
+,
+    {
+      "name": "Fusinus salisburyi Fulton, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591171"
+    }
+,
+    {
+      "name": "Fusinus forceps salisburyi Fulton, 1930",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691806"
+    }
+,
+    {
+      "name": "Fusinus schrammi (Crosse, 1865)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/605876"
+    }
+,
+    {
+      "name": "Fusus schrammi Crosse, 1865",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/686442"
+    }
+,
+    {
+      "name": "Fusinus thermariensis Hadorn & Fraussen, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/457517"
+    }
+,
+    {
+      "name": "Fusinus toreuma (Deshayes, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962389"
+    }
+,
+    {
+      "name": "Buccinum toreuma Martyn, 1784",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/586893"
+    }
+,
+    {
+      "name": "Fusus toreuma Deshayes, 1843",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/683371"
+    }
+,
+    {
+      "name": "Gracilipurpura Jousseaume, 1880",
+      "url": ""
+    }
+,
+    {
+      "name": "Gracilipurpura craticulata (Bucquoy & Dautzenberg, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018516"
+    }
+,
+    {
+      "name": "Hadriana craticuloides Vokes, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62592"
+    }
+,
+    {
+      "name": "Hadriania brocchii var. armata Settepassi, 1977",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578847"
+    }
+,
+    {
+      "name": "Hadriania brocchii var. carinatella Coen, 1933",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578846"
+    }
+,
+    {
+      "name": "Hadriania brocchii (Monterosato, 1872)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/547637"
+    }
+,
+    {
+      "name": "Hadriania craticulata Bucquoy & Dautzenberg, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529513"
+    }
+,
+    {
+      "name": "Hadriania craticuloides (Vokes, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/369745"
+    }
+,
+    {
+      "name": "Hadriania oretea (de Gregorio, 1885)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/552122"
+    }
+,
+    {
+      "name": "Latirus albus (Scacchi, 1835)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578283"
+    }
+,
+    {
+      "name": "Murex brocchii Monterosato, 1872",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/587912"
+    }
+,
+    {
+      "name": "Murex craticulatus var. albus Scacchi, 1835",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578992"
+    }
+,
+    {
+      "name": "Murex craticulatus var. bopirus de Gregorio, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588040"
+    }
+,
+    {
+      "name": "Murex craticulatus var. cosgus de Gregorio, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588041"
+    }
+,
+    {
+      "name": "Murex craticulatus var. ipimus de Gregorio, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588042"
+    }
+,
+    {
+      "name": "Murex craticulatus var. oreteus de Gregorio, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588043"
+    }
+,
+    {
+      "name": "Murex craticulatus var. propetipus de Gregorio, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588044"
+    }
+,
+    {
+      "name": "Murex craticulatus var. rochetus de Gregorio, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588045"
+    }
+,
+    {
+      "name": "Murex craticulatus var. trisus de Gregorio, 1885",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588039"
+    }
+,
+    {
+      "name": "Murex craticulatus Brocchi, 1814",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588038"
+    }
+,
+    {
+      "name": "Granulifusus Kuroda & Habe, 1954",
+      "url": ""
+    }
+,
+    {
+      "name": "Granulifusus annae Kantor, Fedosov, Snyder & Bouchet, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897312"
+    }
+,
+    {
+      "name": "Granulifusus bacciballus Hadorn & Fraussen, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592689"
+    }
+,
+    {
+      "name": "Granulifusus balbus Hadorn & Fraussen, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592690"
+    }
+,
+    {
+      "name": "Granulifusus benjamini Hadorn & Fraussen, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592691"
+    }
+,
+    {
+      "name": "Granulifusus dalli (R.B. Watson, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/657822"
+    }
+,
+    {
+      "name": "Exilia dalli (R.B. Watson, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687756"
+    }
+,
+    {
+      "name": "Fusus dalli R.B. Watson, 1882",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687757"
+    }
+,
+    {
+      "name": "Fusus libratus Watson, 1886",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687758"
+    }
+,
+    {
+      "name": "Granulifusus libratus (Watson, 1886)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/657823"
+    }
+,
+    {
+      "name": "Surculina dalli (R.B. Watson, 1882)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/687755"
+    }
+,
+    {
+      "name": "Granulifusus geometricus Hadorn & Fraussen, 2005",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592692"
+    }
+,
+    {
+      "name": "Granulifusus jeanpierrevezzaroi (Cossignani, 2017)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897310"
+    }
+,
+    {
+      "name": "Pseudolatirus jeanpierrevezzaroi Cossignani, 2017",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897311"
+    }
+,
+    {
+      "name": "Granulifusus kiranus Shuto, 1958",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592766"
+    }
+,
+    {
+      "name": "Granulifusus kurodai (Okutani & Sakurai, 1964)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908334"
+    }
+,
+    {
+      "name": "Pseudolatirus kurodai Okutani & Sakurai, 1964",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/908335"
+    }
+,
+    {
+      "name": "Granulifusus norfolkensis Kantor, Fedosov, Snyder & Bouchet, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897313"
+    }
+,
+    {
+      "name": "Granulifusus staminatus (Garrard, 1966)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/657797"
+    }
+,
+    {
+      "name": "Latirus staminatus Garrard, 1966",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/592218"
+    }
+,
+    {
+      "name": "Granulifusus tatianae Kantor, Fedosov, Snyder & Bouchet, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897314"
+    }
+,
+    {
+      "name": "Granulifusus williami (Poppe & Tagaro, 2006)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897308"
+    }
+,
+    {
+      "name": "Fusinus williami Poppe & Tagaro, 2006",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897309"
+    }
+,
+    {
+      "name": "Lyonsifusus Vermeij & Snyder, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Lyonsifusus ansatus (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914817"
+    }
+,
+    {
+      "name": "Fusinus ansatus (Gmelin, 1791)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/460335"
+    }
+,
+    {
+      "name": "Murex ansatus Gmelin, 1791",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578979"
+    }
+,
+    {
+      "name": "Lyonsifusus carvalhoriosi (Macsotay & Campos, 2001)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918316"
+    }
+,
+    {
+      "name": "Fusinus carvalhoriosi Macsotay & Campos, 2001",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/918317"
+    }
+,
+    {
+      "name": "Marmorofusus Snyder & Lyons, 2014",
+      "url": ""
+    }
+,
+    {
+      "name": "Marmorofusus nicobaricus (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/826088"
+    }
+,
+    {
+      "name": "Fusinus nicobaricus (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/591170"
+    }
+,
+    {
+      "name": "Fusus brenchleyi Baird, 1873",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691805"
+    }
+,
+    {
+      "name": "Fusus nicobaricus (Röding, 1798)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691801"
+    }
+,
+    {
+      "name": "Murex variegatus Perry, 1811",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691804"
+    }
+,
+    {
+      "name": "Syrinx marmorata Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691803"
+    }
+,
+    {
+      "name": "Syrinx nicobaricus Röding, 1798",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/691802"
+    }
+,
+    {
+      "name": "Marmorofusus oblitus (Reeve, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962421"
+    }
+,
+    {
+      "name": "Fusinus oblitus (Reeve, 1847)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/536311"
+    }
+,
+    {
+      "name": "Fusinus toreuma auct. non (Deshayes, 1843)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/623362"
+    }
+,
+    {
+      "name": "Fusus oblitus Reeve, 1847",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578972"
+    }
+,
+    {
+      "name": "Marmorofusus tuberculatus (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/962382"
+    }
+,
+    {
+      "name": "Fusinus tuberculatus (Lamarck, 1822)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/669830"
+    }
+,
+    {
+      "name": "Fusus tuberculatus Lamarck, 1822",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/549555"
+    }
+,
+    {
+      "name": "Pseudofusus Monterosato, 1884",
+      "url": ""
+    }
+,
+    {
+      "name": "Pseudofusus alternatus (Buzzurro & Russo, 2007)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018512"
+    }
+,
+    {
+      "name": "Fusinus alternatus Buzzurro & Russo, 2007",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/966124"
+    }
+,
+    {
+      "name": "Pseudofusus cretellai (Buzzurro & Russo, 2008)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018513"
+    }
+,
+    {
+      "name": "Fusinus crassus (Pallary, 1901)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62676"
+    }
+,
+    {
+      "name": "Fusinus cretellai Buzzurro & Russo, 2008",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/529490"
+    }
+,
+    {
+      "name": "Fusus crassus var. minor Pallary, 1920",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579017"
+    }
+,
+    {
+      "name": "Fusus crassus Pallary, 1901",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579016"
+    }
+,
+    {
+      "name": "Pseudofusus parvulus Monterosato, 1884",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1016853"
+    }
+,
+    {
+      "name": "Pseudofusus pulchellus (Philippi, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018514"
+    }
+,
+    {
+      "name": "Fusinus pulchellus (Philippi, 1840)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62678"
+    }
+,
+    {
+      "name": "Fusinus quandumpulchellus Snyder, 2000",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/588948"
+    }
+,
+    {
+      "name": "Fusus pulchellus Philippi, 1840",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1018515"
+    }
+,
+    {
+      "name": "Pseudofusus rostratus (Olivi, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578281"
+    }
+,
+    {
+      "name": "Fusinus rostratus (Olivi, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/62679"
+    }
+,
+    {
+      "name": "Fusinus sanctaeluciae (von Salis-Marschlins, 1793)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/579001"
+    }
+,
+    {
+      "name": "Fusus fragosus Reeve, 1848",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/574030"
+    }
+,
+    {
+      "name": "Fusus lateroides (Monterosato, 1891)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578280"
+    }
+,
+    {
+      "name": "Gracilipurpura rostrata (Olivi, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914821"
+    }
+,
+    {
+      "name": "Murex rostratus Olivi, 1792",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/914822"
+    }
+,
+    {
+      "name": "Pseudofusus rostratus var. lateroides Monterosato, 1891",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/578282"
+    }
+,
+    {
+      "name": "Trophon rostratus (Olivi, 1792)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/586871"
+    }
+,
+    {
+      "name": "Takashius Kantor, Fedosov, Snyder & Bouchet, 2022",
+      "url": ""
+    }
+,
+    {
+      "name": "Okutanius Kantor, Fedosov, Snyder & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Takashius ellenae (Kantor, Fedosov, Snyder & Bouchet, 2018)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009953"
+    }
+,
+    {
+      "name": "Okutanius ellenae Kantor, Fedosov, Snyder & Bouchet, 2018",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897320"
+    }
+,
+    {
+      "name": "Takashius kuroseanus (Okutani, 1975)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/1009945"
+    }
+,
+    {
+      "name": "Fusolatirus kuroseanus Okutani, 1975",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897317"
+    }
+,
+    {
+      "name": "Okutanius kuroseanus (Okutani, 1975)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897316"
+    }
+,
+    {
+      "name": "Pseudolatirus kuroseanus (Okutani, 1975)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897318"
+    }
+,
+    {
+      "name": "Pseudolatirus leucostriatus Kosuge, 1979",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897319"
+    }
+,
+    {
+      "name": "Vermeijius Kantor, Fedosov, Snyder & Bouchet, 2018",
+      "url": ""
+    }
+,
+    {
+      "name": "Vermeijius pallidus (Kuroda & Habe, 1961)",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897322"
+    }
+,
+    {
+      "name": "Pseudolatirus pallidus Kuroda & Habe, 1961",
+      "url": "https://inpn.mnhn.fr/espece/cd_nom/897323"
+    }
+
+  ]
+}

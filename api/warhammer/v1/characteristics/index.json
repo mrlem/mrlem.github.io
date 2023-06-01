@@ -1,0 +1,100 @@
+// Caractéristiques : p17-18
+[
+    {
+        id: "CC",
+        name: "Capacité de combat",
+        description: "Cette caractéristique représente l'aptitude de votre personnage en combat rapproché, aussi bien armé qu'à mains nues.",
+        type: "primary"
+    },
+    {
+        id: "CT",
+        name: "Capacité de tir",
+        description: "Cette caractéristique représente l'aptitude de votre personnage à se servir d'armes à projectiles, comme les arcs, les arbalètes et les pistolets.",
+        type: "primary"
+    },
+    {
+        id: "F",
+        name: "Force",
+        description: "Cette caractéristique représente la puissance musculaire brute de votre personnage.",
+        type: "primary"
+    },
+    {
+        id: "E",
+        name: "Endurance",
+        description: "Cette caractéristique représente la capacité de votre personnage à supporter les blessures, la maladie et le poison.",
+        type: "primary"
+    },
+    {
+        id: "Ag",
+        name: "Agilité",
+        description: "Cette caractéristique représente la vélocité physique de votre personnage, son adresse manuelle et sa vitesse de réaction.",
+        type: "primary"
+    },
+    {
+        id: "Int",
+        name: "Intelligence",
+        description: "Cette caractéristique représente l'intellect de votre personnage, sa perspicacité et sa capacité de raisonnement.",
+        type: "primary"
+    },
+    {
+        id: "FM",
+        name: "Force mentale",
+        description: "Cette caractéristique représente la résistance mentale de votre personnage et sa persévérance.",
+        type: "primary"
+    },
+    {
+        id: "Soc",
+        name: "Sociabilité",
+        description: "Cette caractéristique représentele charisme de votre personnage et sa capacité à interagir socialement.",
+        type: "primary"
+    },
+    {
+        id: "A",
+        name: "Attaques",
+        description: "Cette caractéristique représente la vitesse des attaques de votre personnage. Le nombre indique le maximum d'attaques que le personnage peut effectuer en l'espace de 10 secondes.",
+        type: "secondary"
+    },
+    {
+        id: "B",
+        name: "Points de blessures",
+        description: "Cette caractéristique représente la vitalité globale de votre personnage. Elle indique la quantité de dégâts qu'il peut subir avant de se retrouver dans un état critique.",
+        type: "secondary"
+    },
+    {
+        id: "BF",
+        name: "Bonus de force",
+        description: "Cette caractéristique, dérivée de la Force, détermine les dégâts infligés au combat.",
+        type: "secondary"
+    },
+    {
+        id: "BE",
+        name: "Bonus d'endurance",
+        description: "Cette caractéristique, dérivée de de l'Endurance, détermine la résistance aux dégâts.",
+        type: "secondary"
+    },
+    {
+        id: "M",
+        name: "Mouvement",
+        description: "Cette caractéristique représente la vitesse de déplacement au sol de base de votre personnage.",
+        type: "secondary"
+        // TODO - lien vers Chapitre 6 : Combats, dégâts et mouvements
+    },
+    {
+        id: "Mag",
+        name: "Magie",
+        description: "Cette caractéristique représente l'aptitude magique de votre personnage.",
+        type: "secondary"
+    },
+    {
+        id: "PF",
+        name: "Points de folie",
+        description: "Cette caractéristique représente le statut de la santé mentale de votre personnage. Les PJ débutent avec 0 points de Folie, mais ils peuvent en acquérir en cours de partie à la suite d'expériences traumatisantes ou de souffrances particulièrement insupportables. Votre MJ vous en dira davantage sur cet aspect du jeu.",
+        type: "secondary"
+    },
+    {
+        id: "D",
+        name: "Points de destin",
+        description: "Cette caractéristique représente la chance et, dans une certaine mesure, la destinée de votre personnage. Les points de Destin peuvent servir à éviter une mort certaine. Votre MJ vous en dira davantage sur cet aspect du jeu.",
+        type: "secondary"
+    }
+]
